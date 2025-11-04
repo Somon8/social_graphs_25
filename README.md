@@ -26,6 +26,6 @@ for node in DG.nodes():
 
 Get the node_df, a dataframe containing nodes as index, and some metrics/measurements as columns:
 
-```
+```python
 df = pd.read_csv(from_github("graphs/node_df.csv"), index_col = "Node")
 ```
