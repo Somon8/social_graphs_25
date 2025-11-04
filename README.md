@@ -12,11 +12,16 @@ DG = nx.read_gexf(from_github("graphs/rock_bands_graph.gexf"))
 The downloaded wikipedia pages are saved in a UTF-encoded filename. The wikipedia pages of the files can be read using the following:
 
 ```python
-import urllib
+github_base_url = "https://raw.githubusercontent.com/Somon8/social_graphs_25/main/"
+def url_for_node(node: str):
+    name_encoded = urllib.parse.quote(node, safe="")
+    path_encoded = urllib.parse.quote(name_encoded, safe="")  #It's a bit messy but whatever
+    return f"{github_base_url}rock_data/{path_encoded}.txt"
+
 for node in DG.nodes():
-    filename = urllib.parse.quote(node, safe = "")
-    with open(f"rock_data/{filename}.txt", "r", encoding="utf-8") as f:
-        content = f.read()
+    url = url_for_node(node)
+    with urllib.request.urlopen(url) as r:
+        content = r.read().decode("utf-8")
 ```
 
 Get the node_df, a dataframe containing nodes as index, and some metrics/measurements as columns:
