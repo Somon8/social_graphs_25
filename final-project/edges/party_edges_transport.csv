@@ -1,0 +1,914 @@
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
+Danmarksdemokraterne,Danmarksdemokraterne,68,651,648.0,0.9953917050691244,transport
+Danmarksdemokraterne,Dansk Folkeparti,68,1024,1022.0,0.998046875,transport
+Danmarksdemokraterne,Det Konservative Folkeparti,68,1091,714.0,0.6544454628780935,transport
+Danmarksdemokraterne,Enhedslisten,68,2024,906.0,0.44762845849802374,transport
+Danmarksdemokraterne,Inuit Ataqatigiit,68,3,0.0,0.0,transport
+Danmarksdemokraterne,Liberal Alliance,68,1110,644.0,0.5801801801801801,transport
+Danmarksdemokraterne,Moderaterne,68,63,39.0,0.6190476190476191,transport
+Danmarksdemokraterne,Radikale Venstre,68,2188,1052.0,0.48080438756855576,transport
+Danmarksdemokraterne,Socialdemokratiet,68,2338,1102.0,0.4713430282292558,transport
+Danmarksdemokraterne,Socialistisk Folkeparti,68,1241,504.0,0.40612409347300565,transport
+Danmarksdemokraterne,Uden for folketingsgrupperne,68,720,667.0,0.9263888888888889,transport
+Danmarksdemokraterne,Venstre,68,3409,2139.0,0.6274567321795248,transport
+Dansk Folkeparti,Danmarksdemokraterne,68,788,786.0,0.9974619289340102,transport
+Dansk Folkeparti,Dansk Folkeparti,68,792,792.0,1.0,transport
+Dansk Folkeparti,Det Konservative Folkeparti,68,1126,732.0,0.650088809946714,transport
+Dansk Folkeparti,Enhedslisten,68,2175,969.0,0.44551724137931037,transport
+Dansk Folkeparti,Inuit Ataqatigiit,68,6,0.0,0.0,transport
+Dansk Folkeparti,Liberal Alliance,68,1040,602.0,0.5788461538461539,transport
+Dansk Folkeparti,Moderaterne,68,52,34.0,0.6538461538461539,transport
+Dansk Folkeparti,Radikale Venstre,68,1937,945.0,0.48786783686112545,transport
+Dansk Folkeparti,Socialdemokratiet,68,2308,1141.0,0.494367417677643,transport
+Dansk Folkeparti,Socialistisk Folkeparti,68,1346,566.0,0.42050520059435365,transport
+Dansk Folkeparti,Uden for folketingsgrupperne,68,661,592.0,0.8956127080181543,transport
+Dansk Folkeparti,Venstre,68,3368,2116.0,0.6282660332541568,transport
+Det Konservative Folkeparti,Danmarksdemokraterne,68,505,315.0,0.6237623762376238,transport
+Det Konservative Folkeparti,Dansk Folkeparti,68,611,385.0,0.630114566284779,transport
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,587,587.0,1.0,transport
+Det Konservative Folkeparti,Enhedslisten,68,1493,691.0,0.46282652377762895,transport
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,2,0.0,0.0,transport
+Det Konservative Folkeparti,Liberal Alliance,68,706,493.0,0.6983002832861189,transport
+Det Konservative Folkeparti,Moderaterne,68,49,46.0,0.9387755102040817,transport
+Det Konservative Folkeparti,Radikale Venstre,68,1228,926.0,0.754071661237785,transport
+Det Konservative Folkeparti,Socialdemokratiet,68,1621,1243.0,0.7668106107341147,transport
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,930,610.0,0.6559139784946236,transport
+Det Konservative Folkeparti,Uden for folketingsgrupperne,68,393,250.0,0.6361323155216285,transport
+Det Konservative Folkeparti,Venstre,68,2187,2012.0,0.9199817101051669,transport
+Enhedslisten,Danmarksdemokraterne,68,1122,535.0,0.4768270944741533,transport
+Enhedslisten,Dansk Folkeparti,68,1275,575.0,0.45098039215686275,transport
+Enhedslisten,Det Konservative Folkeparti,68,1508,714.0,0.473474801061008,transport
+Enhedslisten,Enhedslisten,68,2602,2562.0,0.9846272098385856,transport
+Enhedslisten,Inuit Ataqatigiit,68,7,7.0,1.0,transport
+Enhedslisten,Liberal Alliance,68,1464,540.0,0.36885245901639346,transport
+Enhedslisten,Moderaterne,68,111,45.0,0.40540540540540543,transport
+Enhedslisten,Radikale Venstre,68,2693,1839.0,0.6828815447456368,transport
+Enhedslisten,Socialdemokratiet,68,3333,2230.0,0.669066906690669,transport
+Enhedslisten,Socialistisk Folkeparti,68,1908,1435.0,0.7520964360587002,transport
+Enhedslisten,Uden for folketingsgrupperne,68,939,418.0,0.44515441959531415,transport
+Enhedslisten,Venstre,68,4755,2058.0,0.432807570977918,transport
+Inuit Ataqatigiit,Det Konservative Folkeparti,68,1,0.0,0.0,transport
+Inuit Ataqatigiit,Enhedslisten,68,1,1.0,1.0,transport
+Inuit Ataqatigiit,Radikale Venstre,68,1,0.0,0.0,transport
+Inuit Ataqatigiit,Socialdemokratiet,68,2,0.0,0.0,transport
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,2,0.0,0.0,transport
+Inuit Ataqatigiit,Uden for folketingsgrupperne,68,1,0.0,0.0,transport
+Inuit Ataqatigiit,Venstre,68,2,0.0,0.0,transport
+Liberal Alliance,Danmarksdemokraterne,68,294,155.0,0.5272108843537415,transport
+Liberal Alliance,Dansk Folkeparti,68,484,281.0,0.5805785123966942,transport
+Liberal Alliance,Det Konservative Folkeparti,68,619,422.0,0.6817447495961227,transport
+Liberal Alliance,Enhedslisten,68,1174,451.0,0.3841567291311755,transport
+Liberal Alliance,Inuit Ataqatigiit,68,4,0.0,0.0,transport
+Liberal Alliance,Liberal Alliance,68,426,424.0,0.9953051643192489,transport
+Liberal Alliance,Moderaterne,68,4,4.0,1.0,transport
+Liberal Alliance,Radikale Venstre,68,788,481.0,0.6104060913705583,transport
+Liberal Alliance,Socialdemokratiet,68,1269,746.0,0.5878644602048857,transport
+Liberal Alliance,Socialistisk Folkeparti,68,780,432.0,0.5538461538461539,transport
+Liberal Alliance,Uden for folketingsgrupperne,68,273,210.0,0.7692307692307693,transport
+Liberal Alliance,Venstre,68,1517,1097.0,0.7231377719182597,transport
+Moderaterne,Danmarksdemokraterne,68,80,49.0,0.6125,transport
+Moderaterne,Dansk Folkeparti,68,99,62.0,0.6262626262626263,transport
+Moderaterne,Det Konservative Folkeparti,68,94,88.0,0.9361702127659575,transport
+Moderaterne,Enhedslisten,68,160,74.0,0.4625,transport
+Moderaterne,Liberal Alliance,68,109,88.0,0.8073394495412844,transport
+Moderaterne,Moderaterne,68,1,1.0,1.0,transport
+Moderaterne,Radikale Venstre,68,204,138.0,0.6764705882352942,transport
+Moderaterne,Socialdemokratiet,68,199,138.0,0.6934673366834171,transport
+Moderaterne,Socialistisk Folkeparti,68,87,46.0,0.5287356321839081,transport
+Moderaterne,Uden for folketingsgrupperne,68,68,46.0,0.6764705882352942,transport
+Moderaterne,Venstre,68,280,280.0,1.0,transport
+Radikale Venstre,Danmarksdemokraterne,68,661,331.0,0.5007564296520424,transport
+Radikale Venstre,Dansk Folkeparti,68,1143,573.0,0.5013123359580053,transport
+Radikale Venstre,Det Konservative Folkeparti,68,1467,1063.0,0.7246080436264485,transport
+Radikale Venstre,Enhedslisten,68,2621,1894.0,0.7226249523082793,transport
+Radikale Venstre,Inuit Ataqatigiit,68,6,0.0,0.0,transport
+Radikale Venstre,Liberal Alliance,68,1591,969.0,0.6090509113764928,transport
+Radikale Venstre,Moderaterne,68,20,14.0,0.7,transport
+Radikale Venstre,Radikale Venstre,68,2093,2093.0,1.0,transport
+Radikale Venstre,Socialdemokratiet,68,3068,3068.0,1.0,transport
+Radikale Venstre,Socialistisk Folkeparti,68,1674,1587.0,0.9480286738351255,transport
+Radikale Venstre,Uden for folketingsgrupperne,68,769,422.0,0.5487646293888166,transport
+Radikale Venstre,Venstre,68,4043,2967.0,0.733860994311155,transport
+Socialdemokratiet,Danmarksdemokraterne,68,2004,926.0,0.4620758483033932,transport
+Socialdemokratiet,Dansk Folkeparti,68,2415,1117.0,0.46252587991718425,transport
+Socialdemokratiet,Det Konservative Folkeparti,68,2530,1889.0,0.7466403162055336,transport
+Socialdemokratiet,Enhedslisten,68,4845,3340.0,0.6893704850361198,transport
+Socialdemokratiet,Inuit Ataqatigiit,68,9,0.0,0.0,transport
+Socialdemokratiet,Liberal Alliance,68,2328,1371.0,0.5889175257731959,transport
+Socialdemokratiet,Moderaterne,68,161,107.0,0.6645962732919255,transport
+Socialdemokratiet,Radikale Venstre,68,4129,4129.0,1.0,transport
+Socialdemokratiet,Socialdemokratiet,68,5249,5249.0,1.0,transport
+Socialdemokratiet,Socialistisk Folkeparti,68,2921,2697.0,0.923313933584389,transport
+Socialdemokratiet,Uden for folketingsgrupperne,68,1377,667.0,0.4843863471314452,transport
+Socialdemokratiet,Venstre,68,7573,5442.0,0.7186055724283639,transport
+Socialistisk Folkeparti,Danmarksdemokraterne,68,783,373.0,0.4763729246487867,transport
+Socialistisk Folkeparti,Dansk Folkeparti,68,896,404.0,0.45089285714285715,transport
+Socialistisk Folkeparti,Det Konservative Folkeparti,68,998,699.0,0.7004008016032064,transport
+Socialistisk Folkeparti,Enhedslisten,68,1948,1448.0,0.7433264887063655,transport
+Socialistisk Folkeparti,Inuit Ataqatigiit,68,3,0.0,0.0,transport
+Socialistisk Folkeparti,Liberal Alliance,68,924,534.0,0.577922077922078,transport
+Socialistisk Folkeparti,Moderaterne,68,77,51.0,0.6623376623376623,transport
+Socialistisk Folkeparti,Radikale Venstre,68,1764,1675.0,0.949546485260771,transport
+Socialistisk Folkeparti,Socialdemokratiet,68,2293,2155.0,0.9398168338421282,transport
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,1014,1014.0,1.0,transport
+Socialistisk Folkeparti,Uden for folketingsgrupperne,68,585,293.0,0.5008547008547009,transport
+Socialistisk Folkeparti,Venstre,68,3415,2361.0,0.6913616398243045,transport
+Uden for folketingsgrupperne,Danmarksdemokraterne,68,81,74.0,0.9135802469135802,transport
+Uden for folketingsgrupperne,Dansk Folkeparti,68,233,233.0,1.0,transport
+Uden for folketingsgrupperne,Det Konservative Folkeparti,68,392,235.0,0.5994897959183674,transport
+Uden for folketingsgrupperne,Enhedslisten,68,620,278.0,0.4483870967741935,transport
+Uden for folketingsgrupperne,Inuit Ataqatigiit,68,1,0.0,0.0,transport
+Uden for folketingsgrupperne,Liberal Alliance,68,407,234.0,0.5749385749385749,transport
+Uden for folketingsgrupperne,Moderaterne,68,1,1.0,1.0,transport
+Uden for folketingsgrupperne,Radikale Venstre,68,620,284.0,0.45806451612903226,transport
+Uden for folketingsgrupperne,Socialdemokratiet,68,724,364.0,0.5027624309392266,transport
+Uden for folketingsgrupperne,Socialistisk Folkeparti,68,421,182.0,0.4323040380047506,transport
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,68,134,116.0,0.8656716417910447,transport
+Uden for folketingsgrupperne,Venstre,68,856,501.0,0.5852803738317757,transport
+Venstre,Danmarksdemokraterne,68,2376,1446.0,0.6085858585858586,transport
+Venstre,Dansk Folkeparti,68,2941,1839.0,0.625297517851071,transport
+Venstre,Det Konservative Folkeparti,68,3323,3044.0,0.9160397231417394,transport
+Venstre,Enhedslisten,68,6126,2775.0,0.45298726738491674,transport
+Venstre,Inuit Ataqatigiit,68,10,0.0,0.0,transport
+Venstre,Liberal Alliance,68,3330,2400.0,0.7207207207207207,transport
+Venstre,Moderaterne,68,188,179.0,0.9521276595744681,transport
+Venstre,Radikale Venstre,68,5765,4277.0,0.7418907198612316,transport
+Venstre,Socialdemokratiet,68,7298,5377.0,0.7367771992326665,transport
+Venstre,Socialistisk Folkeparti,68,3612,2387.0,0.6608527131782945,transport
+Venstre,Uden for folketingsgrupperne,68,1984,1260.0,0.6350806451612904,transport
+Venstre,Venstre,68,9415,9267.0,0.9842804036112587,transport
+Danmarksdemokraterne,Danmarksdemokraterne,67,344,329.0,0.9563953488372093,transport
+Danmarksdemokraterne,Dansk Folkeparti,67,1374,1331.0,0.9687045123726347,transport
+Danmarksdemokraterne,Det Konservative Folkeparti,67,719,648.0,0.9012517385257302,transport
+Danmarksdemokraterne,Enhedslisten,67,328,107.0,0.32621951219512196,transport
+Danmarksdemokraterne,Liberal Alliance,67,103,75.0,0.7281553398058253,transport
+Danmarksdemokraterne,Moderaterne,67,10,10.0,1.0,transport
+Danmarksdemokraterne,Radikale Venstre,67,282,141.0,0.5,transport
+Danmarksdemokraterne,Sambandsflokkurin,67,4,3.0,0.75,transport
+Danmarksdemokraterne,Socialdemokratiet,67,3227,1784.0,0.5528354508831732,transport
+Danmarksdemokraterne,Socialistisk Folkeparti,67,1388,682.0,0.49135446685878964,transport
+Danmarksdemokraterne,Uden for folketingsgrupperne,67,275,240.0,0.8727272727272727,transport
+Danmarksdemokraterne,Venstre,67,3539,3144.0,0.8883865498728455,transport
+Dansk Folkeparti,Danmarksdemokraterne,67,206,206.0,1.0,transport
+Dansk Folkeparti,Dansk Folkeparti,67,1239,1234.0,0.9959644874899112,transport
+Dansk Folkeparti,Det Konservative Folkeparti,67,827,723.0,0.8742442563482467,transport
+Dansk Folkeparti,Enhedslisten,67,327,112.0,0.3425076452599388,transport
+Dansk Folkeparti,Liberal Alliance,67,174,118.0,0.6781609195402298,transport
+Dansk Folkeparti,Moderaterne,67,11,11.0,1.0,transport
+Dansk Folkeparti,Radikale Venstre,67,308,143.0,0.4642857142857143,transport
+Dansk Folkeparti,Socialdemokratiet,67,2875,1534.0,0.5335652173913044,transport
+Dansk Folkeparti,Socialistisk Folkeparti,67,1419,656.0,0.46229739252995067,transport
+Dansk Folkeparti,Uden for folketingsgrupperne,67,373,301.0,0.806970509383378,transport
+Dansk Folkeparti,Venstre,67,3008,2638.0,0.8769946808510638,transport
+Det Konservative Folkeparti,Danmarksdemokraterne,67,288,262.0,0.9097222222222222,transport
+Det Konservative Folkeparti,Dansk Folkeparti,67,1005,893.0,0.8885572139303483,transport
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,460,460.0,1.0,transport
+Det Konservative Folkeparti,Enhedslisten,67,279,99.0,0.3548387096774194,transport
+Det Konservative Folkeparti,Liberal Alliance,67,98,80.0,0.8163265306122449,transport
+Det Konservative Folkeparti,Moderaterne,67,9,9.0,1.0,transport
+Det Konservative Folkeparti,Radikale Venstre,67,245,153.0,0.6244897959183674,transport
+Det Konservative Folkeparti,Sambandsflokkurin,67,6,6.0,1.0,transport
+Det Konservative Folkeparti,Socialdemokratiet,67,2275,1443.0,0.6342857142857142,transport
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,1029,587.0,0.5704567541302236,transport
+Det Konservative Folkeparti,Uden for folketingsgrupperne,67,232,179.0,0.771551724137931,transport
+Det Konservative Folkeparti,Venstre,67,2543,2543.0,1.0,transport
+Enhedslisten,Danmarksdemokraterne,67,120,30.0,0.25,transport
+Enhedslisten,Dansk Folkeparti,67,509,157.0,0.30844793713163066,transport
+Enhedslisten,Det Konservative Folkeparti,67,225,70.0,0.3111111111111111,transport
+Enhedslisten,Enhedslisten,67,66,58.0,0.8787878787878788,transport
+Enhedslisten,Liberal Alliance,67,58,25.0,0.43103448275862066,transport
+Enhedslisten,Moderaterne,67,4,0.0,0.0,transport
+Enhedslisten,Radikale Venstre,67,97,69.0,0.711340206185567,transport
+Enhedslisten,Socialdemokratiet,67,1034,617.0,0.5967117988394585,transport
+Enhedslisten,Socialistisk Folkeparti,67,536,339.0,0.6324626865671642,transport
+Enhedslisten,Uden for folketingsgrupperne,67,113,42.0,0.37168141592920356,transport
+Enhedslisten,Venstre,67,1131,329.0,0.29089301503094606,transport
+Liberal Alliance,Danmarksdemokraterne,67,79,73.0,0.9240506329113924,transport
+Liberal Alliance,Dansk Folkeparti,67,120,102.0,0.85,transport
+Liberal Alliance,Det Konservative Folkeparti,67,91,86.0,0.945054945054945,transport
+Liberal Alliance,Enhedslisten,67,29,7.0,0.2413793103448276,transport
+Liberal Alliance,Moderaterne,67,3,3.0,1.0,transport
+Liberal Alliance,Radikale Venstre,67,28,18.0,0.6428571428571429,transport
+Liberal Alliance,Socialdemokratiet,67,365,216.0,0.5917808219178082,transport
+Liberal Alliance,Socialistisk Folkeparti,67,174,85.0,0.4885057471264368,transport
+Liberal Alliance,Uden for folketingsgrupperne,67,24,17.0,0.7083333333333334,transport
+Liberal Alliance,Venstre,67,425,404.0,0.9505882352941176,transport
+Moderaterne,Danmarksdemokraterne,67,3,3.0,1.0,transport
+Moderaterne,Dansk Folkeparti,67,14,14.0,1.0,transport
+Moderaterne,Det Konservative Folkeparti,67,6,6.0,1.0,transport
+Moderaterne,Enhedslisten,67,1,0.0,0.0,transport
+Moderaterne,Radikale Venstre,67,1,0.0,0.0,transport
+Moderaterne,Socialdemokratiet,67,36,9.0,0.25,transport
+Moderaterne,Socialistisk Folkeparti,67,5,0.0,0.0,transport
+Moderaterne,Uden for folketingsgrupperne,67,3,1.0,0.3333333333333333,transport
+Moderaterne,Venstre,67,24,24.0,1.0,transport
+Radikale Venstre,Danmarksdemokraterne,67,58,30.0,0.5172413793103449,transport
+Radikale Venstre,Dansk Folkeparti,67,273,130.0,0.47619047619047616,transport
+Radikale Venstre,Det Konservative Folkeparti,67,134,79.0,0.5895522388059702,transport
+Radikale Venstre,Enhedslisten,67,72,48.0,0.6666666666666666,transport
+Radikale Venstre,Liberal Alliance,67,30,22.0,0.7333333333333333,transport
+Radikale Venstre,Radikale Venstre,67,35,35.0,1.0,transport
+Radikale Venstre,Socialdemokratiet,67,505,391.0,0.7742574257425743,transport
+Radikale Venstre,Socialistisk Folkeparti,67,277,207.0,0.7472924187725631,transport
+Radikale Venstre,Uden for folketingsgrupperne,67,42,30.0,0.7142857142857143,transport
+Radikale Venstre,Venstre,67,440,258.0,0.5863636363636363,transport
+Sambandsflokkurin,Danmarksdemokraterne,67,8,6.0,0.75,transport
+Sambandsflokkurin,Dansk Folkeparti,67,24,18.0,0.75,transport
+Sambandsflokkurin,Det Konservative Folkeparti,67,5,5.0,1.0,transport
+Sambandsflokkurin,Enhedslisten,67,12,2.0,0.16666666666666666,transport
+Sambandsflokkurin,Liberal Alliance,67,4,3.0,0.75,transport
+Sambandsflokkurin,Radikale Venstre,67,4,4.0,1.0,transport
+Sambandsflokkurin,Socialdemokratiet,67,56,41.0,0.7321428571428571,transport
+Sambandsflokkurin,Socialistisk Folkeparti,67,32,16.0,0.5,transport
+Sambandsflokkurin,Uden for folketingsgrupperne,67,4,3.0,0.75,transport
+Sambandsflokkurin,Venstre,67,69,69.0,1.0,transport
+Socialdemokratiet,Danmarksdemokraterne,67,1408,767.0,0.5447443181818182,transport
+Socialdemokratiet,Dansk Folkeparti,67,5554,2836.0,0.5106229744328412,transport
+Socialdemokratiet,Det Konservative Folkeparti,67,2974,1867.0,0.6277740416946873,transport
+Socialdemokratiet,Enhedslisten,67,1352,867.0,0.6412721893491125,transport
+Socialdemokratiet,Liberal Alliance,67,501,292.0,0.5828343313373253,transport
+Socialdemokratiet,Moderaterne,67,52,10.0,0.19230769230769232,transport
+Socialdemokratiet,Radikale Venstre,67,1209,920.0,0.76095947063689,transport
+Socialdemokratiet,Sambandsflokkurin,67,16,11.0,0.6875,transport
+Socialdemokratiet,Socialdemokratiet,67,11664,11320.0,0.9705075445816187,transport
+Socialdemokratiet,Socialistisk Folkeparti,67,5449,4791.0,0.879243897962929,transport
+Socialdemokratiet,Uden for folketingsgrupperne,67,1301,715.0,0.5495772482705611,transport
+Socialdemokratiet,Venstre,67,12849,7985.0,0.6214491400108958,transport
+Socialistisk Folkeparti,Danmarksdemokraterne,67,579,282.0,0.48704663212435234,transport
+Socialistisk Folkeparti,Dansk Folkeparti,67,2110,988.0,0.46824644549763034,transport
+Socialistisk Folkeparti,Det Konservative Folkeparti,67,1188,638.0,0.5370370370370371,transport
+Socialistisk Folkeparti,Enhedslisten,67,463,342.0,0.7386609071274298,transport
+Socialistisk Folkeparti,Liberal Alliance,67,204,103.0,0.5049019607843137,transport
+Socialistisk Folkeparti,Moderaterne,67,18,0.0,0.0,transport
+Socialistisk Folkeparti,Radikale Venstre,67,446,330.0,0.7399103139013453,transport
+Socialistisk Folkeparti,Socialdemokratiet,67,4733,4115.0,0.8694274244665118,transport
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,1916,1885.0,0.9838204592901879,transport
+Socialistisk Folkeparti,Uden for folketingsgrupperne,67,501,263.0,0.5249500998003992,transport
+Socialistisk Folkeparti,Venstre,67,5548,3088.0,0.5565969718817592,transport
+Uden for folketingsgrupperne,Danmarksdemokraterne,67,46,43.0,0.9347826086956522,transport
+Uden for folketingsgrupperne,Dansk Folkeparti,67,236,236.0,1.0,transport
+Uden for folketingsgrupperne,Det Konservative Folkeparti,67,155,130.0,0.8387096774193549,transport
+Uden for folketingsgrupperne,Enhedslisten,67,56,21.0,0.375,transport
+Uden for folketingsgrupperne,Liberal Alliance,67,23,16.0,0.6956521739130435,transport
+Uden for folketingsgrupperne,Moderaterne,67,4,4.0,1.0,transport
+Uden for folketingsgrupperne,Radikale Venstre,67,84,32.0,0.38095238095238093,transport
+Uden for folketingsgrupperne,Socialdemokratiet,67,488,251.0,0.514344262295082,transport
+Uden for folketingsgrupperne,Socialistisk Folkeparti,67,229,111.0,0.4847161572052402,transport
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,67,36,27.0,0.75,transport
+Uden for folketingsgrupperne,Venstre,67,500,410.0,0.82,transport
+Venstre,Danmarksdemokraterne,67,1886,1698.0,0.9003181336161188,transport
+Venstre,Dansk Folkeparti,67,6928,5991.0,0.8647517321016166,transport
+Venstre,Det Konservative Folkeparti,67,3680,3680.0,1.0,transport
+Venstre,Enhedslisten,67,1656,565.0,0.34118357487922707,transport
+Venstre,Liberal Alliance,67,589,460.0,0.7809847198641766,transport
+Venstre,Moderaterne,67,61,61.0,1.0,transport
+Venstre,Radikale Venstre,67,1576,945.0,0.5996192893401016,transport
+Venstre,Sambandsflokkurin,67,7,7.0,1.0,transport
+Venstre,Socialdemokratiet,67,15781,10058.0,0.6373487104746214,transport
+Venstre,Socialistisk Folkeparti,67,6467,3593.0,0.5555899180454615,transport
+Venstre,Uden for folketingsgrupperne,67,1587,1261.0,0.794580970384373,transport
+Venstre,Venstre,67,16114,16114.0,1.0,transport
+Alternativet,Liberal Alliance,69,14,4.0,0.2857142857142857,transport
+Alternativet,Radikale Venstre,69,4,3.0,0.75,transport
+Danmarksdemokraterne,Alternativet,69,70,16.0,0.22857142857142856,transport
+Danmarksdemokraterne,Danmarksdemokraterne,69,944,898.0,0.951271186440678,transport
+Danmarksdemokraterne,Dansk Folkeparti,69,1731,1682.0,0.9716926632004622,transport
+Danmarksdemokraterne,Det Konservative Folkeparti,69,82,75.0,0.9146341463414634,transport
+Danmarksdemokraterne,Enhedslisten,69,1584,550.0,0.3472222222222222,transport
+Danmarksdemokraterne,Liberal Alliance,69,1952,1704.0,0.8729508196721312,transport
+Danmarksdemokraterne,Moderaterne,69,126,108.0,0.8571428571428571,transport
+Danmarksdemokraterne,Radikale Venstre,69,1597,959.0,0.6005009392611146,transport
+Danmarksdemokraterne,Socialdemokratiet,69,6179,4234.0,0.6852241463019906,transport
+Danmarksdemokraterne,Socialistisk Folkeparti,69,1041,461.0,0.44284341978866476,transport
+Danmarksdemokraterne,Uden for folketingsgrupperne,69,983,934.0,0.9501525940996948,transport
+Danmarksdemokraterne,Venstre,69,5673,4994.0,0.8803102414948,transport
+Dansk Folkeparti,Alternativet,69,85,24.0,0.2823529411764706,transport
+Dansk Folkeparti,Danmarksdemokraterne,69,725,704.0,0.9710344827586207,transport
+Dansk Folkeparti,Dansk Folkeparti,69,1184,1179.0,0.995777027027027,transport
+Dansk Folkeparti,Det Konservative Folkeparti,69,67,64.0,0.9552238805970149,transport
+Dansk Folkeparti,Enhedslisten,69,1400,528.0,0.37714285714285717,transport
+Dansk Folkeparti,Liberal Alliance,69,1343,1112.0,0.8279970215934475,transport
+Dansk Folkeparti,Moderaterne,69,71,56.0,0.7887323943661971,transport
+Dansk Folkeparti,Radikale Venstre,69,1298,708.0,0.5454545454545454,transport
+Dansk Folkeparti,Socialdemokratiet,69,4819,3014.0,0.6254409628553642,transport
+Dansk Folkeparti,Socialistisk Folkeparti,69,580,270.0,0.46551724137931033,transport
+Dansk Folkeparti,Uden for folketingsgrupperne,69,649,603.0,0.9291217257318952,transport
+Dansk Folkeparti,Venstre,69,4374,3714.0,0.8491083676268861,transport
+Det Konservative Folkeparti,Alternativet,69,8,3.0,0.375,transport
+Det Konservative Folkeparti,Danmarksdemokraterne,69,108,94.0,0.8703703703703703,transport
+Det Konservative Folkeparti,Dansk Folkeparti,69,198,171.0,0.8636363636363636,transport
+Det Konservative Folkeparti,Det Konservative Folkeparti,69,18,18.0,1.0,transport
+Det Konservative Folkeparti,Enhedslisten,69,177,64.0,0.3615819209039548,transport
+Det Konservative Folkeparti,Liberal Alliance,69,147,135.0,0.9183673469387755,transport
+Det Konservative Folkeparti,Moderaterne,69,20,20.0,1.0,transport
+Det Konservative Folkeparti,Radikale Venstre,69,127,76.0,0.5984251968503937,transport
+Det Konservative Folkeparti,Socialdemokratiet,69,500,370.0,0.74,transport
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,98,44.0,0.4489795918367347,transport
+Det Konservative Folkeparti,Uden for folketingsgrupperne,69,74,66.0,0.8918918918918919,transport
+Det Konservative Folkeparti,Venstre,69,569,569.0,1.0,transport
+Enhedslisten,Alternativet,69,71,64.0,0.9014084507042254,transport
+Enhedslisten,Danmarksdemokraterne,69,759,267.0,0.35177865612648224,transport
+Enhedslisten,Dansk Folkeparti,69,1203,432.0,0.35910224438902744,transport
+Enhedslisten,Det Konservative Folkeparti,69,46,20.0,0.43478260869565216,transport
+Enhedslisten,Enhedslisten,69,992,992.0,1.0,transport
+Enhedslisten,Liberal Alliance,69,1316,430.0,0.32674772036474165,transport
+Enhedslisten,Moderaterne,69,104,29.0,0.27884615384615385,transport
+Enhedslisten,Radikale Venstre,69,1088,673.0,0.6185661764705882,transport
+Enhedslisten,Socialdemokratiet,69,4390,2063.0,0.4699316628701595,transport
+Enhedslisten,Socialistisk Folkeparti,69,716,519.0,0.7248603351955307,transport
+Enhedslisten,Uden for folketingsgrupperne,69,608,206.0,0.33881578947368424,transport
+Enhedslisten,Venstre,69,4183,1429.0,0.34162084628257233,transport
+Liberal Alliance,Alternativet,69,47,9.0,0.19148936170212766,transport
+Liberal Alliance,Danmarksdemokraterne,69,129,114.0,0.8837209302325582,transport
+Liberal Alliance,Dansk Folkeparti,69,952,780.0,0.819327731092437,transport
+Liberal Alliance,Det Konservative Folkeparti,69,35,30.0,0.8571428571428571,transport
+Liberal Alliance,Enhedslisten,69,855,303.0,0.3543859649122807,transport
+Liberal Alliance,Liberal Alliance,69,736,736.0,1.0,transport
+Liberal Alliance,Moderaterne,69,7,6.0,0.8571428571428571,transport
+Liberal Alliance,Radikale Venstre,69,899,595.0,0.6618464961067854,transport
+Liberal Alliance,Socialdemokratiet,69,2954,2234.0,0.7562626946513202,transport
+Liberal Alliance,Socialistisk Folkeparti,69,285,117.0,0.4105263157894737,transport
+Liberal Alliance,Uden for folketingsgrupperne,69,415,367.0,0.8843373493975903,transport
+Liberal Alliance,Venstre,69,2381,2303.0,0.9672406551868963,transport
+Moderaterne,Alternativet,69,5,1.0,0.2,transport
+Moderaterne,Danmarksdemokraterne,69,54,44.0,0.8148148148148148,transport
+Moderaterne,Dansk Folkeparti,69,145,117.0,0.8068965517241379,transport
+Moderaterne,Det Konservative Folkeparti,69,12,12.0,1.0,transport
+Moderaterne,Enhedslisten,69,95,36.0,0.37894736842105264,transport
+Moderaterne,Liberal Alliance,69,163,156.0,0.9570552147239264,transport
+Moderaterne,Radikale Venstre,69,130,70.0,0.5384615384615384,transport
+Moderaterne,Socialdemokratiet,69,526,375.0,0.7129277566539924,transport
+Moderaterne,Socialistisk Folkeparti,69,76,29.0,0.3815789473684211,transport
+Moderaterne,Uden for folketingsgrupperne,69,79,65.0,0.8227848101265823,transport
+Moderaterne,Venstre,69,450,450.0,1.0,transport
+Radikale Venstre,Alternativet,69,69,37.0,0.5362318840579711,transport
+Radikale Venstre,Danmarksdemokraterne,69,366,255.0,0.6967213114754098,transport
+Radikale Venstre,Dansk Folkeparti,69,901,515.0,0.5715871254162043,transport
+Radikale Venstre,Det Konservative Folkeparti,69,49,33.0,0.673469387755102,transport
+Radikale Venstre,Enhedslisten,69,950,576.0,0.6063157894736843,transport
+Radikale Venstre,Liberal Alliance,69,916,613.0,0.6692139737991266,transport
+Radikale Venstre,Moderaterne,69,26,16.0,0.6153846153846154,transport
+Radikale Venstre,Radikale Venstre,69,668,668.0,1.0,transport
+Radikale Venstre,Socialdemokratiet,69,3050,2449.0,0.8029508196721311,transport
+Radikale Venstre,Socialistisk Folkeparti,69,241,171.0,0.7095435684647303,transport
+Radikale Venstre,Uden for folketingsgrupperne,69,339,225.0,0.6637168141592921,transport
+Radikale Venstre,Venstre,69,2624,1838.0,0.7004573170731707,transport
+Socialdemokratiet,Alternativet,69,279,111.0,0.3978494623655914,transport
+Socialdemokratiet,Danmarksdemokraterne,69,2219,1534.0,0.6913023884632717,transport
+Socialdemokratiet,Dansk Folkeparti,69,4474,2747.0,0.613991953509164,transport
+Socialdemokratiet,Det Konservative Folkeparti,69,217,166.0,0.7649769585253456,transport
+Socialdemokratiet,Enhedslisten,69,4182,2075.0,0.4961740793878527,transport
+Socialdemokratiet,Liberal Alliance,69,4645,3490.0,0.751345532831001,transport
+Socialdemokratiet,Moderaterne,69,185,136.0,0.7351351351351352,transport
+Socialdemokratiet,Radikale Venstre,69,4197,3277.0,0.7807958065284727,transport
+Socialdemokratiet,Socialdemokratiet,69,14690,14463.0,0.9845473110959837,transport
+Socialdemokratiet,Socialistisk Folkeparti,69,1999,1271.0,0.6358179089544772,transport
+Socialdemokratiet,Uden for folketingsgrupperne,69,2236,1488.0,0.6654740608228981,transport
+Socialdemokratiet,Venstre,69,13825,10821.0,0.7827124773960217,transport
+Socialistisk Folkeparti,Alternativet,69,49,17.0,0.3469387755102041,transport
+Socialistisk Folkeparti,Danmarksdemokraterne,69,227,124.0,0.5462555066079295,transport
+Socialistisk Folkeparti,Dansk Folkeparti,69,835,356.0,0.42634730538922155,transport
+Socialistisk Folkeparti,Det Konservative Folkeparti,69,45,19.0,0.4222222222222222,transport
+Socialistisk Folkeparti,Enhedslisten,69,605,440.0,0.7272727272727273,transport
+Socialistisk Folkeparti,Liberal Alliance,69,880,419.0,0.47613636363636364,transport
+Socialistisk Folkeparti,Moderaterne,69,34,17.0,0.5,transport
+Socialistisk Folkeparti,Radikale Venstre,69,883,649.0,0.7349943374858438,transport
+Socialistisk Folkeparti,Socialdemokratiet,69,2673,1758.0,0.6576879910213244,transport
+Socialistisk Folkeparti,Socialistisk Folkeparti,69,245,245.0,1.0,transport
+Socialistisk Folkeparti,Uden for folketingsgrupperne,69,531,260.0,0.4896421845574388,transport
+Socialistisk Folkeparti,Venstre,69,2410,1216.0,0.5045643153526971,transport
+Uden for folketingsgrupperne,Alternativet,69,46,10.0,0.21739130434782608,transport
+Uden for folketingsgrupperne,Danmarksdemokraterne,69,29,29.0,1.0,transport
+Uden for folketingsgrupperne,Dansk Folkeparti,69,498,498.0,1.0,transport
+Uden for folketingsgrupperne,Det Konservative Folkeparti,69,13,12.0,0.9230769230769231,transport
+Uden for folketingsgrupperne,Enhedslisten,69,431,150.0,0.3480278422273782,transport
+Uden for folketingsgrupperne,Liberal Alliance,69,502,426.0,0.848605577689243,transport
+Uden for folketingsgrupperne,Radikale Venstre,69,580,311.0,0.5362068965517242,transport
+Uden for folketingsgrupperne,Socialdemokratiet,69,1558,935.0,0.6001283697047497,transport
+Uden for folketingsgrupperne,Socialistisk Folkeparti,69,44,18.0,0.4090909090909091,transport
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,69,150,138.0,0.92,transport
+Uden for folketingsgrupperne,Venstre,69,1225,1058.0,0.8636734693877551,transport
+Venstre,Alternativet,69,253,57.0,0.22529644268774704,transport
+Venstre,Danmarksdemokraterne,69,2073,1812.0,0.874095513748191,transport
+Venstre,Dansk Folkeparti,69,4250,3498.0,0.8230588235294117,transport
+Venstre,Det Konservative Folkeparti,69,206,206.0,1.0,transport
+Venstre,Enhedslisten,69,3776,1397.0,0.3699682203389831,transport
+Venstre,Liberal Alliance,69,4664,4562.0,0.9781303602058319,transport
+Venstre,Moderaterne,69,212,212.0,1.0,transport
+Venstre,Radikale Venstre,69,4120,2822.0,0.6849514563106797,transport
+Venstre,Socialdemokratiet,69,14843,11665.0,0.7858923398234858,transport
+Venstre,Socialistisk Folkeparti,69,1966,969.0,0.4928789420142421,transport
+Venstre,Uden for folketingsgrupperne,69,2273,1975.0,0.8688957325120985,transport
+Venstre,Venstre,69,12495,12495.0,1.0,transport
+Danmarksdemokraterne,Danmarksdemokraterne,66,410,391.0,0.9536585365853658,transport
+Danmarksdemokraterne,Dansk Folkeparti,66,1030,998.0,0.9689320388349515,transport
+Danmarksdemokraterne,Det Konservative Folkeparti,66,829,763.0,0.9203860072376358,transport
+Danmarksdemokraterne,Enhedslisten,66,337,102.0,0.3026706231454006,transport
+Danmarksdemokraterne,Liberal Alliance,66,156,141.0,0.9038461538461539,transport
+Danmarksdemokraterne,Moderaterne,66,25,25.0,1.0,transport
+Danmarksdemokraterne,Radikale Venstre,66,571,317.0,0.5551663747810858,transport
+Danmarksdemokraterne,Socialdemokratiet,66,2393,1476.0,0.6167989970748015,transport
+Danmarksdemokraterne,Socialistisk Folkeparti,66,479,211.0,0.4405010438413361,transport
+Danmarksdemokraterne,Uden for folketingsgrupperne,66,434,344.0,0.7926267281105991,transport
+Danmarksdemokraterne,Venstre,66,3240,2991.0,0.9231481481481482,transport
+Dansk Folkeparti,Danmarksdemokraterne,66,379,377.0,0.9947229551451188,transport
+Dansk Folkeparti,Dansk Folkeparti,66,859,851.0,0.9906868451688009,transport
+Dansk Folkeparti,Det Konservative Folkeparti,66,565,513.0,0.9079646017699115,transport
+Dansk Folkeparti,Enhedslisten,66,336,114.0,0.3392857142857143,transport
+Dansk Folkeparti,Liberal Alliance,66,128,114.0,0.890625,transport
+Dansk Folkeparti,Moderaterne,66,22,22.0,1.0,transport
+Dansk Folkeparti,Radikale Venstre,66,614,345.0,0.5618892508143323,transport
+Dansk Folkeparti,Socialdemokratiet,66,2013,1214.0,0.6030799801291604,transport
+Dansk Folkeparti,Socialistisk Folkeparti,66,588,271.0,0.4608843537414966,transport
+Dansk Folkeparti,Uden for folketingsgrupperne,66,603,437.0,0.724709784411277,transport
+Dansk Folkeparti,Venstre,66,2787,2498.0,0.8963042698241838,transport
+Det Konservative Folkeparti,Danmarksdemokraterne,66,573,516.0,0.900523560209424,transport
+Det Konservative Folkeparti,Dansk Folkeparti,66,1395,1225.0,0.8781362007168458,transport
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,815,815.0,1.0,transport
+Det Konservative Folkeparti,Enhedslisten,66,474,155.0,0.3270042194092827,transport
+Det Konservative Folkeparti,Liberal Alliance,66,207,204.0,0.9855072463768116,transport
+Det Konservative Folkeparti,Moderaterne,66,32,32.0,1.0,transport
+Det Konservative Folkeparti,Radikale Venstre,66,872,548.0,0.6284403669724771,transport
+Det Konservative Folkeparti,Socialdemokratiet,66,3167,2089.0,0.6596147773918535,transport
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,642,313.0,0.48753894080996885,transport
+Det Konservative Folkeparti,Uden for folketingsgrupperne,66,640,533.0,0.8328125,transport
+Det Konservative Folkeparti,Venstre,66,4027,4027.0,1.0,transport
+Enhedslisten,Danmarksdemokraterne,66,191,61.0,0.3193717277486911,transport
+Enhedslisten,Dansk Folkeparti,66,408,126.0,0.3088235294117647,transport
+Enhedslisten,Det Konservative Folkeparti,66,263,85.0,0.3231939163498099,transport
+Enhedslisten,Enhedslisten,66,89,89.0,1.0,transport
+Enhedslisten,Liberal Alliance,66,62,19.0,0.3064516129032258,transport
+Enhedslisten,Moderaterne,66,8,5.0,0.625,transport
+Enhedslisten,Radikale Venstre,66,205,141.0,0.6878048780487804,transport
+Enhedslisten,Socialdemokratiet,66,826,503.0,0.6089588377723971,transport
+Enhedslisten,Socialistisk Folkeparti,66,233,193.0,0.8283261802575107,transport
+Enhedslisten,Uden for folketingsgrupperne,66,210,112.0,0.5333333333333333,transport
+Enhedslisten,Venstre,66,1173,367.0,0.31287297527706737,transport
+Liberal Alliance,Danmarksdemokraterne,66,63,54.0,0.8571428571428571,transport
+Liberal Alliance,Dansk Folkeparti,66,175,151.0,0.8628571428571429,transport
+Liberal Alliance,Det Konservative Folkeparti,66,98,96.0,0.9795918367346939,transport
+Liberal Alliance,Enhedslisten,66,60,20.0,0.3333333333333333,transport
+Liberal Alliance,Radikale Venstre,66,163,101.0,0.6196319018404908,transport
+Liberal Alliance,Socialdemokratiet,66,381,249.0,0.6535433070866141,transport
+Liberal Alliance,Socialistisk Folkeparti,66,77,36.0,0.4675324675324675,transport
+Liberal Alliance,Uden for folketingsgrupperne,66,96,78.0,0.8125,transport
+Liberal Alliance,Venstre,66,377,370.0,0.9814323607427056,transport
+Moderaterne,Danmarksdemokraterne,66,11,11.0,1.0,transport
+Moderaterne,Dansk Folkeparti,66,34,34.0,1.0,transport
+Moderaterne,Det Konservative Folkeparti,66,19,19.0,1.0,transport
+Moderaterne,Enhedslisten,66,8,3.0,0.375,transport
+Moderaterne,Liberal Alliance,66,9,9.0,1.0,transport
+Moderaterne,Radikale Venstre,66,25,19.0,0.76,transport
+Moderaterne,Socialdemokratiet,66,74,55.0,0.7432432432432432,transport
+Moderaterne,Socialistisk Folkeparti,66,13,6.0,0.46153846153846156,transport
+Moderaterne,Uden for folketingsgrupperne,66,21,18.0,0.8571428571428571,transport
+Moderaterne,Venstre,66,69,69.0,1.0,transport
+Radikale Venstre,Danmarksdemokraterne,66,238,123.0,0.5168067226890757,transport
+Radikale Venstre,Dansk Folkeparti,66,465,274.0,0.589247311827957,transport
+Radikale Venstre,Det Konservative Folkeparti,66,202,123.0,0.6089108910891089,transport
+Radikale Venstre,Enhedslisten,66,186,126.0,0.6774193548387096,transport
+Radikale Venstre,Radikale Venstre,66,235,233.0,0.9914893617021276,transport
+Radikale Venstre,Socialdemokratiet,66,934,794.0,0.8501070663811563,transport
+Radikale Venstre,Socialistisk Folkeparti,66,262,225.0,0.8587786259541985,transport
+Radikale Venstre,Uden for folketingsgrupperne,66,322,264.0,0.8198757763975155,transport
+Radikale Venstre,Venstre,66,1318,816.0,0.6191198786039454,transport
+Socialdemokratiet,Danmarksdemokraterne,66,1181,724.0,0.6130397967823878,transport
+Socialdemokratiet,Dansk Folkeparti,66,3073,1915.0,0.6231695411649854,transport
+Socialdemokratiet,Det Konservative Folkeparti,66,1773,1184.0,0.667794698251551,transport
+Socialdemokratiet,Enhedslisten,66,1036,592.0,0.5714285714285714,transport
+Socialdemokratiet,Liberal Alliance,66,386,266.0,0.689119170984456,transport
+Socialdemokratiet,Moderaterne,66,69,55.0,0.7971014492753623,transport
+Socialdemokratiet,Radikale Venstre,66,1806,1554.0,0.8604651162790697,transport
+Socialdemokratiet,Socialdemokratiet,66,5971,5775.0,0.9671746776084408,transport
+Socialdemokratiet,Socialistisk Folkeparti,66,1538,1185.0,0.770481144343303,transport
+Socialdemokratiet,Uden for folketingsgrupperne,66,1540,1241.0,0.8058441558441558,transport
+Socialdemokratiet,Venstre,66,8391,5665.0,0.6751281134548921,transport
+Socialistisk Folkeparti,Danmarksdemokraterne,66,402,168.0,0.417910447761194,transport
+Socialistisk Folkeparti,Dansk Folkeparti,66,695,312.0,0.4489208633093525,transport
+Socialistisk Folkeparti,Det Konservative Folkeparti,66,601,277.0,0.46089850249584025,transport
+Socialistisk Folkeparti,Enhedslisten,66,240,196.0,0.8166666666666667,transport
+Socialistisk Folkeparti,Liberal Alliance,66,124,62.0,0.5,transport
+Socialistisk Folkeparti,Moderaterne,66,25,13.0,0.52,transport
+Socialistisk Folkeparti,Radikale Venstre,66,397,330.0,0.8312342569269522,transport
+Socialistisk Folkeparti,Socialdemokratiet,66,1639,1295.0,0.7901159243441123,transport
+Socialistisk Folkeparti,Socialistisk Folkeparti,66,347,347.0,1.0,transport
+Socialistisk Folkeparti,Uden for folketingsgrupperne,66,389,262.0,0.6735218508997429,transport
+Socialistisk Folkeparti,Venstre,66,2570,1174.0,0.45680933852140077,transport
+Uden for folketingsgrupperne,Danmarksdemokraterne,66,173,140.0,0.8092485549132948,transport
+Uden for folketingsgrupperne,Dansk Folkeparti,66,346,315.0,0.9104046242774566,transport
+Uden for folketingsgrupperne,Det Konservative Folkeparti,66,252,221.0,0.876984126984127,transport
+Uden for folketingsgrupperne,Enhedslisten,66,120,54.0,0.45,transport
+Uden for folketingsgrupperne,Liberal Alliance,66,43,39.0,0.9069767441860465,transport
+Uden for folketingsgrupperne,Moderaterne,66,11,11.0,1.0,transport
+Uden for folketingsgrupperne,Radikale Venstre,66,144,91.0,0.6319444444444444,transport
+Uden for folketingsgrupperne,Socialdemokratiet,66,773,542.0,0.7011642949547219,transport
+Uden for folketingsgrupperne,Socialistisk Folkeparti,66,264,166.0,0.6287878787878788,transport
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,66,179,133.0,0.7430167597765364,transport
+Uden for folketingsgrupperne,Venstre,66,1286,1119.0,0.8701399688958009,transport
+Venstre,Danmarksdemokraterne,66,2742,2491.0,0.9084609773887673,transport
+Venstre,Dansk Folkeparti,66,5765,5125.0,0.8889852558542931,transport
+Venstre,Det Konservative Folkeparti,66,4238,4238.0,1.0,transport
+Venstre,Enhedslisten,66,1965,655.0,0.3333333333333333,transport
+Venstre,Liberal Alliance,66,902,885.0,0.9811529933481153,transport
+Venstre,Moderaterne,66,151,151.0,1.0,transport
+Venstre,Radikale Venstre,66,3315,2040.0,0.6153846153846154,transport
+Venstre,Socialdemokratiet,66,12934,8479.0,0.6555589918045461,transport
+Venstre,Socialistisk Folkeparti,66,2826,1357.0,0.48018400566171265,transport
+Venstre,Uden for folketingsgrupperne,66,2608,2157.0,0.8270705521472392,transport
+Venstre,Venstre,66,17280,17280.0,1.0,transport
+Danmarksdemokraterne,Danmarksdemokraterne,65,8,8.0,1.0,transport
+Danmarksdemokraterne,Dansk Folkeparti,65,83,83.0,1.0,transport
+Danmarksdemokraterne,Det Konservative Folkeparti,65,41,41.0,1.0,transport
+Danmarksdemokraterne,Enhedslisten,65,4,4.0,1.0,transport
+Danmarksdemokraterne,Kristendemokraterne,65,13,2.0,0.15384615384615385,transport
+Danmarksdemokraterne,Liberal Alliance,65,17,17.0,1.0,transport
+Danmarksdemokraterne,Moderaterne,65,2,2.0,1.0,transport
+Danmarksdemokraterne,Radikale Venstre,65,23,11.0,0.4782608695652174,transport
+Danmarksdemokraterne,Socialdemokratiet,65,324,97.0,0.2993827160493827,transport
+Danmarksdemokraterne,Socialistisk Folkeparti,65,49,18.0,0.3673469387755102,transport
+Danmarksdemokraterne,Uden for folketingsgrupperne,65,58,52.0,0.896551724137931,transport
+Danmarksdemokraterne,Venstre,65,225,225.0,1.0,transport
+Dansk Folkeparti,Dansk Folkeparti,65,88,88.0,1.0,transport
+Dansk Folkeparti,Det Konservative Folkeparti,65,12,12.0,1.0,transport
+Dansk Folkeparti,Enhedslisten,65,3,3.0,1.0,transport
+Dansk Folkeparti,Kristendemokraterne,65,13,2.0,0.15384615384615385,transport
+Dansk Folkeparti,Liberal Alliance,65,10,10.0,1.0,transport
+Dansk Folkeparti,Moderaterne,65,1,1.0,1.0,transport
+Dansk Folkeparti,Radikale Venstre,65,21,12.0,0.5714285714285714,transport
+Dansk Folkeparti,Socialdemokratiet,65,254,74.0,0.29133858267716534,transport
+Dansk Folkeparti,Socialistisk Folkeparti,65,57,14.0,0.24561403508771928,transport
+Dansk Folkeparti,Uden for folketingsgrupperne,65,37,31.0,0.8378378378378378,transport
+Dansk Folkeparti,Venstre,65,237,237.0,1.0,transport
+Det Konservative Folkeparti,Danmarksdemokraterne,65,20,20.0,1.0,transport
+Det Konservative Folkeparti,Dansk Folkeparti,65,145,145.0,1.0,transport
+Det Konservative Folkeparti,Det Konservative Folkeparti,65,44,44.0,1.0,transport
+Det Konservative Folkeparti,Enhedslisten,65,9,9.0,1.0,transport
+Det Konservative Folkeparti,Kristendemokraterne,65,22,3.0,0.13636363636363635,transport
+Det Konservative Folkeparti,Liberal Alliance,65,31,31.0,1.0,transport
+Det Konservative Folkeparti,Moderaterne,65,4,4.0,1.0,transport
+Det Konservative Folkeparti,Radikale Venstre,65,45,24.0,0.5333333333333333,transport
+Det Konservative Folkeparti,Socialdemokratiet,65,553,211.0,0.38155515370705245,transport
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,84,39.0,0.4642857142857143,transport
+Det Konservative Folkeparti,Uden for folketingsgrupperne,65,90,81.0,0.9,transport
+Det Konservative Folkeparti,Venstre,65,394,394.0,1.0,transport
+Enhedslisten,Dansk Folkeparti,65,5,5.0,1.0,transport
+Enhedslisten,Kristendemokraterne,65,1,0.0,0.0,transport
+Enhedslisten,Radikale Venstre,65,5,2.0,0.4,transport
+Enhedslisten,Socialdemokratiet,65,22,22.0,1.0,transport
+Enhedslisten,Socialistisk Folkeparti,65,3,3.0,1.0,transport
+Enhedslisten,Uden for folketingsgrupperne,65,3,3.0,1.0,transport
+Enhedslisten,Venstre,65,12,12.0,1.0,transport
+Kristendemokraterne,Dansk Folkeparti,65,20,3.0,0.15,transport
+Kristendemokraterne,Radikale Venstre,65,7,1.0,0.14285714285714285,transport
+Kristendemokraterne,Socialdemokratiet,65,72,15.0,0.20833333333333334,transport
+Kristendemokraterne,Socialistisk Folkeparti,65,13,4.0,0.3076923076923077,transport
+Kristendemokraterne,Uden for folketingsgrupperne,65,12,1.0,0.08333333333333333,transport
+Kristendemokraterne,Venstre,65,35,5.0,0.14285714285714285,transport
+Liberal Alliance,Dansk Folkeparti,65,34,34.0,1.0,transport
+Liberal Alliance,Det Konservative Folkeparti,65,1,1.0,1.0,transport
+Liberal Alliance,Enhedslisten,65,2,2.0,1.0,transport
+Liberal Alliance,Kristendemokraterne,65,7,1.0,0.14285714285714285,transport
+Liberal Alliance,Radikale Venstre,65,12,6.0,0.5,transport
+Liberal Alliance,Socialdemokratiet,65,125,35.0,0.28,transport
+Liberal Alliance,Socialistisk Folkeparti,65,18,7.0,0.3888888888888889,transport
+Liberal Alliance,Uden for folketingsgrupperne,65,16,13.0,0.8125,transport
+Liberal Alliance,Venstre,65,55,55.0,1.0,transport
+Moderaterne,Dansk Folkeparti,65,2,2.0,1.0,transport
+Moderaterne,Enhedslisten,65,1,1.0,1.0,transport
+Moderaterne,Kristendemokraterne,65,1,0.0,0.0,transport
+Moderaterne,Liberal Alliance,65,1,1.0,1.0,transport
+Moderaterne,Radikale Venstre,65,3,0.0,0.0,transport
+Moderaterne,Socialdemokratiet,65,13,13.0,1.0,transport
+Moderaterne,Socialistisk Folkeparti,65,3,3.0,1.0,transport
+Moderaterne,Uden for folketingsgrupperne,65,2,2.0,1.0,transport
+Moderaterne,Venstre,65,6,6.0,1.0,transport
+Radikale Venstre,Dansk Folkeparti,65,34,19.0,0.5588235294117647,transport
+Radikale Venstre,Kristendemokraterne,65,2,0.0,0.0,transport
+Radikale Venstre,Radikale Venstre,65,4,4.0,1.0,transport
+Radikale Venstre,Socialdemokratiet,65,102,34.0,0.3333333333333333,transport
+Radikale Venstre,Socialistisk Folkeparti,65,19,6.0,0.3157894736842105,transport
+Radikale Venstre,Uden for folketingsgrupperne,65,16,11.0,0.6875,transport
+Radikale Venstre,Venstre,65,63,32.0,0.5079365079365079,transport
+Socialdemokratiet,Danmarksdemokraterne,65,24,9.0,0.375,transport
+Socialdemokratiet,Dansk Folkeparti,65,655,175.0,0.26717557251908397,transport
+Socialdemokratiet,Det Konservative Folkeparti,65,91,37.0,0.4065934065934066,transport
+Socialdemokratiet,Enhedslisten,65,13,13.0,1.0,transport
+Socialdemokratiet,Kristendemokraterne,65,77,11.0,0.14285714285714285,transport
+Socialdemokratiet,Liberal Alliance,65,60,18.0,0.3,transport
+Socialdemokratiet,Moderaterne,65,4,4.0,1.0,transport
+Socialdemokratiet,Radikale Venstre,65,135,44.0,0.32592592592592595,transport
+Socialdemokratiet,Socialdemokratiet,65,1828,1746.0,0.9551422319474836,transport
+Socialdemokratiet,Socialistisk Folkeparti,65,304,263.0,0.8651315789473685,transport
+Socialdemokratiet,Uden for folketingsgrupperne,65,309,83.0,0.2686084142394822,transport
+Socialdemokratiet,Venstre,65,1283,395.0,0.3078721745908028,transport
+Socialistisk Folkeparti,Danmarksdemokraterne,65,17,6.0,0.35294117647058826,transport
+Socialistisk Folkeparti,Dansk Folkeparti,65,112,40.0,0.35714285714285715,transport
+Socialistisk Folkeparti,Det Konservative Folkeparti,65,40,16.0,0.4,transport
+Socialistisk Folkeparti,Enhedslisten,65,5,5.0,1.0,transport
+Socialistisk Folkeparti,Kristendemokraterne,65,15,4.0,0.26666666666666666,transport
+Socialistisk Folkeparti,Liberal Alliance,65,17,5.0,0.29411764705882354,transport
+Socialistisk Folkeparti,Moderaterne,65,2,2.0,1.0,transport
+Socialistisk Folkeparti,Radikale Venstre,65,29,12.0,0.41379310344827586,transport
+Socialistisk Folkeparti,Socialdemokratiet,65,413,366.0,0.8861985472154964,transport
+Socialistisk Folkeparti,Socialistisk Folkeparti,65,52,52.0,1.0,transport
+Socialistisk Folkeparti,Uden for folketingsgrupperne,65,72,27.0,0.375,transport
+Socialistisk Folkeparti,Venstre,65,271,103.0,0.3800738007380074,transport
+Uden for folketingsgrupperne,Dansk Folkeparti,65,115,106.0,0.9217391304347826,transport
+Uden for folketingsgrupperne,Det Konservative Folkeparti,65,16,16.0,1.0,transport
+Uden for folketingsgrupperne,Enhedslisten,65,2,2.0,1.0,transport
+Uden for folketingsgrupperne,Kristendemokraterne,65,14,2.0,0.14285714285714285,transport
+Uden for folketingsgrupperne,Liberal Alliance,65,15,15.0,1.0,transport
+Uden for folketingsgrupperne,Moderaterne,65,1,1.0,1.0,transport
+Uden for folketingsgrupperne,Radikale Venstre,65,23,11.0,0.4782608695652174,transport
+Uden for folketingsgrupperne,Socialdemokratiet,65,338,82.0,0.24260355029585798,transport
+Uden for folketingsgrupperne,Socialistisk Folkeparti,65,50,14.0,0.28,transport
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,65,40,32.0,0.8,transport
+Uden for folketingsgrupperne,Venstre,65,199,184.0,0.9246231155778895,transport
+Venstre,Danmarksdemokraterne,65,57,57.0,1.0,transport
+Venstre,Dansk Folkeparti,65,495,495.0,1.0,transport
+Venstre,Det Konservative Folkeparti,65,143,143.0,1.0,transport
+Venstre,Enhedslisten,65,22,22.0,1.0,transport
+Venstre,Kristendemokraterne,65,77,11.0,0.14285714285714285,transport
+Venstre,Liberal Alliance,65,94,94.0,1.0,transport
+Venstre,Moderaterne,65,10,10.0,1.0,transport
+Venstre,Radikale Venstre,65,136,71.0,0.5220588235294118,transport
+Venstre,Socialdemokratiet,65,1767,543.0,0.3073005093378608,transport
+Venstre,Socialistisk Folkeparti,65,307,107.0,0.3485342019543974,transport
+Venstre,Uden for folketingsgrupperne,65,310,277.0,0.8935483870967742,transport
+Venstre,Venstre,65,1164,1164.0,1.0,transport
+Alternativet,Radikale Venstre,70,41,25.0,0.6097560975609756,transport
+Alternativet,Venstre,70,28,12.0,0.42857142857142855,transport
+Danmarksdemokraterne,Alternativet,70,247,90.0,0.3643724696356275,transport
+Danmarksdemokraterne,Danmarksdemokraterne,70,705,675.0,0.9574468085106383,transport
+Danmarksdemokraterne,Dansk Folkeparti,70,560,546.0,0.975,transport
+Danmarksdemokraterne,Det Konservative Folkeparti,70,81,60.0,0.7407407407407407,transport
+Danmarksdemokraterne,Enhedslisten,70,898,286.0,0.3184855233853007,transport
+Danmarksdemokraterne,Liberal Alliance,70,263,174.0,0.6615969581749049,transport
+Danmarksdemokraterne,Moderaterne,70,10,10.0,1.0,transport
+Danmarksdemokraterne,Radikale Venstre,70,1008,432.0,0.42857142857142855,transport
+Danmarksdemokraterne,Sambandsflokkurin,70,1,0.0,0.0,transport
+Danmarksdemokraterne,Socialdemokratiet,70,4041,2131.0,0.5273447166542935,transport
+Danmarksdemokraterne,Socialistisk Folkeparti,70,534,211.0,0.3951310861423221,transport
+Danmarksdemokraterne,Uden for folketingsgrupperne,70,800,730.0,0.9125,transport
+Danmarksdemokraterne,Venstre,70,3312,2467.0,0.7448671497584541,transport
+Dansk Folkeparti,Alternativet,70,146,48.0,0.3287671232876712,transport
+Dansk Folkeparti,Danmarksdemokraterne,70,322,315.0,0.9782608695652174,transport
+Dansk Folkeparti,Dansk Folkeparti,70,165,164.0,0.9939393939393939,transport
+Dansk Folkeparti,Det Konservative Folkeparti,70,17,12.0,0.7058823529411765,transport
+Dansk Folkeparti,Enhedslisten,70,532,149.0,0.2800751879699248,transport
+Dansk Folkeparti,Liberal Alliance,70,124,73.0,0.5887096774193549,transport
+Dansk Folkeparti,Moderaterne,70,1,1.0,1.0,transport
+Dansk Folkeparti,Radikale Venstre,70,397,130.0,0.327455919395466,transport
+Dansk Folkeparti,Socialdemokratiet,70,1586,718.0,0.4527112232030265,transport
+Dansk Folkeparti,Socialistisk Folkeparti,70,110,39.0,0.35454545454545455,transport
+Dansk Folkeparti,Uden for folketingsgrupperne,70,158,144.0,0.9113924050632911,transport
+Dansk Folkeparti,Venstre,70,1284,908.0,0.7071651090342679,transport
+Det Konservative Folkeparti,Alternativet,70,7,3.0,0.42857142857142855,transport
+Det Konservative Folkeparti,Danmarksdemokraterne,70,10,7.0,0.7,transport
+Det Konservative Folkeparti,Dansk Folkeparti,70,29,19.0,0.6551724137931034,transport
+Det Konservative Folkeparti,Det Konservative Folkeparti,70,3,3.0,1.0,transport
+Det Konservative Folkeparti,Enhedslisten,70,41,20.0,0.4878048780487805,transport
+Det Konservative Folkeparti,Liberal Alliance,70,16,14.0,0.875,transport
+Det Konservative Folkeparti,Radikale Venstre,70,39,25.0,0.6410256410256411,transport
+Det Konservative Folkeparti,Socialdemokratiet,70,112,84.0,0.75,transport
+Det Konservative Folkeparti,Socialistisk Folkeparti,70,1,1.0,1.0,transport
+Det Konservative Folkeparti,Uden for folketingsgrupperne,70,19,14.0,0.7368421052631579,transport
+Det Konservative Folkeparti,Venstre,70,93,80.0,0.8602150537634409,transport
+Enhedslisten,Alternativet,70,188,134.0,0.7127659574468085,transport
+Enhedslisten,Danmarksdemokraterne,70,439,124.0,0.2824601366742597,transport
+Enhedslisten,Dansk Folkeparti,70,206,49.0,0.23786407766990292,transport
+Enhedslisten,Det Konservative Folkeparti,70,22,10.0,0.45454545454545453,transport
+Enhedslisten,Enhedslisten,70,441,441.0,1.0,transport
+Enhedslisten,Liberal Alliance,70,89,37.0,0.4157303370786517,transport
+Enhedslisten,Moderaterne,70,2,0.0,0.0,transport
+Enhedslisten,Radikale Venstre,70,520,460.0,0.8846153846153846,transport
+Enhedslisten,Socialdemokratiet,70,1933,1451.0,0.7506466632177962,transport
+Enhedslisten,Socialistisk Folkeparti,70,210,196.0,0.9333333333333333,transport
+Enhedslisten,Uden for folketingsgrupperne,70,313,77.0,0.24600638977635783,transport
+Enhedslisten,Venstre,70,1687,681.0,0.4036751630112626,transport
+Liberal Alliance,Alternativet,70,52,17.0,0.3269230769230769,transport
+Liberal Alliance,Danmarksdemokraterne,70,49,23.0,0.46938775510204084,transport
+Liberal Alliance,Dansk Folkeparti,70,45,20.0,0.4444444444444444,transport
+Liberal Alliance,Det Konservative Folkeparti,70,4,3.0,0.75,transport
+Liberal Alliance,Enhedslisten,70,139,67.0,0.48201438848920863,transport
+Liberal Alliance,Radikale Venstre,70,117,58.0,0.49572649572649574,transport
+Liberal Alliance,Socialdemokratiet,70,325,189.0,0.5815384615384616,transport
+Liberal Alliance,Socialistisk Folkeparti,70,2,1.0,0.5,transport
+Liberal Alliance,Uden for folketingsgrupperne,70,1,1.0,1.0,transport
+Liberal Alliance,Venstre,70,268,194.0,0.7238805970149254,transport
+Moderaterne,Danmarksdemokraterne,70,3,3.0,1.0,transport
+Moderaterne,Dansk Folkeparti,70,6,6.0,1.0,transport
+Moderaterne,Det Konservative Folkeparti,70,1,0.0,0.0,transport
+Moderaterne,Enhedslisten,70,6,0.0,0.0,transport
+Moderaterne,Liberal Alliance,70,2,0.0,0.0,transport
+Moderaterne,Radikale Venstre,70,9,0.0,0.0,transport
+Moderaterne,Socialdemokratiet,70,23,0.0,0.0,transport
+Moderaterne,Socialistisk Folkeparti,70,2,0.0,0.0,transport
+Moderaterne,Uden for folketingsgrupperne,70,6,4.0,0.6666666666666666,transport
+Moderaterne,Venstre,70,19,14.0,0.7368421052631579,transport
+Radikale Venstre,Alternativet,70,155,90.0,0.5806451612903226,transport
+Radikale Venstre,Danmarksdemokraterne,70,282,92.0,0.3262411347517731,transport
+Radikale Venstre,Dansk Folkeparti,70,300,107.0,0.3566666666666667,transport
+Radikale Venstre,Det Konservative Folkeparti,70,20,15.0,0.75,transport
+Radikale Venstre,Enhedslisten,70,521,455.0,0.8733205374280231,transport
+Radikale Venstre,Liberal Alliance,70,121,59.0,0.48760330578512395,transport
+Radikale Venstre,Moderaterne,70,1,0.0,0.0,transport
+Radikale Venstre,Radikale Venstre,70,359,357.0,0.9944289693593314,transport
+Radikale Venstre,Socialdemokratiet,70,1611,1397.0,0.867163252638113,transport
+Radikale Venstre,Socialistisk Folkeparti,70,84,81.0,0.9642857142857143,transport
+Radikale Venstre,Uden for folketingsgrupperne,70,220,75.0,0.3409090909090909,transport
+Radikale Venstre,Venstre,70,1234,658.0,0.5332252836304701,transport
+Sambandsflokkurin,Alternativet,70,1,0.0,0.0,transport
+Sambandsflokkurin,Danmarksdemokraterne,70,4,0.0,0.0,transport
+Sambandsflokkurin,Dansk Folkeparti,70,3,0.0,0.0,transport
+Sambandsflokkurin,Enhedslisten,70,3,3.0,1.0,transport
+Sambandsflokkurin,Liberal Alliance,70,1,1.0,1.0,transport
+Sambandsflokkurin,Radikale Venstre,70,3,3.0,1.0,transport
+Sambandsflokkurin,Socialdemokratiet,70,12,12.0,1.0,transport
+Sambandsflokkurin,Socialistisk Folkeparti,70,1,1.0,1.0,transport
+Sambandsflokkurin,Uden for folketingsgrupperne,70,1,1.0,1.0,transport
+Sambandsflokkurin,Venstre,70,13,13.0,1.0,transport
+Socialdemokratiet,Alternativet,70,912,437.0,0.4791666666666667,transport
+Socialdemokratiet,Danmarksdemokraterne,70,2323,1167.0,0.5023676280671545,transport
+Socialdemokratiet,Dansk Folkeparti,70,1718,707.0,0.41152502910360883,transport
+Socialdemokratiet,Det Konservative Folkeparti,70,214,174.0,0.8130841121495327,transport
+Socialdemokratiet,Enhedslisten,70,3014,2192.0,0.7272727272727273,transport
+Socialdemokratiet,Liberal Alliance,70,816,458.0,0.5612745098039216,transport
+Socialdemokratiet,Moderaterne,70,23,0.0,0.0,transport
+Socialdemokratiet,Radikale Venstre,70,3076,2599.0,0.8449284785435631,transport
+Socialdemokratiet,Sambandsflokkurin,70,3,3.0,1.0,transport
+Socialdemokratiet,Socialdemokratiet,70,10945,10928.0,0.998446779351302,transport
+Socialdemokratiet,Socialistisk Folkeparti,70,1332,1125.0,0.8445945945945946,transport
+Socialdemokratiet,Uden for folketingsgrupperne,70,2077,924.0,0.444872412132884,transport
+Socialdemokratiet,Venstre,70,9519,6586.0,0.6918793990965437,transport
+Socialistisk Folkeparti,Alternativet,70,95,59.0,0.6210526315789474,transport
+Socialistisk Folkeparti,Danmarksdemokraterne,70,118,40.0,0.3389830508474576,transport
+Socialistisk Folkeparti,Dansk Folkeparti,70,242,83.0,0.34297520661157027,transport
+Socialistisk Folkeparti,Det Konservative Folkeparti,70,26,15.0,0.5769230769230769,transport
+Socialistisk Folkeparti,Enhedslisten,70,321,289.0,0.9003115264797508,transport
+Socialistisk Folkeparti,Liberal Alliance,70,116,58.0,0.5,transport
+Socialistisk Folkeparti,Moderaterne,70,4,0.0,0.0,transport
+Socialistisk Folkeparti,Radikale Venstre,70,418,398.0,0.9521531100478469,transport
+Socialistisk Folkeparti,Socialdemokratiet,70,1055,874.0,0.828436018957346,transport
+Socialistisk Folkeparti,Socialistisk Folkeparti,70,66,66.0,1.0,transport
+Socialistisk Folkeparti,Uden for folketingsgrupperne,70,318,117.0,0.36792452830188677,transport
+Socialistisk Folkeparti,Venstre,70,917,503.0,0.5485278080697928,transport
+Uden for folketingsgrupperne,Alternativet,70,151,50.0,0.33112582781456956,transport
+Uden for folketingsgrupperne,Danmarksdemokraterne,70,171,154.0,0.9005847953216374,transport
+Uden for folketingsgrupperne,Dansk Folkeparti,70,363,341.0,0.9393939393939394,transport
+Uden for folketingsgrupperne,Det Konservative Folkeparti,70,26,17.0,0.6538461538461539,transport
+Uden for folketingsgrupperne,Enhedslisten,70,467,155.0,0.33190578158458245,transport
+Uden for folketingsgrupperne,Liberal Alliance,70,183,104.0,0.5683060109289617,transport
+Uden for folketingsgrupperne,Moderaterne,70,3,2.0,0.6666666666666666,transport
+Uden for folketingsgrupperne,Radikale Venstre,70,524,216.0,0.4122137404580153,transport
+Uden for folketingsgrupperne,Socialdemokratiet,70,1519,770.0,0.5069124423963134,transport
+Uden for folketingsgrupperne,Socialistisk Folkeparti,70,64,25.0,0.390625,transport
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,70,197,169.0,0.8578680203045685,transport
+Uden for folketingsgrupperne,Venstre,70,1145,806.0,0.7039301310043669,transport
+Venstre,Alternativet,70,764,295.0,0.38612565445026176,transport
+Venstre,Danmarksdemokraterne,70,2148,1523.0,0.7090316573556797,transport
+Venstre,Dansk Folkeparti,70,1553,1014.0,0.652929813264649,transport
+Venstre,Det Konservative Folkeparti,70,205,185.0,0.9024390243902439,transport
+Venstre,Enhedslisten,70,2531,1163.0,0.4595021730541288,transport
+Venstre,Liberal Alliance,70,729,531.0,0.7283950617283951,transport
+Venstre,Moderaterne,70,21,5.0,0.23809523809523808,transport
+Venstre,Radikale Venstre,70,2790,1599.0,0.5731182795698925,transport
+Venstre,Sambandsflokkurin,70,1,1.0,1.0,transport
+Venstre,Socialdemokratiet,70,10454,7302.0,0.6984886167973982,transport
+Venstre,Socialistisk Folkeparti,70,1114,599.0,0.5377019748653501,transport
+Venstre,Uden for folketingsgrupperne,70,1918,1292.0,0.6736183524504692,transport
+Venstre,Venstre,70,8076,7933.0,0.9822932144626052,transport
+Alternativet,Enhedslisten,71,32,26.0,0.8125,transport
+Alternativet,Radikale Venstre,71,19,12.0,0.631578947368421,transport
+Alternativet,Socialdemokratiet,71,17,9.0,0.5294117647058824,transport
+Alternativet,Venstre,71,15,10.0,0.6666666666666666,transport
+Danmarksdemokraterne,Alternativet,71,134,68.0,0.5074626865671642,transport
+Danmarksdemokraterne,Danmarksdemokraterne,71,893,878.0,0.9832026875699889,transport
+Danmarksdemokraterne,Dansk Folkeparti,71,319,243.0,0.7617554858934169,transport
+Danmarksdemokraterne,Det Konservative Folkeparti,71,796,690.0,0.8668341708542714,transport
+Danmarksdemokraterne,Enhedslisten,71,1353,633.0,0.4678492239467849,transport
+Danmarksdemokraterne,Liberal Alliance,71,203,168.0,0.8275862068965517,transport
+Danmarksdemokraterne,Moderaterne,71,18,12.0,0.6666666666666666,transport
+Danmarksdemokraterne,Radikale Venstre,71,475,267.0,0.5621052631578948,transport
+Danmarksdemokraterne,Socialdemokratiet,71,3785,2601.0,0.6871862615587847,transport
+Danmarksdemokraterne,Socialistisk Folkeparti,71,449,233.0,0.5189309576837416,transport
+Danmarksdemokraterne,Venstre,71,2412,1620.0,0.6716417910447762,transport
+Dansk Folkeparti,Alternativet,71,40,16.0,0.4,transport
+Dansk Folkeparti,Danmarksdemokraterne,71,304,233.0,0.7664473684210527,transport
+Dansk Folkeparti,Dansk Folkeparti,71,54,52.0,0.9629629629629629,transport
+Dansk Folkeparti,Det Konservative Folkeparti,71,195,137.0,0.7025641025641025,transport
+Dansk Folkeparti,Enhedslisten,71,363,183.0,0.5041322314049587,transport
+Dansk Folkeparti,Liberal Alliance,71,64,50.0,0.78125,transport
+Dansk Folkeparti,Moderaterne,71,5,2.0,0.4,transport
+Dansk Folkeparti,Radikale Venstre,71,125,67.0,0.536,transport
+Dansk Folkeparti,Socialdemokratiet,71,1093,685.0,0.6267154620311071,transport
+Dansk Folkeparti,Socialistisk Folkeparti,71,136,73.0,0.5367647058823529,transport
+Dansk Folkeparti,Venstre,71,795,484.0,0.6088050314465409,transport
+Det Konservative Folkeparti,Alternativet,71,75,42.0,0.56,transport
+Det Konservative Folkeparti,Danmarksdemokraterne,71,462,405.0,0.8766233766233766,transport
+Det Konservative Folkeparti,Dansk Folkeparti,71,157,112.0,0.7133757961783439,transport
+Det Konservative Folkeparti,Det Konservative Folkeparti,71,289,289.0,1.0,transport
+Det Konservative Folkeparti,Enhedslisten,71,727,407.0,0.5598349381017882,transport
+Det Konservative Folkeparti,Liberal Alliance,71,110,84.0,0.7636363636363637,transport
+Det Konservative Folkeparti,Moderaterne,71,10,9.0,0.9,transport
+Det Konservative Folkeparti,Radikale Venstre,71,197,136.0,0.6903553299492385,transport
+Det Konservative Folkeparti,Socialdemokratiet,71,1740,1333.0,0.7660919540229885,transport
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,177,109.0,0.615819209039548,transport
+Det Konservative Folkeparti,Venstre,71,1346,1003.0,0.7451708766716196,transport
+Enhedslisten,Alternativet,71,71,53.0,0.7464788732394366,transport
+Enhedslisten,Danmarksdemokraterne,71,292,150.0,0.5136986301369864,transport
+Enhedslisten,Dansk Folkeparti,71,113,53.0,0.4690265486725664,transport
+Enhedslisten,Det Konservative Folkeparti,71,237,132.0,0.5569620253164557,transport
+Enhedslisten,Enhedslisten,71,517,517.0,1.0,transport
+Enhedslisten,Liberal Alliance,71,39,22.0,0.5641025641025641,transport
+Enhedslisten,Radikale Venstre,71,270,223.0,0.825925925925926,transport
+Enhedslisten,Socialdemokratiet,71,1103,746.0,0.6763372620126926,transport
+Enhedslisten,Socialistisk Folkeparti,71,114,98.0,0.8596491228070176,transport
+Enhedslisten,Venstre,71,787,524.0,0.6658195679796697,transport
+Inuit Ataqatigiit,Alternativet,71,1,1.0,1.0,transport
+Inuit Ataqatigiit,Danmarksdemokraterne,71,5,5.0,1.0,transport
+Inuit Ataqatigiit,Dansk Folkeparti,71,1,0.0,0.0,transport
+Inuit Ataqatigiit,Det Konservative Folkeparti,71,4,4.0,1.0,transport
+Inuit Ataqatigiit,Enhedslisten,71,5,5.0,1.0,transport
+Inuit Ataqatigiit,Liberal Alliance,71,1,1.0,1.0,transport
+Inuit Ataqatigiit,Moderaterne,71,1,1.0,1.0,transport
+Inuit Ataqatigiit,Naleraq,71,1,1.0,1.0,transport
+Inuit Ataqatigiit,Radikale Venstre,71,2,2.0,1.0,transport
+Inuit Ataqatigiit,Socialdemokratiet,71,17,17.0,1.0,transport
+Inuit Ataqatigiit,Socialistisk Folkeparti,71,4,4.0,1.0,transport
+Inuit Ataqatigiit,Venstre,71,15,15.0,1.0,transport
+Liberal Alliance,Alternativet,71,31,15.0,0.4838709677419355,transport
+Liberal Alliance,Danmarksdemokraterne,71,286,246.0,0.8601398601398601,transport
+Liberal Alliance,Dansk Folkeparti,71,89,65.0,0.7303370786516854,transport
+Liberal Alliance,Det Konservative Folkeparti,71,172,136.0,0.7906976744186046,transport
+Liberal Alliance,Enhedslisten,71,340,206.0,0.6058823529411764,transport
+Liberal Alliance,Liberal Alliance,71,25,25.0,1.0,transport
+Liberal Alliance,Moderaterne,71,10,6.0,0.6,transport
+Liberal Alliance,Radikale Venstre,71,108,72.0,0.6666666666666666,transport
+Liberal Alliance,Socialdemokratiet,71,903,646.0,0.7153931339977851,transport
+Liberal Alliance,Socialistisk Folkeparti,71,103,65.0,0.6310679611650486,transport
+Liberal Alliance,Venstre,71,700,494.0,0.7057142857142857,transport
+Moderaterne,Alternativet,71,7,6.0,0.8571428571428571,transport
+Moderaterne,Danmarksdemokraterne,71,43,29.0,0.6744186046511628,transport
+Moderaterne,Dansk Folkeparti,71,12,6.0,0.5,transport
+Moderaterne,Det Konservative Folkeparti,71,24,22.0,0.9166666666666666,transport
+Moderaterne,Enhedslisten,71,46,31.0,0.6739130434782609,transport
+Moderaterne,Liberal Alliance,71,5,3.0,0.6,transport
+Moderaterne,Radikale Venstre,71,19,15.0,0.7894736842105263,transport
+Moderaterne,Socialdemokratiet,71,130,130.0,1.0,transport
+Moderaterne,Socialistisk Folkeparti,71,19,16.0,0.8421052631578947,transport
+Moderaterne,Venstre,71,93,93.0,1.0,transport
+Naleraq,Alternativet,71,1,1.0,1.0,transport
+Naleraq,Danmarksdemokraterne,71,5,5.0,1.0,transport
+Naleraq,Dansk Folkeparti,71,1,0.0,0.0,transport
+Naleraq,Det Konservative Folkeparti,71,4,4.0,1.0,transport
+Naleraq,Enhedslisten,71,5,5.0,1.0,transport
+Naleraq,Liberal Alliance,71,1,1.0,1.0,transport
+Naleraq,Moderaterne,71,1,1.0,1.0,transport
+Naleraq,Radikale Venstre,71,2,2.0,1.0,transport
+Naleraq,Socialdemokratiet,71,17,17.0,1.0,transport
+Naleraq,Socialistisk Folkeparti,71,4,4.0,1.0,transport
+Naleraq,Venstre,71,15,15.0,1.0,transport
+Radikale Venstre,Alternativet,71,19,15.0,0.7894736842105263,transport
+Radikale Venstre,Danmarksdemokraterne,71,104,63.0,0.6057692307692307,transport
+Radikale Venstre,Dansk Folkeparti,71,47,27.0,0.574468085106383,transport
+Radikale Venstre,Det Konservative Folkeparti,71,136,86.0,0.6323529411764706,transport
+Radikale Venstre,Enhedslisten,71,186,145.0,0.7795698924731183,transport
+Radikale Venstre,Liberal Alliance,71,32,21.0,0.65625,transport
+Radikale Venstre,Radikale Venstre,71,37,36.0,0.972972972972973,transport
+Radikale Venstre,Socialdemokratiet,71,459,362.0,0.7886710239651417,transport
+Radikale Venstre,Socialistisk Folkeparti,71,12,11.0,0.9166666666666666,transport
+Radikale Venstre,Venstre,71,328,262.0,0.7987804878048781,transport
+Socialdemokratiet,Alternativet,71,411,226.0,0.5498783454987834,transport
+Socialdemokratiet,Danmarksdemokraterne,71,3662,2458.0,0.671217913708356,transport
+Socialdemokratiet,Dansk Folkeparti,71,1074,665.0,0.6191806331471136,transport
+Socialdemokratiet,Det Konservative Folkeparti,71,2676,2080.0,0.7772795216741405,transport
+Socialdemokratiet,Enhedslisten,71,4725,3063.0,0.6482539682539683,transport
+Socialdemokratiet,Liberal Alliance,71,768,568.0,0.7395833333333334,transport
+Socialdemokratiet,Moderaterne,71,55,55.0,1.0,transport
+Socialdemokratiet,Radikale Venstre,71,1550,1261.0,0.8135483870967742,transport
+Socialdemokratiet,Socialdemokratiet,71,12771,12771.0,1.0,transport
+Socialdemokratiet,Socialistisk Folkeparti,71,1757,1339.0,0.7620944792259533,transport
+Socialdemokratiet,Venstre,71,9177,9141.0,0.9960771493952272,transport
+Socialistisk Folkeparti,Alternativet,71,68,56.0,0.8235294117647058,transport
+Socialistisk Folkeparti,Danmarksdemokraterne,71,733,395.0,0.538881309686221,transport
+Socialistisk Folkeparti,Dansk Folkeparti,71,205,122.0,0.5951219512195122,transport
+Socialistisk Folkeparti,Det Konservative Folkeparti,71,516,327.0,0.6337209302325582,transport
+Socialistisk Folkeparti,Enhedslisten,71,841,699.0,0.83115338882283,transport
+Socialistisk Folkeparti,Liberal Alliance,71,165,106.0,0.6424242424242425,transport
+Socialistisk Folkeparti,Moderaterne,71,20,17.0,0.85,transport
+Socialistisk Folkeparti,Radikale Venstre,71,309,270.0,0.8737864077669902,transport
+Socialistisk Folkeparti,Socialdemokratiet,71,2525,1866.0,0.739009900990099,transport
+Socialistisk Folkeparti,Socialistisk Folkeparti,71,274,272.0,0.9927007299270073,transport
+Socialistisk Folkeparti,Venstre,71,1835,1368.0,0.7455040871934605,transport
+Venstre,Alternativet,71,286,156.0,0.5454545454545454,transport
+Venstre,Danmarksdemokraterne,71,2568,1698.0,0.6612149532710281,transport
+Venstre,Dansk Folkeparti,71,649,395.0,0.6086286594761171,transport
+Venstre,Det Konservative Folkeparti,71,1649,1279.0,0.7756215888417223,transport
+Venstre,Enhedslisten,71,3099,1985.0,0.6405292029686995,transport
+Venstre,Liberal Alliance,71,414,307.0,0.7415458937198067,transport
+Venstre,Moderaterne,71,54,54.0,1.0,transport
+Venstre,Radikale Venstre,71,1038,840.0,0.8092485549132948,transport
+Venstre,Socialdemokratiet,71,8722,8628.0,0.9892226553542766,transport
+Venstre,Socialistisk Folkeparti,71,1041,803.0,0.7713736791546589,transport
+Venstre,Venstre,71,5719,5631.0,0.9846126945270152,transport

@@ -1,0 +1,946 @@
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
+Danmarksdemokraterne,Danmarksdemokraterne,68,1243,1237.0,0.995172968624296,retspolitik
+Danmarksdemokraterne,Dansk Folkeparti,68,1886,1881.0,0.9973488865323435,retspolitik
+Danmarksdemokraterne,Det Konservative Folkeparti,68,2127,1496.0,0.7033380347907852,retspolitik
+Danmarksdemokraterne,Enhedslisten,68,4136,1906.0,0.46083172147001933,retspolitik
+Danmarksdemokraterne,Inuit Ataqatigiit,68,3,0.0,0.0,retspolitik
+Danmarksdemokraterne,Liberal Alliance,68,2184,1396.0,0.6391941391941391,retspolitik
+Danmarksdemokraterne,Moderaterne,68,121,84.0,0.6942148760330579,retspolitik
+Danmarksdemokraterne,Radikale Venstre,68,4519,2257.0,0.4994467802611197,retspolitik
+Danmarksdemokraterne,Socialdemokratiet,68,4785,2480.0,0.5182863113897597,retspolitik
+Danmarksdemokraterne,Socialistisk Folkeparti,68,2611,1298.0,0.49712753734201454,retspolitik
+Danmarksdemokraterne,Uden for folketingsgrupperne,68,1568,1413.0,0.9011479591836735,retspolitik
+Danmarksdemokraterne,Venstre,68,6470,4475.0,0.6916537867078826,retspolitik
+Dansk Folkeparti,Danmarksdemokraterne,68,1499,1486.0,0.9913275517011341,retspolitik
+Dansk Folkeparti,Dansk Folkeparti,68,1451,1444.0,0.9951757408683667,retspolitik
+Dansk Folkeparti,Det Konservative Folkeparti,68,2098,1519.0,0.7240228789323165,retspolitik
+Dansk Folkeparti,Enhedslisten,68,4296,1919.0,0.44669459962756053,retspolitik
+Dansk Folkeparti,Inuit Ataqatigiit,68,6,0.0,0.0,retspolitik
+Dansk Folkeparti,Liberal Alliance,68,1986,1352.0,0.6807653575025177,retspolitik
+Dansk Folkeparti,Moderaterne,68,82,67.0,0.8170731707317073,retspolitik
+Dansk Folkeparti,Radikale Venstre,68,3724,1880.0,0.5048335123523093,retspolitik
+Dansk Folkeparti,Socialdemokratiet,68,4467,2301.0,0.5151108126259234,retspolitik
+Dansk Folkeparti,Socialistisk Folkeparti,68,2679,1348.0,0.5031728256812243,retspolitik
+Dansk Folkeparti,Uden for folketingsgrupperne,68,1244,1088.0,0.8745980707395499,retspolitik
+Dansk Folkeparti,Venstre,68,6123,4513.0,0.737056998203495,retspolitik
+Det Konservative Folkeparti,Danmarksdemokraterne,68,840,553.0,0.6583333333333333,retspolitik
+Det Konservative Folkeparti,Dansk Folkeparti,68,1021,691.0,0.6767874632713027,retspolitik
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,1026,1026.0,1.0,retspolitik
+Det Konservative Folkeparti,Enhedslisten,68,2815,1124.0,0.39928952042628774,retspolitik
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,2,0.0,0.0,retspolitik
+Det Konservative Folkeparti,Liberal Alliance,68,1260,965.0,0.7658730158730159,retspolitik
+Det Konservative Folkeparti,Moderaterne,68,75,64.0,0.8533333333333334,retspolitik
+Det Konservative Folkeparti,Radikale Venstre,68,2338,1769.0,0.7566295979469632,retspolitik
+Det Konservative Folkeparti,Socialdemokratiet,68,2964,2298.0,0.7753036437246964,retspolitik
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,1779,1304.0,0.7329960652051715,retspolitik
+Det Konservative Folkeparti,Uden for folketingsgrupperne,68,810,577.0,0.7123456790123457,retspolitik
+Det Konservative Folkeparti,Venstre,68,3804,3452.0,0.907465825446898,retspolitik
+Enhedslisten,Danmarksdemokraterne,68,2215,1022.0,0.46139954853273135,retspolitik
+Enhedslisten,Dansk Folkeparti,68,2386,995.0,0.4170159262363789,retspolitik
+Enhedslisten,Det Konservative Folkeparti,68,2992,1106.0,0.3696524064171123,retspolitik
+Enhedslisten,Enhedslisten,68,5463,5309.0,0.9718103606077247,retspolitik
+Enhedslisten,Inuit Ataqatigiit,68,7,7.0,1.0,retspolitik
+Enhedslisten,Liberal Alliance,68,2901,1043.0,0.3595311961392623,retspolitik
+Enhedslisten,Moderaterne,68,173,52.0,0.30057803468208094,retspolitik
+Enhedslisten,Radikale Venstre,68,5621,3224.0,0.5735634228784914,retspolitik
+Enhedslisten,Socialdemokratiet,68,6860,3902.0,0.568804664723032,retspolitik
+Enhedslisten,Socialistisk Folkeparti,68,4133,2477.0,0.5993225260101621,retspolitik
+Enhedslisten,Uden for folketingsgrupperne,68,2040,807.0,0.39558823529411763,retspolitik
+Enhedslisten,Venstre,68,9250,3103.0,0.3354594594594595,retspolitik
+Inuit Ataqatigiit,Det Konservative Folkeparti,68,1,0.0,0.0,retspolitik
+Inuit Ataqatigiit,Enhedslisten,68,1,1.0,1.0,retspolitik
+Inuit Ataqatigiit,Radikale Venstre,68,1,0.0,0.0,retspolitik
+Inuit Ataqatigiit,Socialdemokratiet,68,2,0.0,0.0,retspolitik
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,2,0.0,0.0,retspolitik
+Inuit Ataqatigiit,Uden for folketingsgrupperne,68,1,0.0,0.0,retspolitik
+Inuit Ataqatigiit,Venstre,68,2,0.0,0.0,retspolitik
+Liberal Alliance,Danmarksdemokraterne,68,624,399.0,0.6394230769230769,retspolitik
+Liberal Alliance,Dansk Folkeparti,68,975,617.0,0.6328205128205128,retspolitik
+Liberal Alliance,Det Konservative Folkeparti,68,1298,967.0,0.7449922958397535,retspolitik
+Liberal Alliance,Enhedslisten,68,2581,816.0,0.3161565284773344,retspolitik
+Liberal Alliance,Inuit Ataqatigiit,68,4,0.0,0.0,retspolitik
+Liberal Alliance,Liberal Alliance,68,885,871.0,0.984180790960452,retspolitik
+Liberal Alliance,Moderaterne,68,20,15.0,0.75,retspolitik
+Liberal Alliance,Radikale Venstre,68,1772,1034.0,0.5835214446952596,retspolitik
+Liberal Alliance,Socialdemokratiet,68,2721,1550.0,0.569643513414186,retspolitik
+Liberal Alliance,Socialistisk Folkeparti,68,1694,972.0,0.5737898465171193,retspolitik
+Liberal Alliance,Uden for folketingsgrupperne,68,634,497.0,0.7839116719242902,retspolitik
+Liberal Alliance,Venstre,68,3127,2436.0,0.7790214262871762,retspolitik
+Moderaterne,Danmarksdemokraterne,68,119,78.0,0.6554621848739496,retspolitik
+Moderaterne,Dansk Folkeparti,68,149,97.0,0.6510067114093959,retspolitik
+Moderaterne,Det Konservative Folkeparti,68,158,136.0,0.8607594936708861,retspolitik
+Moderaterne,Enhedslisten,68,287,99.0,0.34494773519163763,retspolitik
+Moderaterne,Liberal Alliance,68,172,122.0,0.7093023255813954,retspolitik
+Moderaterne,Moderaterne,68,3,3.0,1.0,retspolitik
+Moderaterne,Radikale Venstre,68,327,192.0,0.5871559633027523,retspolitik
+Moderaterne,Socialdemokratiet,68,384,248.0,0.6458333333333334,retspolitik
+Moderaterne,Socialistisk Folkeparti,68,138,73.0,0.5289855072463768,retspolitik
+Moderaterne,Uden for folketingsgrupperne,68,117,82.0,0.7008547008547008,retspolitik
+Moderaterne,Venstre,68,456,456.0,1.0,retspolitik
+Radikale Venstre,Danmarksdemokraterne,68,1189,642.0,0.5399495374264087,retspolitik
+Radikale Venstre,Dansk Folkeparti,68,2263,1154.0,0.5099425541316837,retspolitik
+Radikale Venstre,Det Konservative Folkeparti,68,2810,2092.0,0.7444839857651245,retspolitik
+Radikale Venstre,Enhedslisten,68,5562,3167.0,0.5693994965839626,retspolitik
+Radikale Venstre,Inuit Ataqatigiit,68,6,0.0,0.0,retspolitik
+Radikale Venstre,Liberal Alliance,68,3145,1814.0,0.5767885532591415,retspolitik
+Radikale Venstre,Moderaterne,68,41,23.0,0.5609756097560976,retspolitik
+Radikale Venstre,Radikale Venstre,68,4439,4439.0,1.0,retspolitik
+Radikale Venstre,Socialdemokratiet,68,6345,6344.0,0.9998423955870764,retspolitik
+Radikale Venstre,Socialistisk Folkeparti,68,3537,3458.0,0.9776646875883517,retspolitik
+Radikale Venstre,Uden for folketingsgrupperne,68,1794,1011.0,0.5635451505016722,retspolitik
+Radikale Venstre,Venstre,68,7820,5400.0,0.690537084398977,retspolitik
+Socialdemokratiet,Danmarksdemokraterne,68,3742,1985.0,0.5304649919828969,retspolitik
+Socialdemokratiet,Dansk Folkeparti,68,4563,2366.0,0.5185185185185185,retspolitik
+Socialdemokratiet,Det Konservative Folkeparti,68,4922,3657.0,0.7429906542056075,retspolitik
+Socialdemokratiet,Enhedslisten,68,9776,6014.0,0.6151800327332242,retspolitik
+Socialdemokratiet,Inuit Ataqatigiit,68,9,0.0,0.0,retspolitik
+Socialdemokratiet,Liberal Alliance,68,4570,2563.0,0.5608315098468272,retspolitik
+Socialdemokratiet,Moderaterne,68,275,165.0,0.6,retspolitik
+Socialdemokratiet,Radikale Venstre,68,8313,8311.0,0.999759412967641,retspolitik
+Socialdemokratiet,Socialdemokratiet,68,10537,10527.0,0.9990509632722786,retspolitik
+Socialdemokratiet,Socialistisk Folkeparti,68,5904,5664.0,0.959349593495935,retspolitik
+Socialdemokratiet,Uden for folketingsgrupperne,68,2860,1548.0,0.5412587412587413,retspolitik
+Socialdemokratiet,Venstre,68,14283,10018.0,0.7013932647202968,retspolitik
+Socialistisk Folkeparti,Danmarksdemokraterne,68,1477,764.0,0.5172647257955315,retspolitik
+Socialistisk Folkeparti,Dansk Folkeparti,68,1627,801.0,0.49231714812538413,retspolitik
+Socialistisk Folkeparti,Det Konservative Folkeparti,68,1928,1378.0,0.7147302904564315,retspolitik
+Socialistisk Folkeparti,Enhedslisten,68,3890,2502.0,0.6431876606683805,retspolitik
+Socialistisk Folkeparti,Inuit Ataqatigiit,68,3,0.0,0.0,retspolitik
+Socialistisk Folkeparti,Liberal Alliance,68,1838,1042.0,0.5669205658324266,retspolitik
+Socialistisk Folkeparti,Moderaterne,68,138,81.0,0.5869565217391305,retspolitik
+Socialistisk Folkeparti,Radikale Venstre,68,3729,3618.0,0.9702333065164923,retspolitik
+Socialistisk Folkeparti,Socialdemokratiet,68,4684,4494.0,0.9594363791631084,retspolitik
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,2130,2127.0,0.9985915492957746,retspolitik
+Socialistisk Folkeparti,Uden for folketingsgrupperne,68,1275,677.0,0.5309803921568628,retspolitik
+Socialistisk Folkeparti,Venstre,68,6436,4294.0,0.6671845866998135,retspolitik
+Uden for folketingsgrupperne,Danmarksdemokraterne,68,138,129.0,0.9347826086956522,retspolitik
+Uden for folketingsgrupperne,Dansk Folkeparti,68,484,483.0,0.9979338842975206,retspolitik
+Uden for folketingsgrupperne,Det Konservative Folkeparti,68,756,533.0,0.705026455026455,retspolitik
+Uden for folketingsgrupperne,Enhedslisten,68,1341,631.0,0.47054436987322895,retspolitik
+Uden for folketingsgrupperne,Inuit Ataqatigiit,68,1,0.0,0.0,retspolitik
+Uden for folketingsgrupperne,Liberal Alliance,68,815,505.0,0.6196319018404908,retspolitik
+Uden for folketingsgrupperne,Moderaterne,68,5,5.0,1.0,retspolitik
+Uden for folketingsgrupperne,Radikale Venstre,68,1265,637.0,0.5035573122529644,retspolitik
+Uden for folketingsgrupperne,Socialdemokratiet,68,1543,811.0,0.525599481529488,retspolitik
+Uden for folketingsgrupperne,Socialistisk Folkeparti,68,897,492.0,0.5484949832775919,retspolitik
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,68,321,247.0,0.7694704049844237,retspolitik
+Uden for folketingsgrupperne,Venstre,68,1608,1106.0,0.6878109452736318,retspolitik
+Venstre,Danmarksdemokraterne,68,4320,3035.0,0.7025462962962963,retspolitik
+Venstre,Dansk Folkeparti,68,5339,3780.0,0.7079977523880877,retspolitik
+Venstre,Det Konservative Folkeparti,68,6082,5521.0,0.9077606050641236,retspolitik
+Venstre,Enhedslisten,68,11706,4475.0,0.3822825901247224,retspolitik
+Venstre,Inuit Ataqatigiit,68,10,0.0,0.0,retspolitik
+Venstre,Liberal Alliance,68,6207,4759.0,0.7667149991944578,retspolitik
+Venstre,Moderaterne,68,315,301.0,0.9555555555555556,retspolitik
+Venstre,Radikale Venstre,68,10982,7697.0,0.7008741577126206,retspolitik
+Venstre,Socialdemokratiet,68,14149,10255.0,0.7247862039720122,retspolitik
+Venstre,Socialistisk Folkeparti,68,7135,4790.0,0.6713384723195515,retspolitik
+Venstre,Uden for folketingsgrupperne,68,3849,2714.0,0.7051182125227332,retspolitik
+Venstre,Venstre,68,17038,16745.0,0.9828031459091443,retspolitik
+Danmarksdemokraterne,Danmarksdemokraterne,67,713,679.0,0.9523141654978962,retspolitik
+Danmarksdemokraterne,Dansk Folkeparti,67,3106,3027.0,0.9745653573728268,retspolitik
+Danmarksdemokraterne,Det Konservative Folkeparti,67,1589,1429.0,0.8993077407174324,retspolitik
+Danmarksdemokraterne,Enhedslisten,67,759,290.0,0.3820816864295125,retspolitik
+Danmarksdemokraterne,Liberal Alliance,67,196,158.0,0.8061224489795918,retspolitik
+Danmarksdemokraterne,Moderaterne,67,39,39.0,1.0,retspolitik
+Danmarksdemokraterne,Radikale Venstre,67,619,315.0,0.5088852988691438,retspolitik
+Danmarksdemokraterne,Sambandsflokkurin,67,12,12.0,1.0,retspolitik
+Danmarksdemokraterne,Socialdemokratiet,67,7311,3848.0,0.526330187388866,retspolitik
+Danmarksdemokraterne,Socialistisk Folkeparti,67,2782,1391.0,0.5,retspolitik
+Danmarksdemokraterne,Uden for folketingsgrupperne,67,620,539.0,0.8693548387096774,retspolitik
+Danmarksdemokraterne,Venstre,67,7974,7187.0,0.9013042387760221,retspolitik
+Dansk Folkeparti,Danmarksdemokraterne,67,451,451.0,1.0,retspolitik
+Dansk Folkeparti,Dansk Folkeparti,67,2940,2940.0,1.0,retspolitik
+Dansk Folkeparti,Det Konservative Folkeparti,67,1935,1715.0,0.8863049095607235,retspolitik
+Dansk Folkeparti,Enhedslisten,67,843,311.0,0.36892052194543296,retspolitik
+Dansk Folkeparti,Liberal Alliance,67,393,319.0,0.811704834605598,retspolitik
+Dansk Folkeparti,Moderaterne,67,37,37.0,1.0,retspolitik
+Dansk Folkeparti,Radikale Venstre,67,688,333.0,0.48401162790697677,retspolitik
+Dansk Folkeparti,Socialdemokratiet,67,6622,3378.0,0.5101177891875567,retspolitik
+Dansk Folkeparti,Socialistisk Folkeparti,67,2834,1269.0,0.4477769936485533,retspolitik
+Dansk Folkeparti,Uden for folketingsgrupperne,67,774,598.0,0.772609819121447,retspolitik
+Dansk Folkeparti,Venstre,67,7017,6243.0,0.8896964514749893,retspolitik
+Det Konservative Folkeparti,Danmarksdemokraterne,67,636,584.0,0.9182389937106918,retspolitik
+Det Konservative Folkeparti,Dansk Folkeparti,67,2409,2147.0,0.8912411789124118,retspolitik
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,1107,1107.0,1.0,retspolitik
+Det Konservative Folkeparti,Enhedslisten,67,698,329.0,0.4713467048710602,retspolitik
+Det Konservative Folkeparti,Liberal Alliance,67,225,196.0,0.8711111111111111,retspolitik
+Det Konservative Folkeparti,Moderaterne,67,32,32.0,1.0,retspolitik
+Det Konservative Folkeparti,Radikale Venstre,67,527,327.0,0.6204933586337761,retspolitik
+Det Konservative Folkeparti,Sambandsflokkurin,67,7,7.0,1.0,retspolitik
+Det Konservative Folkeparti,Socialdemokratiet,67,5360,3307.0,0.6169776119402985,retspolitik
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,2130,1261.0,0.592018779342723,retspolitik
+Det Konservative Folkeparti,Uden for folketingsgrupperne,67,540,436.0,0.8074074074074075,retspolitik
+Det Konservative Folkeparti,Venstre,67,5926,5926.0,1.0,retspolitik
+Enhedslisten,Danmarksdemokraterne,67,291,108.0,0.3711340206185567,retspolitik
+Enhedslisten,Dansk Folkeparti,67,1175,430.0,0.3659574468085106,retspolitik
+Enhedslisten,Det Konservative Folkeparti,67,545,223.0,0.4091743119266055,retspolitik
+Enhedslisten,Enhedslisten,67,177,154.0,0.8700564971751412,retspolitik
+Enhedslisten,Liberal Alliance,67,133,54.0,0.40601503759398494,retspolitik
+Enhedslisten,Moderaterne,67,15,3.0,0.2,retspolitik
+Enhedslisten,Radikale Venstre,67,203,153.0,0.7536945812807881,retspolitik
+Enhedslisten,Socialdemokratiet,67,2368,1708.0,0.7212837837837838,retspolitik
+Enhedslisten,Socialistisk Folkeparti,67,1105,853.0,0.7719457013574661,retspolitik
+Enhedslisten,Uden for folketingsgrupperne,67,254,125.0,0.4921259842519685,retspolitik
+Enhedslisten,Venstre,67,2643,1056.0,0.3995459704880817,retspolitik
+Liberal Alliance,Danmarksdemokraterne,67,218,190.0,0.8715596330275229,retspolitik
+Liberal Alliance,Dansk Folkeparti,67,365,309.0,0.8465753424657534,retspolitik
+Liberal Alliance,Det Konservative Folkeparti,67,245,228.0,0.9306122448979591,retspolitik
+Liberal Alliance,Enhedslisten,67,101,47.0,0.46534653465346537,retspolitik
+Liberal Alliance,Moderaterne,67,14,13.0,0.9285714285714286,retspolitik
+Liberal Alliance,Radikale Venstre,67,84,54.0,0.6428571428571429,retspolitik
+Liberal Alliance,Sambandsflokkurin,67,2,1.0,0.5,retspolitik
+Liberal Alliance,Socialdemokratiet,67,1135,646.0,0.5691629955947136,retspolitik
+Liberal Alliance,Socialistisk Folkeparti,67,438,247.0,0.5639269406392694,retspolitik
+Liberal Alliance,Uden for folketingsgrupperne,67,80,64.0,0.8,retspolitik
+Liberal Alliance,Venstre,67,1280,1195.0,0.93359375,retspolitik
+Moderaterne,Danmarksdemokraterne,67,18,18.0,1.0,retspolitik
+Moderaterne,Dansk Folkeparti,67,53,53.0,1.0,retspolitik
+Moderaterne,Det Konservative Folkeparti,67,28,28.0,1.0,retspolitik
+Moderaterne,Enhedslisten,67,6,2.0,0.3333333333333333,retspolitik
+Moderaterne,Radikale Venstre,67,13,3.0,0.23076923076923078,retspolitik
+Moderaterne,Socialdemokratiet,67,142,38.0,0.2676056338028169,retspolitik
+Moderaterne,Socialistisk Folkeparti,67,20,5.0,0.25,retspolitik
+Moderaterne,Uden for folketingsgrupperne,67,10,5.0,0.5,retspolitik
+Moderaterne,Venstre,67,94,94.0,1.0,retspolitik
+Radikale Venstre,Danmarksdemokraterne,67,133,67.0,0.5037593984962406,retspolitik
+Radikale Venstre,Dansk Folkeparti,67,682,346.0,0.5073313782991202,retspolitik
+Radikale Venstre,Det Konservative Folkeparti,67,341,209.0,0.6129032258064516,retspolitik
+Radikale Venstre,Enhedslisten,67,227,170.0,0.748898678414097,retspolitik
+Radikale Venstre,Liberal Alliance,67,65,35.0,0.5384615384615384,retspolitik
+Radikale Venstre,Radikale Venstre,67,97,97.0,1.0,retspolitik
+Radikale Venstre,Socialdemokratiet,67,1180,1027.0,0.8703389830508474,retspolitik
+Radikale Venstre,Socialistisk Folkeparti,67,563,462.0,0.8206039076376554,retspolitik
+Radikale Venstre,Uden for folketingsgrupperne,67,79,59.0,0.7468354430379747,retspolitik
+Radikale Venstre,Venstre,67,1047,624.0,0.5959885386819485,retspolitik
+Sambandsflokkurin,Danmarksdemokraterne,67,19,19.0,1.0,retspolitik
+Sambandsflokkurin,Dansk Folkeparti,67,45,45.0,1.0,retspolitik
+Sambandsflokkurin,Det Konservative Folkeparti,67,20,20.0,1.0,retspolitik
+Sambandsflokkurin,Enhedslisten,67,17,4.0,0.23529411764705882,retspolitik
+Sambandsflokkurin,Liberal Alliance,67,4,4.0,1.0,retspolitik
+Sambandsflokkurin,Moderaterne,67,3,3.0,1.0,retspolitik
+Sambandsflokkurin,Radikale Venstre,67,12,6.0,0.5,retspolitik
+Sambandsflokkurin,Socialdemokratiet,67,124,70.0,0.5645161290322581,retspolitik
+Sambandsflokkurin,Socialistisk Folkeparti,67,49,21.0,0.42857142857142855,retspolitik
+Sambandsflokkurin,Uden for folketingsgrupperne,67,11,10.0,0.9090909090909091,retspolitik
+Sambandsflokkurin,Venstre,67,156,156.0,1.0,retspolitik
+Socialdemokratiet,Danmarksdemokraterne,67,3201,1599.0,0.49953139643861294,retspolitik
+Socialdemokratiet,Dansk Folkeparti,67,13381,6627.0,0.4952544652866004,retspolitik
+Socialdemokratiet,Det Konservative Folkeparti,67,7075,4267.0,0.6031095406360424,retspolitik
+Socialdemokratiet,Enhedslisten,67,3454,2686.0,0.7776491024898669,retspolitik
+Socialdemokratiet,Liberal Alliance,67,1103,648.0,0.5874886672710788,retspolitik
+Socialdemokratiet,Moderaterne,67,184,50.0,0.2717391304347826,retspolitik
+Socialdemokratiet,Radikale Venstre,67,2770,2405.0,0.868231046931408,retspolitik
+Socialdemokratiet,Sambandsflokkurin,67,30,18.0,0.6,retspolitik
+Socialdemokratiet,Socialdemokratiet,67,27941,27437.0,0.9819619913388926,retspolitik
+Socialdemokratiet,Socialistisk Folkeparti,67,11396,10637.0,0.9333976833976834,retspolitik
+Socialdemokratiet,Uden for folketingsgrupperne,67,2923,1678.0,0.5740677386247006,retspolitik
+Socialdemokratiet,Venstre,67,30857,18114.0,0.5870304955115533,retspolitik
+Socialistisk Folkeparti,Danmarksdemokraterne,67,1161,575.0,0.49526270456503013,retspolitik
+Socialistisk Folkeparti,Dansk Folkeparti,67,4739,2271.0,0.4792150242667229,retspolitik
+Socialistisk Folkeparti,Det Konservative Folkeparti,67,2598,1483.0,0.5708237105465743,retspolitik
+Socialistisk Folkeparti,Enhedslisten,67,1089,913.0,0.8383838383838383,retspolitik
+Socialistisk Folkeparti,Liberal Alliance,67,391,224.0,0.5728900255754475,retspolitik
+Socialistisk Folkeparti,Moderaterne,67,63,17.0,0.2698412698412698,retspolitik
+Socialistisk Folkeparti,Radikale Venstre,67,943,779.0,0.8260869565217391,retspolitik
+Socialistisk Folkeparti,Sambandsflokkurin,67,6,4.0,0.6666666666666666,retspolitik
+Socialistisk Folkeparti,Socialdemokratiet,67,10327,9574.0,0.9270843420160744,retspolitik
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,3598,3592.0,0.9983324068927182,retspolitik
+Socialistisk Folkeparti,Uden for folketingsgrupperne,67,1061,566.0,0.5334590009425071,retspolitik
+Socialistisk Folkeparti,Venstre,67,12155,6956.0,0.57227478403949,retspolitik
+Uden for folketingsgrupperne,Danmarksdemokraterne,67,104,99.0,0.9519230769230769,retspolitik
+Uden for folketingsgrupperne,Dansk Folkeparti,67,634,634.0,1.0,retspolitik
+Uden for folketingsgrupperne,Det Konservative Folkeparti,67,387,339.0,0.875968992248062,retspolitik
+Uden for folketingsgrupperne,Enhedslisten,67,157,58.0,0.36942675159235666,retspolitik
+Uden for folketingsgrupperne,Liberal Alliance,67,61,50.0,0.819672131147541,retspolitik
+Uden for folketingsgrupperne,Moderaterne,67,15,15.0,1.0,retspolitik
+Uden for folketingsgrupperne,Radikale Venstre,67,224,106.0,0.4732142857142857,retspolitik
+Uden for folketingsgrupperne,Socialdemokratiet,67,1236,614.0,0.4967637540453074,retspolitik
+Uden for folketingsgrupperne,Socialistisk Folkeparti,67,479,225.0,0.4697286012526096,retspolitik
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,67,86,61.0,0.7093023255813954,retspolitik
+Uden for folketingsgrupperne,Venstre,67,1249,1084.0,0.8678943154523618,retspolitik
+Venstre,Danmarksdemokraterne,67,4188,3856.0,0.9207258834765998,retspolitik
+Venstre,Dansk Folkeparti,67,16397,14583.0,0.8893700067085443,retspolitik
+Venstre,Det Konservative Folkeparti,67,8763,8758.0,0.9994294191486933,retspolitik
+Venstre,Enhedslisten,67,4126,1801.0,0.4365002423654872,retspolitik
+Venstre,Liberal Alliance,67,1283,1090.0,0.8495713172252534,retspolitik
+Venstre,Moderaterne,67,236,235.0,0.9957627118644068,retspolitik
+Venstre,Radikale Venstre,67,3556,2112.0,0.59392575928009,retspolitik
+Venstre,Sambandsflokkurin,67,17,17.0,1.0,retspolitik
+Venstre,Socialdemokratiet,67,36900,22048.0,0.5975067750677506,retspolitik
+Venstre,Socialistisk Folkeparti,67,13295,7587.0,0.5706656637833772,retspolitik
+Venstre,Uden for folketingsgrupperne,67,3616,2988.0,0.8263274336283186,retspolitik
+Venstre,Venstre,67,37911,37890.0,0.9994460710611696,retspolitik
+Alternativet,Liberal Alliance,69,23,6.0,0.2608695652173913,retspolitik
+Alternativet,Radikale Venstre,69,11,8.0,0.7272727272727273,retspolitik
+Danmarksdemokraterne,Alternativet,69,150,34.0,0.22666666666666666,retspolitik
+Danmarksdemokraterne,Danmarksdemokraterne,69,1961,1852.0,0.944416114227435,retspolitik
+Danmarksdemokraterne,Dansk Folkeparti,69,4024,3915.0,0.9729125248508946,retspolitik
+Danmarksdemokraterne,Det Konservative Folkeparti,69,134,113.0,0.8432835820895522,retspolitik
+Danmarksdemokraterne,Enhedslisten,69,3129,1108.0,0.35410674336848835,retspolitik
+Danmarksdemokraterne,Liberal Alliance,69,3825,3176.0,0.8303267973856209,retspolitik
+Danmarksdemokraterne,Moderaterne,69,218,177.0,0.8119266055045872,retspolitik
+Danmarksdemokraterne,Radikale Venstre,69,3415,1953.0,0.5718887262079063,retspolitik
+Danmarksdemokraterne,Socialdemokratiet,69,13378,9091.0,0.6795485124831814,retspolitik
+Danmarksdemokraterne,Socialistisk Folkeparti,69,2098,921.0,0.43898951382268825,retspolitik
+Danmarksdemokraterne,Uden for folketingsgrupperne,69,2031,1900.0,0.9354997538158543,retspolitik
+Danmarksdemokraterne,Venstre,69,12146,10361.0,0.8530380372138976,retspolitik
+Dansk Folkeparti,Alternativet,69,158,28.0,0.17721518987341772,retspolitik
+Dansk Folkeparti,Danmarksdemokraterne,69,1509,1463.0,0.9695162359178264,retspolitik
+Dansk Folkeparti,Dansk Folkeparti,69,2865,2856.0,0.9968586387434555,retspolitik
+Dansk Folkeparti,Det Konservative Folkeparti,69,111,94.0,0.8468468468468469,retspolitik
+Dansk Folkeparti,Enhedslisten,69,2917,962.0,0.3297908810421666,retspolitik
+Dansk Folkeparti,Liberal Alliance,69,2674,2169.0,0.8111443530291698,retspolitik
+Dansk Folkeparti,Moderaterne,69,116,89.0,0.7672413793103449,retspolitik
+Dansk Folkeparti,Radikale Venstre,69,2870,1582.0,0.551219512195122,retspolitik
+Dansk Folkeparti,Socialdemokratiet,69,10456,6741.0,0.6447016067329763,retspolitik
+Dansk Folkeparti,Socialistisk Folkeparti,69,1098,459.0,0.4180327868852459,retspolitik
+Dansk Folkeparti,Uden for folketingsgrupperne,69,1406,1287.0,0.9153627311522048,retspolitik
+Dansk Folkeparti,Venstre,69,9440,7933.0,0.8403601694915255,retspolitik
+Det Konservative Folkeparti,Alternativet,69,6,3.0,0.5,retspolitik
+Det Konservative Folkeparti,Danmarksdemokraterne,69,228,191.0,0.8377192982456141,retspolitik
+Det Konservative Folkeparti,Dansk Folkeparti,69,369,306.0,0.8292682926829268,retspolitik
+Det Konservative Folkeparti,Det Konservative Folkeparti,69,16,16.0,1.0,retspolitik
+Det Konservative Folkeparti,Enhedslisten,69,339,145.0,0.4277286135693215,retspolitik
+Det Konservative Folkeparti,Liberal Alliance,69,247,225.0,0.9109311740890689,retspolitik
+Det Konservative Folkeparti,Moderaterne,69,33,29.0,0.8787878787878788,retspolitik
+Det Konservative Folkeparti,Radikale Venstre,69,233,144.0,0.6180257510729614,retspolitik
+Det Konservative Folkeparti,Socialdemokratiet,69,947,736.0,0.7771911298838438,retspolitik
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,162,81.0,0.5,retspolitik
+Det Konservative Folkeparti,Uden for folketingsgrupperne,69,121,103.0,0.8512396694214877,retspolitik
+Det Konservative Folkeparti,Venstre,69,1034,959.0,0.9274661508704062,retspolitik
+Enhedslisten,Alternativet,69,111,95.0,0.8558558558558559,retspolitik
+Enhedslisten,Danmarksdemokraterne,69,1568,568.0,0.3622448979591837,retspolitik
+Enhedslisten,Dansk Folkeparti,69,2705,983.0,0.3634011090573013,retspolitik
+Enhedslisten,Det Konservative Folkeparti,69,67,37.0,0.5522388059701493,retspolitik
+Enhedslisten,Enhedslisten,69,1907,1907.0,1.0,retspolitik
+Enhedslisten,Liberal Alliance,69,2491,916.0,0.3677238057005219,retspolitik
+Enhedslisten,Moderaterne,69,179,76.0,0.4245810055865922,retspolitik
+Enhedslisten,Radikale Venstre,69,2238,1450.0,0.647899910634495,retspolitik
+Enhedslisten,Socialdemokratiet,69,9306,5038.0,0.541371158392435,retspolitik
+Enhedslisten,Socialistisk Folkeparti,69,1383,1142.0,0.8257411424439624,retspolitik
+Enhedslisten,Uden for folketingsgrupperne,69,1208,384.0,0.31788079470198677,retspolitik
+Enhedslisten,Venstre,69,8769,3440.0,0.3922910252024176,retspolitik
+Liberal Alliance,Alternativet,69,98,17.0,0.17346938775510204,retspolitik
+Liberal Alliance,Danmarksdemokraterne,69,268,207.0,0.7723880597014925,retspolitik
+Liberal Alliance,Dansk Folkeparti,69,2151,1747.0,0.8121803812180381,retspolitik
+Liberal Alliance,Det Konservative Folkeparti,69,49,43.0,0.8775510204081632,retspolitik
+Liberal Alliance,Enhedslisten,69,1625,596.0,0.3667692307692308,retspolitik
+Liberal Alliance,Liberal Alliance,69,1365,1360.0,0.9963369963369964,retspolitik
+Liberal Alliance,Moderaterne,69,12,9.0,0.75,retspolitik
+Liberal Alliance,Radikale Venstre,69,1864,1163.0,0.6239270386266095,retspolitik
+Liberal Alliance,Socialdemokratiet,69,6034,4512.0,0.7477626781571097,retspolitik
+Liberal Alliance,Socialistisk Folkeparti,69,513,226.0,0.4405458089668616,retspolitik
+Liberal Alliance,Uden for folketingsgrupperne,69,848,742.0,0.875,retspolitik
+Liberal Alliance,Venstre,69,4870,4598.0,0.9441478439425052,retspolitik
+Moderaterne,Alternativet,69,4,0.0,0.0,retspolitik
+Moderaterne,Danmarksdemokraterne,69,104,75.0,0.7211538461538461,retspolitik
+Moderaterne,Dansk Folkeparti,69,284,214.0,0.7535211267605634,retspolitik
+Moderaterne,Det Konservative Folkeparti,69,7,7.0,1.0,retspolitik
+Moderaterne,Enhedslisten,69,157,74.0,0.4713375796178344,retspolitik
+Moderaterne,Liberal Alliance,69,264,239.0,0.9053030303030303,retspolitik
+Moderaterne,Radikale Venstre,69,225,153.0,0.68,retspolitik
+Moderaterne,Socialdemokratiet,69,912,744.0,0.8157894736842105,retspolitik
+Moderaterne,Socialistisk Folkeparti,69,120,64.0,0.5333333333333333,retspolitik
+Moderaterne,Uden for folketingsgrupperne,69,133,104.0,0.7819548872180451,retspolitik
+Moderaterne,Venstre,69,744,744.0,1.0,retspolitik
+Radikale Venstre,Alternativet,69,126,85.0,0.6746031746031746,retspolitik
+Radikale Venstre,Danmarksdemokraterne,69,681,383.0,0.5624082232011748,retspolitik
+Radikale Venstre,Dansk Folkeparti,69,1958,1055.0,0.5388151174668029,retspolitik
+Radikale Venstre,Det Konservative Folkeparti,69,65,52.0,0.8,retspolitik
+Radikale Venstre,Enhedslisten,69,1794,1165.0,0.649386845039019,retspolitik
+Radikale Venstre,Liberal Alliance,69,1699,1133.0,0.6668628605061802,retspolitik
+Radikale Venstre,Moderaterne,69,28,20.0,0.7142857142857143,retspolitik
+Radikale Venstre,Radikale Venstre,69,1357,1350.0,0.9948415622697127,retspolitik
+Radikale Venstre,Socialdemokratiet,69,6269,4980.0,0.7943850693890573,retspolitik
+Radikale Venstre,Socialistisk Folkeparti,69,391,290.0,0.7416879795396419,retspolitik
+Radikale Venstre,Uden for folketingsgrupperne,69,669,400.0,0.5979073243647235,retspolitik
+Radikale Venstre,Venstre,69,5223,3607.0,0.6905992724487843,retspolitik
+Socialdemokratiet,Alternativet,69,547,326.0,0.5959780621572212,retspolitik
+Socialdemokratiet,Danmarksdemokraterne,69,4617,3089.0,0.6690491661251895,retspolitik
+Socialdemokratiet,Dansk Folkeparti,69,10907,6911.0,0.6336297790409828,retspolitik
+Socialdemokratiet,Det Konservative Folkeparti,69,324,270.0,0.8333333333333334,retspolitik
+Socialdemokratiet,Enhedslisten,69,8501,4522.0,0.5319374191271615,retspolitik
+Socialdemokratiet,Liberal Alliance,69,9363,7028.0,0.7506141194061733,retspolitik
+Socialdemokratiet,Moderaterne,69,307,236.0,0.7687296416938111,retspolitik
+Socialdemokratiet,Radikale Venstre,69,9232,7313.0,0.792136048526863,retspolitik
+Socialdemokratiet,Socialdemokratiet,69,32742,32081.0,0.9798118624396799,retspolitik
+Socialdemokratiet,Socialistisk Folkeparti,69,3899,2553.0,0.6547832777635291,retspolitik
+Socialdemokratiet,Uden for folketingsgrupperne,69,4867,3178.0,0.6529689747277584,retspolitik
+Socialdemokratiet,Venstre,69,30195,23728.0,0.7858254677926809,retspolitik
+Socialistisk Folkeparti,Alternativet,69,81,57.0,0.7037037037037037,retspolitik
+Socialistisk Folkeparti,Danmarksdemokraterne,69,435,210.0,0.4827586206896552,retspolitik
+Socialistisk Folkeparti,Dansk Folkeparti,69,1948,823.0,0.4224845995893224,retspolitik
+Socialistisk Folkeparti,Det Konservative Folkeparti,69,55,32.0,0.5818181818181818,retspolitik
+Socialistisk Folkeparti,Enhedslisten,69,1134,892.0,0.7865961199294532,retspolitik
+Socialistisk Folkeparti,Liberal Alliance,69,1667,813.0,0.4877024595080984,retspolitik
+Socialistisk Folkeparti,Moderaterne,69,58,31.0,0.5344827586206896,retspolitik
+Socialistisk Folkeparti,Radikale Venstre,69,1834,1354.0,0.7382769901853872,retspolitik
+Socialistisk Folkeparti,Socialdemokratiet,69,5707,3732.0,0.6539337655510776,retspolitik
+Socialistisk Folkeparti,Socialistisk Folkeparti,69,443,443.0,1.0,retspolitik
+Socialistisk Folkeparti,Uden for folketingsgrupperne,69,1091,449.0,0.41154903758020167,retspolitik
+Socialistisk Folkeparti,Venstre,69,5077,2606.0,0.5132952531022257,retspolitik
+Uden for folketingsgrupperne,Alternativet,69,75,14.0,0.18666666666666668,retspolitik
+Uden for folketingsgrupperne,Danmarksdemokraterne,69,27,26.0,0.9629629629629629,retspolitik
+Uden for folketingsgrupperne,Dansk Folkeparti,69,1102,1102.0,1.0,retspolitik
+Uden for folketingsgrupperne,Det Konservative Folkeparti,69,21,19.0,0.9047619047619048,retspolitik
+Uden for folketingsgrupperne,Enhedslisten,69,815,249.0,0.30552147239263805,retspolitik
+Uden for folketingsgrupperne,Liberal Alliance,69,901,768.0,0.8523862375138734,retspolitik
+Uden for folketingsgrupperne,Radikale Venstre,69,1154,597.0,0.5173310225303293,retspolitik
+Uden for folketingsgrupperne,Socialdemokratiet,69,3149,2052.0,0.6516354398221658,retspolitik
+Uden for folketingsgrupperne,Socialistisk Folkeparti,69,51,21.0,0.4117647058823529,retspolitik
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,69,294,266.0,0.9047619047619048,retspolitik
+Uden for folketingsgrupperne,Venstre,69,2473,2135.0,0.8633238980994743,retspolitik
+Venstre,Alternativet,69,468,138.0,0.2948717948717949,retspolitik
+Venstre,Danmarksdemokraterne,69,4226,3570.0,0.8447704685281591,retspolitik
+Venstre,Dansk Folkeparti,69,10151,8462.0,0.8336124519751749,retspolitik
+Venstre,Det Konservative Folkeparti,69,359,351.0,0.9777158774373259,retspolitik
+Venstre,Enhedslisten,69,7603,2976.0,0.39142443772195185,retspolitik
+Venstre,Liberal Alliance,69,9199,8779.0,0.9543428633547125,retspolitik
+Venstre,Moderaterne,69,363,363.0,1.0,retspolitik
+Venstre,Radikale Venstre,69,8979,6201.0,0.6906114266622119,retspolitik
+Venstre,Socialdemokratiet,69,32620,25818.0,0.791477621091355,retspolitik
+Venstre,Socialistisk Folkeparti,69,3860,1959.0,0.5075129533678756,retspolitik
+Venstre,Uden for folketingsgrupperne,69,4777,4104.0,0.8591166003768055,retspolitik
+Venstre,Venstre,69,27115,27115.0,1.0,retspolitik
+Danmarksdemokraterne,Danmarksdemokraterne,66,664,643.0,0.9683734939759037,retspolitik
+Danmarksdemokraterne,Dansk Folkeparti,66,1792,1745.0,0.9737723214285714,retspolitik
+Danmarksdemokraterne,Det Konservative Folkeparti,66,1442,1372.0,0.9514563106796117,retspolitik
+Danmarksdemokraterne,Enhedslisten,66,565,172.0,0.30442477876106194,retspolitik
+Danmarksdemokraterne,Liberal Alliance,66,225,215.0,0.9555555555555556,retspolitik
+Danmarksdemokraterne,Moderaterne,66,54,50.0,0.9259259259259259,retspolitik
+Danmarksdemokraterne,Radikale Venstre,66,972,536.0,0.551440329218107,retspolitik
+Danmarksdemokraterne,Siumut,66,7,0.0,0.0,retspolitik
+Danmarksdemokraterne,Socialdemokratiet,66,4075,2388.0,0.5860122699386503,retspolitik
+Danmarksdemokraterne,Socialistisk Folkeparti,66,896,340.0,0.3794642857142857,retspolitik
+Danmarksdemokraterne,Uden for folketingsgrupperne,66,809,621.0,0.7676143386897404,retspolitik
+Danmarksdemokraterne,Venstre,66,5449,5201.0,0.9544870618462103,retspolitik
+Dansk Folkeparti,Danmarksdemokraterne,66,668,668.0,1.0,retspolitik
+Dansk Folkeparti,Dansk Folkeparti,66,1534,1534.0,1.0,retspolitik
+Dansk Folkeparti,Det Konservative Folkeparti,66,1016,942.0,0.9271653543307087,retspolitik
+Dansk Folkeparti,Enhedslisten,66,593,180.0,0.30354131534569984,retspolitik
+Dansk Folkeparti,Liberal Alliance,66,203,189.0,0.9310344827586207,retspolitik
+Dansk Folkeparti,Moderaterne,66,56,52.0,0.9285714285714286,retspolitik
+Dansk Folkeparti,Radikale Venstre,66,1109,566.0,0.5103697024346258,retspolitik
+Dansk Folkeparti,Siumut,66,4,0.0,0.0,retspolitik
+Dansk Folkeparti,Socialdemokratiet,66,3552,1976.0,0.5563063063063063,retspolitik
+Dansk Folkeparti,Socialistisk Folkeparti,66,1120,440.0,0.39285714285714285,retspolitik
+Dansk Folkeparti,Uden for folketingsgrupperne,66,1110,741.0,0.6675675675675675,retspolitik
+Dansk Folkeparti,Venstre,66,4900,4569.0,0.9324489795918367,retspolitik
+Det Konservative Folkeparti,Danmarksdemokraterne,66,936,885.0,0.9455128205128205,retspolitik
+Det Konservative Folkeparti,Dansk Folkeparti,66,2437,2243.0,0.9203939269593763,retspolitik
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,1408,1408.0,1.0,retspolitik
+Det Konservative Folkeparti,Enhedslisten,66,803,248.0,0.30884184308841844,retspolitik
+Det Konservative Folkeparti,Liberal Alliance,66,313,310.0,0.9904153354632588,retspolitik
+Det Konservative Folkeparti,Moderaterne,66,81,81.0,1.0,retspolitik
+Det Konservative Folkeparti,Radikale Venstre,66,1463,852.0,0.582365003417635,retspolitik
+Det Konservative Folkeparti,Siumut,66,11,0.0,0.0,retspolitik
+Det Konservative Folkeparti,Socialdemokratiet,66,5437,3432.0,0.6312304579731469,retspolitik
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,1212,466.0,0.3844884488448845,retspolitik
+Det Konservative Folkeparti,Uden for folketingsgrupperne,66,1174,922.0,0.7853492333901193,retspolitik
+Det Konservative Folkeparti,Venstre,66,6808,6800.0,0.9988249118683902,retspolitik
+Enhedslisten,Danmarksdemokraterne,66,298,89.0,0.2986577181208054,retspolitik
+Enhedslisten,Dansk Folkeparti,66,670,205.0,0.30597014925373134,retspolitik
+Enhedslisten,Det Konservative Folkeparti,66,425,126.0,0.2964705882352941,retspolitik
+Enhedslisten,Enhedslisten,66,141,140.0,0.9929078014184397,retspolitik
+Enhedslisten,Liberal Alliance,66,79,29.0,0.3670886075949367,retspolitik
+Enhedslisten,Moderaterne,66,16,8.0,0.5,retspolitik
+Enhedslisten,Radikale Venstre,66,318,173.0,0.5440251572327044,retspolitik
+Enhedslisten,Siumut,66,3,2.0,0.6666666666666666,retspolitik
+Enhedslisten,Socialdemokratiet,66,1331,810.0,0.608564988730278,retspolitik
+Enhedslisten,Socialistisk Folkeparti,66,403,356.0,0.8833746898263027,retspolitik
+Enhedslisten,Uden for folketingsgrupperne,66,367,181.0,0.49318801089918257,retspolitik
+Enhedslisten,Venstre,66,1875,583.0,0.31093333333333334,retspolitik
+Liberal Alliance,Danmarksdemokraterne,66,93,86.0,0.9247311827956989,retspolitik
+Liberal Alliance,Dansk Folkeparti,66,257,235.0,0.914396887159533,retspolitik
+Liberal Alliance,Det Konservative Folkeparti,66,136,134.0,0.9852941176470589,retspolitik
+Liberal Alliance,Enhedslisten,66,101,33.0,0.32673267326732675,retspolitik
+Liberal Alliance,Radikale Venstre,66,225,145.0,0.6444444444444445,retspolitik
+Liberal Alliance,Socialdemokratiet,66,563,388.0,0.6891651865008881,retspolitik
+Liberal Alliance,Socialistisk Folkeparti,66,125,51.0,0.408,retspolitik
+Liberal Alliance,Uden for folketingsgrupperne,66,141,110.0,0.7801418439716312,retspolitik
+Liberal Alliance,Venstre,66,559,551.0,0.9856887298747764,retspolitik
+Moderaterne,Danmarksdemokraterne,66,21,21.0,1.0,retspolitik
+Moderaterne,Dansk Folkeparti,66,74,68.0,0.918918918918919,retspolitik
+Moderaterne,Det Konservative Folkeparti,66,39,39.0,1.0,retspolitik
+Moderaterne,Enhedslisten,66,27,13.0,0.48148148148148145,retspolitik
+Moderaterne,Liberal Alliance,66,16,16.0,1.0,retspolitik
+Moderaterne,Radikale Venstre,66,57,44.0,0.7719298245614035,retspolitik
+Moderaterne,Socialdemokratiet,66,143,98.0,0.6853146853146853,retspolitik
+Moderaterne,Socialistisk Folkeparti,66,34,19.0,0.5588235294117647,retspolitik
+Moderaterne,Uden for folketingsgrupperne,66,45,38.0,0.8444444444444444,retspolitik
+Moderaterne,Venstre,66,149,149.0,1.0,retspolitik
+Radikale Venstre,Danmarksdemokraterne,66,394,212.0,0.5380710659898477,retspolitik
+Radikale Venstre,Dansk Folkeparti,66,788,390.0,0.4949238578680203,retspolitik
+Radikale Venstre,Det Konservative Folkeparti,66,345,198.0,0.5739130434782609,retspolitik
+Radikale Venstre,Enhedslisten,66,323,198.0,0.6130030959752322,retspolitik
+Radikale Venstre,Radikale Venstre,66,400,396.0,0.99,retspolitik
+Radikale Venstre,Socialdemokratiet,66,1531,1147.0,0.7491835401698237,retspolitik
+Radikale Venstre,Socialistisk Folkeparti,66,525,349.0,0.6647619047619048,retspolitik
+Radikale Venstre,Uden for folketingsgrupperne,66,608,482.0,0.7927631578947368,retspolitik
+Radikale Venstre,Venstre,66,2211,1237.0,0.5594753505201266,retspolitik
+Siumut,Danmarksdemokraterne,66,2,0.0,0.0,retspolitik
+Siumut,Dansk Folkeparti,66,5,0.0,0.0,retspolitik
+Siumut,Det Konservative Folkeparti,66,5,0.0,0.0,retspolitik
+Siumut,Enhedslisten,66,1,1.0,1.0,retspolitik
+Siumut,Liberal Alliance,66,1,0.0,0.0,retspolitik
+Siumut,Radikale Venstre,66,8,0.0,0.0,retspolitik
+Siumut,Socialdemokratiet,66,13,1.0,0.07692307692307693,retspolitik
+Siumut,Socialistisk Folkeparti,66,5,2.0,0.4,retspolitik
+Siumut,Uden for folketingsgrupperne,66,4,0.0,0.0,retspolitik
+Siumut,Venstre,66,14,0.0,0.0,retspolitik
+Socialdemokratiet,Danmarksdemokraterne,66,2069,1265.0,0.611406476558724,retspolitik
+Socialdemokratiet,Dansk Folkeparti,66,5421,3138.0,0.5788599889319314,retspolitik
+Socialdemokratiet,Det Konservative Folkeparti,66,3179,2060.0,0.6480025165146273,retspolitik
+Socialdemokratiet,Enhedslisten,66,1793,1084.0,0.6045733407696597,retspolitik
+Socialdemokratiet,Liberal Alliance,66,589,428.0,0.7266553480475382,retspolitik
+Socialdemokratiet,Moderaterne,66,155,113.0,0.7290322580645161,retspolitik
+Socialdemokratiet,Radikale Venstre,66,3153,2460.0,0.780209324452902,retspolitik
+Socialdemokratiet,Siumut,66,18,0.0,0.0,retspolitik
+Socialdemokratiet,Socialdemokratiet,66,10499,10155.0,0.9672349747595009,retspolitik
+Socialdemokratiet,Socialistisk Folkeparti,66,2911,2162.0,0.7427001030573686,retspolitik
+Socialdemokratiet,Uden for folketingsgrupperne,66,2787,1938.0,0.6953713670613563,retspolitik
+Socialdemokratiet,Venstre,66,14502,9065.0,0.6250861950075851,retspolitik
+Socialistisk Folkeparti,Danmarksdemokraterne,66,670,245.0,0.3656716417910448,retspolitik
+Socialistisk Folkeparti,Dansk Folkeparti,66,1240,446.0,0.3596774193548387,retspolitik
+Socialistisk Folkeparti,Det Konservative Folkeparti,66,1034,399.0,0.3858800773694391,retspolitik
+Socialistisk Folkeparti,Enhedslisten,66,429,387.0,0.9020979020979021,retspolitik
+Socialistisk Folkeparti,Liberal Alliance,66,179,69.0,0.3854748603351955,retspolitik
+Socialistisk Folkeparti,Moderaterne,66,53,26.0,0.49056603773584906,retspolitik
+Socialistisk Folkeparti,Radikale Venstre,66,667,486.0,0.7286356821589205,retspolitik
+Socialistisk Folkeparti,Siumut,66,3,2.0,0.6666666666666666,retspolitik
+Socialistisk Folkeparti,Socialdemokratiet,66,2871,2139.0,0.7450365726227796,retspolitik
+Socialistisk Folkeparti,Socialistisk Folkeparti,66,630,622.0,0.9873015873015873,retspolitik
+Socialistisk Folkeparti,Uden for folketingsgrupperne,66,664,375.0,0.5647590361445783,retspolitik
+Socialistisk Folkeparti,Venstre,66,4320,1656.0,0.38333333333333336,retspolitik
+Uden for folketingsgrupperne,Danmarksdemokraterne,66,305,232.0,0.760655737704918,retspolitik
+Uden for folketingsgrupperne,Dansk Folkeparti,66,602,554.0,0.920265780730897,retspolitik
+Uden for folketingsgrupperne,Det Konservative Folkeparti,66,431,364.0,0.8445475638051044,retspolitik
+Uden for folketingsgrupperne,Enhedslisten,66,214,83.0,0.3878504672897196,retspolitik
+Uden for folketingsgrupperne,Liberal Alliance,66,64,62.0,0.96875,retspolitik
+Uden for folketingsgrupperne,Moderaterne,66,19,17.0,0.8947368421052632,retspolitik
+Uden for folketingsgrupperne,Radikale Venstre,66,243,128.0,0.5267489711934157,retspolitik
+Uden for folketingsgrupperne,Socialdemokratiet,66,1343,808.0,0.6016381236038719,retspolitik
+Uden for folketingsgrupperne,Socialistisk Folkeparti,66,476,244.0,0.5126050420168067,retspolitik
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,66,291,207.0,0.711340206185567,retspolitik
+Uden for folketingsgrupperne,Venstre,66,2188,1865.0,0.8523765996343693,retspolitik
+Venstre,Danmarksdemokraterne,66,4696,4487.0,0.9554940374787053,retspolitik
+Venstre,Dansk Folkeparti,66,10058,9385.0,0.9330880890833168,retspolitik
+Venstre,Det Konservative Folkeparti,66,7391,7378.0,0.9982411040454607,retspolitik
+Venstre,Enhedslisten,66,3261,994.0,0.3048144740877032,retspolitik
+Venstre,Liberal Alliance,66,1294,1274.0,0.9845440494590417,retspolitik
+Venstre,Moderaterne,66,363,363.0,1.0,retspolitik
+Venstre,Radikale Venstre,66,5666,3065.0,0.5409459936463114,retspolitik
+Venstre,Siumut,66,29,0.0,0.0,retspolitik
+Venstre,Socialdemokratiet,66,22396,13362.0,0.5966243972137881,retspolitik
+Venstre,Socialistisk Folkeparti,66,5372,2062.0,0.3838421444527178,retspolitik
+Venstre,Uden for folketingsgrupperne,66,4753,3608.0,0.7590995160950978,retspolitik
+Venstre,Venstre,66,29597,29523.0,0.9974997465959388,retspolitik
+Danmarksdemokraterne,Danmarksdemokraterne,65,5,5.0,1.0,retspolitik
+Danmarksdemokraterne,Dansk Folkeparti,65,54,54.0,1.0,retspolitik
+Danmarksdemokraterne,Det Konservative Folkeparti,65,29,29.0,1.0,retspolitik
+Danmarksdemokraterne,Enhedslisten,65,2,0.0,0.0,retspolitik
+Danmarksdemokraterne,Kristendemokraterne,65,2,2.0,1.0,retspolitik
+Danmarksdemokraterne,Liberal Alliance,65,10,10.0,1.0,retspolitik
+Danmarksdemokraterne,Radikale Venstre,65,20,14.0,0.7,retspolitik
+Danmarksdemokraterne,Sambandsflokkurin,65,2,2.0,1.0,retspolitik
+Danmarksdemokraterne,Socialdemokratiet,65,177,68.0,0.384180790960452,retspolitik
+Danmarksdemokraterne,Socialistisk Folkeparti,65,24,8.0,0.3333333333333333,retspolitik
+Danmarksdemokraterne,Uden for folketingsgrupperne,65,36,32.0,0.8888888888888888,retspolitik
+Danmarksdemokraterne,Venstre,65,133,132.0,0.9924812030075187,retspolitik
+Dansk Folkeparti,Dansk Folkeparti,65,60,60.0,1.0,retspolitik
+Dansk Folkeparti,Det Konservative Folkeparti,65,10,10.0,1.0,retspolitik
+Dansk Folkeparti,Enhedslisten,65,2,0.0,0.0,retspolitik
+Dansk Folkeparti,Kristendemokraterne,65,2,2.0,1.0,retspolitik
+Dansk Folkeparti,Liberal Alliance,65,8,8.0,1.0,retspolitik
+Dansk Folkeparti,Radikale Venstre,65,22,16.0,0.7272727272727273,retspolitik
+Dansk Folkeparti,Sambandsflokkurin,65,2,2.0,1.0,retspolitik
+Dansk Folkeparti,Socialdemokratiet,65,172,64.0,0.37209302325581395,retspolitik
+Dansk Folkeparti,Socialistisk Folkeparti,65,36,10.0,0.2777777777777778,retspolitik
+Dansk Folkeparti,Uden for folketingsgrupperne,65,27,22.0,0.8148148148148148,retspolitik
+Dansk Folkeparti,Venstre,65,138,138.0,1.0,retspolitik
+Det Konservative Folkeparti,Danmarksdemokraterne,65,17,17.0,1.0,retspolitik
+Det Konservative Folkeparti,Dansk Folkeparti,65,115,115.0,1.0,retspolitik
+Det Konservative Folkeparti,Det Konservative Folkeparti,65,43,43.0,1.0,retspolitik
+Det Konservative Folkeparti,Enhedslisten,65,5,0.0,0.0,retspolitik
+Det Konservative Folkeparti,Kristendemokraterne,65,3,3.0,1.0,retspolitik
+Det Konservative Folkeparti,Liberal Alliance,65,20,20.0,1.0,retspolitik
+Det Konservative Folkeparti,Radikale Venstre,65,48,35.0,0.7291666666666666,retspolitik
+Det Konservative Folkeparti,Sambandsflokkurin,65,5,5.0,1.0,retspolitik
+Det Konservative Folkeparti,Socialdemokratiet,65,376,162.0,0.4308510638297872,retspolitik
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,51,19.0,0.37254901960784315,retspolitik
+Det Konservative Folkeparti,Uden for folketingsgrupperne,65,73,65.0,0.8904109589041096,retspolitik
+Det Konservative Folkeparti,Venstre,65,279,276.0,0.989247311827957,retspolitik
+Enhedslisten,Dansk Folkeparti,65,4,0.0,0.0,retspolitik
+Enhedslisten,Radikale Venstre,65,2,2.0,1.0,retspolitik
+Enhedslisten,Sambandsflokkurin,65,1,0.0,0.0,retspolitik
+Enhedslisten,Socialdemokratiet,65,11,10.0,0.9090909090909091,retspolitik
+Enhedslisten,Socialistisk Folkeparti,65,2,2.0,1.0,retspolitik
+Enhedslisten,Uden for folketingsgrupperne,65,2,1.0,0.5,retspolitik
+Enhedslisten,Venstre,65,5,0.0,0.0,retspolitik
+Kristendemokraterne,Dansk Folkeparti,65,3,3.0,1.0,retspolitik
+Kristendemokraterne,Radikale Venstre,65,1,0.0,0.0,retspolitik
+Kristendemokraterne,Socialdemokratiet,65,11,0.0,0.0,retspolitik
+Kristendemokraterne,Socialistisk Folkeparti,65,2,0.0,0.0,retspolitik
+Kristendemokraterne,Uden for folketingsgrupperne,65,2,1.0,0.5,retspolitik
+Kristendemokraterne,Venstre,65,5,5.0,1.0,retspolitik
+Liberal Alliance,Dansk Folkeparti,65,19,19.0,1.0,retspolitik
+Liberal Alliance,Det Konservative Folkeparti,65,3,3.0,1.0,retspolitik
+Liberal Alliance,Enhedslisten,65,1,0.0,0.0,retspolitik
+Liberal Alliance,Kristendemokraterne,65,1,1.0,1.0,retspolitik
+Liberal Alliance,Radikale Venstre,65,10,7.0,0.7,retspolitik
+Liberal Alliance,Sambandsflokkurin,65,1,1.0,1.0,retspolitik
+Liberal Alliance,Socialdemokratiet,65,64,24.0,0.375,retspolitik
+Liberal Alliance,Socialistisk Folkeparti,65,9,3.0,0.3333333333333333,retspolitik
+Liberal Alliance,Uden for folketingsgrupperne,65,10,8.0,0.8,retspolitik
+Liberal Alliance,Venstre,65,26,26.0,1.0,retspolitik
+Radikale Venstre,Dansk Folkeparti,65,31,20.0,0.6451612903225806,retspolitik
+Radikale Venstre,Radikale Venstre,65,7,7.0,1.0,retspolitik
+Radikale Venstre,Socialdemokratiet,65,85,49.0,0.5764705882352941,retspolitik
+Radikale Venstre,Socialistisk Folkeparti,65,12,9.0,0.75,retspolitik
+Radikale Venstre,Uden for folketingsgrupperne,65,10,9.0,0.9,retspolitik
+Radikale Venstre,Venstre,65,41,26.0,0.6341463414634146,retspolitik
+Sambandsflokkurin,Dansk Folkeparti,65,4,4.0,1.0,retspolitik
+Sambandsflokkurin,Radikale Venstre,65,2,0.0,0.0,retspolitik
+Sambandsflokkurin,Socialdemokratiet,65,11,0.0,0.0,retspolitik
+Sambandsflokkurin,Socialistisk Folkeparti,65,2,0.0,0.0,retspolitik
+Sambandsflokkurin,Uden for folketingsgrupperne,65,2,1.0,0.5,retspolitik
+Sambandsflokkurin,Venstre,65,5,5.0,1.0,retspolitik
+Socialdemokratiet,Danmarksdemokraterne,65,15,6.0,0.4,retspolitik
+Socialdemokratiet,Dansk Folkeparti,65,344,139.0,0.40406976744186046,retspolitik
+Socialdemokratiet,Det Konservative Folkeparti,65,60,23.0,0.38333333333333336,retspolitik
+Socialdemokratiet,Enhedslisten,65,7,7.0,1.0,retspolitik
+Socialdemokratiet,Kristendemokraterne,65,11,0.0,0.0,retspolitik
+Socialdemokratiet,Liberal Alliance,65,32,13.0,0.40625,retspolitik
+Socialdemokratiet,Radikale Venstre,65,105,62.0,0.5904761904761905,retspolitik
+Socialdemokratiet,Sambandsflokkurin,65,7,0.0,0.0,retspolitik
+Socialdemokratiet,Socialdemokratiet,65,879,822.0,0.9351535836177475,retspolitik
+Socialdemokratiet,Socialistisk Folkeparti,65,147,106.0,0.7210884353741497,retspolitik
+Socialdemokratiet,Uden for folketingsgrupperne,65,168,74.0,0.44047619047619047,retspolitik
+Socialdemokratiet,Venstre,65,622,258.0,0.41479099678456594,retspolitik
+Socialistisk Folkeparti,Danmarksdemokraterne,65,10,4.0,0.4,retspolitik
+Socialistisk Folkeparti,Dansk Folkeparti,65,56,23.0,0.4107142857142857,retspolitik
+Socialistisk Folkeparti,Det Konservative Folkeparti,65,26,11.0,0.4230769230769231,retspolitik
+Socialistisk Folkeparti,Enhedslisten,65,2,2.0,1.0,retspolitik
+Socialistisk Folkeparti,Kristendemokraterne,65,2,0.0,0.0,retspolitik
+Socialistisk Folkeparti,Liberal Alliance,65,8,3.0,0.375,retspolitik
+Socialistisk Folkeparti,Radikale Venstre,65,21,15.0,0.7142857142857143,retspolitik
+Socialistisk Folkeparti,Sambandsflokkurin,65,2,0.0,0.0,retspolitik
+Socialistisk Folkeparti,Socialdemokratiet,65,181,138.0,0.7624309392265194,retspolitik
+Socialistisk Folkeparti,Socialistisk Folkeparti,65,21,21.0,1.0,retspolitik
+Socialistisk Folkeparti,Uden for folketingsgrupperne,65,35,19.0,0.5428571428571428,retspolitik
+Socialistisk Folkeparti,Venstre,65,133,56.0,0.42105263157894735,retspolitik
+Uden for folketingsgrupperne,Dansk Folkeparti,65,69,63.0,0.9130434782608695,retspolitik
+Uden for folketingsgrupperne,Det Konservative Folkeparti,65,9,9.0,1.0,retspolitik
+Uden for folketingsgrupperne,Enhedslisten,65,1,0.0,0.0,retspolitik
+Uden for folketingsgrupperne,Kristendemokraterne,65,2,2.0,1.0,retspolitik
+Uden for folketingsgrupperne,Liberal Alliance,65,8,8.0,1.0,retspolitik
+Uden for folketingsgrupperne,Radikale Venstre,65,27,21.0,0.7777777777777778,retspolitik
+Uden for folketingsgrupperne,Sambandsflokkurin,65,1,1.0,1.0,retspolitik
+Uden for folketingsgrupperne,Socialdemokratiet,65,180,75.0,0.4166666666666667,retspolitik
+Uden for folketingsgrupperne,Socialistisk Folkeparti,65,26,10.0,0.38461538461538464,retspolitik
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,65,24,19.0,0.7916666666666666,retspolitik
+Uden for folketingsgrupperne,Venstre,65,104,95.0,0.9134615384615384,retspolitik
+Venstre,Danmarksdemokraterne,65,41,40.0,0.975609756097561,retspolitik
+Venstre,Dansk Folkeparti,65,332,327.0,0.9849397590361446,retspolitik
+Venstre,Det Konservative Folkeparti,65,124,122.0,0.9838709677419355,retspolitik
+Venstre,Enhedslisten,65,11,0.0,0.0,retspolitik
+Venstre,Kristendemokraterne,65,11,11.0,1.0,retspolitik
+Venstre,Liberal Alliance,65,61,60.0,0.9836065573770492,retspolitik
+Venstre,Radikale Venstre,65,134,98.0,0.7313432835820896,retspolitik
+Venstre,Sambandsflokkurin,65,11,11.0,1.0,retspolitik
+Venstre,Socialdemokratiet,65,1044,426.0,0.40804597701149425,retspolitik
+Venstre,Socialistisk Folkeparti,65,160,55.0,0.34375,retspolitik
+Venstre,Uden for folketingsgrupperne,65,209,182.0,0.8708133971291866,retspolitik
+Venstre,Venstre,65,717,700.0,0.9762900976290098,retspolitik
+Alternativet,Radikale Venstre,70,51,39.0,0.7647058823529411,retspolitik
+Alternativet,Venstre,70,68,37.0,0.5441176470588235,retspolitik
+Danmarksdemokraterne,Alternativet,70,468,222.0,0.47435897435897434,retspolitik
+Danmarksdemokraterne,Danmarksdemokraterne,70,2014,1905.0,0.9458788480635552,retspolitik
+Danmarksdemokraterne,Dansk Folkeparti,70,1404,1347.0,0.9594017094017094,retspolitik
+Danmarksdemokraterne,Det Konservative Folkeparti,70,398,297.0,0.7462311557788944,retspolitik
+Danmarksdemokraterne,Enhedslisten,70,2571,1056.0,0.41073512252042005,retspolitik
+Danmarksdemokraterne,Liberal Alliance,70,803,542.0,0.6749688667496887,retspolitik
+Danmarksdemokraterne,Moderaterne,70,32,21.0,0.65625,retspolitik
+Danmarksdemokraterne,Radikale Venstre,70,2712,1287.0,0.4745575221238938,retspolitik
+Danmarksdemokraterne,Sambandsflokkurin,70,2,2.0,1.0,retspolitik
+Danmarksdemokraterne,Socialdemokratiet,70,11742,6363.0,0.5419008686765457,retspolitik
+Danmarksdemokraterne,Socialistisk Folkeparti,70,1323,562.0,0.42479213907785335,retspolitik
+Danmarksdemokraterne,Uden for folketingsgrupperne,70,2089,1872.0,0.8961225466730494,retspolitik
+Danmarksdemokraterne,Venstre,70,9694,6942.0,0.71611305962451,retspolitik
+Dansk Folkeparti,Alternativet,70,224,101.0,0.45089285714285715,retspolitik
+Dansk Folkeparti,Danmarksdemokraterne,70,760,740.0,0.9736842105263158,retspolitik
+Dansk Folkeparti,Dansk Folkeparti,70,345,344.0,0.9971014492753624,retspolitik
+Dansk Folkeparti,Det Konservative Folkeparti,70,82,52.0,0.6341463414634146,retspolitik
+Dansk Folkeparti,Enhedslisten,70,1287,502.0,0.3900543900543901,retspolitik
+Dansk Folkeparti,Liberal Alliance,70,328,215.0,0.6554878048780488,retspolitik
+Dansk Folkeparti,Radikale Venstre,70,941,403.0,0.42826780021253985,retspolitik
+Dansk Folkeparti,Sambandsflokkurin,70,1,1.0,1.0,retspolitik
+Dansk Folkeparti,Socialdemokratiet,70,4140,2013.0,0.486231884057971,retspolitik
+Dansk Folkeparti,Socialistisk Folkeparti,70,220,79.0,0.35909090909090907,retspolitik
+Dansk Folkeparti,Uden for folketingsgrupperne,70,374,330.0,0.8823529411764706,retspolitik
+Dansk Folkeparti,Venstre,70,3483,2406.0,0.6907838070628768,retspolitik
+Det Konservative Folkeparti,Alternativet,70,25,12.0,0.48,retspolitik
+Det Konservative Folkeparti,Danmarksdemokraterne,70,51,37.0,0.7254901960784313,retspolitik
+Det Konservative Folkeparti,Dansk Folkeparti,70,122,81.0,0.6639344262295082,retspolitik
+Det Konservative Folkeparti,Det Konservative Folkeparti,70,22,22.0,1.0,retspolitik
+Det Konservative Folkeparti,Enhedslisten,70,203,91.0,0.4482758620689655,retspolitik
+Det Konservative Folkeparti,Liberal Alliance,70,56,47.0,0.8392857142857143,retspolitik
+Det Konservative Folkeparti,Radikale Venstre,70,157,107.0,0.6815286624203821,retspolitik
+Det Konservative Folkeparti,Socialdemokratiet,70,463,359.0,0.775377969762419,retspolitik
+Det Konservative Folkeparti,Uden for folketingsgrupperne,70,67,49.0,0.7313432835820896,retspolitik
+Det Konservative Folkeparti,Venstre,70,344,311.0,0.9040697674418605,retspolitik
+Enhedslisten,Alternativet,70,328,276.0,0.8414634146341463,retspolitik
+Enhedslisten,Danmarksdemokraterne,70,1070,430.0,0.40186915887850466,retspolitik
+Enhedslisten,Dansk Folkeparti,70,448,174.0,0.38839285714285715,retspolitik
+Enhedslisten,Det Konservative Folkeparti,70,131,59.0,0.45038167938931295,retspolitik
+Enhedslisten,Enhedslisten,70,1125,1119.0,0.9946666666666667,retspolitik
+Enhedslisten,Liberal Alliance,70,214,114.0,0.5327102803738317,retspolitik
+Enhedslisten,Moderaterne,70,8,4.0,0.5,retspolitik
+Enhedslisten,Radikale Venstre,70,1262,1080.0,0.8557844690966719,retspolitik
+Enhedslisten,Socialdemokratiet,70,5002,3718.0,0.7433026789284286,retspolitik
+Enhedslisten,Socialistisk Folkeparti,70,441,409.0,0.927437641723356,retspolitik
+Enhedslisten,Uden for folketingsgrupperne,70,671,256.0,0.38152011922503726,retspolitik
+Enhedslisten,Venstre,70,4472,2256.0,0.5044722719141324,retspolitik
+Liberal Alliance,Alternativet,70,98,52.0,0.5306122448979592,retspolitik
+Liberal Alliance,Danmarksdemokraterne,70,126,82.0,0.6507936507936508,retspolitik
+Liberal Alliance,Dansk Folkeparti,70,103,59.0,0.5728155339805825,retspolitik
+Liberal Alliance,Det Konservative Folkeparti,70,32,27.0,0.84375,retspolitik
+Liberal Alliance,Enhedslisten,70,442,227.0,0.5135746606334841,retspolitik
+Liberal Alliance,Radikale Venstre,70,318,198.0,0.6226415094339622,retspolitik
+Liberal Alliance,Socialdemokratiet,70,1001,631.0,0.6303696303696303,retspolitik
+Liberal Alliance,Socialistisk Folkeparti,70,5,5.0,1.0,retspolitik
+Liberal Alliance,Uden for folketingsgrupperne,70,6,6.0,1.0,retspolitik
+Liberal Alliance,Venstre,70,835,658.0,0.7880239520958083,retspolitik
+Moderaterne,Danmarksdemokraterne,70,7,3.0,0.42857142857142855,retspolitik
+Moderaterne,Dansk Folkeparti,70,17,9.0,0.5294117647058824,retspolitik
+Moderaterne,Enhedslisten,70,9,5.0,0.5555555555555556,retspolitik
+Moderaterne,Liberal Alliance,70,8,5.0,0.625,retspolitik
+Moderaterne,Radikale Venstre,70,24,12.0,0.5,retspolitik
+Moderaterne,Socialdemokratiet,70,62,30.0,0.4838709677419355,retspolitik
+Moderaterne,Socialistisk Folkeparti,70,7,3.0,0.42857142857142855,retspolitik
+Moderaterne,Uden for folketingsgrupperne,70,16,8.0,0.5,retspolitik
+Moderaterne,Venstre,70,74,74.0,1.0,retspolitik
+Radikale Venstre,Alternativet,70,277,214.0,0.7725631768953068,retspolitik
+Radikale Venstre,Danmarksdemokraterne,70,637,276.0,0.43328100470957615,retspolitik
+Radikale Venstre,Dansk Folkeparti,70,656,274.0,0.4176829268292683,retspolitik
+Radikale Venstre,Det Konservative Folkeparti,70,146,88.0,0.6027397260273972,retspolitik
+Radikale Venstre,Enhedslisten,70,1347,1139.0,0.8455827765404603,retspolitik
+Radikale Venstre,Liberal Alliance,70,321,200.0,0.6230529595015576,retspolitik
+Radikale Venstre,Radikale Venstre,70,863,859.0,0.9953650057937428,retspolitik
+Radikale Venstre,Sambandsflokkurin,70,1,1.0,1.0,retspolitik
+Radikale Venstre,Socialdemokratiet,70,4123,3625.0,0.8792141644433665,retspolitik
+Radikale Venstre,Socialistisk Folkeparti,70,148,139.0,0.9391891891891891,retspolitik
+Radikale Venstre,Uden for folketingsgrupperne,70,506,228.0,0.4505928853754941,retspolitik
+Radikale Venstre,Venstre,70,3261,2095.0,0.6424409690279056,retspolitik
+Sambandsflokkurin,Danmarksdemokraterne,70,3,3.0,1.0,retspolitik
+Sambandsflokkurin,Dansk Folkeparti,70,1,1.0,1.0,retspolitik
+Sambandsflokkurin,Enhedslisten,70,3,3.0,1.0,retspolitik
+Sambandsflokkurin,Liberal Alliance,70,1,1.0,1.0,retspolitik
+Sambandsflokkurin,Radikale Venstre,70,2,2.0,1.0,retspolitik
+Sambandsflokkurin,Socialdemokratiet,70,12,12.0,1.0,retspolitik
+Sambandsflokkurin,Socialistisk Folkeparti,70,2,2.0,1.0,retspolitik
+Sambandsflokkurin,Uden for folketingsgrupperne,70,2,2.0,1.0,retspolitik
+Sambandsflokkurin,Venstre,70,13,13.0,1.0,retspolitik
+Socialdemokratiet,Alternativet,70,1685,1171.0,0.6949554896142434,retspolitik
+Socialdemokratiet,Danmarksdemokraterne,70,6001,3236.0,0.5392434594234294,retspolitik
+Socialdemokratiet,Dansk Folkeparti,70,4155,2054.0,0.4943441636582431,retspolitik
+Socialdemokratiet,Det Konservative Folkeparti,70,995,756.0,0.7597989949748744,retspolitik
+Socialdemokratiet,Enhedslisten,70,8478,6397.0,0.7545411653691908,retspolitik
+Socialdemokratiet,Liberal Alliance,70,2399,1574.0,0.6561067111296374,retspolitik
+Socialdemokratiet,Moderaterne,70,70,34.0,0.4857142857142857,retspolitik
+Socialdemokratiet,Radikale Venstre,70,8129,7055.0,0.8678804280969369,retspolitik
+Socialdemokratiet,Sambandsflokkurin,70,3,3.0,1.0,retspolitik
+Socialdemokratiet,Socialdemokratiet,70,31445,31397.0,0.9984735252027349,retspolitik
+Socialdemokratiet,Socialistisk Folkeparti,70,3086,2603.0,0.8434867141931303,retspolitik
+Socialdemokratiet,Uden for folketingsgrupperne,70,5167,2522.0,0.4880975420940584,retspolitik
+Socialdemokratiet,Venstre,70,27453,19820.0,0.7219611699996358,retspolitik
+Socialistisk Folkeparti,Alternativet,70,134,104.0,0.7761194029850746,retspolitik
+Socialistisk Folkeparti,Danmarksdemokraterne,70,244,111.0,0.45491803278688525,retspolitik
+Socialistisk Folkeparti,Dansk Folkeparti,70,535,215.0,0.40186915887850466,retspolitik
+Socialistisk Folkeparti,Det Konservative Folkeparti,70,124,66.0,0.532258064516129,retspolitik
+Socialistisk Folkeparti,Enhedslisten,70,820,747.0,0.9109756097560976,retspolitik
+Socialistisk Folkeparti,Liberal Alliance,70,285,148.0,0.519298245614035,retspolitik
+Socialistisk Folkeparti,Moderaterne,70,15,7.0,0.4666666666666667,retspolitik
+Socialistisk Folkeparti,Radikale Venstre,70,993,910.0,0.9164149043303121,retspolitik
+Socialistisk Folkeparti,Socialdemokratiet,70,2794,2332.0,0.8346456692913385,retspolitik
+Socialistisk Folkeparti,Socialistisk Folkeparti,70,156,156.0,1.0,retspolitik
+Socialistisk Folkeparti,Uden for folketingsgrupperne,70,770,290.0,0.37662337662337664,retspolitik
+Socialistisk Folkeparti,Venstre,70,2461,1316.0,0.534741974806989,retspolitik
+Uden for folketingsgrupperne,Alternativet,70,235,113.0,0.4808510638297872,retspolitik
+Uden for folketingsgrupperne,Danmarksdemokraterne,70,377,318.0,0.843501326259947,retspolitik
+Uden for folketingsgrupperne,Dansk Folkeparti,70,803,756.0,0.9414694894146949,retspolitik
+Uden for folketingsgrupperne,Det Konservative Folkeparti,70,151,103.0,0.6821192052980133,retspolitik
+Uden for folketingsgrupperne,Enhedslisten,70,1265,499.0,0.39446640316205533,retspolitik
+Uden for folketingsgrupperne,Liberal Alliance,70,481,306.0,0.6361746361746362,retspolitik
+Uden for folketingsgrupperne,Moderaterne,70,14,6.0,0.42857142857142855,retspolitik
+Uden for folketingsgrupperne,Radikale Venstre,70,1260,583.0,0.4626984126984127,retspolitik
+Uden for folketingsgrupperne,Socialdemokratiet,70,4213,2124.0,0.5041538096368383,retspolitik
+Uden for folketingsgrupperne,Socialistisk Folkeparti,70,140,90.0,0.6428571428571429,retspolitik
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,70,491,417.0,0.8492871690427699,retspolitik
+Uden for folketingsgrupperne,Venstre,70,3177,2167.0,0.6820900220333648,retspolitik
+Venstre,Alternativet,70,1416,764.0,0.53954802259887,retspolitik
+Venstre,Danmarksdemokraterne,70,5583,3927.0,0.7033852767329393,retspolitik
+Venstre,Dansk Folkeparti,70,3778,2616.0,0.6924298570672314,retspolitik
+Venstre,Det Konservative Folkeparti,70,945,878.0,0.9291005291005291,retspolitik
+Venstre,Enhedslisten,70,7120,3551.0,0.4987359550561798,retspolitik
+Venstre,Liberal Alliance,70,2133,1680.0,0.7876230661040787,retspolitik
+Venstre,Moderaterne,70,36,36.0,1.0,retspolitik
+Venstre,Radikale Venstre,70,7420,4850.0,0.6536388140161725,retspolitik
+Venstre,Sambandsflokkurin,70,3,3.0,1.0,retspolitik
+Venstre,Socialdemokratiet,70,29726,21740.0,0.7313462961717015,retspolitik
+Venstre,Socialistisk Folkeparti,70,2625,1474.0,0.5615238095238095,retspolitik
+Venstre,Uden for folketingsgrupperne,70,4876,3481.0,0.7139048400328137,retspolitik
+Venstre,Venstre,70,23290,23279.0,0.9995276942893946,retspolitik
+Alternativet,Enhedslisten,71,43,41.0,0.9534883720930233,retspolitik
+Alternativet,Radikale Venstre,71,38,26.0,0.6842105263157895,retspolitik
+Alternativet,Socialdemokratiet,71,28,15.0,0.5357142857142857,retspolitik
+Alternativet,Venstre,71,32,19.0,0.59375,retspolitik
+Danmarksdemokraterne,Alternativet,71,263,124.0,0.4714828897338403,retspolitik
+Danmarksdemokraterne,Danmarksdemokraterne,71,2302,2241.0,0.973501303214596,retspolitik
+Danmarksdemokraterne,Dansk Folkeparti,71,735,577.0,0.7850340136054422,retspolitik
+Danmarksdemokraterne,Det Konservative Folkeparti,71,1859,1476.0,0.7939752555137171,retspolitik
+Danmarksdemokraterne,Enhedslisten,71,3132,1476.0,0.47126436781609193,retspolitik
+Danmarksdemokraterne,Javnaðarflokkurin,71,10,10.0,1.0,retspolitik
+Danmarksdemokraterne,Liberal Alliance,71,452,289.0,0.6393805309734514,retspolitik
+Danmarksdemokraterne,Moderaterne,71,93,57.0,0.6129032258064516,retspolitik
+Danmarksdemokraterne,Radikale Venstre,71,1143,619.0,0.5415573053368329,retspolitik
+Danmarksdemokraterne,Socialdemokratiet,71,9197,5480.0,0.5958464716755464,retspolitik
+Danmarksdemokraterne,Socialistisk Folkeparti,71,1019,509.0,0.49950932286555444,retspolitik
+Danmarksdemokraterne,Venstre,71,5716,3346.0,0.5853743876836949,retspolitik
+Dansk Folkeparti,Alternativet,71,69,28.0,0.4057971014492754,retspolitik
+Dansk Folkeparti,Danmarksdemokraterne,71,783,612.0,0.7816091954022989,retspolitik
+Dansk Folkeparti,Dansk Folkeparti,71,121,121.0,1.0,retspolitik
+Dansk Folkeparti,Det Konservative Folkeparti,71,420,280.0,0.6666666666666666,retspolitik
+Dansk Folkeparti,Enhedslisten,71,813,324.0,0.3985239852398524,retspolitik
+Dansk Folkeparti,Javnaðarflokkurin,71,3,3.0,1.0,retspolitik
+Dansk Folkeparti,Liberal Alliance,71,116,80.0,0.6896551724137931,retspolitik
+Dansk Folkeparti,Moderaterne,71,41,20.0,0.4878048780487805,retspolitik
+Dansk Folkeparti,Radikale Venstre,71,274,130.0,0.4744525547445255,retspolitik
+Dansk Folkeparti,Socialdemokratiet,71,2565,1455.0,0.5672514619883041,retspolitik
+Dansk Folkeparti,Socialistisk Folkeparti,71,347,157.0,0.45244956772334294,retspolitik
+Dansk Folkeparti,Venstre,71,1829,999.0,0.5462001093493712,retspolitik
+Det Konservative Folkeparti,Alternativet,71,130,56.0,0.4307692307692308,retspolitik
+Det Konservative Folkeparti,Danmarksdemokraterne,71,986,762.0,0.7728194726166329,retspolitik
+Det Konservative Folkeparti,Dansk Folkeparti,71,374,246.0,0.6577540106951871,retspolitik
+Det Konservative Folkeparti,Det Konservative Folkeparti,71,554,552.0,0.9963898916967509,retspolitik
+Det Konservative Folkeparti,Enhedslisten,71,1545,728.0,0.47119741100323626,retspolitik
+Det Konservative Folkeparti,Javnaðarflokkurin,71,8,8.0,1.0,retspolitik
+Det Konservative Folkeparti,Liberal Alliance,71,205,151.0,0.7365853658536585,retspolitik
+Det Konservative Folkeparti,Moderaterne,71,29,24.0,0.8275862068965517,retspolitik
+Det Konservative Folkeparti,Radikale Venstre,71,426,278.0,0.6525821596244131,retspolitik
+Det Konservative Folkeparti,Socialdemokratiet,71,3609,2547.0,0.7057356608478803,retspolitik
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,318,184.0,0.5786163522012578,retspolitik
+Det Konservative Folkeparti,Venstre,71,2677,1882.0,0.7030257751214045,retspolitik
+Enhedslisten,Alternativet,71,139,131.0,0.9424460431654677,retspolitik
+Enhedslisten,Danmarksdemokraterne,71,648,305.0,0.470679012345679,retspolitik
+Enhedslisten,Dansk Folkeparti,71,230,104.0,0.45217391304347826,retspolitik
+Enhedslisten,Det Konservative Folkeparti,71,416,209.0,0.5024038461538461,retspolitik
+Enhedslisten,Enhedslisten,71,1065,1055.0,0.9906103286384976,retspolitik
+Enhedslisten,Javnaðarflokkurin,71,6,6.0,1.0,retspolitik
+Enhedslisten,Liberal Alliance,71,78,43.0,0.5512820512820513,retspolitik
+Enhedslisten,Radikale Venstre,71,592,434.0,0.7331081081081081,retspolitik
+Enhedslisten,Socialdemokratiet,71,2231,1303.0,0.584043030031376,retspolitik
+Enhedslisten,Socialistisk Folkeparti,71,204,173.0,0.8480392156862745,retspolitik
+Enhedslisten,Venstre,71,1581,930.0,0.5882352941176471,retspolitik
+Inuit Ataqatigiit,Alternativet,71,1,1.0,1.0,retspolitik
+Inuit Ataqatigiit,Danmarksdemokraterne,71,10,10.0,1.0,retspolitik
+Inuit Ataqatigiit,Dansk Folkeparti,71,3,2.0,0.6666666666666666,retspolitik
+Inuit Ataqatigiit,Det Konservative Folkeparti,71,8,8.0,1.0,retspolitik
+Inuit Ataqatigiit,Enhedslisten,71,9,9.0,1.0,retspolitik
+Inuit Ataqatigiit,Javnaðarflokkurin,71,1,1.0,1.0,retspolitik
+Inuit Ataqatigiit,Liberal Alliance,71,2,2.0,1.0,retspolitik
+Inuit Ataqatigiit,Moderaterne,71,1,1.0,1.0,retspolitik
+Inuit Ataqatigiit,Naleraq,71,1,1.0,1.0,retspolitik
+Inuit Ataqatigiit,Radikale Venstre,71,3,3.0,1.0,retspolitik
+Inuit Ataqatigiit,Socialdemokratiet,71,37,37.0,1.0,retspolitik
+Inuit Ataqatigiit,Socialistisk Folkeparti,71,8,8.0,1.0,retspolitik
+Inuit Ataqatigiit,Venstre,71,28,28.0,1.0,retspolitik
+Javnaðarflokkurin,Alternativet,71,1,1.0,1.0,retspolitik
+Javnaðarflokkurin,Danmarksdemokraterne,71,1,1.0,1.0,retspolitik
+Javnaðarflokkurin,Enhedslisten,71,3,3.0,1.0,retspolitik
+Javnaðarflokkurin,Radikale Venstre,71,1,1.0,1.0,retspolitik
+Javnaðarflokkurin,Socialdemokratiet,71,2,2.0,1.0,retspolitik
+Javnaðarflokkurin,Venstre,71,6,6.0,1.0,retspolitik
+Liberal Alliance,Alternativet,71,48,20.0,0.4166666666666667,retspolitik
+Liberal Alliance,Danmarksdemokraterne,71,579,434.0,0.7495682210708118,retspolitik
+Liberal Alliance,Dansk Folkeparti,71,196,134.0,0.6836734693877551,retspolitik
+Liberal Alliance,Det Konservative Folkeparti,71,332,267.0,0.8042168674698795,retspolitik
+Liberal Alliance,Enhedslisten,71,654,339.0,0.518348623853211,retspolitik
+Liberal Alliance,Javnaðarflokkurin,71,2,2.0,1.0,retspolitik
+Liberal Alliance,Liberal Alliance,71,57,57.0,1.0,retspolitik
+Liberal Alliance,Moderaterne,71,21,14.0,0.6666666666666666,retspolitik
+Liberal Alliance,Radikale Venstre,71,211,145.0,0.6872037914691943,retspolitik
+Liberal Alliance,Socialdemokratiet,71,1734,1395.0,0.8044982698961938,retspolitik
+Liberal Alliance,Socialistisk Folkeparti,71,184,117.0,0.6358695652173914,retspolitik
+Liberal Alliance,Venstre,71,1297,1027.0,0.7918272937548189,retspolitik
+Moderaterne,Alternativet,71,21,14.0,0.6666666666666666,retspolitik
+Moderaterne,Danmarksdemokraterne,71,223,128.0,0.5739910313901345,retspolitik
+Moderaterne,Dansk Folkeparti,71,43,26.0,0.6046511627906976,retspolitik
+Moderaterne,Det Konservative Folkeparti,71,129,87.0,0.6744186046511628,retspolitik
+Moderaterne,Enhedslisten,71,224,134.0,0.5982142857142857,retspolitik
+Moderaterne,Javnaðarflokkurin,71,1,1.0,1.0,retspolitik
+Moderaterne,Liberal Alliance,71,24,14.0,0.5833333333333334,retspolitik
+Moderaterne,Moderaterne,71,1,1.0,1.0,retspolitik
+Moderaterne,Radikale Venstre,71,80,69.0,0.8625,retspolitik
+Moderaterne,Socialdemokratiet,71,731,730.0,0.9986320109439124,retspolitik
+Moderaterne,Socialistisk Folkeparti,71,86,57.0,0.6627906976744186,retspolitik
+Moderaterne,Venstre,71,424,424.0,1.0,retspolitik
+Naleraq,Alternativet,71,1,1.0,1.0,retspolitik
+Naleraq,Danmarksdemokraterne,71,5,5.0,1.0,retspolitik
+Naleraq,Dansk Folkeparti,71,1,0.0,0.0,retspolitik
+Naleraq,Det Konservative Folkeparti,71,4,4.0,1.0,retspolitik
+Naleraq,Enhedslisten,71,5,5.0,1.0,retspolitik
+Naleraq,Liberal Alliance,71,1,1.0,1.0,retspolitik
+Naleraq,Moderaterne,71,1,1.0,1.0,retspolitik
+Naleraq,Radikale Venstre,71,2,2.0,1.0,retspolitik
+Naleraq,Socialdemokratiet,71,17,17.0,1.0,retspolitik
+Naleraq,Socialistisk Folkeparti,71,4,4.0,1.0,retspolitik
+Naleraq,Venstre,71,15,15.0,1.0,retspolitik
+Radikale Venstre,Alternativet,71,40,28.0,0.7,retspolitik
+Radikale Venstre,Danmarksdemokraterne,71,244,138.0,0.5655737704918032,retspolitik
+Radikale Venstre,Dansk Folkeparti,71,129,62.0,0.4806201550387597,retspolitik
+Radikale Venstre,Det Konservative Folkeparti,71,295,185.0,0.6271186440677966,retspolitik
+Radikale Venstre,Enhedslisten,71,395,288.0,0.7291139240506329,retspolitik
+Radikale Venstre,Javnaðarflokkurin,71,2,2.0,1.0,retspolitik
+Radikale Venstre,Liberal Alliance,71,78,53.0,0.6794871794871795,retspolitik
+Radikale Venstre,Radikale Venstre,71,84,84.0,1.0,retspolitik
+Radikale Venstre,Socialdemokratiet,71,1104,843.0,0.7635869565217391,retspolitik
+Radikale Venstre,Socialistisk Folkeparti,71,20,19.0,0.95,retspolitik
+Radikale Venstre,Venstre,71,716,558.0,0.7793296089385475,retspolitik
+Socialdemokratiet,Alternativet,71,806,460.0,0.5707196029776674,retspolitik
+Socialdemokratiet,Danmarksdemokraterne,71,8613,5171.0,0.6003715314060142,retspolitik
+Socialdemokratiet,Dansk Folkeparti,71,2486,1390.0,0.5591311343523733,retspolitik
+Socialdemokratiet,Det Konservative Folkeparti,71,5806,4071.0,0.7011712022046159,retspolitik
+Socialdemokratiet,Enhedslisten,71,10192,6007.0,0.589383830455259,retspolitik
+Socialdemokratiet,Javnaðarflokkurin,71,39,39.0,1.0,retspolitik
+Socialdemokratiet,Liberal Alliance,71,1699,1271.0,0.7480871100647439,retspolitik
+Socialdemokratiet,Moderaterne,71,255,255.0,1.0,retspolitik
+Socialdemokratiet,Radikale Venstre,71,3479,2667.0,0.7665995975855131,retspolitik
+Socialdemokratiet,Socialdemokratiet,71,28055,28036.0,0.9993227588665122,retspolitik
+Socialdemokratiet,Socialistisk Folkeparti,71,3630,2515.0,0.6928374655647382,retspolitik
+Socialdemokratiet,Venstre,71,19818,19776.0,0.9978807145019679,retspolitik
+Socialistisk Folkeparti,Alternativet,71,132,102.0,0.7727272727272727,retspolitik
+Socialistisk Folkeparti,Danmarksdemokraterne,71,1798,1017.0,0.5656284760845384,retspolitik
+Socialistisk Folkeparti,Dansk Folkeparti,71,441,200.0,0.45351473922902497,retspolitik
+Socialistisk Folkeparti,Det Konservative Folkeparti,71,1161,683.0,0.5882859603789836,retspolitik
+Socialistisk Folkeparti,Enhedslisten,71,1811,1440.0,0.7951408061844285,retspolitik
+Socialistisk Folkeparti,Javnaðarflokkurin,71,8,8.0,1.0,retspolitik
+Socialistisk Folkeparti,Liberal Alliance,71,354,224.0,0.632768361581921,retspolitik
+Socialistisk Folkeparti,Moderaterne,71,84,57.0,0.6785714285714286,retspolitik
+Socialistisk Folkeparti,Radikale Venstre,71,710,558.0,0.7859154929577464,retspolitik
+Socialistisk Folkeparti,Socialdemokratiet,71,5753,4060.0,0.7057187554319485,retspolitik
+Socialistisk Folkeparti,Socialistisk Folkeparti,71,586,586.0,1.0,retspolitik
+Socialistisk Folkeparti,Venstre,71,4087,2919.0,0.7142158062148275,retspolitik
+Venstre,Alternativet,71,567,335.0,0.5908289241622575,retspolitik
+Venstre,Danmarksdemokraterne,71,6240,3680.0,0.5897435897435898,retspolitik
+Venstre,Dansk Folkeparti,71,1570,855.0,0.5445859872611465,retspolitik
+Venstre,Det Konservative Folkeparti,71,3687,2579.0,0.699484675888256,retspolitik
+Venstre,Enhedslisten,71,6701,3955.0,0.5902104163557678,retspolitik
+Venstre,Javnaðarflokkurin,71,22,22.0,1.0,retspolitik
+Venstre,Liberal Alliance,71,948,713.0,0.7521097046413502,retspolitik
+Venstre,Moderaterne,71,280,279.0,0.9964285714285714,retspolitik
+Venstre,Radikale Venstre,71,2380,1861.0,0.7819327731092437,retspolitik
+Venstre,Socialdemokratiet,71,19916,19729.0,0.9906105643703554,retspolitik
+Venstre,Socialistisk Folkeparti,71,2229,1550.0,0.6953790937640197,retspolitik
+Venstre,Venstre,71,12689,12559.0,0.989754905823942,retspolitik

@@ -1,0 +1,930 @@
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
+Danmarksdemokraterne,Danmarksdemokraterne,68,917,914.0,0.9967284623773174,klima
+Danmarksdemokraterne,Dansk Folkeparti,68,1448,1443.0,0.9965469613259669,klima
+Danmarksdemokraterne,Det Konservative Folkeparti,68,1678,1136.0,0.6769964243146603,klima
+Danmarksdemokraterne,Enhedslisten,68,3084,1333.0,0.43223086900129704,klima
+Danmarksdemokraterne,Inuit Ataqatigiit,68,6,6.0,1.0,klima
+Danmarksdemokraterne,Liberal Alliance,68,1679,1019.0,0.6069088743299583,klima
+Danmarksdemokraterne,Moderaterne,68,110,73.0,0.6636363636363637,klima
+Danmarksdemokraterne,Radikale Venstre,68,3224,1655.0,0.5133374689826302,klima
+Danmarksdemokraterne,Socialdemokratiet,68,3663,1955.0,0.5337155337155337,klima
+Danmarksdemokraterne,Socialistisk Folkeparti,68,1861,988.0,0.5308973670069855,klima
+Danmarksdemokraterne,Uden for folketingsgrupperne,68,1133,1058.0,0.9338040600176523,klima
+Danmarksdemokraterne,Venstre,68,5019,3464.0,0.6901773261605898,klima
+Dansk Folkeparti,Danmarksdemokraterne,68,1048,1047.0,0.9990458015267175,klima
+Dansk Folkeparti,Dansk Folkeparti,68,1078,1075.0,0.9972170686456401,klima
+Dansk Folkeparti,Det Konservative Folkeparti,68,1635,1096.0,0.6703363914373088,klima
+Dansk Folkeparti,Enhedslisten,68,3128,1437.0,0.4593989769820972,klima
+Dansk Folkeparti,Inuit Ataqatigiit,68,4,4.0,1.0,klima
+Dansk Folkeparti,Liberal Alliance,68,1516,910.0,0.600263852242744,klima
+Dansk Folkeparti,Moderaterne,68,60,41.0,0.6833333333333333,klima
+Dansk Folkeparti,Radikale Venstre,68,2735,1419.0,0.5188299817184644,klima
+Dansk Folkeparti,Socialdemokratiet,68,3444,1832.0,0.5319396051103368,klima
+Dansk Folkeparti,Socialistisk Folkeparti,68,1920,1042.0,0.5427083333333333,klima
+Dansk Folkeparti,Uden for folketingsgrupperne,68,929,845.0,0.9095801937567277,klima
+Dansk Folkeparti,Venstre,68,4767,3357.0,0.7042164883574575,klima
+Det Konservative Folkeparti,Danmarksdemokraterne,68,673,430.0,0.6389301634472511,klima
+Det Konservative Folkeparti,Dansk Folkeparti,68,814,544.0,0.6683046683046683,klima
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,881,877.0,0.9954597048808173,klima
+Det Konservative Folkeparti,Enhedslisten,68,2229,1157.0,0.5190668461193361,klima
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,6,6.0,1.0,klima
+Det Konservative Folkeparti,Liberal Alliance,68,997,708.0,0.7101303911735206,klima
+Det Konservative Folkeparti,Moderaterne,68,72,64.0,0.8888888888888888,klima
+Det Konservative Folkeparti,Radikale Venstre,68,1715,1278.0,0.7451895043731779,klima
+Det Konservative Folkeparti,Socialdemokratiet,68,2454,1871.0,0.7624286878565607,klima
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,1389,1022.0,0.7357811375089993,klima
+Det Konservative Folkeparti,Uden for folketingsgrupperne,68,576,404.0,0.7013888888888888,klima
+Det Konservative Folkeparti,Venstre,68,3084,2808.0,0.9105058365758755,klima
+Enhedslisten,Danmarksdemokraterne,68,1592,749.0,0.4704773869346734,klima
+Enhedslisten,Dansk Folkeparti,68,1803,807.0,0.4475873544093178,klima
+Enhedslisten,Det Konservative Folkeparti,68,2361,1178.0,0.49894112664125373,klima
+Enhedslisten,Enhedslisten,68,4011,3896.0,0.9713288456743954,klima
+Enhedslisten,Inuit Ataqatigiit,68,8,8.0,1.0,klima
+Enhedslisten,Liberal Alliance,68,2220,1065.0,0.4797297297297297,klima
+Enhedslisten,Moderaterne,68,177,93.0,0.5254237288135594,klima
+Enhedslisten,Radikale Venstre,68,3990,2953.0,0.7401002506265664,klima
+Enhedslisten,Socialdemokratiet,68,5340,3957.0,0.7410112359550561,klima
+Enhedslisten,Socialistisk Folkeparti,68,2912,2230.0,0.7657967032967034,klima
+Enhedslisten,Uden for folketingsgrupperne,68,1430,583.0,0.4076923076923077,klima
+Enhedslisten,Venstre,68,7103,3665.0,0.5159791637336337,klima
+Inuit Ataqatigiit,Danmarksdemokraterne,68,1,1.0,1.0,klima
+Inuit Ataqatigiit,Det Konservative Folkeparti,68,1,1.0,1.0,klima
+Inuit Ataqatigiit,Enhedslisten,68,1,1.0,1.0,klima
+Inuit Ataqatigiit,Liberal Alliance,68,1,1.0,1.0,klima
+Inuit Ataqatigiit,Radikale Venstre,68,2,2.0,1.0,klima
+Inuit Ataqatigiit,Socialdemokratiet,68,3,3.0,1.0,klima
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,2,2.0,1.0,klima
+Inuit Ataqatigiit,Venstre,68,4,4.0,1.0,klima
+Liberal Alliance,Danmarksdemokraterne,68,457,277.0,0.6061269146608315,klima
+Liberal Alliance,Dansk Folkeparti,68,744,467.0,0.6276881720430108,klima
+Liberal Alliance,Det Konservative Folkeparti,68,1088,806.0,0.7408088235294118,klima
+Liberal Alliance,Enhedslisten,68,1975,930.0,0.4708860759493671,klima
+Liberal Alliance,Inuit Ataqatigiit,68,5,5.0,1.0,klima
+Liberal Alliance,Liberal Alliance,68,709,707.0,0.997179125528914,klima
+Liberal Alliance,Moderaterne,68,28,19.0,0.6785714285714286,klima
+Liberal Alliance,Radikale Venstre,68,1268,676.0,0.5331230283911672,klima
+Liberal Alliance,Socialdemokratiet,68,2275,1256.0,0.5520879120879121,klima
+Liberal Alliance,Socialistisk Folkeparti,68,1271,701.0,0.5515342250196695,klima
+Liberal Alliance,Uden for folketingsgrupperne,68,446,342.0,0.7668161434977578,klima
+Liberal Alliance,Venstre,68,2535,1806.0,0.7124260355029586,klima
+Moderaterne,Danmarksdemokraterne,68,106,68.0,0.6415094339622641,klima
+Moderaterne,Dansk Folkeparti,68,135,86.0,0.6370370370370371,klima
+Moderaterne,Det Konservative Folkeparti,68,148,134.0,0.9054054054054054,klima
+Moderaterne,Enhedslisten,68,236,135.0,0.5720338983050848,klima
+Moderaterne,Inuit Ataqatigiit,68,1,1.0,1.0,klima
+Moderaterne,Liberal Alliance,68,152,101.0,0.6644736842105263,klima
+Moderaterne,Moderaterne,68,1,1.0,1.0,klima
+Moderaterne,Radikale Venstre,68,279,220.0,0.7885304659498208,klima
+Moderaterne,Socialdemokratiet,68,329,267.0,0.8115501519756839,klima
+Moderaterne,Socialistisk Folkeparti,68,129,102.0,0.7906976744186046,klima
+Moderaterne,Uden for folketingsgrupperne,68,101,67.0,0.6633663366336634,klima
+Moderaterne,Venstre,68,399,399.0,1.0,klima
+Radikale Venstre,Danmarksdemokraterne,68,911,459.0,0.5038419319429198,klima
+Radikale Venstre,Dansk Folkeparti,68,1624,913.0,0.562192118226601,klima
+Radikale Venstre,Det Konservative Folkeparti,68,2300,1730.0,0.7521739130434782,klima
+Radikale Venstre,Enhedslisten,68,4053,3173.0,0.7828768813224771,klima
+Radikale Venstre,Inuit Ataqatigiit,68,7,7.0,1.0,klima
+Radikale Venstre,Liberal Alliance,68,2418,1343.0,0.5554177005789909,klima
+Radikale Venstre,Moderaterne,68,43,37.0,0.8604651162790697,klima
+Radikale Venstre,Radikale Venstre,68,3146,3138.0,0.9974570883661793,klima
+Radikale Venstre,Socialdemokratiet,68,4961,4959.0,0.999596855472687,klima
+Radikale Venstre,Socialistisk Folkeparti,68,2560,2514.0,0.98203125,klima
+Radikale Venstre,Uden for folketingsgrupperne,68,1191,591.0,0.49622166246851385,klima
+Radikale Venstre,Venstre,68,6078,4428.0,0.7285291214215203,klima
+Socialdemokratiet,Danmarksdemokraterne,68,2892,1525.0,0.5273167358229599,klima
+Socialdemokratiet,Dansk Folkeparti,68,3477,1959.0,0.5634167385677308,klima
+Socialdemokratiet,Det Konservative Folkeparti,68,3985,3086.0,0.7744040150564617,klima
+Socialdemokratiet,Enhedslisten,68,7512,5596.0,0.7449414270500533,klima
+Socialdemokratiet,Inuit Ataqatigiit,68,17,17.0,1.0,klima
+Socialdemokratiet,Liberal Alliance,68,3583,1978.0,0.5520513536142897,klima
+Socialdemokratiet,Moderaterne,68,229,185.0,0.8078602620087336,klima
+Socialdemokratiet,Radikale Venstre,68,6189,6183.0,0.9990305380513815,klima
+Socialdemokratiet,Socialdemokratiet,68,8394,8394.0,1.0,klima
+Socialdemokratiet,Socialistisk Folkeparti,68,4500,4401.0,0.978,klima
+Socialdemokratiet,Uden for folketingsgrupperne,68,2121,1095.0,0.5162659123055162,klima
+Socialdemokratiet,Venstre,68,11350,8519.0,0.7505726872246696,klima
+Socialistisk Folkeparti,Danmarksdemokraterne,68,1122,588.0,0.5240641711229946,klima
+Socialistisk Folkeparti,Dansk Folkeparti,68,1250,687.0,0.5496,klima
+Socialistisk Folkeparti,Det Konservative Folkeparti,68,1533,1155.0,0.7534246575342466,klima
+Socialistisk Folkeparti,Enhedslisten,68,2981,2336.0,0.783629654478363,klima
+Socialistisk Folkeparti,Inuit Ataqatigiit,68,7,7.0,1.0,klima
+Socialistisk Folkeparti,Liberal Alliance,68,1415,818.0,0.5780918727915194,klima
+Socialistisk Folkeparti,Moderaterne,68,122,101.0,0.8278688524590164,klima
+Socialistisk Folkeparti,Radikale Venstre,68,2644,2612.0,0.9878971255673222,klima
+Socialistisk Folkeparti,Socialdemokratiet,68,3654,3608.0,0.9874110563765737,klima
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,1557,1554.0,0.9980732177263969,klima
+Socialistisk Folkeparti,Uden for folketingsgrupperne,68,907,471.0,0.5192943770672547,klima
+Socialistisk Folkeparti,Venstre,68,5125,3786.0,0.7387317073170732,klima
+Uden for folketingsgrupperne,Danmarksdemokraterne,68,102,96.0,0.9411764705882353,klima
+Uden for folketingsgrupperne,Dansk Folkeparti,68,349,348.0,0.997134670487106,klima
+Uden for folketingsgrupperne,Det Konservative Folkeparti,68,637,437.0,0.6860282574568289,klima
+Uden for folketingsgrupperne,Enhedslisten,68,996,427.0,0.428714859437751,klima
+Uden for folketingsgrupperne,Inuit Ataqatigiit,68,2,2.0,1.0,klima
+Uden for folketingsgrupperne,Liberal Alliance,68,646,392.0,0.6068111455108359,klima
+Uden for folketingsgrupperne,Moderaterne,68,4,2.0,0.5,klima
+Uden for folketingsgrupperne,Radikale Venstre,68,963,480.0,0.4984423676012461,klima
+Uden for folketingsgrupperne,Socialdemokratiet,68,1242,635.0,0.5112721417069244,klima
+Uden for folketingsgrupperne,Socialistisk Folkeparti,68,643,322.0,0.5007776049766719,klima
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,68,210,174.0,0.8285714285714286,klima
+Uden for folketingsgrupperne,Venstre,68,1318,929.0,0.704855842185129,klima
+Venstre,Danmarksdemokraterne,68,3342,2298.0,0.6876122082585279,klima
+Venstre,Dansk Folkeparti,68,4104,2909.0,0.7088206627680312,klima
+Venstre,Det Konservative Folkeparti,68,5058,4567.0,0.9029260577303282,klima
+Venstre,Enhedslisten,68,9196,4962.0,0.5395824271422358,klima
+Venstre,Inuit Ataqatigiit,68,21,21.0,1.0,klima
+Venstre,Liberal Alliance,68,4948,3578.0,0.7231204527081649,klima
+Venstre,Moderaterne,68,284,279.0,0.9823943661971831,klima
+Venstre,Radikale Venstre,68,8386,6108.0,0.7283567851180539,klima
+Venstre,Socialdemokratiet,68,11436,8506.0,0.7437915355019238,klima
+Venstre,Socialistisk Folkeparti,68,5363,3885.0,0.7244079806078687,klima
+Venstre,Uden for folketingsgrupperne,68,3007,2120.0,0.7050216162287994,klima
+Venstre,Venstre,68,13815,13595.0,0.9840752804922186,klima
+Danmarksdemokraterne,Danmarksdemokraterne,67,677,662.0,0.9778434268833087,klima
+Danmarksdemokraterne,Dansk Folkeparti,67,2927,2896.0,0.9894089511445165,klima
+Danmarksdemokraterne,Det Konservative Folkeparti,67,1601,1483.0,0.9262960649594004,klima
+Danmarksdemokraterne,Enhedslisten,67,714,231.0,0.3235294117647059,klima
+Danmarksdemokraterne,Liberal Alliance,67,180,134.0,0.7444444444444445,klima
+Danmarksdemokraterne,Moderaterne,67,22,20.0,0.9090909090909091,klima
+Danmarksdemokraterne,Radikale Venstre,67,685,386.0,0.5635036496350365,klima
+Danmarksdemokraterne,Sambandsflokkurin,67,11,10.0,0.9090909090909091,klima
+Danmarksdemokraterne,Socialdemokratiet,67,7022,3485.0,0.4962973511819994,klima
+Danmarksdemokraterne,Socialistisk Folkeparti,67,2765,1309.0,0.47341772151898737,klima
+Danmarksdemokraterne,Uden for folketingsgrupperne,67,671,610.0,0.9090909090909091,klima
+Danmarksdemokraterne,Venstre,67,7762,7212.0,0.9291419737181139,klima
+Dansk Folkeparti,Danmarksdemokraterne,67,398,398.0,1.0,klima
+Dansk Folkeparti,Dansk Folkeparti,67,2734,2734.0,1.0,klima
+Dansk Folkeparti,Det Konservative Folkeparti,67,1852,1678.0,0.906047516198704,klima
+Dansk Folkeparti,Enhedslisten,67,777,278.0,0.3577863577863578,klima
+Dansk Folkeparti,Liberal Alliance,67,317,240.0,0.7570977917981072,klima
+Dansk Folkeparti,Moderaterne,67,21,18.0,0.8571428571428571,klima
+Dansk Folkeparti,Radikale Venstre,67,743,407.0,0.5477792732166891,klima
+Dansk Folkeparti,Socialdemokratiet,67,6278,2990.0,0.47626632685568654,klima
+Dansk Folkeparti,Socialistisk Folkeparti,67,2773,1278.0,0.46087270104579875,klima
+Dansk Folkeparti,Uden for folketingsgrupperne,67,792,660.0,0.8333333333333334,klima
+Dansk Folkeparti,Venstre,67,6660,6088.0,0.9141141141141141,klima
+Det Konservative Folkeparti,Danmarksdemokraterne,67,593,537.0,0.9055649241146712,klima
+Det Konservative Folkeparti,Dansk Folkeparti,67,2377,2130.0,0.8960875052587295,klima
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,1139,1139.0,1.0,klima
+Det Konservative Folkeparti,Enhedslisten,67,696,259.0,0.37212643678160917,klima
+Det Konservative Folkeparti,Liberal Alliance,67,190,143.0,0.7526315789473684,klima
+Det Konservative Folkeparti,Moderaterne,67,17,17.0,1.0,klima
+Det Konservative Folkeparti,Radikale Venstre,67,628,418.0,0.6656050955414012,klima
+Det Konservative Folkeparti,Sambandsflokkurin,67,12,12.0,1.0,klima
+Det Konservative Folkeparti,Socialdemokratiet,67,5348,3075.0,0.574981301421092,klima
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,2183,1222.0,0.559780119102153,klima
+Det Konservative Folkeparti,Uden for folketingsgrupperne,67,548,465.0,0.8485401459854015,klima
+Det Konservative Folkeparti,Venstre,67,5916,5915.0,0.9998309668695065,klima
+Enhedslisten,Danmarksdemokraterne,67,254,74.0,0.29133858267716534,klima
+Enhedslisten,Dansk Folkeparti,67,1110,332.0,0.2990990990990991,klima
+Enhedslisten,Det Konservative Folkeparti,67,505,170.0,0.33663366336633666,klima
+Enhedslisten,Enhedslisten,67,166,148.0,0.891566265060241,klima
+Enhedslisten,Liberal Alliance,67,113,37.0,0.3274336283185841,klima
+Enhedslisten,Moderaterne,67,9,4.0,0.4444444444444444,klima
+Enhedslisten,Radikale Venstre,67,224,154.0,0.6875,klima
+Enhedslisten,Socialdemokratiet,67,2251,1659.0,0.7370057752110173,klima
+Enhedslisten,Socialistisk Folkeparti,67,1068,799.0,0.74812734082397,klima
+Enhedslisten,Uden for folketingsgrupperne,67,237,89.0,0.3755274261603376,klima
+Enhedslisten,Venstre,67,2553,822.0,0.3219741480611046,klima
+Liberal Alliance,Danmarksdemokraterne,67,197,175.0,0.8883248730964467,klima
+Liberal Alliance,Dansk Folkeparti,67,379,335.0,0.8839050131926122,klima
+Liberal Alliance,Det Konservative Folkeparti,67,260,248.0,0.9538461538461539,klima
+Liberal Alliance,Enhedslisten,67,112,42.0,0.375,klima
+Liberal Alliance,Moderaterne,67,8,8.0,1.0,klima
+Liberal Alliance,Radikale Venstre,67,82,53.0,0.6463414634146342,klima
+Liberal Alliance,Sambandsflokkurin,67,1,1.0,1.0,klima
+Liberal Alliance,Socialdemokratiet,67,1109,586.0,0.5284039675383229,klima
+Liberal Alliance,Socialistisk Folkeparti,67,453,248.0,0.5474613686534217,klima
+Liberal Alliance,Uden for folketingsgrupperne,67,74,62.0,0.8378378378378378,klima
+Liberal Alliance,Venstre,67,1293,1214.0,0.9389017788089714,klima
+Moderaterne,Danmarksdemokraterne,67,8,7.0,0.875,klima
+Moderaterne,Dansk Folkeparti,67,34,30.0,0.8823529411764706,klima
+Moderaterne,Det Konservative Folkeparti,67,13,13.0,1.0,klima
+Moderaterne,Enhedslisten,67,1,1.0,1.0,klima
+Moderaterne,Radikale Venstre,67,2,2.0,1.0,klima
+Moderaterne,Socialdemokratiet,67,70,17.0,0.24285714285714285,klima
+Moderaterne,Socialistisk Folkeparti,67,9,4.0,0.4444444444444444,klima
+Moderaterne,Uden for folketingsgrupperne,67,3,1.0,0.3333333333333333,klima
+Moderaterne,Venstre,67,47,47.0,1.0,klima
+Radikale Venstre,Danmarksdemokraterne,67,121,55.0,0.45454545454545453,klima
+Radikale Venstre,Dansk Folkeparti,67,720,400.0,0.5555555555555556,klima
+Radikale Venstre,Det Konservative Folkeparti,67,347,226.0,0.6512968299711815,klima
+Radikale Venstre,Enhedslisten,67,231,146.0,0.6320346320346321,klima
+Radikale Venstre,Liberal Alliance,67,82,56.0,0.6829268292682927,klima
+Radikale Venstre,Radikale Venstre,67,101,101.0,1.0,klima
+Radikale Venstre,Socialdemokratiet,67,1344,1144.0,0.8511904761904762,klima
+Radikale Venstre,Socialistisk Folkeparti,67,600,513.0,0.855,klima
+Radikale Venstre,Uden for folketingsgrupperne,67,88,67.0,0.7613636363636364,klima
+Radikale Venstre,Venstre,67,1173,740.0,0.6308610400682012,klima
+Sambandsflokkurin,Danmarksdemokraterne,67,17,15.0,0.8823529411764706,klima
+Sambandsflokkurin,Dansk Folkeparti,67,53,47.0,0.8867924528301887,klima
+Sambandsflokkurin,Det Konservative Folkeparti,67,19,19.0,1.0,klima
+Sambandsflokkurin,Enhedslisten,67,24,5.0,0.20833333333333334,klima
+Sambandsflokkurin,Liberal Alliance,67,8,7.0,0.875,klima
+Sambandsflokkurin,Radikale Venstre,67,12,11.0,0.9166666666666666,klima
+Sambandsflokkurin,Socialdemokratiet,67,125,82.0,0.656,klima
+Sambandsflokkurin,Socialistisk Folkeparti,67,66,41.0,0.6212121212121212,klima
+Sambandsflokkurin,Uden for folketingsgrupperne,67,10,9.0,0.9,klima
+Sambandsflokkurin,Venstre,67,159,159.0,1.0,klima
+Socialdemokratiet,Danmarksdemokraterne,67,2825,1265.0,0.44778761061946903,klima
+Socialdemokratiet,Dansk Folkeparti,67,12139,5816.0,0.47911689595518575,klima
+Socialdemokratiet,Det Konservative Folkeparti,67,6728,3924.0,0.5832342449464922,klima
+Socialdemokratiet,Enhedslisten,67,3099,2293.0,0.7399161019683769,klima
+Socialdemokratiet,Liberal Alliance,67,910,484.0,0.5318681318681319,klima
+Socialdemokratiet,Moderaterne,67,96,22.0,0.22916666666666666,klima
+Socialdemokratiet,Radikale Venstre,67,2973,2564.0,0.8624285233770602,klima
+Socialdemokratiet,Sambandsflokkurin,67,30,21.0,0.7,klima
+Socialdemokratiet,Socialdemokratiet,67,25873,25439.0,0.9832257565802187,klima
+Socialdemokratiet,Socialistisk Folkeparti,67,10908,10269.0,0.9414191419141914,klima
+Socialdemokratiet,Uden for folketingsgrupperne,67,2949,1581.0,0.5361139369277721,klima
+Socialdemokratiet,Venstre,67,28743,16042.0,0.5581184984170059,klima
+Socialistisk Folkeparti,Danmarksdemokraterne,67,1125,494.0,0.4391111111111111,klima
+Socialistisk Folkeparti,Dansk Folkeparti,67,4694,2170.0,0.46229228802726885,klima
+Socialistisk Folkeparti,Det Konservative Folkeparti,67,2743,1549.0,0.5647101713452425,klima
+Socialistisk Folkeparti,Enhedslisten,67,1097,856.0,0.780309936189608,klima
+Socialistisk Folkeparti,Liberal Alliance,67,356,170.0,0.47752808988764045,klima
+Socialistisk Folkeparti,Moderaterne,67,37,15.0,0.40540540540540543,klima
+Socialistisk Folkeparti,Radikale Venstre,67,1123,937.0,0.8343722172751559,klima
+Socialistisk Folkeparti,Sambandsflokkurin,67,3,2.0,0.6666666666666666,klima
+Socialistisk Folkeparti,Socialdemokratiet,67,10507,9801.0,0.9328067002950414,klima
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,3806,3795.0,0.9971098265895953,klima
+Socialistisk Folkeparti,Uden for folketingsgrupperne,67,1175,582.0,0.49531914893617024,klima
+Socialistisk Folkeparti,Venstre,67,12397,6761.0,0.5453738807776075,klima
+Uden for folketingsgrupperne,Danmarksdemokraterne,67,99,91.0,0.9191919191919192,klima
+Uden for folketingsgrupperne,Dansk Folkeparti,67,659,659.0,1.0,klima
+Uden for folketingsgrupperne,Det Konservative Folkeparti,67,406,364.0,0.896551724137931,klima
+Uden for folketingsgrupperne,Enhedslisten,67,155,53.0,0.3419354838709677,klima
+Uden for folketingsgrupperne,Liberal Alliance,67,55,42.0,0.7636363636363637,klima
+Uden for folketingsgrupperne,Moderaterne,67,7,7.0,1.0,klima
+Uden for folketingsgrupperne,Radikale Venstre,67,259,135.0,0.5212355212355212,klima
+Uden for folketingsgrupperne,Socialdemokratiet,67,1391,647.0,0.4651329978432782,klima
+Uden for folketingsgrupperne,Socialistisk Folkeparti,67,511,241.0,0.47162426614481406,klima
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,67,100,82.0,0.82,klima
+Uden for folketingsgrupperne,Venstre,67,1341,1215.0,0.9060402684563759,klima
+Venstre,Danmarksdemokraterne,67,3889,3525.0,0.9064026742093083,klima
+Venstre,Dansk Folkeparti,67,15522,14001.0,0.9020100502512562,klima
+Venstre,Det Konservative Folkeparti,67,8714,8710.0,0.9995409685563461,klima
+Venstre,Enhedslisten,67,3901,1434.0,0.36759805178159444,klima
+Venstre,Liberal Alliance,67,1090,803.0,0.736697247706422,klima
+Venstre,Moderaterne,67,124,124.0,1.0,klima
+Venstre,Radikale Venstre,67,3981,2533.0,0.6362722933936197,klima
+Venstre,Sambandsflokkurin,67,18,18.0,1.0,klima
+Venstre,Socialdemokratiet,67,35725,19943.0,0.5582365290412876,klima
+Venstre,Socialistisk Folkeparti,67,13302,7218.0,0.5426251691474966,klima
+Venstre,Uden for folketingsgrupperne,67,3797,3297.0,0.8683170924414011,klima
+Venstre,Venstre,67,36776,36755.0,0.9994289754187513,klima
+Alternativet,Liberal Alliance,69,26,6.0,0.23076923076923078,klima
+Alternativet,Radikale Venstre,69,8,7.0,0.875,klima
+Danmarksdemokraterne,Alternativet,69,123,37.0,0.3008130081300813,klima
+Danmarksdemokraterne,Danmarksdemokraterne,69,1540,1460.0,0.948051948051948,klima
+Danmarksdemokraterne,Dansk Folkeparti,69,3009,2931.0,0.9740777666999003,klima
+Danmarksdemokraterne,Det Konservative Folkeparti,69,114,82.0,0.7192982456140351,klima
+Danmarksdemokraterne,Enhedslisten,69,2495,997.0,0.3995991983967936,klima
+Danmarksdemokraterne,Liberal Alliance,69,3079,2465.0,0.8005846053913608,klima
+Danmarksdemokraterne,Moderaterne,69,280,209.0,0.7464285714285714,klima
+Danmarksdemokraterne,Radikale Venstre,69,2622,1366.0,0.520976353928299,klima
+Danmarksdemokraterne,Socialdemokratiet,69,10441,6531.0,0.625514797433196,klima
+Danmarksdemokraterne,Socialistisk Folkeparti,69,1610,827.0,0.513664596273292,klima
+Danmarksdemokraterne,Uden for folketingsgrupperne,69,1576,1474.0,0.9352791878172588,klima
+Danmarksdemokraterne,Venstre,69,9515,7761.0,0.8156594850236468,klima
+Dansk Folkeparti,Alternativet,69,131,35.0,0.26717557251908397,klima
+Dansk Folkeparti,Danmarksdemokraterne,69,1193,1158.0,0.9706621961441744,klima
+Dansk Folkeparti,Dansk Folkeparti,69,2060,2057.0,0.9985436893203884,klima
+Dansk Folkeparti,Det Konservative Folkeparti,69,93,67.0,0.7204301075268817,klima
+Dansk Folkeparti,Enhedslisten,69,2229,823.0,0.36922386720502465,klima
+Dansk Folkeparti,Liberal Alliance,69,2167,1718.0,0.7928011075219197,klima
+Dansk Folkeparti,Moderaterne,69,133,96.0,0.7218045112781954,klima
+Dansk Folkeparti,Radikale Venstre,69,2206,1036.0,0.4696282864913871,klima
+Dansk Folkeparti,Socialdemokratiet,69,8039,4631.0,0.5760666749595721,klima
+Dansk Folkeparti,Socialistisk Folkeparti,69,848,382.0,0.45047169811320753,klima
+Dansk Folkeparti,Uden for folketingsgrupperne,69,1034,948.0,0.9168278529980658,klima
+Dansk Folkeparti,Venstre,69,7485,5952.0,0.795190380761523,klima
+Det Konservative Folkeparti,Alternativet,69,15,4.0,0.26666666666666666,klima
+Det Konservative Folkeparti,Danmarksdemokraterne,69,169,129.0,0.7633136094674556,klima
+Det Konservative Folkeparti,Dansk Folkeparti,69,282,213.0,0.7553191489361702,klima
+Det Konservative Folkeparti,Det Konservative Folkeparti,69,20,20.0,1.0,klima
+Det Konservative Folkeparti,Enhedslisten,69,258,57.0,0.22093023255813954,klima
+Det Konservative Folkeparti,Liberal Alliance,69,207,191.0,0.9227053140096618,klima
+Det Konservative Folkeparti,Moderaterne,69,27,27.0,1.0,klima
+Det Konservative Folkeparti,Radikale Venstre,69,201,126.0,0.6268656716417911,klima
+Det Konservative Folkeparti,Socialdemokratiet,69,774,630.0,0.813953488372093,klima
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,136,53.0,0.3897058823529412,klima
+Det Konservative Folkeparti,Uden for folketingsgrupperne,69,101,79.0,0.7821782178217822,klima
+Det Konservative Folkeparti,Venstre,69,882,863.0,0.9784580498866213,klima
+Enhedslisten,Alternativet,69,120,100.0,0.8333333333333334,klima
+Enhedslisten,Danmarksdemokraterne,69,1272,481.0,0.3781446540880503,klima
+Enhedslisten,Dansk Folkeparti,69,2059,756.0,0.36716852841185044,klima
+Enhedslisten,Det Konservative Folkeparti,69,51,13.0,0.2549019607843137,klima
+Enhedslisten,Enhedslisten,69,1545,1545.0,1.0,klima
+Enhedslisten,Liberal Alliance,69,2179,714.0,0.32767324460761815,klima
+Enhedslisten,Moderaterne,69,226,70.0,0.30973451327433627,klima
+Enhedslisten,Radikale Venstre,69,1815,1156.0,0.6369146005509642,klima
+Enhedslisten,Socialdemokratiet,69,7612,3484.0,0.4576983709931687,klima
+Enhedslisten,Socialistisk Folkeparti,69,1109,887.0,0.799819657348963,klima
+Enhedslisten,Uden for folketingsgrupperne,69,1000,322.0,0.322,klima
+Enhedslisten,Venstre,69,7180,2182.0,0.30389972144846794,klima
+Liberal Alliance,Alternativet,69,83,25.0,0.30120481927710846,klima
+Liberal Alliance,Danmarksdemokraterne,69,241,197.0,0.8174273858921162,klima
+Liberal Alliance,Dansk Folkeparti,69,1606,1263.0,0.7864259028642591,klima
+Liberal Alliance,Det Konservative Folkeparti,69,52,45.0,0.8653846153846154,klima
+Liberal Alliance,Enhedslisten,69,1213,437.0,0.3602638087386645,klima
+Liberal Alliance,Liberal Alliance,69,1146,1146.0,1.0,klima
+Liberal Alliance,Moderaterne,69,9,8.0,0.8888888888888888,klima
+Liberal Alliance,Radikale Venstre,69,1505,871.0,0.5787375415282392,klima
+Liberal Alliance,Socialdemokratiet,69,4732,3577.0,0.7559171597633136,klima
+Liberal Alliance,Socialistisk Folkeparti,69,392,169.0,0.43112244897959184,klima
+Liberal Alliance,Uden for folketingsgrupperne,69,669,571.0,0.8535127055306427,klima
+Liberal Alliance,Venstre,69,3985,3783.0,0.9493099121706399,klima
+Moderaterne,Alternativet,69,3,0.0,0.0,klima
+Moderaterne,Danmarksdemokraterne,69,132,92.0,0.696969696969697,klima
+Moderaterne,Dansk Folkeparti,69,345,249.0,0.7217391304347827,klima
+Moderaterne,Det Konservative Folkeparti,69,14,13.0,0.9285714285714286,klima
+Moderaterne,Enhedslisten,69,191,64.0,0.33507853403141363,klima
+Moderaterne,Liberal Alliance,69,364,351.0,0.9642857142857143,klima
+Moderaterne,Radikale Venstre,69,265,153.0,0.5773584905660377,klima
+Moderaterne,Socialdemokratiet,69,1196,901.0,0.7533444816053512,klima
+Moderaterne,Socialistisk Folkeparti,69,142,60.0,0.4225352112676056,klima
+Moderaterne,Uden for folketingsgrupperne,69,159,118.0,0.7421383647798742,klima
+Moderaterne,Venstre,69,988,988.0,1.0,klima
+Radikale Venstre,Alternativet,69,124,87.0,0.7016129032258065,klima
+Radikale Venstre,Danmarksdemokraterne,69,560,293.0,0.5232142857142857,klima
+Radikale Venstre,Dansk Folkeparti,69,1433,686.0,0.47871598046057223,klima
+Radikale Venstre,Det Konservative Folkeparti,69,62,45.0,0.7258064516129032,klima
+Radikale Venstre,Enhedslisten,69,1418,903.0,0.6368124118476728,klima
+Radikale Venstre,Liberal Alliance,69,1378,803.0,0.5827285921625545,klima
+Radikale Venstre,Moderaterne,69,53,35.0,0.660377358490566,klima
+Radikale Venstre,Radikale Venstre,69,1087,1084.0,0.9972401103955841,klima
+Radikale Venstre,Socialdemokratiet,69,4692,3397.0,0.723998294970162,klima
+Radikale Venstre,Socialistisk Folkeparti,69,300,218.0,0.7266666666666667,klima
+Radikale Venstre,Uden for folketingsgrupperne,69,522,275.0,0.5268199233716475,klima
+Radikale Venstre,Venstre,69,4133,2540.0,0.6145656907815147,klima
+Socialdemokratiet,Alternativet,69,493,243.0,0.49290060851926976,klima
+Socialdemokratiet,Danmarksdemokraterne,69,3636,2266.0,0.6232123212321232,klima
+Socialdemokratiet,Dansk Folkeparti,69,8025,4605.0,0.5738317757009346,klima
+Socialdemokratiet,Det Konservative Folkeparti,69,275,226.0,0.8218181818181818,klima
+Socialdemokratiet,Enhedslisten,69,6547,3049.0,0.4657094852604246,klima
+Socialdemokratiet,Liberal Alliance,69,7799,6005.0,0.7699705090396205,klima
+Socialdemokratiet,Moderaterne,69,393,286.0,0.727735368956743,klima
+Socialdemokratiet,Radikale Venstre,69,7363,5399.0,0.7332608990900448,klima
+Socialdemokratiet,Socialdemokratiet,69,25502,24880.0,0.975609756097561,klima
+Socialdemokratiet,Socialistisk Folkeparti,69,3076,1899.0,0.6173602080624188,klima
+Socialdemokratiet,Uden for folketingsgrupperne,69,3792,2287.0,0.6031118143459916,klima
+Socialdemokratiet,Venstre,69,23979,18729.0,0.7810584261228575,klima
+Socialistisk Folkeparti,Alternativet,69,76,55.0,0.7236842105263158,klima
+Socialistisk Folkeparti,Danmarksdemokraterne,69,347,186.0,0.5360230547550432,klima
+Socialistisk Folkeparti,Dansk Folkeparti,69,1376,643.0,0.467296511627907,klima
+Socialistisk Folkeparti,Det Konservative Folkeparti,69,48,12.0,0.25,klima
+Socialistisk Folkeparti,Enhedslisten,69,868,654.0,0.7534562211981567,klima
+Socialistisk Folkeparti,Liberal Alliance,69,1367,647.0,0.47329919531821507,klima
+Socialistisk Folkeparti,Moderaterne,69,70,30.0,0.42857142857142855,klima
+Socialistisk Folkeparti,Radikale Venstre,69,1421,1059.0,0.745249824067558,klima
+Socialistisk Folkeparti,Socialdemokratiet,69,4311,2601.0,0.6033402922755741,klima
+Socialistisk Folkeparti,Socialistisk Folkeparti,69,333,333.0,1.0,klima
+Socialistisk Folkeparti,Uden for folketingsgrupperne,69,811,383.0,0.4722564734895191,klima
+Socialistisk Folkeparti,Venstre,69,3938,1905.0,0.4837480954799391,klima
+Uden for folketingsgrupperne,Alternativet,69,75,14.0,0.18666666666666668,klima
+Uden for folketingsgrupperne,Danmarksdemokraterne,69,36,36.0,1.0,klima
+Uden for folketingsgrupperne,Dansk Folkeparti,69,833,832.0,0.9987995198079231,klima
+Uden for folketingsgrupperne,Det Konservative Folkeparti,69,13,10.0,0.7692307692307693,klima
+Uden for folketingsgrupperne,Enhedslisten,69,614,194.0,0.31596091205211724,klima
+Uden for folketingsgrupperne,Liberal Alliance,69,762,624.0,0.8188976377952756,klima
+Uden for folketingsgrupperne,Radikale Venstre,69,937,409.0,0.43649946638207043,klima
+Uden for folketingsgrupperne,Socialdemokratiet,69,2493,1491.0,0.5980746089049338,klima
+Uden for folketingsgrupperne,Socialistisk Folkeparti,69,48,21.0,0.4375,klima
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,69,239,218.0,0.9121338912133892,klima
+Uden for folketingsgrupperne,Venstre,69,2017,1656.0,0.8210213187902826,klima
+Venstre,Alternativet,69,452,111.0,0.24557522123893805,klima
+Venstre,Danmarksdemokraterne,69,3285,2686.0,0.8176560121765601,klima
+Venstre,Dansk Folkeparti,69,7263,5802.0,0.7988434531185461,klima
+Venstre,Det Konservative Folkeparti,69,274,262.0,0.9562043795620438,klima
+Venstre,Enhedslisten,69,5774,1945.0,0.33685486664357467,klima
+Venstre,Liberal Alliance,69,7443,7203.0,0.9677549375251915,klima
+Venstre,Moderaterne,69,439,439.0,1.0,klima
+Venstre,Radikale Venstre,69,7008,4229.0,0.603453196347032,klima
+Venstre,Socialdemokratiet,69,24929,19400.0,0.7782101167315175,klima
+Venstre,Socialistisk Folkeparti,69,2929,1403.0,0.47900307272106524,klima
+Venstre,Uden for folketingsgrupperne,69,3648,3019.0,0.8275767543859649,klima
+Venstre,Venstre,69,21087,21087.0,1.0,klima
+Danmarksdemokraterne,Danmarksdemokraterne,66,623,598.0,0.9598715890850722,klima
+Danmarksdemokraterne,Dansk Folkeparti,66,1781,1724.0,0.9679955081414935,klima
+Danmarksdemokraterne,Det Konservative Folkeparti,66,1416,1305.0,0.9216101694915254,klima
+Danmarksdemokraterne,Enhedslisten,66,557,119.0,0.21364452423698385,klima
+Danmarksdemokraterne,Liberal Alliance,66,256,234.0,0.9140625,klima
+Danmarksdemokraterne,Moderaterne,66,83,81.0,0.9759036144578314,klima
+Danmarksdemokraterne,Radikale Venstre,66,919,478.0,0.5201305767138193,klima
+Danmarksdemokraterne,Siumut,66,5,5.0,1.0,klima
+Danmarksdemokraterne,Socialdemokratiet,66,4211,2255.0,0.5355022559962004,klima
+Danmarksdemokraterne,Socialistisk Folkeparti,66,871,326.0,0.3742824339839265,klima
+Danmarksdemokraterne,Uden for folketingsgrupperne,66,868,639.0,0.7361751152073732,klima
+Danmarksdemokraterne,Venstre,66,5433,4964.0,0.913675685624885,klima
+Dansk Folkeparti,Danmarksdemokraterne,66,583,583.0,1.0,klima
+Dansk Folkeparti,Dansk Folkeparti,66,1530,1530.0,1.0,klima
+Dansk Folkeparti,Det Konservative Folkeparti,66,1059,943.0,0.890462700661001,klima
+Dansk Folkeparti,Enhedslisten,66,605,108.0,0.17851239669421487,klima
+Dansk Folkeparti,Liberal Alliance,66,246,217.0,0.8821138211382114,klima
+Dansk Folkeparti,Moderaterne,66,75,74.0,0.9866666666666667,klima
+Dansk Folkeparti,Radikale Venstre,66,1109,532.0,0.47971145175834085,klima
+Dansk Folkeparti,Siumut,66,2,2.0,1.0,klima
+Dansk Folkeparti,Socialdemokratiet,66,3815,1887.0,0.4946264744429882,klima
+Dansk Folkeparti,Socialistisk Folkeparti,66,1119,400.0,0.3574620196604111,klima
+Dansk Folkeparti,Uden for folketingsgrupperne,66,1184,742.0,0.6266891891891891,klima
+Dansk Folkeparti,Venstre,66,5032,4418.0,0.8779809220985691,klima
+Det Konservative Folkeparti,Danmarksdemokraterne,66,970,895.0,0.9226804123711341,klima
+Det Konservative Folkeparti,Dansk Folkeparti,66,2555,2259.0,0.8841487279843444,klima
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,1568,1560.0,0.9948979591836735,klima
+Det Konservative Folkeparti,Enhedslisten,66,872,192.0,0.22018348623853212,klima
+Det Konservative Folkeparti,Liberal Alliance,66,367,366.0,0.997275204359673,klima
+Det Konservative Folkeparti,Moderaterne,66,126,125.0,0.9920634920634921,klima
+Det Konservative Folkeparti,Radikale Venstre,66,1493,801.0,0.5365036838580041,klima
+Det Konservative Folkeparti,Siumut,66,10,10.0,1.0,klima
+Det Konservative Folkeparti,Socialdemokratiet,66,6064,3486.0,0.5748680738786279,klima
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,1294,479.0,0.3701700154559505,klima
+Det Konservative Folkeparti,Uden for folketingsgrupperne,66,1339,1010.0,0.7542942494398805,klima
+Det Konservative Folkeparti,Venstre,66,7481,7453.0,0.9962571848683331,klima
+Enhedslisten,Danmarksdemokraterne,66,310,55.0,0.1774193548387097,klima
+Enhedslisten,Dansk Folkeparti,66,702,152.0,0.21652421652421652,klima
+Enhedslisten,Det Konservative Folkeparti,66,463,104.0,0.22462203023758098,klima
+Enhedslisten,Enhedslisten,66,156,156.0,1.0,klima
+Enhedslisten,Liberal Alliance,66,100,22.0,0.22,klima
+Enhedslisten,Moderaterne,66,31,6.0,0.1935483870967742,klima
+Enhedslisten,Radikale Venstre,66,334,218.0,0.6526946107784432,klima
+Enhedslisten,Siumut,66,2,2.0,1.0,klima
+Enhedslisten,Socialdemokratiet,66,1499,896.0,0.5977318212141428,klima
+Enhedslisten,Socialistisk Folkeparti,66,424,348.0,0.8207547169811321,klima
+Enhedslisten,Uden for folketingsgrupperne,66,418,193.0,0.46172248803827753,klima
+Enhedslisten,Venstre,66,2034,458.0,0.22517207472959685,klima
+Liberal Alliance,Danmarksdemokraterne,66,88,79.0,0.8977272727272727,klima
+Liberal Alliance,Dansk Folkeparti,66,283,245.0,0.8657243816254417,klima
+Liberal Alliance,Det Konservative Folkeparti,66,181,181.0,1.0,klima
+Liberal Alliance,Enhedslisten,66,106,19.0,0.1792452830188679,klima
+Liberal Alliance,Radikale Venstre,66,265,139.0,0.5245283018867924,klima
+Liberal Alliance,Socialdemokratiet,66,677,373.0,0.55096011816839,klima
+Liberal Alliance,Socialistisk Folkeparti,66,148,48.0,0.32432432432432434,klima
+Liberal Alliance,Uden for folketingsgrupperne,66,179,122.0,0.6815642458100558,klima
+Liberal Alliance,Venstre,66,647,646.0,0.9984544049459042,klima
+Moderaterne,Danmarksdemokraterne,66,30,29.0,0.9666666666666667,klima
+Moderaterne,Dansk Folkeparti,66,96,92.0,0.9583333333333334,klima
+Moderaterne,Det Konservative Folkeparti,66,63,63.0,1.0,klima
+Moderaterne,Enhedslisten,66,29,4.0,0.13793103448275862,klima
+Moderaterne,Liberal Alliance,66,25,25.0,1.0,klima
+Moderaterne,Radikale Venstre,66,82,46.0,0.5609756097560976,klima
+Moderaterne,Socialdemokratiet,66,226,114.0,0.504424778761062,klima
+Moderaterne,Socialistisk Folkeparti,66,42,17.0,0.40476190476190477,klima
+Moderaterne,Uden for folketingsgrupperne,66,68,45.0,0.6617647058823529,klima
+Moderaterne,Venstre,66,212,211.0,0.9952830188679245,klima
+Radikale Venstre,Danmarksdemokraterne,66,349,151.0,0.4326647564469914,klima
+Radikale Venstre,Dansk Folkeparti,66,756,342.0,0.4523809523809524,klima
+Radikale Venstre,Det Konservative Folkeparti,66,360,193.0,0.5361111111111111,klima
+Radikale Venstre,Enhedslisten,66,333,214.0,0.6426426426426426,klima
+Radikale Venstre,Radikale Venstre,66,374,370.0,0.9893048128342246,klima
+Radikale Venstre,Socialdemokratiet,66,1574,1202.0,0.7636594663278272,klima
+Radikale Venstre,Socialistisk Folkeparti,66,491,366.0,0.745417515274949,klima
+Radikale Venstre,Uden for folketingsgrupperne,66,587,470.0,0.8006814310051107,klima
+Radikale Venstre,Venstre,66,2188,1150.0,0.5255941499085923,klima
+Siumut,Danmarksdemokraterne,66,2,2.0,1.0,klima
+Siumut,Dansk Folkeparti,66,8,8.0,1.0,klima
+Siumut,Det Konservative Folkeparti,66,4,4.0,1.0,klima
+Siumut,Liberal Alliance,66,2,2.0,1.0,klima
+Siumut,Radikale Venstre,66,5,5.0,1.0,klima
+Siumut,Socialdemokratiet,66,12,12.0,1.0,klima
+Siumut,Socialistisk Folkeparti,66,6,6.0,1.0,klima
+Siumut,Uden for folketingsgrupperne,66,5,5.0,1.0,klima
+Siumut,Venstre,66,13,13.0,1.0,klima
+Socialdemokratiet,Danmarksdemokraterne,66,1935,919.0,0.4749354005167959,klima
+Socialdemokratiet,Dansk Folkeparti,66,5431,2659.0,0.48959675934450375,klima
+Socialdemokratiet,Det Konservative Folkeparti,66,3258,1912.0,0.5868631062001227,klima
+Socialdemokratiet,Enhedslisten,66,1849,1051.0,0.5684153596538669,klima
+Socialdemokratiet,Liberal Alliance,66,683,407.0,0.595900439238653,klima
+Socialdemokratiet,Moderaterne,66,224,114.0,0.5089285714285714,klima
+Socialdemokratiet,Radikale Venstre,66,3139,2402.0,0.7652118509079324,klima
+Socialdemokratiet,Siumut,66,18,18.0,1.0,klima
+Socialdemokratiet,Socialdemokratiet,66,11127,10781.0,0.9689044666127438,klima
+Socialdemokratiet,Socialistisk Folkeparti,66,2946,2159.0,0.7328581126951799,klima
+Socialdemokratiet,Uden for folketingsgrupperne,66,3067,2154.0,0.7023149657645908,klima
+Socialdemokratiet,Venstre,66,15001,8900.0,0.593293780414639,klima
+Socialistisk Folkeparti,Danmarksdemokraterne,66,728,197.0,0.2706043956043956,klima
+Socialistisk Folkeparti,Dansk Folkeparti,66,1358,429.0,0.3159057437407953,klima
+Socialistisk Folkeparti,Det Konservative Folkeparti,66,1206,411.0,0.3407960199004975,klima
+Socialistisk Folkeparti,Enhedslisten,66,476,406.0,0.8529411764705882,klima
+Socialistisk Folkeparti,Liberal Alliance,66,226,68.0,0.3008849557522124,klima
+Socialistisk Folkeparti,Moderaterne,66,89,39.0,0.43820224719101125,klima
+Socialistisk Folkeparti,Radikale Venstre,66,728,569.0,0.7815934065934066,klima
+Socialistisk Folkeparti,Socialdemokratiet,66,3481,2573.0,0.7391554151106005,klima
+Socialistisk Folkeparti,Socialistisk Folkeparti,66,708,705.0,0.9957627118644068,klima
+Socialistisk Folkeparti,Uden for folketingsgrupperne,66,800,449.0,0.56125,klima
+Socialistisk Folkeparti,Venstre,66,5117,1766.0,0.34512409615008793,klima
+Uden for folketingsgrupperne,Danmarksdemokraterne,66,277,199.0,0.7184115523465704,klima
+Uden for folketingsgrupperne,Dansk Folkeparti,66,621,540.0,0.8695652173913043,klima
+Uden for folketingsgrupperne,Det Konservative Folkeparti,66,489,395.0,0.8077709611451943,klima
+Uden for folketingsgrupperne,Enhedslisten,66,235,76.0,0.32340425531914896,klima
+Uden for folketingsgrupperne,Liberal Alliance,66,89,82.0,0.9213483146067416,klima
+Uden for folketingsgrupperne,Moderaterne,66,44,42.0,0.9545454545454546,klima
+Uden for folketingsgrupperne,Radikale Venstre,66,261,138.0,0.5287356321839081,klima
+Uden for folketingsgrupperne,Socialdemokratiet,66,1571,982.0,0.6250795671546785,klima
+Uden for folketingsgrupperne,Socialistisk Folkeparti,66,517,278.0,0.5377176015473888,klima
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,66,357,247.0,0.6918767507002801,klima
+Uden for folketingsgrupperne,Venstre,66,2420,1951.0,0.806198347107438,klima
+Venstre,Danmarksdemokraterne,66,4294,3933.0,0.915929203539823,klima
+Venstre,Dansk Folkeparti,66,9777,8568.0,0.8763424363301626,klima
+Venstre,Det Konservative Folkeparti,66,7317,7285.0,0.9956266229328959,klima
+Venstre,Enhedslisten,66,3308,735.0,0.22218863361547764,klima
+Venstre,Liberal Alliance,66,1501,1498.0,0.9980013324450366,klima
+Venstre,Moderaterne,66,470,467.0,0.9936170212765958,klima
+Venstre,Radikale Venstre,66,5439,2914.0,0.5357602500459643,klima
+Venstre,Siumut,66,30,30.0,1.0,klima
+Venstre,Socialdemokratiet,66,22897,13448.0,0.5873258505481067,klima
+Venstre,Socialistisk Folkeparti,66,5130,1953.0,0.38070175438596493,klima
+Venstre,Uden for folketingsgrupperne,66,4915,3648.0,0.7422177009155646,klima
+Venstre,Venstre,66,29249,29141.0,0.9963075660706349,klima
+Danmarksdemokraterne,Danmarksdemokraterne,65,5,5.0,1.0,klima
+Danmarksdemokraterne,Dansk Folkeparti,65,50,50.0,1.0,klima
+Danmarksdemokraterne,Det Konservative Folkeparti,65,28,28.0,1.0,klima
+Danmarksdemokraterne,Enhedslisten,65,4,2.0,0.5,klima
+Danmarksdemokraterne,Kristendemokraterne,65,4,2.0,0.5,klima
+Danmarksdemokraterne,Liberal Alliance,65,10,10.0,1.0,klima
+Danmarksdemokraterne,Radikale Venstre,65,16,4.0,0.25,klima
+Danmarksdemokraterne,Socialdemokratiet,65,181,32.0,0.17679558011049723,klima
+Danmarksdemokraterne,Socialistisk Folkeparti,65,24,4.0,0.16666666666666666,klima
+Danmarksdemokraterne,Uden for folketingsgrupperne,65,32,26.0,0.8125,klima
+Danmarksdemokraterne,Venstre,65,133,133.0,1.0,klima
+Dansk Folkeparti,Dansk Folkeparti,65,50,50.0,1.0,klima
+Dansk Folkeparti,Det Konservative Folkeparti,65,12,12.0,1.0,klima
+Dansk Folkeparti,Enhedslisten,65,4,2.0,0.5,klima
+Dansk Folkeparti,Kristendemokraterne,65,4,2.0,0.5,klima
+Dansk Folkeparti,Liberal Alliance,65,8,8.0,1.0,klima
+Dansk Folkeparti,Radikale Venstre,65,17,4.0,0.23529411764705882,klima
+Dansk Folkeparti,Socialdemokratiet,65,164,32.0,0.1951219512195122,klima
+Dansk Folkeparti,Socialistisk Folkeparti,65,31,4.0,0.12903225806451613,klima
+Dansk Folkeparti,Uden for folketingsgrupperne,65,24,18.0,0.75,klima
+Dansk Folkeparti,Venstre,65,136,136.0,1.0,klima
+Det Konservative Folkeparti,Danmarksdemokraterne,65,14,14.0,1.0,klima
+Det Konservative Folkeparti,Dansk Folkeparti,65,93,93.0,1.0,klima
+Det Konservative Folkeparti,Det Konservative Folkeparti,65,36,36.0,1.0,klima
+Det Konservative Folkeparti,Enhedslisten,65,10,5.0,0.5,klima
+Det Konservative Folkeparti,Kristendemokraterne,65,6,3.0,0.5,klima
+Det Konservative Folkeparti,Liberal Alliance,65,18,18.0,1.0,klima
+Det Konservative Folkeparti,Radikale Venstre,65,36,10.0,0.2777777777777778,klima
+Det Konservative Folkeparti,Socialdemokratiet,65,336,69.0,0.20535714285714285,klima
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,45,10.0,0.2222222222222222,klima
+Det Konservative Folkeparti,Uden for folketingsgrupperne,65,56,45.0,0.8035714285714286,klima
+Det Konservative Folkeparti,Venstre,65,236,236.0,1.0,klima
+Enhedslisten,Dansk Folkeparti,65,6,3.0,0.5,klima
+Enhedslisten,Radikale Venstre,65,4,4.0,1.0,klima
+Enhedslisten,Socialdemokratiet,65,20,20.0,1.0,klima
+Enhedslisten,Socialistisk Folkeparti,65,2,2.0,1.0,klima
+Enhedslisten,Uden for folketingsgrupperne,65,4,2.0,0.5,klima
+Enhedslisten,Venstre,65,12,6.0,0.5,klima
+Kristendemokraterne,Dansk Folkeparti,65,6,3.0,0.5,klima
+Kristendemokraterne,Radikale Venstre,65,2,1.0,0.5,klima
+Kristendemokraterne,Socialdemokratiet,65,22,11.0,0.5,klima
+Kristendemokraterne,Socialistisk Folkeparti,65,4,2.0,0.5,klima
+Kristendemokraterne,Uden for folketingsgrupperne,65,4,2.0,0.5,klima
+Kristendemokraterne,Venstre,65,10,5.0,0.5,klima
+Liberal Alliance,Dansk Folkeparti,65,17,17.0,1.0,klima
+Liberal Alliance,Det Konservative Folkeparti,65,3,3.0,1.0,klima
+Liberal Alliance,Enhedslisten,65,2,1.0,0.5,klima
+Liberal Alliance,Kristendemokraterne,65,2,1.0,0.5,klima
+Liberal Alliance,Radikale Venstre,65,8,2.0,0.25,klima
+Liberal Alliance,Socialdemokratiet,65,65,11.0,0.16923076923076924,klima
+Liberal Alliance,Socialistisk Folkeparti,65,9,2.0,0.2222222222222222,klima
+Liberal Alliance,Uden for folketingsgrupperne,65,10,7.0,0.7,klima
+Liberal Alliance,Venstre,65,29,29.0,1.0,klima
+Radikale Venstre,Dansk Folkeparti,65,23,6.0,0.2608695652173913,klima
+Radikale Venstre,Radikale Venstre,65,3,3.0,1.0,klima
+Radikale Venstre,Socialdemokratiet,65,72,72.0,1.0,klima
+Radikale Venstre,Socialistisk Folkeparti,65,10,10.0,1.0,klima
+Radikale Venstre,Uden for folketingsgrupperne,65,12,6.0,0.5,klima
+Radikale Venstre,Venstre,65,41,11.0,0.2682926829268293,klima
+Socialdemokratiet,Danmarksdemokraterne,65,17,4.0,0.23529411764705882,klima
+Socialdemokratiet,Dansk Folkeparti,65,331,58.0,0.17522658610271905,klima
+Socialdemokratiet,Det Konservative Folkeparti,65,71,21.0,0.29577464788732394,klima
+Socialdemokratiet,Enhedslisten,65,16,16.0,1.0,klima
+Socialdemokratiet,Kristendemokraterne,65,22,11.0,0.5,klima
+Socialdemokratiet,Liberal Alliance,65,34,7.0,0.20588235294117646,klima
+Socialdemokratiet,Radikale Venstre,65,82,82.0,1.0,klima
+Socialdemokratiet,Socialdemokratiet,65,939,939.0,1.0,klima
+Socialdemokratiet,Socialistisk Folkeparti,65,141,141.0,1.0,klima
+Socialdemokratiet,Uden for folketingsgrupperne,65,166,49.0,0.29518072289156627,klima
+Socialdemokratiet,Venstre,65,678,132.0,0.19469026548672566,klima
+Socialistisk Folkeparti,Danmarksdemokraterne,65,10,2.0,0.2,klima
+Socialistisk Folkeparti,Dansk Folkeparti,65,54,11.0,0.2037037037037037,klima
+Socialistisk Folkeparti,Det Konservative Folkeparti,65,24,5.0,0.20833333333333334,klima
+Socialistisk Folkeparti,Enhedslisten,65,4,4.0,1.0,klima
+Socialistisk Folkeparti,Kristendemokraterne,65,4,2.0,0.5,klima
+Socialistisk Folkeparti,Liberal Alliance,65,8,1.0,0.125,klima
+Socialistisk Folkeparti,Radikale Venstre,65,16,16.0,1.0,klima
+Socialistisk Folkeparti,Socialdemokratiet,65,200,200.0,1.0,klima
+Socialistisk Folkeparti,Socialistisk Folkeparti,65,21,21.0,1.0,klima
+Socialistisk Folkeparti,Uden for folketingsgrupperne,65,35,13.0,0.37142857142857144,klima
+Socialistisk Folkeparti,Venstre,65,139,29.0,0.20863309352517986,klima
+Uden for folketingsgrupperne,Dansk Folkeparti,65,56,47.0,0.8392857142857143,klima
+Uden for folketingsgrupperne,Det Konservative Folkeparti,65,8,8.0,1.0,klima
+Uden for folketingsgrupperne,Enhedslisten,65,2,1.0,0.5,klima
+Uden for folketingsgrupperne,Kristendemokraterne,65,4,2.0,0.5,klima
+Uden for folketingsgrupperne,Liberal Alliance,65,6,6.0,1.0,klima
+Uden for folketingsgrupperne,Radikale Venstre,65,12,2.0,0.16666666666666666,klima
+Uden for folketingsgrupperne,Socialdemokratiet,65,156,49.0,0.3141025641025641,klima
+Uden for folketingsgrupperne,Socialistisk Folkeparti,65,21,4.0,0.19047619047619047,klima
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,65,20,11.0,0.55,klima
+Uden for folketingsgrupperne,Venstre,65,96,81.0,0.84375,klima
+Venstre,Danmarksdemokraterne,65,39,39.0,1.0,klima
+Venstre,Dansk Folkeparti,65,294,294.0,1.0,klima
+Venstre,Det Konservative Folkeparti,65,130,130.0,1.0,klima
+Venstre,Enhedslisten,65,24,12.0,0.5,klima
+Venstre,Kristendemokraterne,65,22,11.0,0.5,klima
+Venstre,Liberal Alliance,65,57,57.0,1.0,klima
+Venstre,Radikale Venstre,65,99,25.0,0.25252525252525254,klima
+Venstre,Socialdemokratiet,65,1016,192.0,0.1889763779527559,klima
+Venstre,Socialistisk Folkeparti,65,151,25.0,0.16556291390728478,klima
+Venstre,Uden for folketingsgrupperne,65,176,141.0,0.8011363636363636,klima
+Venstre,Venstre,65,699,699.0,1.0,klima
+Alternativet,Radikale Venstre,70,36,27.0,0.75,klima
+Alternativet,Venstre,70,45,21.0,0.4666666666666667,klima
+Danmarksdemokraterne,Alternativet,70,280,136.0,0.4857142857142857,klima
+Danmarksdemokraterne,Danmarksdemokraterne,70,1538,1432.0,0.9310793237971391,klima
+Danmarksdemokraterne,Dansk Folkeparti,70,1165,1085.0,0.9313304721030042,klima
+Danmarksdemokraterne,Det Konservative Folkeparti,70,391,303.0,0.7749360613810742,klima
+Danmarksdemokraterne,Enhedslisten,70,1766,846.0,0.47904869762174407,klima
+Danmarksdemokraterne,Liberal Alliance,70,533,341.0,0.6397748592870544,klima
+Danmarksdemokraterne,Moderaterne,70,16,10.0,0.625,klima
+Danmarksdemokraterne,Radikale Venstre,70,1978,1099.0,0.5556117290192113,klima
+Danmarksdemokraterne,Sambandsflokkurin,70,1,1.0,1.0,klima
+Danmarksdemokraterne,Socialdemokratiet,70,7736,4482.0,0.5793691830403309,klima
+Danmarksdemokraterne,Socialistisk Folkeparti,70,974,498.0,0.5112936344969199,klima
+Danmarksdemokraterne,Uden for folketingsgrupperne,70,1495,1325.0,0.8862876254180602,klima
+Danmarksdemokraterne,Venstre,70,6606,4942.0,0.7481077808053285,klima
+Dansk Folkeparti,Alternativet,70,149,60.0,0.40268456375838924,klima
+Dansk Folkeparti,Danmarksdemokraterne,70,478,448.0,0.9372384937238494,klima
+Dansk Folkeparti,Dansk Folkeparti,70,251,249.0,0.9920318725099602,klima
+Dansk Folkeparti,Det Konservative Folkeparti,70,73,41.0,0.5616438356164384,klima
+Dansk Folkeparti,Enhedslisten,70,860,369.0,0.4290697674418605,klima
+Dansk Folkeparti,Liberal Alliance,70,210,128.0,0.6095238095238096,klima
+Dansk Folkeparti,Radikale Venstre,70,660,326.0,0.49393939393939396,klima
+Dansk Folkeparti,Socialdemokratiet,70,2395,1245.0,0.5198329853862212,klima
+Dansk Folkeparti,Socialistisk Folkeparti,70,134,56.0,0.417910447761194,klima
+Dansk Folkeparti,Uden for folketingsgrupperne,70,215,185.0,0.8604651162790697,klima
+Dansk Folkeparti,Venstre,70,2023,1373.0,0.6786950074147305,klima
+Det Konservative Folkeparti,Alternativet,70,21,14.0,0.6666666666666666,klima
+Det Konservative Folkeparti,Danmarksdemokraterne,70,78,65.0,0.8333333333333334,klima
+Det Konservative Folkeparti,Dansk Folkeparti,70,129,94.0,0.7286821705426356,klima
+Det Konservative Folkeparti,Det Konservative Folkeparti,70,30,29.0,0.9666666666666667,klima
+Det Konservative Folkeparti,Enhedslisten,70,194,94.0,0.4845360824742268,klima
+Det Konservative Folkeparti,Liberal Alliance,70,45,36.0,0.8,klima
+Det Konservative Folkeparti,Radikale Venstre,70,171,105.0,0.6140350877192983,klima
+Det Konservative Folkeparti,Socialdemokratiet,70,419,302.0,0.720763723150358,klima
+Det Konservative Folkeparti,Socialistisk Folkeparti,70,1,1.0,1.0,klima
+Det Konservative Folkeparti,Uden for folketingsgrupperne,70,70,45.0,0.6428571428571429,klima
+Det Konservative Folkeparti,Venstre,70,322,288.0,0.8944099378881988,klima
+Enhedslisten,Alternativet,70,200,181.0,0.905,klima
+Enhedslisten,Danmarksdemokraterne,70,710,278.0,0.39154929577464787,klima
+Enhedslisten,Dansk Folkeparti,70,327,113.0,0.345565749235474,klima
+Enhedslisten,Det Konservative Folkeparti,70,113,63.0,0.5575221238938053,klima
+Enhedslisten,Enhedslisten,70,700,694.0,0.9914285714285714,klima
+Enhedslisten,Liberal Alliance,70,127,44.0,0.3464566929133858,klima
+Enhedslisten,Moderaterne,70,4,2.0,0.5,klima
+Enhedslisten,Radikale Venstre,70,851,696.0,0.81786133960047,klima
+Enhedslisten,Socialdemokratiet,70,2960,1987.0,0.6712837837837838,klima
+Enhedslisten,Socialistisk Folkeparti,70,291,260.0,0.8934707903780069,klima
+Enhedslisten,Uden for folketingsgrupperne,70,424,175.0,0.41273584905660377,klima
+Enhedslisten,Venstre,70,2744,1215.0,0.4427842565597668,klima
+Liberal Alliance,Alternativet,70,49,21.0,0.42857142857142855,klima
+Liberal Alliance,Danmarksdemokraterne,70,103,67.0,0.6504854368932039,klima
+Liberal Alliance,Dansk Folkeparti,70,87,50.0,0.5747126436781609,klima
+Liberal Alliance,Det Konservative Folkeparti,70,29,24.0,0.8275862068965517,klima
+Liberal Alliance,Enhedslisten,70,289,123.0,0.42560553633217996,klima
+Liberal Alliance,Radikale Venstre,70,231,124.0,0.5367965367965368,klima
+Liberal Alliance,Socialdemokratiet,70,623,389.0,0.6243980738362761,klima
+Liberal Alliance,Socialistisk Folkeparti,70,8,4.0,0.5,klima
+Liberal Alliance,Uden for folketingsgrupperne,70,4,1.0,0.25,klima
+Liberal Alliance,Venstre,70,527,425.0,0.8064516129032258,klima
+Moderaterne,Danmarksdemokraterne,70,3,1.0,0.3333333333333333,klima
+Moderaterne,Dansk Folkeparti,70,8,4.0,0.5,klima
+Moderaterne,Enhedslisten,70,4,2.0,0.5,klima
+Moderaterne,Liberal Alliance,70,4,3.0,0.75,klima
+Moderaterne,Radikale Venstre,70,12,6.0,0.5,klima
+Moderaterne,Socialdemokratiet,70,32,16.0,0.5,klima
+Moderaterne,Socialistisk Folkeparti,70,4,2.0,0.5,klima
+Moderaterne,Uden for folketingsgrupperne,70,8,4.0,0.5,klima
+Moderaterne,Venstre,70,40,40.0,1.0,klima
+Radikale Venstre,Alternativet,70,166,127.0,0.7650602409638554,klima
+Radikale Venstre,Danmarksdemokraterne,70,501,246.0,0.49101796407185627,klima
+Radikale Venstre,Dansk Folkeparti,70,498,243.0,0.4879518072289157,klima
+Radikale Venstre,Det Konservative Folkeparti,70,132,82.0,0.6212121212121212,klima
+Radikale Venstre,Enhedslisten,70,902,749.0,0.8303769401330376,klima
+Radikale Venstre,Liberal Alliance,70,195,109.0,0.558974358974359,klima
+Radikale Venstre,Radikale Venstre,70,629,625.0,0.9936406995230525,klima
+Radikale Venstre,Socialdemokratiet,70,2650,2209.0,0.8335849056603774,klima
+Radikale Venstre,Socialistisk Folkeparti,70,124,104.0,0.8387096774193549,klima
+Radikale Venstre,Uden for folketingsgrupperne,70,335,157.0,0.46865671641791046,klima
+Radikale Venstre,Venstre,70,2145,1339.0,0.6242424242424243,klima
+Sambandsflokkurin,Alternativet,70,1,1.0,1.0,klima
+Sambandsflokkurin,Danmarksdemokraterne,70,4,4.0,1.0,klima
+Sambandsflokkurin,Dansk Folkeparti,70,3,3.0,1.0,klima
+Sambandsflokkurin,Det Konservative Folkeparti,70,1,1.0,1.0,klima
+Sambandsflokkurin,Enhedslisten,70,4,4.0,1.0,klima
+Sambandsflokkurin,Radikale Venstre,70,6,6.0,1.0,klima
+Sambandsflokkurin,Socialdemokratiet,70,22,22.0,1.0,klima
+Sambandsflokkurin,Socialistisk Folkeparti,70,4,4.0,1.0,klima
+Sambandsflokkurin,Uden for folketingsgrupperne,70,3,3.0,1.0,klima
+Sambandsflokkurin,Venstre,70,20,20.0,1.0,klima
+Socialdemokratiet,Alternativet,70,983,656.0,0.6673448626653102,klima
+Socialdemokratiet,Danmarksdemokraterne,70,4397,2551.0,0.5801682965658403,klima
+Socialdemokratiet,Dansk Folkeparti,70,3205,1811.0,0.5650546021840873,klima
+Socialdemokratiet,Det Konservative Folkeparti,70,929,648.0,0.697524219590958,klima
+Socialdemokratiet,Enhedslisten,70,5375,3771.0,0.7015813953488372,klima
+Socialdemokratiet,Liberal Alliance,70,1503,959.0,0.6380572188955422,klima
+Socialdemokratiet,Moderaterne,70,36,18.0,0.5,klima
+Socialdemokratiet,Radikale Venstre,70,5562,4758.0,0.8554476806903991,klima
+Socialdemokratiet,Sambandsflokkurin,70,6,6.0,1.0,klima
+Socialdemokratiet,Socialdemokratiet,70,19259,19162.0,0.9949633937379926,klima
+Socialdemokratiet,Socialistisk Folkeparti,70,2146,1719.0,0.8010251630941286,klima
+Socialdemokratiet,Uden for folketingsgrupperne,70,3379,1849.0,0.5472033145901154,klima
+Socialdemokratiet,Venstre,70,17478,12529.0,0.7168440324979974,klima
+Socialistisk Folkeparti,Alternativet,70,102,83.0,0.8137254901960784,klima
+Socialistisk Folkeparti,Danmarksdemokraterne,70,189,83.0,0.43915343915343913,klima
+Socialistisk Folkeparti,Dansk Folkeparti,70,406,201.0,0.49507389162561577,klima
+Socialistisk Folkeparti,Det Konservative Folkeparti,70,107,62.0,0.5794392523364486,klima
+Socialistisk Folkeparti,Enhedslisten,70,512,464.0,0.90625,klima
+Socialistisk Folkeparti,Liberal Alliance,70,181,83.0,0.4585635359116022,klima
+Socialistisk Folkeparti,Moderaterne,70,8,4.0,0.5,klima
+Socialistisk Folkeparti,Radikale Venstre,70,700,616.0,0.88,klima
+Socialistisk Folkeparti,Socialdemokratiet,70,1774,1378.0,0.7767756482525366,klima
+Socialistisk Folkeparti,Socialistisk Folkeparti,70,128,128.0,1.0,klima
+Socialistisk Folkeparti,Uden for folketingsgrupperne,70,483,237.0,0.4906832298136646,klima
+Socialistisk Folkeparti,Venstre,70,1670,925.0,0.5538922155688623,klima
+Uden for folketingsgrupperne,Alternativet,70,147,69.0,0.46938775510204084,klima
+Uden for folketingsgrupperne,Danmarksdemokraterne,70,304,267.0,0.8782894736842105,klima
+Uden for folketingsgrupperne,Dansk Folkeparti,70,606,563.0,0.929042904290429,klima
+Uden for folketingsgrupperne,Det Konservative Folkeparti,70,155,118.0,0.7612903225806451,klima
+Uden for folketingsgrupperne,Enhedslisten,70,822,404.0,0.49148418491484186,klima
+Uden for folketingsgrupperne,Liberal Alliance,70,318,188.0,0.5911949685534591,klima
+Uden for folketingsgrupperne,Moderaterne,70,8,4.0,0.5,klima
+Uden for folketingsgrupperne,Radikale Venstre,70,887,487.0,0.5490417136414881,klima
+Uden for folketingsgrupperne,Socialdemokratiet,70,2650,1591.0,0.6003773584905661,klima
+Uden for folketingsgrupperne,Socialistisk Folkeparti,70,111,69.0,0.6216216216216216,klima
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,70,318,260.0,0.8176100628930818,klima
+Uden for folketingsgrupperne,Venstre,70,2057,1455.0,0.7073407875546913,klima
+Venstre,Alternativet,70,848,408.0,0.4811320754716981,klima
+Venstre,Danmarksdemokraterne,70,4043,3127.0,0.7734355676477863,klima
+Venstre,Dansk Folkeparti,70,2869,2103.0,0.7330080167305681,klima
+Venstre,Det Konservative Folkeparti,70,878,776.0,0.8838268792710706,klima
+Venstre,Enhedslisten,70,4507,2206.0,0.4894608386953628,klima
+Venstre,Liberal Alliance,70,1352,1061.0,0.7847633136094675,klima
+Venstre,Moderaterne,70,17,17.0,1.0,klima
+Venstre,Radikale Venstre,70,5018,3118.0,0.6213630928656836,klima
+Venstre,Sambandsflokkurin,70,1,1.0,1.0,klima
+Venstre,Socialdemokratiet,70,18186,12848.0,0.7064775101726603,klima
+Venstre,Socialistisk Folkeparti,70,1734,1025.0,0.591118800461361,klima
+Venstre,Uden for folketingsgrupperne,70,3207,2333.0,0.7274711568444029,klima
+Venstre,Venstre,70,14675,14664.0,0.9992504258943782,klima
+Alternativet,Enhedslisten,71,84,67.0,0.7976190476190477,klima
+Alternativet,Radikale Venstre,71,62,48.0,0.7741935483870968,klima
+Alternativet,Socialdemokratiet,71,55,33.0,0.6,klima
+Alternativet,Venstre,71,46,29.0,0.6304347826086957,klima
+Danmarksdemokraterne,Alternativet,71,418,186.0,0.4449760765550239,klima
+Danmarksdemokraterne,Danmarksdemokraterne,71,2436,2378.0,0.9761904761904762,klima
+Danmarksdemokraterne,Dansk Folkeparti,71,856,621.0,0.7254672897196262,klima
+Danmarksdemokraterne,Det Konservative Folkeparti,71,1976,1560.0,0.7894736842105263,klima
+Danmarksdemokraterne,Enhedslisten,71,3402,1640.0,0.48206937095825986,klima
+Danmarksdemokraterne,Javnaðarflokkurin,71,13,0.0,0.0,klima
+Danmarksdemokraterne,Liberal Alliance,71,537,358.0,0.6666666666666666,klima
+Danmarksdemokraterne,Moderaterne,71,90,53.0,0.5888888888888889,klima
+Danmarksdemokraterne,Radikale Venstre,71,1328,708.0,0.5331325301204819,klima
+Danmarksdemokraterne,Socialdemokratiet,71,10060,6024.0,0.5988071570576541,klima
+Danmarksdemokraterne,Socialistisk Folkeparti,71,1125,635.0,0.5644444444444444,klima
+Danmarksdemokraterne,Venstre,71,6434,3769.0,0.585794218215729,klima
+Dansk Folkeparti,Alternativet,71,116,47.0,0.4051724137931034,klima
+Dansk Folkeparti,Danmarksdemokraterne,71,845,638.0,0.7550295857988165,klima
+Dansk Folkeparti,Dansk Folkeparti,71,146,145.0,0.9931506849315068,klima
+Dansk Folkeparti,Det Konservative Folkeparti,71,486,329.0,0.676954732510288,klima
+Dansk Folkeparti,Enhedslisten,71,961,450.0,0.46826222684703434,klima
+Dansk Folkeparti,Javnaðarflokkurin,71,6,0.0,0.0,klima
+Dansk Folkeparti,Liberal Alliance,71,152,103.0,0.6776315789473685,klima
+Dansk Folkeparti,Moderaterne,71,35,15.0,0.42857142857142855,klima
+Dansk Folkeparti,Radikale Venstre,71,329,170.0,0.5167173252279635,klima
+Dansk Folkeparti,Socialdemokratiet,71,2914,1524.0,0.5229924502402197,klima
+Dansk Folkeparti,Socialistisk Folkeparti,71,395,208.0,0.5265822784810127,klima
+Dansk Folkeparti,Venstre,71,2145,1092.0,0.509090909090909,klima
+Det Konservative Folkeparti,Alternativet,71,222,113.0,0.509009009009009,klima
+Det Konservative Folkeparti,Danmarksdemokraterne,71,1097,901.0,0.821330902461258,klima
+Det Konservative Folkeparti,Dansk Folkeparti,71,423,289.0,0.6832151300236406,klima
+Det Konservative Folkeparti,Det Konservative Folkeparti,71,628,628.0,1.0,klima
+Det Konservative Folkeparti,Enhedslisten,71,1723,869.0,0.5043528728961114,klima
+Det Konservative Folkeparti,Javnaðarflokkurin,71,10,0.0,0.0,klima
+Det Konservative Folkeparti,Liberal Alliance,71,252,199.0,0.7896825396825397,klima
+Det Konservative Folkeparti,Moderaterne,71,39,28.0,0.717948717948718,klima
+Det Konservative Folkeparti,Radikale Venstre,71,483,315.0,0.6521739130434783,klima
+Det Konservative Folkeparti,Socialdemokratiet,71,4094,2627.0,0.6416707376648755,klima
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,377,252.0,0.6684350132625995,klima
+Det Konservative Folkeparti,Venstre,71,3069,1983.0,0.64613880742913,klima
+Enhedslisten,Alternativet,71,224,184.0,0.8214285714285714,klima
+Enhedslisten,Danmarksdemokraterne,71,694,331.0,0.4769452449567723,klima
+Enhedslisten,Dansk Folkeparti,71,252,124.0,0.49206349206349204,klima
+Enhedslisten,Det Konservative Folkeparti,71,474,244.0,0.5147679324894515,klima
+Enhedslisten,Enhedslisten,71,1187,1183.0,0.9966301600673968,klima
+Enhedslisten,Javnaðarflokkurin,71,6,2.0,0.3333333333333333,klima
+Enhedslisten,Liberal Alliance,71,92,58.0,0.6304347826086957,klima
+Enhedslisten,Radikale Venstre,71,662,498.0,0.7522658610271903,klima
+Enhedslisten,Socialdemokratiet,71,2432,1338.0,0.5501644736842105,klima
+Enhedslisten,Socialistisk Folkeparti,71,221,186.0,0.8416289592760181,klima
+Enhedslisten,Venstre,71,1768,959.0,0.542420814479638,klima
+Inuit Ataqatigiit,Alternativet,71,2,1.0,0.5,klima
+Inuit Ataqatigiit,Danmarksdemokraterne,71,13,5.0,0.38461538461538464,klima
+Inuit Ataqatigiit,Dansk Folkeparti,71,5,0.0,0.0,klima
+Inuit Ataqatigiit,Det Konservative Folkeparti,71,10,4.0,0.4,klima
+Inuit Ataqatigiit,Enhedslisten,71,13,5.0,0.38461538461538464,klima
+Inuit Ataqatigiit,Javnaðarflokkurin,71,1,1.0,1.0,klima
+Inuit Ataqatigiit,Liberal Alliance,71,3,1.0,0.3333333333333333,klima
+Inuit Ataqatigiit,Moderaterne,71,2,2.0,1.0,klima
+Inuit Ataqatigiit,Naleraq,71,1,1.0,1.0,klima
+Inuit Ataqatigiit,Radikale Venstre,71,5,2.0,0.4,klima
+Inuit Ataqatigiit,Socialdemokratiet,71,47,47.0,1.0,klima
+Inuit Ataqatigiit,Socialistisk Folkeparti,71,12,4.0,0.3333333333333333,klima
+Inuit Ataqatigiit,Venstre,71,36,36.0,1.0,klima
+Javnaðarflokkurin,Alternativet,71,2,1.0,0.5,klima
+Javnaðarflokkurin,Danmarksdemokraterne,71,1,0.0,0.0,klima
+Javnaðarflokkurin,Enhedslisten,71,7,3.0,0.42857142857142855,klima
+Javnaðarflokkurin,Radikale Venstre,71,2,1.0,0.5,klima
+Javnaðarflokkurin,Socialdemokratiet,71,3,3.0,1.0,klima
+Javnaðarflokkurin,Venstre,71,9,9.0,1.0,klima
+Liberal Alliance,Alternativet,71,91,59.0,0.6483516483516484,klima
+Liberal Alliance,Danmarksdemokraterne,71,722,480.0,0.6648199445983379,klima
+Liberal Alliance,Dansk Folkeparti,71,228,145.0,0.6359649122807017,klima
+Liberal Alliance,Det Konservative Folkeparti,71,418,315.0,0.7535885167464115,klima
+Liberal Alliance,Enhedslisten,71,829,492.0,0.5934861278648975,klima
+Liberal Alliance,Javnaðarflokkurin,71,3,0.0,0.0,klima
+Liberal Alliance,Liberal Alliance,71,66,65.0,0.9848484848484849,klima
+Liberal Alliance,Moderaterne,71,36,26.0,0.7222222222222222,klima
+Liberal Alliance,Radikale Venstre,71,268,196.0,0.7313432835820896,klima
+Liberal Alliance,Socialdemokratiet,71,2223,1607.0,0.7228969860548808,klima
+Liberal Alliance,Socialistisk Folkeparti,71,247,178.0,0.7206477732793523,klima
+Liberal Alliance,Venstre,71,1694,1200.0,0.7083825265643447,klima
+Moderaterne,Alternativet,71,32,18.0,0.5625,klima
+Moderaterne,Danmarksdemokraterne,71,255,137.0,0.5372549019607843,klima
+Moderaterne,Dansk Folkeparti,71,67,35.0,0.5223880597014925,klima
+Moderaterne,Det Konservative Folkeparti,71,133,81.0,0.6090225563909775,klima
+Moderaterne,Enhedslisten,71,238,147.0,0.6176470588235294,klima
+Moderaterne,Javnaðarflokkurin,71,2,2.0,1.0,klima
+Moderaterne,Liberal Alliance,71,38,29.0,0.7631578947368421,klima
+Moderaterne,Moderaterne,71,1,1.0,1.0,klima
+Moderaterne,Radikale Venstre,71,108,87.0,0.8055555555555556,klima
+Moderaterne,Socialdemokratiet,71,814,814.0,1.0,klima
+Moderaterne,Socialistisk Folkeparti,71,94,66.0,0.7021276595744681,klima
+Moderaterne,Venstre,71,500,499.0,0.998,klima
+Naleraq,Alternativet,71,1,1.0,1.0,klima
+Naleraq,Danmarksdemokraterne,71,5,5.0,1.0,klima
+Naleraq,Dansk Folkeparti,71,1,0.0,0.0,klima
+Naleraq,Det Konservative Folkeparti,71,4,4.0,1.0,klima
+Naleraq,Enhedslisten,71,5,5.0,1.0,klima
+Naleraq,Liberal Alliance,71,1,1.0,1.0,klima
+Naleraq,Moderaterne,71,1,1.0,1.0,klima
+Naleraq,Radikale Venstre,71,2,2.0,1.0,klima
+Naleraq,Socialdemokratiet,71,17,17.0,1.0,klima
+Naleraq,Socialistisk Folkeparti,71,4,4.0,1.0,klima
+Naleraq,Venstre,71,15,15.0,1.0,klima
+Radikale Venstre,Alternativet,71,68,55.0,0.8088235294117647,klima
+Radikale Venstre,Danmarksdemokraterne,71,307,162.0,0.5276872964169381,klima
+Radikale Venstre,Dansk Folkeparti,71,163,85.0,0.5214723926380368,klima
+Radikale Venstre,Det Konservative Folkeparti,71,381,237.0,0.6220472440944882,klima
+Radikale Venstre,Enhedslisten,71,535,400.0,0.7476635514018691,klima
+Radikale Venstre,Javnaðarflokkurin,71,3,1.0,0.3333333333333333,klima
+Radikale Venstre,Liberal Alliance,71,102,77.0,0.7549019607843137,klima
+Radikale Venstre,Radikale Venstre,71,114,113.0,0.9912280701754386,klima
+Radikale Venstre,Socialdemokratiet,71,1407,1027.0,0.7299218194740583,klima
+Radikale Venstre,Socialistisk Folkeparti,71,32,30.0,0.9375,klima
+Radikale Venstre,Venstre,71,933,689.0,0.7384780278670954,klima
+Socialdemokratiet,Alternativet,71,1333,817.0,0.6129032258064516,klima
+Socialdemokratiet,Danmarksdemokraterne,71,9436,5556.0,0.5888088172954642,klima
+Socialdemokratiet,Dansk Folkeparti,71,2936,1581.0,0.5384877384196185,klima
+Socialdemokratiet,Det Konservative Folkeparti,71,6435,4137.0,0.6428904428904428,klima
+Socialdemokratiet,Enhedslisten,71,11557,6461.0,0.5590551181102362,klima
+Socialdemokratiet,Javnaðarflokkurin,71,48,48.0,1.0,klima
+Socialdemokratiet,Liberal Alliance,71,2033,1522.0,0.7486473192326611,klima
+Socialdemokratiet,Moderaterne,71,312,312.0,1.0,klima
+Socialdemokratiet,Radikale Venstre,71,4135,3227.0,0.7804111245465538,klima
+Socialdemokratiet,Socialdemokratiet,71,31745,31745.0,1.0,klima
+Socialdemokratiet,Socialistisk Folkeparti,71,4103,3006.0,0.7326346575676335,klima
+Socialdemokratiet,Venstre,71,23066,23012.0,0.9976588918754877,klima
+Socialistisk Folkeparti,Alternativet,71,210,175.0,0.8333333333333334,klima
+Socialistisk Folkeparti,Danmarksdemokraterne,71,1915,1067.0,0.5571801566579635,klima
+Socialistisk Folkeparti,Dansk Folkeparti,71,529,304.0,0.5746691871455577,klima
+Socialistisk Folkeparti,Det Konservative Folkeparti,71,1237,793.0,0.6410670978172999,klima
+Socialistisk Folkeparti,Enhedslisten,71,2008,1608.0,0.8007968127490039,klima
+Socialistisk Folkeparti,Javnaðarflokkurin,71,12,4.0,0.3333333333333333,klima
+Socialistisk Folkeparti,Liberal Alliance,71,421,289.0,0.6864608076009501,klima
+Socialistisk Folkeparti,Moderaterne,71,95,75.0,0.7894736842105263,klima
+Socialistisk Folkeparti,Radikale Venstre,71,848,730.0,0.8608490566037735,klima
+Socialistisk Folkeparti,Socialdemokratiet,71,6405,4633.0,0.7233411397345824,klima
+Socialistisk Folkeparti,Socialistisk Folkeparti,71,664,661.0,0.9954819277108434,klima
+Socialistisk Folkeparti,Venstre,71,4791,3506.0,0.7317887706115633,klima
+Venstre,Alternativet,71,932,565.0,0.6062231759656652,klima
+Venstre,Danmarksdemokraterne,71,7086,4122.0,0.5817104149026249,klima
+Venstre,Dansk Folkeparti,71,1952,1052.0,0.5389344262295082,klima
+Venstre,Det Konservative Folkeparti,71,4277,2695.0,0.630114566284779,klima
+Venstre,Enhedslisten,71,7906,4368.0,0.5524917783961548,klima
+Venstre,Javnaðarflokkurin,71,27,27.0,1.0,klima
+Venstre,Liberal Alliance,71,1206,895.0,0.74212271973466,klima
+Venstre,Moderaterne,71,325,324.0,0.9969230769230769,klima
+Venstre,Radikale Venstre,71,2947,2300.0,0.7804546996946047,klima
+Venstre,Socialdemokratiet,71,23476,23283.0,0.9917788379621741,klima
+Venstre,Socialistisk Folkeparti,71,2612,1895.0,0.7254977029096478,klima
+Venstre,Venstre,71,15459,15288.0,0.9889384824374151,klima

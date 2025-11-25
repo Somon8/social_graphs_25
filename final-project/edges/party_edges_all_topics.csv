@@ -1,0 +1,1034 @@
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
+Danmarksdemokraterne,Danmarksdemokraterne,68,9443,9417.0,0.9972466377210633,all_topics
+Danmarksdemokraterne,Dansk Folkeparti,68,15525,15497.0,0.9981964573268921,all_topics
+Danmarksdemokraterne,Det Konservative Folkeparti,68,16842,11724.0,0.696116850730317,all_topics
+Danmarksdemokraterne,Enhedslisten,68,30864,13672.0,0.4429756350440643,all_topics
+Danmarksdemokraterne,Inuit Ataqatigiit,68,13,6.0,0.46153846153846156,all_topics
+Danmarksdemokraterne,Liberal Alliance,68,17001,10168.0,0.5980824657373096,all_topics
+Danmarksdemokraterne,Moderaterne,68,1667,1126.0,0.6754649070185963,all_topics
+Danmarksdemokraterne,Radikale Venstre,68,33189,18177.0,0.547681460724939,all_topics
+Danmarksdemokraterne,Socialdemokratiet,68,36691,20556.0,0.5602463819465264,all_topics
+Danmarksdemokraterne,Socialistisk Folkeparti,68,19066,10068.0,0.5280604216930662,all_topics
+Danmarksdemokraterne,Uden for folketingsgrupperne,68,11693,10712.0,0.9161036517574618,all_topics
+Danmarksdemokraterne,Venstre,68,50448,36275.0,0.719057247066286,all_topics
+Dansk Folkeparti,Danmarksdemokraterne,68,10760,10728.0,0.9970260223048327,all_topics
+Dansk Folkeparti,Dansk Folkeparti,68,11846,11818.0,0.9976363329393888,all_topics
+Dansk Folkeparti,Det Konservative Folkeparti,68,16778,11765.0,0.7012158779353915,all_topics
+Dansk Folkeparti,Enhedslisten,68,32189,14349.0,0.44577340085122247,all_topics
+Dansk Folkeparti,Inuit Ataqatigiit,68,13,4.0,0.3076923076923077,all_topics
+Dansk Folkeparti,Liberal Alliance,68,15332,9502.0,0.6197495434385599,all_topics
+Dansk Folkeparti,Moderaterne,68,1061,735.0,0.6927426955702167,all_topics
+Dansk Folkeparti,Radikale Venstre,68,28373,15915.0,0.5609205935220104,all_topics
+Dansk Folkeparti,Socialdemokratiet,68,35240,20147.0,0.5717082860385925,all_topics
+Dansk Folkeparti,Socialistisk Folkeparti,68,20177,10737.0,0.5321405560787035,all_topics
+Dansk Folkeparti,Uden for folketingsgrupperne,68,9916,8746.0,0.8820088745461879,all_topics
+Dansk Folkeparti,Venstre,68,49300,36080.0,0.7318458417849899,all_topics
+Det Konservative Folkeparti,Danmarksdemokraterne,68,6287,4216.0,0.6705901065691109,all_topics
+Det Konservative Folkeparti,Dansk Folkeparti,68,8483,5921.0,0.6979842037015207,all_topics
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,8302,8284.0,0.9978318477475308,all_topics
+Det Konservative Folkeparti,Enhedslisten,68,21329,9609.0,0.45051338553143605,all_topics
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,10,6.0,0.6,all_topics
+Det Konservative Folkeparti,Liberal Alliance,68,9732,6819.0,0.7006781750924784,all_topics
+Det Konservative Folkeparti,Moderaterne,68,827,735.0,0.8887545344619106,all_topics
+Det Konservative Folkeparti,Radikale Venstre,68,17247,12560.0,0.7282425929147098,all_topics
+Det Konservative Folkeparti,Socialdemokratiet,68,23301,17141.0,0.7356336637912536,all_topics
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,13450,9047.0,0.672639405204461,all_topics
+Det Konservative Folkeparti,Uden for folketingsgrupperne,68,5919,4125.0,0.696908261530664,all_topics
+Det Konservative Folkeparti,Venstre,68,30524,27664.0,0.9063032367972743,all_topics
+Enhedslisten,Danmarksdemokraterne,68,17099,7723.0,0.45166383999064275,all_topics
+Enhedslisten,Dansk Folkeparti,68,20527,8876.0,0.43240609928387,all_topics
+Enhedslisten,Det Konservative Folkeparti,68,24209,10190.0,0.42091784047255154,all_topics
+Enhedslisten,Enhedslisten,68,41502,40340.0,0.9720013493325623,all_topics
+Enhedslisten,Inuit Ataqatigiit,68,22,22.0,1.0,all_topics
+Enhedslisten,Liberal Alliance,68,23242,9200.0,0.3958351260648825,all_topics
+Enhedslisten,Moderaterne,68,2481,1103.0,0.4445787988714228,all_topics
+Enhedslisten,Radikale Venstre,68,43059,29583.0,0.6870340695325019,all_topics
+Enhedslisten,Socialdemokratiet,68,54861,36680.0,0.6685988224786278,all_topics
+Enhedslisten,Socialistisk Folkeparti,68,30689,22216.0,0.7239075890384177,all_topics
+Enhedslisten,Uden for folketingsgrupperne,68,15506,6700.0,0.4320908035599123,all_topics
+Enhedslisten,Venstre,68,74684,31887.0,0.42695892025065607,all_topics
+Inuit Ataqatigiit,Danmarksdemokraterne,68,2,2.0,1.0,all_topics
+Inuit Ataqatigiit,Det Konservative Folkeparti,68,3,1.0,0.3333333333333333,all_topics
+Inuit Ataqatigiit,Enhedslisten,68,3,3.0,1.0,all_topics
+Inuit Ataqatigiit,Liberal Alliance,68,2,1.0,0.5,all_topics
+Inuit Ataqatigiit,Radikale Venstre,68,3,2.0,0.6666666666666666,all_topics
+Inuit Ataqatigiit,Socialdemokratiet,68,7,5.0,0.7142857142857143,all_topics
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,4,2.0,0.5,all_topics
+Inuit Ataqatigiit,Uden for folketingsgrupperne,68,2,0.0,0.0,all_topics
+Inuit Ataqatigiit,Venstre,68,9,4.0,0.4444444444444444,all_topics
+Liberal Alliance,Danmarksdemokraterne,68,4771,2695.0,0.5648710962062461,all_topics
+Liberal Alliance,Dansk Folkeparti,68,8501,5108.0,0.6008704858251971,all_topics
+Liberal Alliance,Det Konservative Folkeparti,68,10735,7278.0,0.6779692594317652,all_topics
+Liberal Alliance,Enhedslisten,68,19651,7865.0,0.40023408477940053,all_topics
+Liberal Alliance,Inuit Ataqatigiit,68,11,5.0,0.45454545454545453,all_topics
+Liberal Alliance,Liberal Alliance,68,7184,7127.0,0.9920657015590201,all_topics
+Liberal Alliance,Moderaterne,68,372,209.0,0.5618279569892473,all_topics
+Liberal Alliance,Radikale Venstre,68,13575,7541.0,0.5555064456721915,all_topics
+Liberal Alliance,Socialdemokratiet,68,22085,12213.0,0.5529997736019923,all_topics
+Liberal Alliance,Socialistisk Folkeparti,68,13059,6842.0,0.5239298568037369,all_topics
+Liberal Alliance,Uden for folketingsgrupperne,68,4755,3525.0,0.7413249211356467,all_topics
+Liberal Alliance,Venstre,68,25709,17710.0,0.6888638220078571,all_topics
+Moderaterne,Danmarksdemokraterne,68,1233,866.0,0.7023519870235199,all_topics
+Moderaterne,Dansk Folkeparti,68,1855,1289.0,0.6948787061994609,all_topics
+Moderaterne,Det Konservative Folkeparti,68,1922,1691.0,0.8798126951092612,all_topics
+Moderaterne,Enhedslisten,68,3125,1463.0,0.46816,all_topics
+Moderaterne,Inuit Ataqatigiit,68,2,1.0,0.5,all_topics
+Moderaterne,Liberal Alliance,68,2108,1383.0,0.6560721062618596,all_topics
+Moderaterne,Moderaterne,68,10,10.0,1.0,all_topics
+Moderaterne,Radikale Venstre,68,3953,2834.0,0.7169238552997723,all_topics
+Moderaterne,Socialdemokratiet,68,4268,3143.0,0.7364104967197751,all_topics
+Moderaterne,Socialistisk Folkeparti,68,1802,1166.0,0.6470588235294118,all_topics
+Moderaterne,Uden for folketingsgrupperne,68,1402,984.0,0.7018544935805991,all_topics
+Moderaterne,Venstre,68,5303,5303.0,1.0,all_topics
+Radikale Venstre,Danmarksdemokraterne,68,9468,5128.0,0.5416138572032109,all_topics
+Radikale Venstre,Dansk Folkeparti,68,18124,10174.0,0.5613551092474067,all_topics
+Radikale Venstre,Det Konservative Folkeparti,68,22663,15940.0,0.703349071173278,all_topics
+Radikale Venstre,Enhedslisten,68,40391,28344.0,0.701740486742096,all_topics
+Radikale Venstre,Inuit Ataqatigiit,68,22,16.0,0.7272727272727273,all_topics
+Radikale Venstre,Liberal Alliance,68,24281,13423.0,0.5528190766442898,all_topics
+Radikale Venstre,Moderaterne,68,673,460.0,0.6835066864784547,all_topics
+Radikale Venstre,Radikale Venstre,68,32481,32473.0,0.9997537021643422,all_topics
+Radikale Venstre,Socialdemokratiet,68,49067,49062.0,0.9998980985183524,all_topics
+Radikale Venstre,Socialistisk Folkeparti,68,26269,25277.0,0.9622368571319807,all_topics
+Radikale Venstre,Uden for folketingsgrupperne,68,12345,7020.0,0.56865127582017,all_topics
+Radikale Venstre,Venstre,68,62287,45469.0,0.7299918120956219,all_topics
+Socialdemokratiet,Danmarksdemokraterne,68,29984,16633.0,0.5547291889007471,all_topics
+Socialdemokratiet,Dansk Folkeparti,68,38128,21691.0,0.5688994964330676,all_topics
+Socialdemokratiet,Det Konservative Folkeparti,68,40167,28762.0,0.71606044763114,all_topics
+Socialdemokratiet,Enhedslisten,68,76534,52777.0,0.6895889408628845,all_topics
+Socialdemokratiet,Inuit Ataqatigiit,68,39,30.0,0.7692307692307693,all_topics
+Socialdemokratiet,Liberal Alliance,68,37136,20427.0,0.5500592417061612,all_topics
+Socialdemokratiet,Moderaterne,68,3530,2493.0,0.7062322946175638,all_topics
+Socialdemokratiet,Radikale Venstre,68,65540,65513.0,0.9995880378394874,all_topics
+Socialdemokratiet,Socialdemokratiet,68,85276,85238.0,0.9995543881045077,all_topics
+Socialdemokratiet,Socialistisk Folkeparti,68,46175,43823.0,0.949063345966432,all_topics
+Socialdemokratiet,Uden for folketingsgrupperne,68,22915,12861.0,0.5612480907702379,all_topics
+Socialdemokratiet,Venstre,68,118100,87471.0,0.7406519898391194,all_topics
+Socialistisk Folkeparti,Danmarksdemokraterne,68,11111,5991.0,0.5391953919539195,all_topics
+Socialistisk Folkeparti,Dansk Folkeparti,68,13379,7163.0,0.5353912848493908,all_topics
+Socialistisk Folkeparti,Det Konservative Folkeparti,68,15232,10322.0,0.6776523109243697,all_topics
+Socialistisk Folkeparti,Enhedslisten,68,29323,21442.0,0.7312348668280871,all_topics
+Socialistisk Folkeparti,Inuit Ataqatigiit,68,13,10.0,0.7692307692307693,all_topics
+Socialistisk Folkeparti,Liberal Alliance,68,14138,7539.0,0.5332437402744377,all_topics
+Socialistisk Folkeparti,Moderaterne,68,1538,1009.0,0.6560468140442133,all_topics
+Socialistisk Folkeparti,Radikale Venstre,68,26630,25636.0,0.9626736763049193,all_topics
+Socialistisk Folkeparti,Socialdemokratiet,68,36299,34627.0,0.9539381250172181,all_topics
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,15618,15550.0,0.9956460494301447,all_topics
+Socialistisk Folkeparti,Uden for folketingsgrupperne,68,9186,5033.0,0.5478989767036795,all_topics
+Socialistisk Folkeparti,Venstre,68,51069,35679.0,0.698643012394995,all_topics
+Uden for folketingsgrupperne,Danmarksdemokraterne,68,1223,1154.0,0.9435813573180704,all_topics
+Uden for folketingsgrupperne,Dansk Folkeparti,68,4106,4101.0,0.9987822698490014,all_topics
+Uden for folketingsgrupperne,Det Konservative Folkeparti,68,6411,4324.0,0.6744657619716113,all_topics
+Uden for folketingsgrupperne,Enhedslisten,68,10176,4610.0,0.45302672955974843,all_topics
+Uden for folketingsgrupperne,Inuit Ataqatigiit,68,5,2.0,0.4,all_topics
+Uden for folketingsgrupperne,Liberal Alliance,68,6632,3942.0,0.5943908323281062,all_topics
+Uden for folketingsgrupperne,Moderaterne,68,158,97.0,0.6139240506329114,all_topics
+Uden for folketingsgrupperne,Radikale Venstre,68,10416,5677.0,0.5450268817204301,all_topics
+Uden for folketingsgrupperne,Socialdemokratiet,68,12275,6980.0,0.5686354378818738,all_topics
+Uden for folketingsgrupperne,Socialistisk Folkeparti,68,6921,3750.0,0.541829215431296,all_topics
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,68,2358,1875.0,0.7951653944020356,all_topics
+Uden for folketingsgrupperne,Venstre,68,14069,9934.0,0.7060914066387092,all_topics
+Venstre,Danmarksdemokraterne,68,34345,24046.0,0.7001310234386373,all_topics
+Venstre,Dansk Folkeparti,68,44474,32021.0,0.7199937041867158,all_topics
+Venstre,Det Konservative Folkeparti,68,50055,44757.0,0.8941564279292777,all_topics
+Venstre,Enhedslisten,68,92330,42366.0,0.458854110256688,all_topics
+Venstre,Inuit Ataqatigiit,68,42,21.0,0.5,all_topics
+Venstre,Liberal Alliance,68,50016,34650.0,0.692778310940499,all_topics
+Venstre,Moderaterne,68,4071,3996.0,0.9815770081061165,all_topics
+Venstre,Radikale Venstre,68,85859,63442.0,0.7389091417323752,all_topics
+Venstre,Socialdemokratiet,68,114040,85388.0,0.7487548228691687,all_topics
+Venstre,Socialistisk Folkeparti,68,54878,38287.0,0.6976748423776377,all_topics
+Venstre,Uden for folketingsgrupperne,68,30834,21955.0,0.7120386586235973,all_topics
+Venstre,Venstre,68,140348,138549.0,0.9871818622281757,all_topics
+Danmarksdemokraterne,Danmarksdemokraterne,67,6994,6733.0,0.9626822991135259,all_topics
+Danmarksdemokraterne,Dansk Folkeparti,67,27718,27181.0,0.9806263078144166,all_topics
+Danmarksdemokraterne,Det Konservative Folkeparti,67,14117,12829.0,0.9087624849472268,all_topics
+Danmarksdemokraterne,Enhedslisten,67,6150,2284.0,0.3713821138211382,all_topics
+Danmarksdemokraterne,Javnaðarflokkurin,67,13,11.0,0.8461538461538461,all_topics
+Danmarksdemokraterne,Liberal Alliance,67,1505,1165.0,0.7740863787375415,all_topics
+Danmarksdemokraterne,Moderaterne,67,486,469.0,0.9650205761316872,all_topics
+Danmarksdemokraterne,Radikale Venstre,67,5895,3235.0,0.5487701441899915,all_topics
+Danmarksdemokraterne,Sambandsflokkurin,67,63,58.0,0.9206349206349206,all_topics
+Danmarksdemokraterne,Socialdemokratiet,67,68124,35179.0,0.5163965709588397,all_topics
+Danmarksdemokraterne,Socialistisk Folkeparti,67,25607,12442.0,0.485882766431054,all_topics
+Danmarksdemokraterne,Uden for folketingsgrupperne,67,6329,5581.0,0.8818138726497077,all_topics
+Danmarksdemokraterne,Venstre,67,72033,66140.0,0.9181902739022393,all_topics
+Dansk Folkeparti,Danmarksdemokraterne,67,4216,4205.0,0.9973908918406073,all_topics
+Dansk Folkeparti,Dansk Folkeparti,67,24511,24506.0,0.9997960099547142,all_topics
+Dansk Folkeparti,Det Konservative Folkeparti,67,16299,14459.0,0.8871096386281367,all_topics
+Dansk Folkeparti,Enhedslisten,67,6153,2361.0,0.38371526084836666,all_topics
+Dansk Folkeparti,Javnaðarflokkurin,67,32,26.0,0.8125,all_topics
+Dansk Folkeparti,Liberal Alliance,67,2695,2078.0,0.7710575139146568,all_topics
+Dansk Folkeparti,Moderaterne,67,427,396.0,0.927400468384075,all_topics
+Dansk Folkeparti,Radikale Venstre,67,6163,3234.0,0.5247444426415707,all_topics
+Dansk Folkeparti,Sambandsflokkurin,67,7,7.0,1.0,all_topics
+Dansk Folkeparti,Socialdemokratiet,67,59030,29671.0,0.5026427240386244,all_topics
+Dansk Folkeparti,Socialistisk Folkeparti,67,23436,10947.0,0.46710189452124934,all_topics
+Dansk Folkeparti,Uden for folketingsgrupperne,67,6925,5485.0,0.792057761732852,all_topics
+Dansk Folkeparti,Venstre,67,59675,53770.0,0.9010473397570172,all_topics
+Det Konservative Folkeparti,Danmarksdemokraterne,67,5807,5320.0,0.9161356982951611,all_topics
+Det Konservative Folkeparti,Dansk Folkeparti,67,20254,18107.0,0.8939962476547842,all_topics
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,9356,9354.0,0.999786233433091,all_topics
+Det Konservative Folkeparti,Enhedslisten,67,5490,2247.0,0.4092896174863388,all_topics
+Det Konservative Folkeparti,Javnaðarflokkurin,67,16,16.0,1.0,all_topics
+Det Konservative Folkeparti,Liberal Alliance,67,1621,1376.0,0.8488587291795188,all_topics
+Det Konservative Folkeparti,Moderaterne,67,359,359.0,1.0,all_topics
+Det Konservative Folkeparti,Radikale Venstre,67,4937,3128.0,0.6335831476605226,all_topics
+Det Konservative Folkeparti,Sambandsflokkurin,67,56,56.0,1.0,all_topics
+Det Konservative Folkeparti,Socialdemokratiet,67,47753,28569.0,0.5982660775239252,all_topics
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,18274,10372.0,0.56758235744774,all_topics
+Det Konservative Folkeparti,Uden for folketingsgrupperne,67,4755,3883.0,0.8166140904311251,all_topics
+Det Konservative Folkeparti,Venstre,67,50838,50803.0,0.9993115386128486,all_topics
+Enhedslisten,Danmarksdemokraterne,67,2682,892.0,0.3325876211782252,all_topics
+Enhedslisten,Dansk Folkeparti,67,9848,3366.0,0.3417952883834281,all_topics
+Enhedslisten,Det Konservative Folkeparti,67,4496,1661.0,0.3694395017793594,all_topics
+Enhedslisten,Enhedslisten,67,1259,1111.0,0.8824463860206513,all_topics
+Enhedslisten,Javnaðarflokkurin,67,6,5.0,0.8333333333333334,all_topics
+Enhedslisten,Liberal Alliance,67,852,357.0,0.41901408450704225,all_topics
+Enhedslisten,Moderaterne,67,176,49.0,0.2784090909090909,all_topics
+Enhedslisten,Radikale Venstre,67,1847,1267.0,0.6859772604223064,all_topics
+Enhedslisten,Socialdemokratiet,67,21381,15299.0,0.7155418362097189,all_topics
+Enhedslisten,Socialistisk Folkeparti,67,9281,6870.0,0.7402219588406421,all_topics
+Enhedslisten,Uden for folketingsgrupperne,67,2309,949.0,0.41100043308791684,all_topics
+Enhedslisten,Venstre,67,22777,8059.0,0.35382183781885235,all_topics
+Javnaðarflokkurin,Det Konservative Folkeparti,67,4,4.0,1.0,all_topics
+Javnaðarflokkurin,Socialdemokratiet,67,5,5.0,1.0,all_topics
+Javnaðarflokkurin,Socialistisk Folkeparti,67,6,6.0,1.0,all_topics
+Javnaðarflokkurin,Venstre,67,16,16.0,1.0,all_topics
+Liberal Alliance,Danmarksdemokraterne,67,2545,2222.0,0.8730844793713163,all_topics
+Liberal Alliance,Dansk Folkeparti,67,4158,3617.0,0.8698893698893699,all_topics
+Liberal Alliance,Det Konservative Folkeparti,67,2665,2499.0,0.9377110694183864,all_topics
+Liberal Alliance,Enhedslisten,67,1097,438.0,0.3992707383773929,all_topics
+Liberal Alliance,Javnaðarflokkurin,67,3,3.0,1.0,all_topics
+Liberal Alliance,Liberal Alliance,67,2,2.0,1.0,all_topics
+Liberal Alliance,Moderaterne,67,151,146.0,0.9668874172185431,all_topics
+Liberal Alliance,Radikale Venstre,67,951,593.0,0.6235541535226078,all_topics
+Liberal Alliance,Sambandsflokkurin,67,11,10.0,0.9090909090909091,all_topics
+Liberal Alliance,Socialdemokratiet,67,13558,7287.0,0.5374686531936864,all_topics
+Liberal Alliance,Socialistisk Folkeparti,67,5033,2703.0,0.5370554341347109,all_topics
+Liberal Alliance,Uden for folketingsgrupperne,67,1001,804.0,0.8031968031968032,all_topics
+Liberal Alliance,Venstre,67,14825,13713.0,0.924991568296796,all_topics
+Moderaterne,Danmarksdemokraterne,67,171,162.0,0.9473684210526315,all_topics
+Moderaterne,Dansk Folkeparti,67,698,663.0,0.9498567335243553,all_topics
+Moderaterne,Det Konservative Folkeparti,67,315,315.0,1.0,all_topics
+Moderaterne,Enhedslisten,67,38,15.0,0.39473684210526316,all_topics
+Moderaterne,Liberal Alliance,67,1,1.0,1.0,all_topics
+Moderaterne,Radikale Venstre,67,71,42.0,0.5915492957746479,all_topics
+Moderaterne,Socialdemokratiet,67,1523,633.0,0.4156270518713066,all_topics
+Moderaterne,Socialistisk Folkeparti,67,210,86.0,0.4095238095238095,all_topics
+Moderaterne,Uden for folketingsgrupperne,67,110,54.0,0.4909090909090909,all_topics
+Moderaterne,Venstre,67,1009,1009.0,1.0,all_topics
+Radikale Venstre,Danmarksdemokraterne,67,1183,594.0,0.5021132713440406,all_topics
+Radikale Venstre,Dansk Folkeparti,67,5860,3090.0,0.5273037542662116,all_topics
+Radikale Venstre,Det Konservative Folkeparti,67,2702,1735.0,0.6421169504071058,all_topics
+Radikale Venstre,Enhedslisten,67,1768,1275.0,0.7211538461538461,all_topics
+Radikale Venstre,Javnaðarflokkurin,67,6,6.0,1.0,all_topics
+Radikale Venstre,Liberal Alliance,67,513,323.0,0.6296296296296297,all_topics
+Radikale Venstre,Radikale Venstre,67,822,822.0,1.0,all_topics
+Radikale Venstre,Socialdemokratiet,67,11546,9843.0,0.8525030313528494,all_topics
+Radikale Venstre,Socialistisk Folkeparti,67,4943,4182.0,0.8460449119967631,all_topics
+Radikale Venstre,Uden for folketingsgrupperne,67,650,503.0,0.7738461538461539,all_topics
+Radikale Venstre,Venstre,67,9395,5743.0,0.6112825971261309,all_topics
+Sambandsflokkurin,Danmarksdemokraterne,67,103,95.0,0.9223300970873787,all_topics
+Sambandsflokkurin,Dansk Folkeparti,67,270,240.0,0.8888888888888888,all_topics
+Sambandsflokkurin,Det Konservative Folkeparti,67,119,119.0,1.0,all_topics
+Sambandsflokkurin,Enhedslisten,67,92,28.0,0.30434782608695654,all_topics
+Sambandsflokkurin,Javnaðarflokkurin,67,2,2.0,1.0,all_topics
+Sambandsflokkurin,Liberal Alliance,67,26,24.0,0.9230769230769231,all_topics
+Sambandsflokkurin,Moderaterne,67,6,6.0,1.0,all_topics
+Sambandsflokkurin,Radikale Venstre,67,52,37.0,0.7115384615384616,all_topics
+Sambandsflokkurin,Socialdemokratiet,67,676,515.0,0.7618343195266272,all_topics
+Sambandsflokkurin,Socialistisk Folkeparti,67,302,178.0,0.5894039735099338,all_topics
+Sambandsflokkurin,Uden for folketingsgrupperne,67,62,53.0,0.8548387096774194,all_topics
+Sambandsflokkurin,Venstre,67,866,866.0,1.0,all_topics
+Socialdemokratiet,Danmarksdemokraterne,67,29709,14825.0,0.49900703490524756,all_topics
+Socialdemokratiet,Dansk Folkeparti,67,114914,56709.0,0.49349078441269123,all_topics
+Socialdemokratiet,Det Konservative Folkeparti,67,61001,37031.0,0.607055622038983,all_topics
+Socialdemokratiet,Enhedslisten,67,26135,19442.0,0.7439066386072317,all_topics
+Socialdemokratiet,Javnaðarflokkurin,67,74,74.0,1.0,all_topics
+Socialdemokratiet,Liberal Alliance,67,7798,4495.0,0.5764298538086688,all_topics
+Socialdemokratiet,Moderaterne,67,2029,818.0,0.4031542631838344,all_topics
+Socialdemokratiet,Radikale Venstre,67,25140,21514.0,0.8557677008750995,all_topics
+Socialdemokratiet,Sambandsflokkurin,67,168,127.0,0.7559523809523809,all_topics
+Socialdemokratiet,Socialdemokratiet,67,254865,249825.0,0.9802248249073039,all_topics
+Socialdemokratiet,Socialistisk Folkeparti,67,99523,92562.0,0.9300563688795555,all_topics
+Socialdemokratiet,Uden for folketingsgrupperne,67,27169,15207.0,0.5597187971585262,all_topics
+Socialdemokratiet,Venstre,67,269159,156646.0,0.5819831400770549,all_topics
+Socialistisk Folkeparti,Danmarksdemokraterne,67,11316,5405.0,0.47764227642276424,all_topics
+Socialistisk Folkeparti,Dansk Folkeparti,67,42709,19897.0,0.4658737034348732,all_topics
+Socialistisk Folkeparti,Det Konservative Folkeparti,67,23335,13160.0,0.5639597171630598,all_topics
+Socialistisk Folkeparti,Enhedslisten,67,8990,7183.0,0.7989988876529477,all_topics
+Socialistisk Folkeparti,Javnaðarflokkurin,67,27,27.0,1.0,all_topics
+Socialistisk Folkeparti,Liberal Alliance,67,2956,1612.0,0.5453315290933695,all_topics
+Socialistisk Folkeparti,Moderaterne,67,757,281.0,0.3712021136063408,all_topics
+Socialistisk Folkeparti,Radikale Venstre,67,9353,7812.0,0.8352400299369186,all_topics
+Socialistisk Folkeparti,Sambandsflokkurin,67,33,25.0,0.7575757575757576,all_topics
+Socialistisk Folkeparti,Socialdemokratiet,67,99596,91671.0,0.920428531266316,all_topics
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,33341,33250.0,0.9972706277556163,all_topics
+Socialistisk Folkeparti,Uden for folketingsgrupperne,67,10852,5684.0,0.5237744194618503,all_topics
+Socialistisk Folkeparti,Venstre,67,111760,61441.0,0.5497584108804581,all_topics
+Uden for folketingsgrupperne,Danmarksdemokraterne,67,1066,995.0,0.9333958724202627,all_topics
+Uden for folketingsgrupperne,Dansk Folkeparti,67,6237,6237.0,1.0,all_topics
+Uden for folketingsgrupperne,Det Konservative Folkeparti,67,3634,3201.0,0.8808475509080903,all_topics
+Uden for folketingsgrupperne,Enhedslisten,67,1172,452.0,0.3856655290102389,all_topics
+Uden for folketingsgrupperne,Javnaðarflokkurin,67,9,8.0,0.8888888888888888,all_topics
+Uden for folketingsgrupperne,Liberal Alliance,67,461,350.0,0.7592190889370932,all_topics
+Uden for folketingsgrupperne,Moderaterne,67,155,150.0,0.967741935483871,all_topics
+Uden for folketingsgrupperne,Radikale Venstre,67,2209,1115.0,0.504753282028067,all_topics
+Uden for folketingsgrupperne,Socialdemokratiet,67,13933,6977.0,0.5007536065456112,all_topics
+Uden for folketingsgrupperne,Socialistisk Folkeparti,67,4339,2123.0,0.4892832449873243,all_topics
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,67,838,642.0,0.766109785202864,all_topics
+Uden for folketingsgrupperne,Venstre,67,11884,10487.0,0.8824469875462807,all_topics
+Venstre,Danmarksdemokraterne,67,38995,35936.0,0.9215540453904346,all_topics
+Venstre,Dansk Folkeparti,67,139823,125807.0,0.8997589809974038,all_topics
+Venstre,Det Konservative Folkeparti,67,75310,75276.0,0.999548532731377,all_topics
+Venstre,Enhedslisten,67,31961,12678.0,0.39667094271142955,all_topics
+Venstre,Javnaðarflokkurin,67,93,93.0,1.0,all_topics
+Venstre,Liberal Alliance,67,9041,7596.0,0.8401725472845925,all_topics
+Venstre,Moderaterne,67,2635,2634.0,0.9996204933586338,all_topics
+Venstre,Radikale Venstre,67,32803,20111.0,0.6130841691308722,all_topics
+Venstre,Sambandsflokkurin,67,116,116.0,1.0,all_topics
+Venstre,Socialdemokratiet,67,335654,195896.0,0.58362480411376,all_topics
+Venstre,Socialistisk Folkeparti,67,116234,64048.0,0.5510263778240446,all_topics
+Venstre,Uden for folketingsgrupperne,67,34819,29592.0,0.8498808122002355,all_topics
+Venstre,Venstre,67,330128,329946.0,0.99944869868657,all_topics
+Alternativet,Liberal Alliance,69,205,67.0,0.32682926829268294,all_topics
+Alternativet,Radikale Venstre,69,96,79.0,0.8229166666666666,all_topics
+Danmarksdemokraterne,Alternativet,69,1114,378.0,0.3393177737881508,all_topics
+Danmarksdemokraterne,Danmarksdemokraterne,69,14942,14125.0,0.9453219113907108,all_topics
+Danmarksdemokraterne,Dansk Folkeparti,69,29308,28486.0,0.971953050361676,all_topics
+Danmarksdemokraterne,Det Konservative Folkeparti,69,794,652.0,0.8211586901763224,all_topics
+Danmarksdemokraterne,Enhedslisten,69,24473,8482.0,0.3465860335880358,all_topics
+Danmarksdemokraterne,Liberal Alliance,69,29278,24648.0,0.8418607828403579,all_topics
+Danmarksdemokraterne,Moderaterne,69,1977,1645.0,0.8320687910976227,all_topics
+Danmarksdemokraterne,Radikale Venstre,69,25909,14766.0,0.5699177891852252,all_topics
+Danmarksdemokraterne,Socialdemokratiet,69,99754,68656.0,0.6882531026324759,all_topics
+Danmarksdemokraterne,Socialistisk Folkeparti,69,15681,7141.0,0.455391875518143,all_topics
+Danmarksdemokraterne,Uden for folketingsgrupperne,69,15347,14481.0,0.9435720336222063,all_topics
+Danmarksdemokraterne,Venstre,69,90275,77484.0,0.8583107172528386,all_topics
+Dansk Folkeparti,Alternativet,69,1186,373.0,0.3145025295109612,all_topics
+Dansk Folkeparti,Danmarksdemokraterne,69,11628,11286.0,0.9705882352941176,all_topics
+Dansk Folkeparti,Dansk Folkeparti,69,20918,20891.0,0.9987092456257769,all_topics
+Dansk Folkeparti,Det Konservative Folkeparti,69,652,522.0,0.8006134969325154,all_topics
+Dansk Folkeparti,Enhedslisten,69,22461,7919.0,0.35256667111882817,all_topics
+Dansk Folkeparti,Liberal Alliance,69,20322,16683.0,0.8209329790374963,all_topics
+Dansk Folkeparti,Moderaterne,69,961,735.0,0.7648283038501561,all_topics
+Dansk Folkeparti,Radikale Venstre,69,21873,11643.0,0.5323000960087779,all_topics
+Dansk Folkeparti,Socialdemokratiet,69,77239,49607.0,0.6422532658372065,all_topics
+Dansk Folkeparti,Socialistisk Folkeparti,69,8310,3611.0,0.4345367027677497,all_topics
+Dansk Folkeparti,Uden for folketingsgrupperne,69,10316,9591.0,0.9297208220240403,all_topics
+Dansk Folkeparti,Venstre,69,71639,59583.0,0.8317117771046497,all_topics
+Det Konservative Folkeparti,Alternativet,69,93,25.0,0.26881720430107525,all_topics
+Det Konservative Folkeparti,Danmarksdemokraterne,69,1603,1315.0,0.8203368683718029,all_topics
+Det Konservative Folkeparti,Dansk Folkeparti,69,2604,2120.0,0.8141321044546851,all_topics
+Det Konservative Folkeparti,Det Konservative Folkeparti,69,105,105.0,1.0,all_topics
+Det Konservative Folkeparti,Enhedslisten,69,2479,608.0,0.24526018555869303,all_topics
+Det Konservative Folkeparti,Liberal Alliance,69,1747,1543.0,0.8832283915283343,all_topics
+Det Konservative Folkeparti,Moderaterne,69,256,244.0,0.953125,all_topics
+Det Konservative Folkeparti,Radikale Venstre,69,1805,1115.0,0.6177285318559557,all_topics
+Det Konservative Folkeparti,Socialdemokratiet,69,7028,5361.0,0.7628059191804212,all_topics
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,1224,495.0,0.40441176470588236,all_topics
+Det Konservative Folkeparti,Uden for folketingsgrupperne,69,1081,913.0,0.8445883441258094,all_topics
+Det Konservative Folkeparti,Venstre,69,7596,7297.0,0.960637177461822,all_topics
+Enhedslisten,Alternativet,69,1022,863.0,0.8444227005870841,all_topics
+Enhedslisten,Danmarksdemokraterne,69,12201,4135.0,0.33890664699614786,all_topics
+Enhedslisten,Dansk Folkeparti,69,20456,7137.0,0.34889518967540084,all_topics
+Enhedslisten,Det Konservative Folkeparti,69,368,142.0,0.3858695652173913,all_topics
+Enhedslisten,Enhedslisten,69,15454,15441.0,0.9991587938397826,all_topics
+Enhedslisten,Liberal Alliance,69,20128,6711.0,0.33341613672496023,all_topics
+Enhedslisten,Moderaterne,69,1561,464.0,0.29724535554131964,all_topics
+Enhedslisten,Radikale Venstre,69,17965,10883.0,0.6057890342332313,all_topics
+Enhedslisten,Socialdemokratiet,69,71550,32767.0,0.45795946890286515,all_topics
+Enhedslisten,Socialistisk Folkeparti,69,10779,8457.0,0.7845811299749513,all_topics
+Enhedslisten,Uden for folketingsgrupperne,69,9750,3083.0,0.3162051282051282,all_topics
+Enhedslisten,Venstre,69,68044,21724.0,0.31926400564340723,all_topics
+Liberal Alliance,Alternativet,69,766,259.0,0.3381201044386423,all_topics
+Liberal Alliance,Danmarksdemokraterne,69,1959,1611.0,0.8223583460949464,all_topics
+Liberal Alliance,Dansk Folkeparti,69,15786,12946.0,0.8200937539592044,all_topics
+Liberal Alliance,Det Konservative Folkeparti,69,263,229.0,0.870722433460076,all_topics
+Liberal Alliance,Enhedslisten,69,12190,4189.0,0.34364232977850695,all_topics
+Liberal Alliance,Liberal Alliance,69,10623,10568.0,0.9948225548338511,all_topics
+Liberal Alliance,Moderaterne,69,73,66.0,0.9041095890410958,all_topics
+Liberal Alliance,Radikale Venstre,69,14364,9185.0,0.6394458368142578,all_topics
+Liberal Alliance,Socialdemokratiet,69,44343,33844.0,0.7632320772162461,all_topics
+Liberal Alliance,Socialistisk Folkeparti,69,3846,1701.0,0.4422776911076443,all_topics
+Liberal Alliance,Uden for folketingsgrupperne,69,6426,5675.0,0.8831310301898537,all_topics
+Liberal Alliance,Venstre,69,36483,34837.0,0.9548830962366034,all_topics
+Moderaterne,Alternativet,69,46,8.0,0.17391304347826086,all_topics
+Moderaterne,Danmarksdemokraterne,69,843,638.0,0.7568208778173191,all_topics
+Moderaterne,Dansk Folkeparti,69,2430,1889.0,0.7773662551440329,all_topics
+Moderaterne,Det Konservative Folkeparti,69,67,65.0,0.9701492537313433,all_topics
+Moderaterne,Enhedslisten,69,1449,468.0,0.32298136645962733,all_topics
+Moderaterne,Liberal Alliance,69,2392,2238.0,0.93561872909699,all_topics
+Moderaterne,Moderaterne,69,6,6.0,1.0,all_topics
+Moderaterne,Radikale Venstre,69,2023,1285.0,0.6351952545724172,all_topics
+Moderaterne,Socialdemokratiet,69,8209,6501.0,0.7919356803508345,all_topics
+Moderaterne,Socialistisk Folkeparti,69,1022,462.0,0.4520547945205479,all_topics
+Moderaterne,Uden for folketingsgrupperne,69,1237,1023.0,0.8270008084074374,all_topics
+Moderaterne,Venstre,69,6857,6856.0,0.999854163628409,all_topics
+Radikale Venstre,Alternativet,69,995,740.0,0.7437185929648241,all_topics
+Radikale Venstre,Danmarksdemokraterne,69,5704,3162.0,0.5543478260869565,all_topics
+Radikale Venstre,Dansk Folkeparti,69,14969,7996.0,0.534170619279845,all_topics
+Radikale Venstre,Det Konservative Folkeparti,69,457,291.0,0.6367614879649891,all_topics
+Radikale Venstre,Enhedslisten,69,14279,8969.0,0.6281252188528609,all_topics
+Radikale Venstre,Liberal Alliance,69,13486,8650.0,0.6414059024173216,all_topics
+Radikale Venstre,Moderaterne,69,279,162.0,0.5806451612903226,all_topics
+Radikale Venstre,Radikale Venstre,69,10956,10906.0,0.9954362906170136,all_topics
+Radikale Venstre,Socialdemokratiet,69,47683,35525.0,0.7450244321875721,all_topics
+Radikale Venstre,Socialistisk Folkeparti,69,3129,2419.0,0.7730904442313838,all_topics
+Radikale Venstre,Uden for folketingsgrupperne,69,5398,3101.0,0.5744720266765468,all_topics
+Radikale Venstre,Venstre,69,41192,26838.0,0.6515342785006798,all_topics
+Socialdemokratiet,Alternativet,69,4177,2302.0,0.5511132391668662,all_topics
+Socialdemokratiet,Danmarksdemokraterne,69,35652,24016.0,0.673622798159991,all_topics
+Socialdemokratiet,Dansk Folkeparti,69,79687,51395.0,0.6449609095586483,all_topics
+Socialdemokratiet,Det Konservative Folkeparti,69,2081,1594.0,0.7659778952426718,all_topics
+Socialdemokratiet,Enhedslisten,69,66149,31207.0,0.47176828069963267,all_topics
+Socialdemokratiet,Liberal Alliance,69,73094,55879.0,0.7644813527786138,all_topics
+Socialdemokratiet,Moderaterne,69,2825,2148.0,0.7603539823008849,all_topics
+Socialdemokratiet,Radikale Venstre,69,71412,54242.0,0.7595642188987846,all_topics
+Socialdemokratiet,Socialdemokratiet,69,243389,238528.0,0.980027856641015,all_topics
+Socialdemokratiet,Socialistisk Folkeparti,69,30607,19440.0,0.6351488221648642,all_topics
+Socialdemokratiet,Uden for folketingsgrupperne,69,37041,24403.0,0.6588105072757215,all_topics
+Socialdemokratiet,Venstre,69,227904,180046.0,0.7900080735748385,all_topics
+Socialistisk Folkeparti,Alternativet,69,669,532.0,0.7952167414050823,all_topics
+Socialistisk Folkeparti,Danmarksdemokraterne,69,3331,1587.0,0.4764335034524167,all_topics
+Socialistisk Folkeparti,Dansk Folkeparti,69,13999,6109.0,0.4363883134509608,all_topics
+Socialistisk Folkeparti,Det Konservative Folkeparti,69,349,174.0,0.498567335243553,all_topics
+Socialistisk Folkeparti,Enhedslisten,69,8878,6923.0,0.7797927461139896,all_topics
+Socialistisk Folkeparti,Liberal Alliance,69,12908,6164.0,0.4775333126743105,all_topics
+Socialistisk Folkeparti,Moderaterne,69,547,263.0,0.48080438756855576,all_topics
+Socialistisk Folkeparti,Radikale Venstre,69,14043,10518.0,0.7489852595599231,all_topics
+Socialistisk Folkeparti,Socialdemokratiet,69,41705,26553.0,0.6366862486512409,all_topics
+Socialistisk Folkeparti,Socialistisk Folkeparti,69,3362,3357.0,0.9985127900059488,all_topics
+Socialistisk Folkeparti,Uden for folketingsgrupperne,69,8195,3527.0,0.43038438071995117,all_topics
+Socialistisk Folkeparti,Venstre,69,37267,18293.0,0.49086323020366546,all_topics
+Uden for folketingsgrupperne,Alternativet,69,573,147.0,0.25654450261780104,all_topics
+Uden for folketingsgrupperne,Danmarksdemokraterne,69,299,289.0,0.9665551839464883,all_topics
+Uden for folketingsgrupperne,Dansk Folkeparti,69,8163,8161.0,0.9997549920372412,all_topics
+Uden for folketingsgrupperne,Det Konservative Folkeparti,69,114,90.0,0.7894736842105263,all_topics
+Uden for folketingsgrupperne,Enhedslisten,69,6303,2068.0,0.32809773123909247,all_topics
+Uden for folketingsgrupperne,Liberal Alliance,69,7107,6019.0,0.8469114957084565,all_topics
+Uden for folketingsgrupperne,Moderaterne,69,10,10.0,1.0,all_topics
+Uden for folketingsgrupperne,Radikale Venstre,69,9004,4613.0,0.5123278542869836,all_topics
+Uden for folketingsgrupperne,Socialdemokratiet,69,23454,15098.0,0.6437281487166369,all_topics
+Uden for folketingsgrupperne,Socialistisk Folkeparti,69,426,128.0,0.3004694835680751,all_topics
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,69,2383,2213.0,0.9286613512379354,all_topics
+Uden for folketingsgrupperne,Venstre,69,19149,16425.0,0.8577471408428639,all_topics
+Venstre,Alternativet,69,3850,1357.0,0.3524675324675325,all_topics
+Venstre,Danmarksdemokraterne,69,32171,27484.0,0.854309782101893,all_topics
+Venstre,Dansk Folkeparti,69,71859,59748.0,0.8314616123241347,all_topics
+Venstre,Det Konservative Folkeparti,69,2098,2031.0,0.9680648236415634,all_topics
+Venstre,Enhedslisten,69,57975,19304.0,0.33297110823630877,all_topics
+Venstre,Liberal Alliance,69,70082,67385.0,0.9615165092320425,all_topics
+Venstre,Moderaterne,69,3236,3236.0,1.0,all_topics
+Venstre,Radikale Venstre,69,67754,45153.0,0.6664255984886501,all_topics
+Venstre,Socialdemokratiet,69,238428,189764.0,0.7958964551143322,all_topics
+Venstre,Socialistisk Folkeparti,69,29374,14056.0,0.47851841764826036,all_topics
+Venstre,Uden for folketingsgrupperne,69,35849,30969.0,0.8638734692738989,all_topics
+Venstre,Venstre,69,200398,200363.0,0.9998253475583588,all_topics
+Danmarksdemokraterne,Danmarksdemokraterne,66,6390,6160.0,0.9640062597809077,all_topics
+Danmarksdemokraterne,Dansk Folkeparti,66,18129,17688.0,0.975674333940096,all_topics
+Danmarksdemokraterne,Det Konservative Folkeparti,66,14599,13716.0,0.9395164052332352,all_topics
+Danmarksdemokraterne,Enhedslisten,66,5631,1432.0,0.2543065174924525,all_topics
+Danmarksdemokraterne,Liberal Alliance,66,2507,2362.0,0.9421619465496609,all_topics
+Danmarksdemokraterne,Moderaterne,66,580,556.0,0.9586206896551724,all_topics
+Danmarksdemokraterne,Radikale Venstre,66,9419,5197.0,0.5517570867395689,all_topics
+Danmarksdemokraterne,Siumut,66,33,17.0,0.5151515151515151,all_topics
+Danmarksdemokraterne,Socialdemokratiet,66,41476,22818.0,0.5501494840389622,all_topics
+Danmarksdemokraterne,Socialistisk Folkeparti,66,8963,3429.0,0.3825727992859534,all_topics
+Danmarksdemokraterne,Uden for folketingsgrupperne,66,8029,6356.0,0.7916303400174368,all_topics
+Danmarksdemokraterne,Venstre,66,55297,51891.0,0.9384053384451236,all_topics
+Dansk Folkeparti,Danmarksdemokraterne,66,5543,5539.0,0.9992783691141981,all_topics
+Dansk Folkeparti,Dansk Folkeparti,66,14873,14855.0,0.9987897532441337,all_topics
+Dansk Folkeparti,Det Konservative Folkeparti,66,10178,9372.0,0.9208095893102771,all_topics
+Dansk Folkeparti,Enhedslisten,66,5981,1477.0,0.24694867079083765,all_topics
+Dansk Folkeparti,Liberal Alliance,66,2176,2000.0,0.9191176470588235,all_topics
+Dansk Folkeparti,Moderaterne,66,501,471.0,0.9401197604790419,all_topics
+Dansk Folkeparti,Radikale Venstre,66,10557,5602.0,0.5306431751444539,all_topics
+Dansk Folkeparti,Siumut,66,18,7.0,0.3888888888888889,all_topics
+Dansk Folkeparti,Socialdemokratiet,66,35530,18697.0,0.5262313537855333,all_topics
+Dansk Folkeparti,Socialistisk Folkeparti,66,10845,4211.0,0.38828953434762564,all_topics
+Dansk Folkeparti,Uden for folketingsgrupperne,66,10247,7164.0,0.6991314531082268,all_topics
+Dansk Folkeparti,Venstre,66,48866,45005.0,0.9209880080219376,all_topics
+Det Konservative Folkeparti,Danmarksdemokraterne,66,9390,8786.0,0.9356762513312034,all_topics
+Det Konservative Folkeparti,Dansk Folkeparti,66,24636,22686.0,0.920847540185095,all_topics
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,15168,15125.0,0.9971650843881856,all_topics
+Det Konservative Folkeparti,Enhedslisten,66,8245,2135.0,0.25894481503941785,all_topics
+Det Konservative Folkeparti,Liberal Alliance,66,3544,3525.0,0.9946388261851016,all_topics
+Det Konservative Folkeparti,Moderaterne,66,844,839.0,0.9940758293838863,all_topics
+Det Konservative Folkeparti,Radikale Venstre,66,14649,8674.0,0.5921223291692266,all_topics
+Det Konservative Folkeparti,Siumut,66,54,34.0,0.6296296296296297,all_topics
+Det Konservative Folkeparti,Socialdemokratiet,66,56816,33805.0,0.5949908476485497,all_topics
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,12290,5109.0,0.4157038242473556,all_topics
+Det Konservative Folkeparti,Uden for folketingsgrupperne,66,11824,9585.0,0.8106393775372125,all_topics
+Det Konservative Folkeparti,Venstre,66,71565,71281.0,0.9960315796828059,all_topics
+Enhedslisten,Danmarksdemokraterne,66,2834,734.0,0.2589978828510939,all_topics
+Enhedslisten,Dansk Folkeparti,66,6353,1626.0,0.2559420746104203,all_topics
+Enhedslisten,Det Konservative Folkeparti,66,4464,1162.0,0.26030465949820786,all_topics
+Enhedslisten,Enhedslisten,66,1426,1424.0,0.9985974754558204,all_topics
+Enhedslisten,Liberal Alliance,66,927,231.0,0.24919093851132687,all_topics
+Enhedslisten,Moderaterne,66,176,45.0,0.2556818181818182,all_topics
+Enhedslisten,Radikale Venstre,66,2943,1703.0,0.5786612300373768,all_topics
+Enhedslisten,Siumut,66,13,7.0,0.5384615384615384,all_topics
+Enhedslisten,Socialdemokratiet,66,13443,7995.0,0.5947333184557019,all_topics
+Enhedslisten,Socialistisk Folkeparti,66,3906,3029.0,0.77547363031234,all_topics
+Enhedslisten,Uden for folketingsgrupperne,66,3542,1520.0,0.42913608130999437,all_topics
+Enhedslisten,Venstre,66,18846,4874.0,0.258622519367505,all_topics
+Liberal Alliance,Danmarksdemokraterne,66,899,811.0,0.9021134593993326,all_topics
+Liberal Alliance,Dansk Folkeparti,66,2776,2529.0,0.9110230547550432,all_topics
+Liberal Alliance,Det Konservative Folkeparti,66,1580,1570.0,0.9936708860759493,all_topics
+Liberal Alliance,Enhedslisten,66,986,228.0,0.23123732251521298,all_topics
+Liberal Alliance,Radikale Venstre,66,2462,1454.0,0.5905767668562144,all_topics
+Liberal Alliance,Socialdemokratiet,66,6237,3665.0,0.587622254288921,all_topics
+Liberal Alliance,Socialistisk Folkeparti,66,1289,529.0,0.41039565554693563,all_topics
+Liberal Alliance,Uden for folketingsgrupperne,66,1564,1175.0,0.7512787723785166,all_topics
+Liberal Alliance,Venstre,66,6123,6072.0,0.9916707496325331,all_topics
+Moderaterne,Danmarksdemokraterne,66,218,208.0,0.9541284403669725,all_topics
+Moderaterne,Dansk Folkeparti,66,693,652.0,0.9408369408369408,all_topics
+Moderaterne,Det Konservative Folkeparti,66,378,377.0,0.9973544973544973,all_topics
+Moderaterne,Enhedslisten,66,256,57.0,0.22265625,all_topics
+Moderaterne,Liberal Alliance,66,181,179.0,0.988950276243094,all_topics
+Moderaterne,Radikale Venstre,66,591,391.0,0.6615905245346869,all_topics
+Moderaterne,Socialdemokratiet,66,1509,842.0,0.5579854208084825,all_topics
+Moderaterne,Socialistisk Folkeparti,66,315,121.0,0.38412698412698415,all_topics
+Moderaterne,Uden for folketingsgrupperne,66,413,318.0,0.7699757869249395,all_topics
+Moderaterne,Venstre,66,1449,1433.0,0.9889579020013802,all_topics
+Radikale Venstre,Danmarksdemokraterne,66,3166,1717.0,0.5423246999368289,all_topics
+Radikale Venstre,Dansk Folkeparti,66,7393,3871.0,0.5236034086297849,all_topics
+Radikale Venstre,Det Konservative Folkeparti,66,3340,1962.0,0.5874251497005988,all_topics
+Radikale Venstre,Enhedslisten,66,3196,1837.0,0.5747809762202754,all_topics
+Radikale Venstre,Radikale Venstre,66,3557,3524.0,0.9907225189766657,all_topics
+Radikale Venstre,Socialdemokratiet,66,14979,11588.0,0.7736163962881367,all_topics
+Radikale Venstre,Socialistisk Folkeparti,66,4631,3371.0,0.7279205355214856,all_topics
+Radikale Venstre,Uden for folketingsgrupperne,66,5260,4159.0,0.7906844106463878,all_topics
+Radikale Venstre,Venstre,66,21404,12513.0,0.5846103532050084,all_topics
+Siumut,Danmarksdemokraterne,66,11,7.0,0.6363636363636364,all_topics
+Siumut,Dansk Folkeparti,66,40,27.0,0.675,all_topics
+Siumut,Det Konservative Folkeparti,66,25,14.0,0.56,all_topics
+Siumut,Enhedslisten,66,3,3.0,1.0,all_topics
+Siumut,Liberal Alliance,66,10,7.0,0.7,all_topics
+Siumut,Radikale Venstre,66,35,23.0,0.6571428571428571,all_topics
+Siumut,Socialdemokratiet,66,75,48.0,0.64,all_topics
+Siumut,Socialistisk Folkeparti,66,32,21.0,0.65625,all_topics
+Siumut,Uden for folketingsgrupperne,66,31,21.0,0.6774193548387096,all_topics
+Siumut,Venstre,66,82,47.0,0.573170731707317,all_topics
+Socialdemokratiet,Danmarksdemokraterne,66,18304,10254.0,0.5602054195804196,all_topics
+Socialdemokratiet,Dansk Folkeparti,66,52587,27985.0,0.5321657443854945,all_topics
+Socialdemokratiet,Det Konservative Folkeparti,66,31673,19466.0,0.6145928708995043,all_topics
+Socialdemokratiet,Enhedslisten,66,17617,10290.0,0.5840949083271839,all_topics
+Socialdemokratiet,Liberal Alliance,66,6379,3910.0,0.6129487380467158,all_topics
+Socialdemokratiet,Moderaterne,66,1554,883.0,0.5682110682110683,all_topics
+Socialdemokratiet,Radikale Venstre,66,29795,23619.0,0.7927168988085249,all_topics
+Socialdemokratiet,Siumut,66,103,69.0,0.6699029126213593,all_topics
+Socialdemokratiet,Socialdemokratiet,66,104054,100530.0,0.9661329694197244,all_topics
+Socialdemokratiet,Socialistisk Folkeparti,66,27923,21616.0,0.774128854349461,all_topics
+Socialdemokratiet,Uden for folketingsgrupperne,66,26431,18612.0,0.7041731300366993,all_topics
+Socialdemokratiet,Venstre,66,144335,87130.0,0.603665084698791,all_topics
+Socialistisk Folkeparti,Danmarksdemokraterne,66,6782,2502.0,0.36891772338543205,all_topics
+Socialistisk Folkeparti,Dansk Folkeparti,66,12762,4577.0,0.3586428459489108,all_topics
+Socialistisk Folkeparti,Det Konservative Folkeparti,66,11136,4493.0,0.4034662356321839,all_topics
+Socialistisk Folkeparti,Enhedslisten,66,4377,3445.0,0.7870687685629426,all_topics
+Socialistisk Folkeparti,Liberal Alliance,66,2109,792.0,0.3755334281650071,all_topics
+Socialistisk Folkeparti,Moderaterne,66,509,192.0,0.37721021611001965,all_topics
+Socialistisk Folkeparti,Radikale Venstre,66,7033,5237.0,0.7446324470354045,all_topics
+Socialistisk Folkeparti,Siumut,66,8,4.0,0.5,all_topics
+Socialistisk Folkeparti,Socialdemokratiet,66,31168,24206.0,0.7766298767967146,all_topics
+Socialistisk Folkeparti,Socialistisk Folkeparti,66,6515,6458.0,0.9912509593246355,all_topics
+Socialistisk Folkeparti,Uden for folketingsgrupperne,66,6841,3758.0,0.5493348925595674,all_topics
+Socialistisk Folkeparti,Venstre,66,46538,18677.0,0.40132794705402036,all_topics
+Uden for folketingsgrupperne,Danmarksdemokraterne,66,2870,2339.0,0.8149825783972126,all_topics
+Uden for folketingsgrupperne,Dansk Folkeparti,66,6230,5785.0,0.9285714285714286,all_topics
+Uden for folketingsgrupperne,Det Konservative Folkeparti,66,4680,4047.0,0.8647435897435898,all_topics
+Uden for folketingsgrupperne,Enhedslisten,66,2140,699.0,0.32663551401869156,all_topics
+Uden for folketingsgrupperne,Liberal Alliance,66,793,755.0,0.9520807061790668,all_topics
+Uden for folketingsgrupperne,Moderaterne,66,230,213.0,0.9260869565217391,all_topics
+Uden for folketingsgrupperne,Radikale Venstre,66,2805,1508.0,0.5376114081996435,all_topics
+Uden for folketingsgrupperne,Siumut,66,2,0.0,0.0,all_topics
+Uden for folketingsgrupperne,Socialdemokratiet,66,14944,8741.0,0.5849170235546038,all_topics
+Uden for folketingsgrupperne,Socialistisk Folkeparti,66,4609,2282.0,0.49511824690822304,all_topics
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,66,3089,2232.0,0.722563936549045,all_topics
+Uden for folketingsgrupperne,Venstre,66,23219,20142.0,0.8674792196046341,all_topics
+Venstre,Danmarksdemokraterne,66,43011,40154.0,0.9335751319429914,all_topics
+Venstre,Dansk Folkeparti,66,96923,88983.0,0.9180793000629366,all_topics
+Venstre,Det Konservative Folkeparti,66,73420,73047.0,0.9949196404249523,all_topics
+Venstre,Enhedslisten,66,32550,8490.0,0.2608294930875576,all_topics
+Venstre,Liberal Alliance,66,14360,14247.0,0.9921309192200557,all_topics
+Venstre,Moderaterne,66,3456,3421.0,0.9898726851851852,all_topics
+Venstre,Radikale Venstre,66,52853,30934.0,0.5852837114260306,all_topics
+Venstre,Siumut,66,179,105.0,0.5865921787709497,all_topics
+Venstre,Socialdemokratiet,66,219786,131161.0,0.5967668550317127,all_topics
+Venstre,Socialistisk Folkeparti,66,51071,21460.0,0.42019933034403084,all_topics
+Venstre,Uden for folketingsgrupperne,66,44208,35398.0,0.8007148027506333,all_topics
+Venstre,Venstre,66,289721,288180.0,0.9946810897380584,all_topics
+Danmarksdemokraterne,Danmarksdemokraterne,65,524,512.0,0.9770992366412213,all_topics
+Danmarksdemokraterne,Dansk Folkeparti,65,3300,3261.0,0.9881818181818182,all_topics
+Danmarksdemokraterne,Det Konservative Folkeparti,65,1406,1373.0,0.9765291607396871,all_topics
+Danmarksdemokraterne,Enhedslisten,65,158,47.0,0.2974683544303797,all_topics
+Danmarksdemokraterne,Inuit Ataqatigiit,65,27,2.0,0.07407407407407407,all_topics
+Danmarksdemokraterne,Kristendemokraterne,65,455,216.0,0.4747252747252747,all_topics
+Danmarksdemokraterne,Liberal Alliance,65,549,541.0,0.9854280510018215,all_topics
+Danmarksdemokraterne,Moderaterne,65,63,62.0,0.9841269841269841,all_topics
+Danmarksdemokraterne,Radikale Venstre,65,717,365.0,0.5090655509065551,all_topics
+Danmarksdemokraterne,Sambandsflokkurin,65,28,27.0,0.9642857142857143,all_topics
+Danmarksdemokraterne,Socialdemokratiet,65,11173,4095.0,0.36650854739103195,all_topics
+Danmarksdemokraterne,Socialistisk Folkeparti,65,1892,651.0,0.3440803382663848,all_topics
+Danmarksdemokraterne,Uden for folketingsgrupperne,65,2063,1795.0,0.8700920988851187,all_topics
+Danmarksdemokraterne,Venstre,65,8200,8039.0,0.9803658536585366,all_topics
+Dansk Folkeparti,Danmarksdemokraterne,65,285,285.0,1.0,all_topics
+Dansk Folkeparti,Dansk Folkeparti,65,3167,3167.0,1.0,all_topics
+Dansk Folkeparti,Det Konservative Folkeparti,65,393,378.0,0.9618320610687023,all_topics
+Dansk Folkeparti,Enhedslisten,65,135,31.0,0.22962962962962963,all_topics
+Dansk Folkeparti,Inuit Ataqatigiit,65,18,1.0,0.05555555555555555,all_topics
+Dansk Folkeparti,Kristendemokraterne,65,459,210.0,0.45751633986928103,all_topics
+Dansk Folkeparti,Liberal Alliance,65,300,291.0,0.97,all_topics
+Dansk Folkeparti,Moderaterne,65,38,37.0,0.9736842105263158,all_topics
+Dansk Folkeparti,Radikale Venstre,65,671,327.0,0.4873323397913562,all_topics
+Dansk Folkeparti,Sambandsflokkurin,65,16,15.0,0.9375,all_topics
+Dansk Folkeparti,Socialdemokratiet,65,8474,3079.0,0.3633467075761152,all_topics
+Dansk Folkeparti,Socialistisk Folkeparti,65,2313,749.0,0.32382187635105925,all_topics
+Dansk Folkeparti,Uden for folketingsgrupperne,65,1286,1019.0,0.7923794712286159,all_topics
+Dansk Folkeparti,Venstre,65,7783,7576.0,0.973403571887447,all_topics
+Det Konservative Folkeparti,Danmarksdemokraterne,65,1177,1156.0,0.9821580288870009,all_topics
+Det Konservative Folkeparti,Dansk Folkeparti,65,5243,5096.0,0.9719626168224299,all_topics
+Det Konservative Folkeparti,Det Konservative Folkeparti,65,1624,1624.0,1.0,all_topics
+Det Konservative Folkeparti,Enhedslisten,65,360,106.0,0.29444444444444445,all_topics
+Det Konservative Folkeparti,Inuit Ataqatigiit,65,36,2.0,0.05555555555555555,all_topics
+Det Konservative Folkeparti,Kristendemokraterne,65,749,379.0,0.5060080106809078,all_topics
+Det Konservative Folkeparti,Liberal Alliance,65,969,969.0,1.0,all_topics
+Det Konservative Folkeparti,Moderaterne,65,129,129.0,1.0,all_topics
+Det Konservative Folkeparti,Radikale Venstre,65,1402,783.0,0.5584878744650499,all_topics
+Det Konservative Folkeparti,Sambandsflokkurin,65,65,65.0,1.0,all_topics
+Det Konservative Folkeparti,Socialdemokratiet,65,18420,7811.0,0.4240499457111835,all_topics
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,3049,1185.0,0.38865201705477204,all_topics
+Det Konservative Folkeparti,Uden for folketingsgrupperne,65,3027,2609.0,0.8619094813346547,all_topics
+Det Konservative Folkeparti,Venstre,65,13304,13301.0,0.9997745039085989,all_topics
+Enhedslisten,Danmarksdemokraterne,65,45,18.0,0.4,all_topics
+Enhedslisten,Dansk Folkeparti,65,299,105.0,0.3511705685618729,all_topics
+Enhedslisten,Det Konservative Folkeparti,65,7,0.0,0.0,all_topics
+Enhedslisten,Enhedslisten,65,8,8.0,1.0,all_topics
+Enhedslisten,Kristendemokraterne,65,43,26.0,0.6046511627906976,all_topics
+Enhedslisten,Liberal Alliance,65,1,0.0,0.0,all_topics
+Enhedslisten,Moderaterne,65,2,0.0,0.0,all_topics
+Enhedslisten,Radikale Venstre,65,95,57.0,0.6,all_topics
+Enhedslisten,Sambandsflokkurin,65,15,0.0,0.0,all_topics
+Enhedslisten,Socialdemokratiet,65,757,516.0,0.6816380449141347,all_topics
+Enhedslisten,Socialistisk Folkeparti,65,126,105.0,0.8333333333333334,all_topics
+Enhedslisten,Uden for folketingsgrupperne,65,98,35.0,0.35714285714285715,all_topics
+Enhedslisten,Venstre,65,424,138.0,0.32547169811320753,all_topics
+Inuit Ataqatigiit,Danmarksdemokraterne,65,12,1.0,0.08333333333333333,all_topics
+Inuit Ataqatigiit,Dansk Folkeparti,65,54,4.0,0.07407407407407407,all_topics
+Inuit Ataqatigiit,Det Konservative Folkeparti,65,22,1.0,0.045454545454545456,all_topics
+Inuit Ataqatigiit,Enhedslisten,65,6,6.0,1.0,all_topics
+Inuit Ataqatigiit,Kristendemokraterne,65,10,6.0,0.6,all_topics
+Inuit Ataqatigiit,Liberal Alliance,65,13,1.0,0.07692307692307693,all_topics
+Inuit Ataqatigiit,Radikale Venstre,65,22,12.0,0.5454545454545454,all_topics
+Inuit Ataqatigiit,Socialdemokratiet,65,208,138.0,0.6634615384615384,all_topics
+Inuit Ataqatigiit,Socialistisk Folkeparti,65,28,26.0,0.9285714285714286,all_topics
+Inuit Ataqatigiit,Uden for folketingsgrupperne,65,25,10.0,0.4,all_topics
+Inuit Ataqatigiit,Venstre,65,91,7.0,0.07692307692307693,all_topics
+Kristendemokraterne,Danmarksdemokraterne,65,109,48.0,0.44036697247706424,all_topics
+Kristendemokraterne,Dansk Folkeparti,65,686,328.0,0.478134110787172,all_topics
+Kristendemokraterne,Enhedslisten,65,2,2.0,1.0,all_topics
+Kristendemokraterne,Radikale Venstre,65,189,96.0,0.5079365079365079,all_topics
+Kristendemokraterne,Socialdemokratiet,65,2268,1267.0,0.558641975308642,all_topics
+Kristendemokraterne,Socialistisk Folkeparti,65,448,257.0,0.5736607142857143,all_topics
+Kristendemokraterne,Uden for folketingsgrupperne,65,379,184.0,0.48548812664907653,all_topics
+Kristendemokraterne,Venstre,65,1156,567.0,0.49048442906574397,all_topics
+Liberal Alliance,Danmarksdemokraterne,65,115,111.0,0.9652173913043478,all_topics
+Liberal Alliance,Dansk Folkeparti,65,1125,1095.0,0.9733333333333334,all_topics
+Liberal Alliance,Det Konservative Folkeparti,65,54,54.0,1.0,all_topics
+Liberal Alliance,Enhedslisten,65,64,21.0,0.328125,all_topics
+Liberal Alliance,Kristendemokraterne,65,216,104.0,0.48148148148148145,all_topics
+Liberal Alliance,Radikale Venstre,65,337,173.0,0.5133531157270029,all_topics
+Liberal Alliance,Sambandsflokkurin,65,10,10.0,1.0,all_topics
+Liberal Alliance,Socialdemokratiet,65,3817,1407.0,0.3686140948388787,all_topics
+Liberal Alliance,Socialistisk Folkeparti,65,606,222.0,0.36633663366336633,all_topics
+Liberal Alliance,Uden for folketingsgrupperne,65,526,401.0,0.7623574144486692,all_topics
+Liberal Alliance,Venstre,65,1667,1667.0,1.0,all_topics
+Moderaterne,Danmarksdemokraterne,65,20,20.0,1.0,all_topics
+Moderaterne,Dansk Folkeparti,65,145,141.0,0.9724137931034482,all_topics
+Moderaterne,Det Konservative Folkeparti,65,11,11.0,1.0,all_topics
+Moderaterne,Enhedslisten,65,32,10.0,0.3125,all_topics
+Moderaterne,Kristendemokraterne,65,24,16.0,0.6666666666666666,all_topics
+Moderaterne,Liberal Alliance,65,28,28.0,1.0,all_topics
+Moderaterne,Radikale Venstre,65,52,22.0,0.4230769230769231,all_topics
+Moderaterne,Sambandsflokkurin,65,7,7.0,1.0,all_topics
+Moderaterne,Socialdemokratiet,65,401,204.0,0.5087281795511222,all_topics
+Moderaterne,Socialistisk Folkeparti,65,91,47.0,0.5164835164835165,all_topics
+Moderaterne,Uden for folketingsgrupperne,65,51,47.0,0.9215686274509803,all_topics
+Moderaterne,Venstre,65,186,186.0,1.0,all_topics
+Radikale Venstre,Danmarksdemokraterne,65,145,78.0,0.5379310344827586,all_topics
+Radikale Venstre,Dansk Folkeparti,65,1190,597.0,0.5016806722689076,all_topics
+Radikale Venstre,Det Konservative Folkeparti,65,18,15.0,0.8333333333333334,all_topics
+Radikale Venstre,Enhedslisten,65,26,14.0,0.5384615384615384,all_topics
+Radikale Venstre,Kristendemokraterne,65,66,51.0,0.7727272727272727,all_topics
+Radikale Venstre,Radikale Venstre,65,95,95.0,1.0,all_topics
+Radikale Venstre,Socialdemokratiet,65,3167,2343.0,0.7398168613830123,all_topics
+Radikale Venstre,Socialistisk Folkeparti,65,609,425.0,0.6978653530377669,all_topics
+Radikale Venstre,Uden for folketingsgrupperne,65,489,345.0,0.7055214723926381,all_topics
+Radikale Venstre,Venstre,65,1835,956.0,0.5209809264305177,all_topics
+Sambandsflokkurin,Danmarksdemokraterne,65,3,3.0,1.0,all_topics
+Sambandsflokkurin,Dansk Folkeparti,65,55,51.0,0.9272727272727272,all_topics
+Sambandsflokkurin,Enhedslisten,65,4,1.0,0.25,all_topics
+Sambandsflokkurin,Kristendemokraterne,65,2,0.0,0.0,all_topics
+Sambandsflokkurin,Radikale Venstre,65,21,8.0,0.38095238095238093,all_topics
+Sambandsflokkurin,Socialdemokratiet,65,165,46.0,0.2787878787878788,all_topics
+Sambandsflokkurin,Socialistisk Folkeparti,65,18,2.0,0.1111111111111111,all_topics
+Sambandsflokkurin,Uden for folketingsgrupperne,65,23,21.0,0.9130434782608695,all_topics
+Sambandsflokkurin,Venstre,65,66,66.0,1.0,all_topics
+Socialdemokratiet,Danmarksdemokraterne,65,3026,1183.0,0.39094514210178455,all_topics
+Socialdemokratiet,Dansk Folkeparti,65,21822,8047.0,0.3687563009806617,all_topics
+Socialdemokratiet,Det Konservative Folkeparti,65,3070,1395.0,0.4543973941368078,all_topics
+Socialdemokratiet,Enhedslisten,65,617,431.0,0.6985413290113452,all_topics
+Socialdemokratiet,Inuit Ataqatigiit,65,94,63.0,0.6702127659574468,all_topics
+Socialdemokratiet,Kristendemokraterne,65,2497,1454.0,0.5822987585102123,all_topics
+Socialdemokratiet,Liberal Alliance,65,1844,714.0,0.3872017353579176,all_topics
+Socialdemokratiet,Moderaterne,65,168,93.0,0.5535714285714286,all_topics
+Socialdemokratiet,Radikale Venstre,65,4095,3116.0,0.7609279609279609,all_topics
+Socialdemokratiet,Sambandsflokkurin,65,75,24.0,0.32,all_topics
+Socialdemokratiet,Socialdemokratiet,65,58120,55668.0,0.9578114246386786,all_topics
+Socialdemokratiet,Socialistisk Folkeparti,65,11073,8670.0,0.7829856407477649,all_topics
+Socialdemokratiet,Uden for folketingsgrupperne,65,10245,4379.0,0.42742801366520256,all_topics
+Socialdemokratiet,Venstre,65,40776,16054.0,0.39371198744359426,all_topics
+Socialistisk Folkeparti,Danmarksdemokraterne,65,935,330.0,0.35294117647058826,all_topics
+Socialistisk Folkeparti,Dansk Folkeparti,65,3696,1297.0,0.3509199134199134,all_topics
+Socialistisk Folkeparti,Det Konservative Folkeparti,65,1254,435.0,0.34688995215311,all_topics
+Socialistisk Folkeparti,Enhedslisten,65,209,180.0,0.861244019138756,all_topics
+Socialistisk Folkeparti,Inuit Ataqatigiit,65,32,30.0,0.9375,all_topics
+Socialistisk Folkeparti,Kristendemokraterne,65,484,282.0,0.5826446280991735,all_topics
+Socialistisk Folkeparti,Liberal Alliance,65,494,157.0,0.31781376518218624,all_topics
+Socialistisk Folkeparti,Moderaterne,65,55,33.0,0.6,all_topics
+Socialistisk Folkeparti,Radikale Venstre,65,847,585.0,0.6906729634002361,all_topics
+Socialistisk Folkeparti,Sambandsflokkurin,65,33,5.0,0.15151515151515152,all_topics
+Socialistisk Folkeparti,Socialdemokratiet,65,12670,9924.0,0.7832675611681137,all_topics
+Socialistisk Folkeparti,Socialistisk Folkeparti,65,1807,1807.0,1.0,all_topics
+Socialistisk Folkeparti,Uden for folketingsgrupperne,65,2237,921.0,0.41171211443898076,all_topics
+Socialistisk Folkeparti,Venstre,65,8348,2992.0,0.35840919980833735,all_topics
+Uden for folketingsgrupperne,Danmarksdemokraterne,65,286,242.0,0.8461538461538461,all_topics
+Uden for folketingsgrupperne,Dansk Folkeparti,65,3730,3319.0,0.8898123324396783,all_topics
+Uden for folketingsgrupperne,Det Konservative Folkeparti,65,490,485.0,0.9897959183673469,all_topics
+Uden for folketingsgrupperne,Enhedslisten,65,84,22.0,0.2619047619047619,all_topics
+Uden for folketingsgrupperne,Inuit Ataqatigiit,65,24,2.0,0.08333333333333333,all_topics
+Uden for folketingsgrupperne,Kristendemokraterne,65,418,190.0,0.45454545454545453,all_topics
+Uden for folketingsgrupperne,Liberal Alliance,65,426,422.0,0.9906103286384976,all_topics
+Uden for folketingsgrupperne,Moderaterne,65,22,21.0,0.9545454545454546,all_topics
+Uden for folketingsgrupperne,Radikale Venstre,65,715,372.0,0.5202797202797202,all_topics
+Uden for folketingsgrupperne,Sambandsflokkurin,65,18,17.0,0.9444444444444444,all_topics
+Uden for folketingsgrupperne,Socialdemokratiet,65,10425,4132.0,0.3963549160671463,all_topics
+Uden for folketingsgrupperne,Socialistisk Folkeparti,65,1714,571.0,0.3331388564760793,all_topics
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,65,1317,951.0,0.7220956719817767,all_topics
+Uden for folketingsgrupperne,Venstre,65,6205,5536.0,0.8921837228041901,all_topics
+Venstre,Danmarksdemokraterne,65,3666,3613.0,0.9855428259683578,all_topics
+Venstre,Dansk Folkeparti,65,17738,17254.0,0.972713947457436,all_topics
+Venstre,Det Konservative Folkeparti,65,5119,5117.0,0.9996092986911506,all_topics
+Venstre,Enhedslisten,65,965,295.0,0.30569948186528495,all_topics
+Venstre,Inuit Ataqatigiit,65,129,9.0,0.06976744186046512,all_topics
+Venstre,Kristendemokraterne,65,2663,1317.0,0.4945550131430717,all_topics
+Venstre,Liberal Alliance,65,3015,3014.0,0.9996683250414594,all_topics
+Venstre,Moderaterne,65,406,406.0,1.0,all_topics
+Venstre,Radikale Venstre,65,4306,2297.0,0.5334417092429169,all_topics
+Venstre,Sambandsflokkurin,65,155,155.0,1.0,all_topics
+Venstre,Socialdemokratiet,65,58925,23261.0,0.39475604582095886,all_topics
+Venstre,Socialistisk Folkeparti,65,11435,4197.0,0.3670310450371666,all_topics
+Venstre,Uden for folketingsgrupperne,65,10331,8849.0,0.8565482528312844,all_topics
+Venstre,Venstre,65,39542,39525.0,0.9995700773860705,all_topics
+Alternativet,Radikale Venstre,70,376,284.0,0.7553191489361702,all_topics
+Alternativet,Venstre,70,520,268.0,0.5153846153846153,all_topics
+Danmarksdemokraterne,Alternativet,70,3404,1573.0,0.4621034077555817,all_topics
+Danmarksdemokraterne,Danmarksdemokraterne,70,14764,14014.0,0.9492007586020049,all_topics
+Danmarksdemokraterne,Dansk Folkeparti,70,11039,10606.0,0.9607754325572968,all_topics
+Danmarksdemokraterne,Det Konservative Folkeparti,70,3102,2284.0,0.7362991618310767,all_topics
+Danmarksdemokraterne,Enhedslisten,70,17118,7548.0,0.4409393620750088,all_topics
+Danmarksdemokraterne,Liberal Alliance,70,5635,3779.0,0.6706299911268855,all_topics
+Danmarksdemokraterne,Moderaterne,70,181,114.0,0.6298342541436464,all_topics
+Danmarksdemokraterne,Radikale Venstre,70,19510,10124.0,0.5189133777549975,all_topics
+Danmarksdemokraterne,Sambandsflokkurin,70,15,13.0,0.8666666666666667,all_topics
+Danmarksdemokraterne,Socialdemokratiet,70,80015,46328.0,0.5789914391051678,all_topics
+Danmarksdemokraterne,Socialistisk Folkeparti,70,9270,4444.0,0.47939590075512406,all_topics
+Danmarksdemokraterne,Uden for folketingsgrupperne,70,14820,13310.0,0.898110661268556,all_topics
+Danmarksdemokraterne,Venstre,70,67322,49769.0,0.7392679956032203,all_topics
+Dansk Folkeparti,Alternativet,70,1637,726.0,0.4434941967012828,all_topics
+Dansk Folkeparti,Danmarksdemokraterne,70,4668,4567.0,0.9783633247643531,all_topics
+Dansk Folkeparti,Dansk Folkeparti,70,2611,2584.0,0.9896591344312524,all_topics
+Dansk Folkeparti,Det Konservative Folkeparti,70,515,364.0,0.7067961165048544,all_topics
+Dansk Folkeparti,Enhedslisten,70,8256,3485.0,0.4221172480620155,all_topics
+Dansk Folkeparti,Liberal Alliance,70,2236,1475.0,0.659660107334526,all_topics
+Dansk Folkeparti,Moderaterne,70,8,3.0,0.375,all_topics
+Dansk Folkeparti,Radikale Venstre,70,6250,3002.0,0.48032,all_topics
+Dansk Folkeparti,Sambandsflokkurin,70,3,3.0,1.0,all_topics
+Dansk Folkeparti,Socialdemokratiet,70,25148,13374.0,0.5318116748846827,all_topics
+Dansk Folkeparti,Socialistisk Folkeparti,70,1283,528.0,0.41153546375681993,all_topics
+Dansk Folkeparti,Uden for folketingsgrupperne,70,2141,1860.0,0.8687529191966371,all_topics
+Dansk Folkeparti,Venstre,70,20828,14561.0,0.6991069713846745,all_topics
+Det Konservative Folkeparti,Alternativet,70,200,107.0,0.535,all_topics
+Det Konservative Folkeparti,Danmarksdemokraterne,70,527,382.0,0.7248576850094877,all_topics
+Det Konservative Folkeparti,Dansk Folkeparti,70,1091,786.0,0.7204399633363886,all_topics
+Det Konservative Folkeparti,Det Konservative Folkeparti,70,141,140.0,0.9929078014184397,all_topics
+Det Konservative Folkeparti,Enhedslisten,70,1462,704.0,0.48153214774281805,all_topics
+Det Konservative Folkeparti,Liberal Alliance,70,493,380.0,0.77079107505071,all_topics
+Det Konservative Folkeparti,Radikale Venstre,70,1339,893.0,0.6669156086631814,all_topics
+Det Konservative Folkeparti,Socialdemokratiet,70,3772,2765.0,0.7330328738069989,all_topics
+Det Konservative Folkeparti,Socialistisk Folkeparti,70,14,8.0,0.5714285714285714,all_topics
+Det Konservative Folkeparti,Uden for folketingsgrupperne,70,589,437.0,0.7419354838709677,all_topics
+Det Konservative Folkeparti,Venstre,70,2743,2503.0,0.9125045570543201,all_topics
+Enhedslisten,Alternativet,70,2339,1993.0,0.8520735356990167,all_topics
+Enhedslisten,Danmarksdemokraterne,70,7121,2997.0,0.4208678556382531,all_topics
+Enhedslisten,Dansk Folkeparti,70,3424,1440.0,0.4205607476635514,all_topics
+Enhedslisten,Det Konservative Folkeparti,70,873,420.0,0.48109965635738833,all_topics
+Enhedslisten,Enhedslisten,70,6730,6695.0,0.9947994056463596,all_topics
+Enhedslisten,Liberal Alliance,70,1546,725.0,0.4689521345407503,all_topics
+Enhedslisten,Moderaterne,70,48,11.0,0.22916666666666666,all_topics
+Enhedslisten,Radikale Venstre,70,8104,6739.0,0.8315646594274433,all_topics
+Enhedslisten,Sambandsflokkurin,70,1,0.0,0.0,all_topics
+Enhedslisten,Socialdemokratiet,70,31778,22925.0,0.7214110390836428,all_topics
+Enhedslisten,Socialistisk Folkeparti,70,2881,2537.0,0.8805970149253731,all_topics
+Enhedslisten,Uden for folketingsgrupperne,70,4425,1925.0,0.4350282485875706,all_topics
+Enhedslisten,Venstre,70,29027,14533.0,0.5006717883349985,all_topics
+Liberal Alliance,Alternativet,70,658,303.0,0.46048632218844987,all_topics
+Liberal Alliance,Danmarksdemokraterne,70,960,624.0,0.65,all_topics
+Liberal Alliance,Dansk Folkeparti,70,882,557.0,0.6315192743764172,all_topics
+Liberal Alliance,Det Konservative Folkeparti,70,186,143.0,0.7688172043010753,all_topics
+Liberal Alliance,Enhedslisten,70,2922,1375.0,0.47056810403832994,all_topics
+Liberal Alliance,Radikale Venstre,70,2255,1329.0,0.5893569844789357,all_topics
+Liberal Alliance,Socialdemokratiet,70,6888,4406.0,0.6396631823461092,all_topics
+Liberal Alliance,Socialistisk Folkeparti,70,48,31.0,0.6458333333333334,all_topics
+Liberal Alliance,Uden for folketingsgrupperne,70,64,44.0,0.6875,all_topics
+Liberal Alliance,Venstre,70,5604,4401.0,0.7853319057815846,all_topics
+Moderaterne,Danmarksdemokraterne,70,44,22.0,0.5,all_topics
+Moderaterne,Dansk Folkeparti,70,90,48.0,0.5333333333333333,all_topics
+Moderaterne,Det Konservative Folkeparti,70,5,2.0,0.4,all_topics
+Moderaterne,Enhedslisten,70,60,15.0,0.25,all_topics
+Moderaterne,Liberal Alliance,70,42,25.0,0.5952380952380952,all_topics
+Moderaterne,Radikale Venstre,70,137,30.0,0.21897810218978103,all_topics
+Moderaterne,Socialdemokratiet,70,352,76.0,0.2159090909090909,all_topics
+Moderaterne,Socialistisk Folkeparti,70,42,8.0,0.19047619047619047,all_topics
+Moderaterne,Uden for folketingsgrupperne,70,86,46.0,0.5348837209302325,all_topics
+Moderaterne,Venstre,70,410,381.0,0.9292682926829269,all_topics
+Radikale Venstre,Alternativet,70,2003,1540.0,0.7688467299051422,all_topics
+Radikale Venstre,Danmarksdemokraterne,70,4318,2017.0,0.4671144048170449,all_topics
+Radikale Venstre,Dansk Folkeparti,70,4965,2384.0,0.4801611278952669,all_topics
+Radikale Venstre,Det Konservative Folkeparti,70,942,582.0,0.6178343949044586,all_topics
+Radikale Venstre,Enhedslisten,70,8661,7281.0,0.8406650502251473,all_topics
+Radikale Venstre,Liberal Alliance,70,2200,1295.0,0.5886363636363636,all_topics
+Radikale Venstre,Moderaterne,70,4,2.0,0.5,all_topics
+Radikale Venstre,Radikale Venstre,70,5925,5873.0,0.9912236286919831,all_topics
+Radikale Venstre,Sambandsflokkurin,70,8,7.0,0.875,all_topics
+Radikale Venstre,Socialdemokratiet,70,27343,23300.0,0.8521376586329225,all_topics
+Radikale Venstre,Socialistisk Folkeparti,70,1002,906.0,0.9041916167664671,all_topics
+Radikale Venstre,Uden for folketingsgrupperne,70,3259,1603.0,0.49186867137158635,all_topics
+Radikale Venstre,Venstre,70,21363,13721.0,0.6422787061742264,all_topics
+Sambandsflokkurin,Alternativet,70,4,2.0,0.5,all_topics
+Sambandsflokkurin,Danmarksdemokraterne,70,50,42.0,0.84,all_topics
+Sambandsflokkurin,Dansk Folkeparti,70,32,26.0,0.8125,all_topics
+Sambandsflokkurin,Det Konservative Folkeparti,70,1,1.0,1.0,all_topics
+Sambandsflokkurin,Enhedslisten,70,45,34.0,0.7555555555555555,all_topics
+Sambandsflokkurin,Liberal Alliance,70,11,11.0,1.0,all_topics
+Sambandsflokkurin,Moderaterne,70,1,0.0,0.0,all_topics
+Sambandsflokkurin,Radikale Venstre,70,40,33.0,0.825,all_topics
+Sambandsflokkurin,Socialdemokratiet,70,165,154.0,0.9333333333333333,all_topics
+Sambandsflokkurin,Socialistisk Folkeparti,70,19,17.0,0.8947368421052632,all_topics
+Sambandsflokkurin,Uden for folketingsgrupperne,70,30,28.0,0.9333333333333333,all_topics
+Sambandsflokkurin,Venstre,70,178,178.0,1.0,all_topics
+Socialdemokratiet,Alternativet,70,12096,8017.0,0.6627810846560847,all_topics
+Socialdemokratiet,Danmarksdemokraterne,70,42234,24084.0,0.5702514561727519,all_topics
+Socialdemokratiet,Dansk Folkeparti,70,31150,17095.0,0.5487961476725521,all_topics
+Socialdemokratiet,Det Konservative Folkeparti,70,7528,5426.0,0.7207757704569607,all_topics
+Socialdemokratiet,Enhedslisten,70,53019,39079.0,0.7370753880684283,all_topics
+Socialdemokratiet,Liberal Alliance,70,16131,10277.0,0.637096274254541,all_topics
+Socialdemokratiet,Moderaterne,70,407,89.0,0.21867321867321868,all_topics
+Socialdemokratiet,Radikale Venstre,70,54700,46867.0,0.856800731261426,all_topics
+Socialdemokratiet,Sambandsflokkurin,70,33,28.0,0.8484848484848485,all_topics
+Socialdemokratiet,Socialdemokratiet,70,201900,201388.0,0.9974640911342249,all_topics
+Socialdemokratiet,Socialistisk Folkeparti,70,20287,17229.0,0.8492630748755361,all_topics
+Socialdemokratiet,Uden for folketingsgrupperne,70,34221,19131.0,0.5590426930831945,all_topics
+Socialdemokratiet,Venstre,70,179026,129283.0,0.7221465038597745,all_topics
+Socialistisk Folkeparti,Alternativet,70,1095,867.0,0.7917808219178082,all_topics
+Socialistisk Folkeparti,Danmarksdemokraterne,70,1637,796.0,0.4862553451435553,all_topics
+Socialistisk Folkeparti,Dansk Folkeparti,70,4038,1900.0,0.47052996532937097,all_topics
+Socialistisk Folkeparti,Det Konservative Folkeparti,70,880,533.0,0.6056818181818182,all_topics
+Socialistisk Folkeparti,Enhedslisten,70,4832,4305.0,0.8909354304635762,all_topics
+Socialistisk Folkeparti,Liberal Alliance,70,1960,1056.0,0.5387755102040817,all_topics
+Socialistisk Folkeparti,Moderaterne,70,84,19.0,0.2261904761904762,all_topics
+Socialistisk Folkeparti,Radikale Venstre,70,6590,5913.0,0.8972685887708649,all_topics
+Socialistisk Folkeparti,Socialdemokratiet,70,17843,15026.0,0.8421229613854172,all_topics
+Socialistisk Folkeparti,Socialistisk Folkeparti,70,1085,1079.0,0.9944700460829493,all_topics
+Socialistisk Folkeparti,Uden for folketingsgrupperne,70,4861,2293.0,0.4717136391688953,all_topics
+Socialistisk Folkeparti,Venstre,70,16271,9312.0,0.5723065576793067,all_topics
+Uden for folketingsgrupperne,Alternativet,70,1790,848.0,0.47374301675977654,all_topics
+Uden for folketingsgrupperne,Danmarksdemokraterne,70,2746,2375.0,0.8648943918426802,all_topics
+Uden for folketingsgrupperne,Dansk Folkeparti,70,5989,5601.0,0.9352145600267157,all_topics
+Uden for folketingsgrupperne,Det Konservative Folkeparti,70,1033,752.0,0.7279767666989352,all_topics
+Uden for folketingsgrupperne,Enhedslisten,70,7930,3563.0,0.4493064312736444,all_topics
+Uden for folketingsgrupperne,Liberal Alliance,70,3315,2144.0,0.6467571644042233,all_topics
+Uden for folketingsgrupperne,Moderaterne,70,83,30.0,0.3614457831325301,all_topics
+Uden for folketingsgrupperne,Radikale Venstre,70,8776,4667.0,0.5317912488605288,all_topics
+Uden for folketingsgrupperne,Socialdemokratiet,70,27822,16363.0,0.5881316943426066,all_topics
+Uden for folketingsgrupperne,Socialistisk Folkeparti,70,1007,632.0,0.6276067527308838,all_topics
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,70,3177,2664.0,0.8385269121813032,all_topics
+Uden for folketingsgrupperne,Venstre,70,21017,14857.0,0.7069039349098349,all_topics
+Venstre,Alternativet,70,10273,5264.0,0.5124111749245596,all_topics
+Venstre,Danmarksdemokraterne,70,39544,28975.0,0.7327281003439207,all_topics
+Venstre,Dansk Folkeparti,70,28724,20724.0,0.7214872580420554,all_topics
+Venstre,Det Konservative Folkeparti,70,7221,6548.0,0.9067996122420717,all_topics
+Venstre,Enhedslisten,70,44949,22525.0,0.5011234955171416,all_topics
+Venstre,Liberal Alliance,70,14692,11414.0,0.7768853797985298,all_topics
+Venstre,Moderaterne,70,226,183.0,0.8097345132743363,all_topics
+Venstre,Radikale Venstre,70,50832,33457.0,0.658187755744413,all_topics
+Venstre,Sambandsflokkurin,70,23,23.0,1.0,all_topics
+Venstre,Socialdemokratiet,70,194357,142162.0,0.731447799667622,all_topics
+Venstre,Socialistisk Folkeparti,70,17309,10304.0,0.5952972442082154,all_topics
+Venstre,Uden for folketingsgrupperne,70,33036,24087.0,0.7291136941518344,all_topics
+Venstre,Venstre,70,154331,153911.0,0.9972785765659524,all_topics
+Alternativet,Enhedslisten,71,490,428.0,0.8734693877551021,all_topics
+Alternativet,Radikale Venstre,71,356,276.0,0.7752808988764045,all_topics
+Alternativet,Socialdemokratiet,71,329,201.0,0.6109422492401215,all_topics
+Alternativet,Venstre,71,312,196.0,0.6282051282051282,all_topics
+Danmarksdemokraterne,Alternativet,71,2566,1246.0,0.48558067030397506,all_topics
+Danmarksdemokraterne,Danmarksdemokraterne,71,20087,19375.0,0.9645541892766466,all_topics
+Danmarksdemokraterne,Dansk Folkeparti,71,7348,5238.0,0.7128470332063146,all_topics
+Danmarksdemokraterne,Det Konservative Folkeparti,71,15721,12417.0,0.7898352522104192,all_topics
+Danmarksdemokraterne,Enhedslisten,71,28095,13699.0,0.4875956575903186,all_topics
+Danmarksdemokraterne,Javnaðarflokkurin,71,35,10.0,0.2857142857142857,all_topics
+Danmarksdemokraterne,Liberal Alliance,71,3844,2696.0,0.7013527575442248,all_topics
+Danmarksdemokraterne,Moderaterne,71,722,454.0,0.628808864265928,all_topics
+Danmarksdemokraterne,Radikale Venstre,71,11026,6277.0,0.5692907672773445,all_topics
+Danmarksdemokraterne,Socialdemokratiet,71,80739,50340.0,0.6234905064466986,all_topics
+Danmarksdemokraterne,Socialistisk Folkeparti,71,9104,5188.0,0.569859402460457,all_topics
+Danmarksdemokraterne,Venstre,71,50644,31456.0,0.6211199747255352,all_topics
+Dansk Folkeparti,Alternativet,71,687,300.0,0.4366812227074236,all_topics
+Dansk Folkeparti,Danmarksdemokraterne,71,6904,5007.0,0.7252317497103129,all_topics
+Dansk Folkeparti,Dansk Folkeparti,71,1257,1245.0,0.9904534606205251,all_topics
+Dansk Folkeparti,Det Konservative Folkeparti,71,3797,2541.0,0.6692125362127995,all_topics
+Dansk Folkeparti,Enhedslisten,71,7927,3671.0,0.463100794752113,all_topics
+Dansk Folkeparti,Javnaðarflokkurin,71,15,3.0,0.2,all_topics
+Dansk Folkeparti,Liberal Alliance,71,1257,873.0,0.6945107398568019,all_topics
+Dansk Folkeparti,Moderaterne,71,289,161.0,0.5570934256055363,all_topics
+Dansk Folkeparti,Radikale Venstre,71,2815,1447.0,0.514031971580817,all_topics
+Dansk Folkeparti,Socialdemokratiet,71,23758,13265.0,0.5583382439599293,all_topics
+Dansk Folkeparti,Socialistisk Folkeparti,71,3078,1642.0,0.5334632878492528,all_topics
+Dansk Folkeparti,Venstre,71,17192,9509.0,0.5531060958585389,all_topics
+Det Konservative Folkeparti,Alternativet,71,1265,625.0,0.49407114624505927,all_topics
+Det Konservative Folkeparti,Danmarksdemokraterne,71,8627,7042.0,0.8162744870754608,all_topics
+Det Konservative Folkeparti,Dansk Folkeparti,71,3587,2386.0,0.6651798160022303,all_topics
+Det Konservative Folkeparti,Det Konservative Folkeparti,71,4754,4730.0,0.9949516196886832,all_topics
+Det Konservative Folkeparti,Enhedslisten,71,13682,7065.0,0.5163718754568045,all_topics
+Det Konservative Folkeparti,Javnaðarflokkurin,71,27,8.0,0.2962962962962963,all_topics
+Det Konservative Folkeparti,Liberal Alliance,71,1976,1553.0,0.7859311740890689,all_topics
+Det Konservative Folkeparti,Moderaterne,71,263,201.0,0.7642585551330798,all_topics
+Det Konservative Folkeparti,Radikale Venstre,71,4047,2713.0,0.6703731158883123,all_topics
+Det Konservative Folkeparti,Socialdemokratiet,71,32564,23303.0,0.7156061908856406,all_topics
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,2861,1820.0,0.6361412093673541,all_topics
+Det Konservative Folkeparti,Venstre,71,24219,17388.0,0.717948717948718,all_topics
+Enhedslisten,Alternativet,71,1320,1145.0,0.8674242424242424,all_topics
+Enhedslisten,Danmarksdemokraterne,71,5742,2739.0,0.47701149425287354,all_topics
+Enhedslisten,Dansk Folkeparti,71,2277,1177.0,0.5169082125603864,all_topics
+Enhedslisten,Det Konservative Folkeparti,71,3712,2043.0,0.5503771551724138,all_topics
+Enhedslisten,Enhedslisten,71,9753,9689.0,0.993437916538501,all_topics
+Enhedslisten,Javnaðarflokkurin,71,19,8.0,0.42105263157894735,all_topics
+Enhedslisten,Liberal Alliance,71,709,436.0,0.614950634696756,all_topics
+Enhedslisten,Moderaterne,71,7,3.0,0.42857142857142855,all_topics
+Enhedslisten,Radikale Venstre,71,5511,4086.0,0.7414262384322264,all_topics
+Enhedslisten,Socialdemokratiet,71,20815,12454.0,0.5983185202978621,all_topics
+Enhedslisten,Socialistisk Folkeparti,71,1881,1623.0,0.8628389154704944,all_topics
+Enhedslisten,Venstre,71,14944,8912.0,0.5963597430406852,all_topics
+Inuit Ataqatigiit,Alternativet,71,3,1.0,0.3333333333333333,all_topics
+Inuit Ataqatigiit,Danmarksdemokraterne,71,26,10.0,0.38461538461538464,all_topics
+Inuit Ataqatigiit,Dansk Folkeparti,71,11,2.0,0.18181818181818182,all_topics
+Inuit Ataqatigiit,Det Konservative Folkeparti,71,20,8.0,0.4,all_topics
+Inuit Ataqatigiit,Enhedslisten,71,25,9.0,0.36,all_topics
+Inuit Ataqatigiit,Javnaðarflokkurin,71,3,3.0,1.0,all_topics
+Inuit Ataqatigiit,Liberal Alliance,71,6,2.0,0.3333333333333333,all_topics
+Inuit Ataqatigiit,Moderaterne,71,3,3.0,1.0,all_topics
+Inuit Ataqatigiit,Naleraq,71,1,1.0,1.0,all_topics
+Inuit Ataqatigiit,Radikale Venstre,71,9,3.0,0.3333333333333333,all_topics
+Inuit Ataqatigiit,Socialdemokratiet,71,97,97.0,1.0,all_topics
+Inuit Ataqatigiit,Socialistisk Folkeparti,71,24,8.0,0.3333333333333333,all_topics
+Inuit Ataqatigiit,Venstre,71,70,70.0,1.0,all_topics
+Javnaðarflokkurin,Alternativet,71,5,2.0,0.4,all_topics
+Javnaðarflokkurin,Danmarksdemokraterne,71,3,1.0,0.3333333333333333,all_topics
+Javnaðarflokkurin,Enhedslisten,71,16,6.0,0.375,all_topics
+Javnaðarflokkurin,Radikale Venstre,71,5,2.0,0.4,all_topics
+Javnaðarflokkurin,Socialdemokratiet,71,10,10.0,1.0,all_topics
+Javnaðarflokkurin,Venstre,71,23,23.0,1.0,all_topics
+Liberal Alliance,Alternativet,71,536,315.0,0.5876865671641791,all_topics
+Liberal Alliance,Danmarksdemokraterne,71,6589,4734.0,0.718470177568675,all_topics
+Liberal Alliance,Dansk Folkeparti,71,1972,1298.0,0.6582150101419878,all_topics
+Liberal Alliance,Det Konservative Folkeparti,71,3334,2535.0,0.7603479304139172,all_topics
+Liberal Alliance,Enhedslisten,71,6894,4061.0,0.5890629532927183,all_topics
+Liberal Alliance,Javnaðarflokkurin,71,8,2.0,0.25,all_topics
+Liberal Alliance,Liberal Alliance,71,590,587.0,0.9949152542372881,all_topics
+Liberal Alliance,Moderaterne,71,296,218.0,0.7364864864864865,all_topics
+Liberal Alliance,Radikale Venstre,71,2387,1721.0,0.7209886887306242,all_topics
+Liberal Alliance,Socialdemokratiet,71,19613,14625.0,0.7456788864528628,all_topics
+Liberal Alliance,Socialistisk Folkeparti,71,2306,1531.0,0.6639202081526453,all_topics
+Liberal Alliance,Venstre,71,14640,10849.0,0.741051912568306,all_topics
+Moderaterne,Alternativet,71,191,125.0,0.6544502617801047,all_topics
+Moderaterne,Danmarksdemokraterne,71,1831,1093.0,0.5969415619879848,all_topics
+Moderaterne,Dansk Folkeparti,71,481,245.0,0.5093555093555093,all_topics
+Moderaterne,Det Konservative Folkeparti,71,968,610.0,0.6301652892561983,all_topics
+Moderaterne,Enhedslisten,71,1799,1016.0,0.5647581989994441,all_topics
+Moderaterne,Javnaðarflokkurin,71,6,6.0,1.0,all_topics
+Moderaterne,Liberal Alliance,71,224,170.0,0.7589285714285714,all_topics
+Moderaterne,Moderaterne,71,11,11.0,1.0,all_topics
+Moderaterne,Radikale Venstre,71,771,611.0,0.7924773022049286,all_topics
+Moderaterne,Socialdemokratiet,71,5918,5916.0,0.9996620479891856,all_topics
+Moderaterne,Socialistisk Folkeparti,71,722,502.0,0.6952908587257618,all_topics
+Moderaterne,Venstre,71,3505,3502.0,0.9991440798858773,all_topics
+Naleraq,Alternativet,71,2,2.0,1.0,all_topics
+Naleraq,Danmarksdemokraterne,71,18,11.0,0.6111111111111112,all_topics
+Naleraq,Dansk Folkeparti,71,4,1.0,0.25,all_topics
+Naleraq,Det Konservative Folkeparti,71,10,8.0,0.8,all_topics
+Naleraq,Enhedslisten,71,15,15.0,1.0,all_topics
+Naleraq,Liberal Alliance,71,3,2.0,0.6666666666666666,all_topics
+Naleraq,Moderaterne,71,3,2.0,0.6666666666666666,all_topics
+Naleraq,Radikale Venstre,71,6,6.0,1.0,all_topics
+Naleraq,Socialdemokratiet,71,56,34.0,0.6071428571428571,all_topics
+Naleraq,Socialistisk Folkeparti,71,11,8.0,0.7272727272727273,all_topics
+Naleraq,Venstre,71,45,30.0,0.6666666666666666,all_topics
+Radikale Venstre,Alternativet,71,416,320.0,0.7692307692307693,all_topics
+Radikale Venstre,Danmarksdemokraterne,71,2487,1465.0,0.5890631282669884,all_topics
+Radikale Venstre,Dansk Folkeparti,71,1410,736.0,0.5219858156028369,all_topics
+Radikale Venstre,Det Konservative Folkeparti,71,2877,1930.0,0.6708376781369482,all_topics
+Radikale Venstre,Enhedslisten,71,4319,3122.0,0.7228525121555915,all_topics
+Radikale Venstre,Javnaðarflokkurin,71,9,3.0,0.3333333333333333,all_topics
+Radikale Venstre,Liberal Alliance,71,692,500.0,0.7225433526011561,all_topics
+Radikale Venstre,Radikale Venstre,71,975,970.0,0.9948717948717949,all_topics
+Radikale Venstre,Socialdemokratiet,71,10924,8550.0,0.7826803368729404,all_topics
+Radikale Venstre,Socialistisk Folkeparti,71,207,169.0,0.8164251207729468,all_topics
+Radikale Venstre,Venstre,71,7190,5639.0,0.7842837273991655,all_topics
+Socialdemokratiet,Alternativet,71,7844,4811.0,0.6133350331463538,all_topics
+Socialdemokratiet,Danmarksdemokraterne,71,76810,47889.0,0.6234735060538993,all_topics
+Socialdemokratiet,Dansk Folkeparti,71,24401,13221.0,0.5418220564730953,all_topics
+Socialdemokratiet,Det Konservative Folkeparti,71,49351,34591.0,0.7009179145306073,all_topics
+Socialdemokratiet,Enhedslisten,71,92641,54857.0,0.592146026057577,all_topics
+Socialdemokratiet,Javnaðarflokkurin,71,130,130.0,1.0,all_topics
+Socialdemokratiet,Liberal Alliance,71,14961,11332.0,0.7574360002673618,all_topics
+Socialdemokratiet,Moderaterne,71,2374,2371.0,0.9987363100252739,all_topics
+Socialdemokratiet,Radikale Venstre,71,34415,27322.0,0.793898009588842,all_topics
+Socialdemokratiet,Socialdemokratiet,71,253350,253253.0,0.999617130451944,all_topics
+Socialdemokratiet,Socialistisk Folkeparti,71,33156,24215.0,0.730335384244179,all_topics
+Socialdemokratiet,Venstre,71,180628,180211.0,0.9976913878247005,all_topics
+Socialistisk Folkeparti,Alternativet,71,1271,1039.0,0.8174665617623919,all_topics
+Socialistisk Folkeparti,Danmarksdemokraterne,71,15805,8837.0,0.5591268585890541,all_topics
+Socialistisk Folkeparti,Dansk Folkeparti,71,4547,2411.0,0.5302397184957115,all_topics
+Socialistisk Folkeparti,Det Konservative Folkeparti,71,9882,6147.0,0.6220400728597449,all_topics
+Socialistisk Folkeparti,Enhedslisten,71,16340,13457.0,0.823561811505508,all_topics
+Socialistisk Folkeparti,Javnaðarflokkurin,71,33,12.0,0.36363636363636365,all_topics
+Socialistisk Folkeparti,Liberal Alliance,71,3132,2062.0,0.6583652618135377,all_topics
+Socialistisk Folkeparti,Moderaterne,71,672,475.0,0.7068452380952381,all_topics
+Socialistisk Folkeparti,Radikale Venstre,71,6993,5725.0,0.8186758186758186,all_topics
+Socialistisk Folkeparti,Socialdemokratiet,71,51483,37330.0,0.7250937202571722,all_topics
+Socialistisk Folkeparti,Socialistisk Folkeparti,71,5383,5365.0,0.9966561396990525,all_topics
+Socialistisk Folkeparti,Venstre,71,37164,27043.0,0.7276665590356258,all_topics
+Venstre,Alternativet,71,5406,3332.0,0.6163522012578616,all_topics
+Venstre,Danmarksdemokraterne,71,55505,34525.0,0.6220160345914783,all_topics
+Venstre,Dansk Folkeparti,71,15358,8266.0,0.5382211225419976,all_topics
+Venstre,Det Konservative Folkeparti,71,31518,21985.0,0.6975379148423123,all_topics
+Venstre,Enhedslisten,71,61287,35768.0,0.5836147959599916,all_topics
+Venstre,Javnaðarflokkurin,71,75,75.0,1.0,all_topics
+Venstre,Liberal Alliance,71,8286,6260.0,0.7554911899589669,all_topics
+Venstre,Moderaterne,71,2420,2406.0,0.9942148760330578,all_topics
+Venstre,Radikale Venstre,71,23540,18627.0,0.7912914188615123,all_topics
+Venstre,Socialdemokratiet,71,179496,177999.0,0.9916599812809199,all_topics
+Venstre,Socialistisk Folkeparti,71,20566,14970.0,0.7279004181659049,all_topics
+Venstre,Venstre,71,115851,114629.0,0.9894519684767503,all_topics
