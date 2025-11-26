@@ -1,4 +1,4 @@
-metadata_vote_id,vote_type,voting_id,aktør_id,metadata_opdateringsdato
+vote_id,vote_typeid,afstemning_id,aktørid,vote_opdateringsdato
 528252,1,2629,117,2015-07-03T11:08:09.367
 528253,1,2629,17,2015-07-03T11:08:09.367
 528254,1,2629,152,2015-07-03T11:08:09.367
