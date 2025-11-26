@@ -1,4 +1,4 @@
-metadata_vote_id,vote_type,voting_id,aktør_id,metadata_opdateringsdato
+vote_id,vote_typeid,afstemning_id,aktørid,vote_opdateringsdato
 1196449,3,4444,1891,2021-01-28T21:02:39.783
 1196450,3,4444,117,2021-01-28T21:02:39.79
 1196451,3,4444,164,2021-01-28T21:02:39.8
