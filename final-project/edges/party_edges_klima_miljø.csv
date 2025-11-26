@@ -1,0 +1,1709 @@
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
+Danmarksdemokraterne,Danmarksdemokraterne,65,30,27.0,0.9,klima_miljø
+Danmarksdemokraterne,Dansk Folkeparti,65,353,335.0,0.9490084985835694,klima_miljø
+Danmarksdemokraterne,Det Konservative Folkeparti,65,179,162.0,0.9050279329608939,klima_miljø
+Danmarksdemokraterne,Enhedslisten,65,35,11.0,0.3142857142857143,klima_miljø
+Danmarksdemokraterne,Kristeligt Folkeparti,65,44,28.0,0.6363636363636364,klima_miljø
+Danmarksdemokraterne,Kristendemokraterne,65,20,10.0,0.5,klima_miljø
+Danmarksdemokraterne,Liberal Alliance,65,28,26.0,0.9285714285714286,klima_miljø
+Danmarksdemokraterne,Moderaterne,65,7,7.0,1.0,klima_miljø
+Danmarksdemokraterne,Not able to assign,65,60,34.0,0.5666666666666667,klima_miljø
+Danmarksdemokraterne,Ny Alliance,65,13,11.0,0.8461538461538461,klima_miljø
+Danmarksdemokraterne,Radikale Venstre,65,88,54.0,0.6136363636363636,klima_miljø
+Danmarksdemokraterne,Sambandsflokkurin,65,4,4.0,1.0,klima_miljø
+Danmarksdemokraterne,Socialdemokratiet,65,875,455.0,0.52,klima_miljø
+Danmarksdemokraterne,Socialistisk Folkeparti,65,161,77.0,0.4782608695652174,klima_miljø
+Danmarksdemokraterne,Uden for folketingsgrupperne,65,85,80.0,0.9411764705882353,klima_miljø
+Danmarksdemokraterne,Venstre,65,891,816.0,0.9158249158249159,klima_miljø
+Dansk Folkeparti,Danmarksdemokraterne,65,122,115.0,0.9426229508196722,klima_miljø
+Dansk Folkeparti,Dansk Folkeparti,65,1135,1135.0,1.0,klima_miljø
+Dansk Folkeparti,Det Konservative Folkeparti,65,460,395.0,0.8586956521739131,klima_miljø
+Dansk Folkeparti,Enhedslisten,65,120,32.0,0.26666666666666666,klima_miljø
+Dansk Folkeparti,Kristeligt Folkeparti,65,135,83.0,0.6148148148148148,klima_miljø
+Dansk Folkeparti,Kristendemokraterne,65,67,29.0,0.43283582089552236,klima_miljø
+Dansk Folkeparti,Liberal Alliance,65,92,78.0,0.8478260869565217,klima_miljø
+Dansk Folkeparti,Moderaterne,65,23,23.0,1.0,klima_miljø
+Dansk Folkeparti,Not able to assign,65,196,108.0,0.5510204081632653,klima_miljø
+Dansk Folkeparti,Ny Alliance,65,46,39.0,0.8478260869565217,klima_miljø
+Dansk Folkeparti,Radikale Venstre,65,288,174.0,0.6041666666666666,klima_miljø
+Dansk Folkeparti,Sambandsflokkurin,65,10,10.0,1.0,klima_miljø
+Dansk Folkeparti,Socialdemokratiet,65,2874,1466.0,0.5100904662491301,klima_miljø
+Dansk Folkeparti,Socialistisk Folkeparti,65,674,318.0,0.47181008902077154,klima_miljø
+Dansk Folkeparti,Uden for folketingsgrupperne,65,246,225.0,0.9146341463414634,klima_miljø
+Dansk Folkeparti,Venstre,65,3059,2667.0,0.8718535469107551,klima_miljø
+Det Konservative Folkeparti,Danmarksdemokraterne,65,161,152.0,0.9440993788819876,klima_miljø
+Det Konservative Folkeparti,Dansk Folkeparti,65,1262,1115.0,0.8835182250396196,klima_miljø
+Det Konservative Folkeparti,Det Konservative Folkeparti,65,562,562.0,1.0,klima_miljø
+Det Konservative Folkeparti,Enhedslisten,65,139,51.0,0.3669064748201439,klima_miljø
+Det Konservative Folkeparti,Kristeligt Folkeparti,65,120,83.0,0.6916666666666667,klima_miljø
+Det Konservative Folkeparti,Kristendemokraterne,65,79,46.0,0.5822784810126582,klima_miljø
+Det Konservative Folkeparti,Liberal Alliance,65,122,122.0,1.0,klima_miljø
+Det Konservative Folkeparti,Moderaterne,65,31,31.0,1.0,klima_miljø
+Det Konservative Folkeparti,Not able to assign,65,199,129.0,0.6482412060301508,klima_miljø
+Det Konservative Folkeparti,Ny Alliance,65,79,79.0,1.0,klima_miljø
+Det Konservative Folkeparti,Radikale Venstre,65,417,287.0,0.6882494004796164,klima_miljø
+Det Konservative Folkeparti,Sambandsflokkurin,65,18,18.0,1.0,klima_miljø
+Det Konservative Folkeparti,Socialdemokratiet,65,3414,2030.0,0.5946104276508495,klima_miljø
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,625,327.0,0.5232,klima_miljø
+Det Konservative Folkeparti,Uden for folketingsgrupperne,65,333,308.0,0.924924924924925,klima_miljø
+Det Konservative Folkeparti,Venstre,65,3292,3292.0,1.0,klima_miljø
+Enhedslisten,Danmarksdemokraterne,65,7,1.0,0.14285714285714285,klima_miljø
+Enhedslisten,Dansk Folkeparti,65,95,30.0,0.3157894736842105,klima_miljø
+Enhedslisten,Det Konservative Folkeparti,65,20,8.0,0.4,klima_miljø
+Enhedslisten,Enhedslisten,65,3,3.0,1.0,klima_miljø
+Enhedslisten,Kristeligt Folkeparti,65,12,7.0,0.5833333333333334,klima_miljø
+Enhedslisten,Kristendemokraterne,65,7,4.0,0.5714285714285714,klima_miljø
+Enhedslisten,Liberal Alliance,65,8,3.0,0.375,klima_miljø
+Enhedslisten,Moderaterne,65,1,0.0,0.0,klima_miljø
+Enhedslisten,Not able to assign,65,7,4.0,0.5714285714285714,klima_miljø
+Enhedslisten,Radikale Venstre,65,28,18.0,0.6428571428571429,klima_miljø
+Enhedslisten,Sambandsflokkurin,65,1,0.0,0.0,klima_miljø
+Enhedslisten,Socialdemokratiet,65,238,159.0,0.6680672268907563,klima_miljø
+Enhedslisten,Socialistisk Folkeparti,65,55,42.0,0.7636363636363637,klima_miljø
+Enhedslisten,Uden for folketingsgrupperne,65,25,9.0,0.36,klima_miljø
+Enhedslisten,Venstre,65,210,79.0,0.3761904761904762,klima_miljø
+Kristeligt Folkeparti,Danmarksdemokraterne,65,9,7.0,0.7777777777777778,klima_miljø
+Kristeligt Folkeparti,Dansk Folkeparti,65,157,100.0,0.6369426751592356,klima_miljø
+Kristeligt Folkeparti,Det Konservative Folkeparti,65,89,64.0,0.7191011235955056,klima_miljø
+Kristeligt Folkeparti,Enhedslisten,65,15,12.0,0.8,klima_miljø
+Kristeligt Folkeparti,Kristeligt Folkeparti,65,7,7.0,1.0,klima_miljø
+Kristeligt Folkeparti,Kristendemokraterne,65,2,2.0,1.0,klima_miljø
+Kristeligt Folkeparti,Liberal Alliance,65,13,9.0,0.6923076923076923,klima_miljø
+Kristeligt Folkeparti,Moderaterne,65,2,0.0,0.0,klima_miljø
+Kristeligt Folkeparti,Not able to assign,65,29,29.0,1.0,klima_miljø
+Kristeligt Folkeparti,Ny Alliance,65,7,6.0,0.8571428571428571,klima_miljø
+Kristeligt Folkeparti,Radikale Venstre,65,39,36.0,0.9230769230769231,klima_miljø
+Kristeligt Folkeparti,Socialdemokratiet,65,353,351.0,0.9943342776203966,klima_miljø
+Kristeligt Folkeparti,Socialistisk Folkeparti,65,75,65.0,0.8666666666666667,klima_miljø
+Kristeligt Folkeparti,Uden for folketingsgrupperne,65,40,29.0,0.725,klima_miljø
+Kristeligt Folkeparti,Venstre,65,390,291.0,0.7461538461538462,klima_miljø
+Kristendemokraterne,Danmarksdemokraterne,65,7,2.0,0.2857142857142857,klima_miljø
+Kristendemokraterne,Dansk Folkeparti,65,49,18.0,0.3673469387755102,klima_miljø
+Kristendemokraterne,Enhedslisten,65,2,2.0,1.0,klima_miljø
+Kristendemokraterne,Kristeligt Folkeparti,65,8,7.0,0.875,klima_miljø
+Kristendemokraterne,Not able to assign,65,3,2.0,0.6666666666666666,klima_miljø
+Kristendemokraterne,Radikale Venstre,65,5,3.0,0.6,klima_miljø
+Kristendemokraterne,Socialdemokratiet,65,102,91.0,0.8921568627450981,klima_miljø
+Kristendemokraterne,Socialistisk Folkeparti,65,28,25.0,0.8928571428571429,klima_miljø
+Kristendemokraterne,Uden for folketingsgrupperne,65,6,3.0,0.5,klima_miljø
+Kristendemokraterne,Venstre,65,108,64.0,0.5925925925925926,klima_miljø
+Liberal Alliance,Danmarksdemokraterne,65,7,6.0,0.8571428571428571,klima_miljø
+Liberal Alliance,Dansk Folkeparti,65,89,78.0,0.8764044943820225,klima_miljø
+Liberal Alliance,Det Konservative Folkeparti,65,11,11.0,1.0,klima_miljø
+Liberal Alliance,Enhedslisten,65,8,3.0,0.375,klima_miljø
+Liberal Alliance,Kristeligt Folkeparti,65,9,7.0,0.7777777777777778,klima_miljø
+Liberal Alliance,Kristendemokraterne,65,8,5.0,0.625,klima_miljø
+Liberal Alliance,Not able to assign,65,6,4.0,0.6666666666666666,klima_miljø
+Liberal Alliance,Radikale Venstre,65,26,18.0,0.6923076923076923,klima_miljø
+Liberal Alliance,Sambandsflokkurin,65,1,1.0,1.0,klima_miljø
+Liberal Alliance,Socialdemokratiet,65,223,135.0,0.6053811659192825,klima_miljø
+Liberal Alliance,Socialistisk Folkeparti,65,54,30.0,0.5555555555555556,klima_miljø
+Liberal Alliance,Uden for folketingsgrupperne,65,25,22.0,0.88,klima_miljø
+Liberal Alliance,Venstre,65,173,173.0,1.0,klima_miljø
+Moderaterne,Danmarksdemokraterne,65,2,2.0,1.0,klima_miljø
+Moderaterne,Dansk Folkeparti,65,22,22.0,1.0,klima_miljø
+Moderaterne,Det Konservative Folkeparti,65,1,1.0,1.0,klima_miljø
+Moderaterne,Enhedslisten,65,5,0.0,0.0,klima_miljø
+Moderaterne,Kristeligt Folkeparti,65,3,1.0,0.3333333333333333,klima_miljø
+Moderaterne,Kristendemokraterne,65,3,1.0,0.3333333333333333,klima_miljø
+Moderaterne,Liberal Alliance,65,3,3.0,1.0,klima_miljø
+Moderaterne,Not able to assign,65,2,0.0,0.0,klima_miljø
+Moderaterne,Radikale Venstre,65,9,0.0,0.0,klima_miljø
+Moderaterne,Sambandsflokkurin,65,1,1.0,1.0,klima_miljø
+Moderaterne,Socialdemokratiet,65,63,0.0,0.0,klima_miljø
+Moderaterne,Socialistisk Folkeparti,65,15,0.0,0.0,klima_miljø
+Moderaterne,Uden for folketingsgrupperne,65,6,5.0,0.8333333333333334,klima_miljø
+Moderaterne,Venstre,65,43,43.0,1.0,klima_miljø
+Not able to assign,Danmarksdemokraterne,65,79,38.0,0.4810126582278481,klima_miljø
+Not able to assign,Dansk Folkeparti,65,519,243.0,0.4682080924855491,klima_miljø
+Not able to assign,Det Konservative Folkeparti,65,287,165.0,0.5749128919860628,klima_miljø
+Not able to assign,Enhedslisten,65,49,35.0,0.7142857142857143,klima_miljø
+Not able to assign,Kristeligt Folkeparti,65,52,43.0,0.8269230769230769,klima_miljø
+Not able to assign,Kristendemokraterne,65,34,32.0,0.9411764705882353,klima_miljø
+Not able to assign,Liberal Alliance,65,46,27.0,0.5869565217391305,klima_miljø
+Not able to assign,Moderaterne,65,10,0.0,0.0,klima_miljø
+Not able to assign,Not able to assign,65,79,74.0,0.9367088607594937,klima_miljø
+Not able to assign,Ny Alliance,65,34,21.0,0.6176470588235294,klima_miljø
+Not able to assign,Radikale Venstre,65,156,133.0,0.8525641025641025,klima_miljø
+Not able to assign,Sambandsflokkurin,65,5,0.0,0.0,klima_miljø
+Not able to assign,Socialdemokratiet,65,1385,1326.0,0.9574007220216606,klima_miljø
+Not able to assign,Socialistisk Folkeparti,65,260,245.0,0.9423076923076923,klima_miljø
+Not able to assign,Uden for folketingsgrupperne,65,123,64.0,0.5203252032520326,klima_miljø
+Not able to assign,Venstre,65,1360,828.0,0.6088235294117647,klima_miljø
+Ny Alliance,Danmarksdemokraterne,65,20,19.0,0.95,klima_miljø
+Ny Alliance,Dansk Folkeparti,65,124,106.0,0.8548387096774194,klima_miljø
+Ny Alliance,Det Konservative Folkeparti,65,37,37.0,1.0,klima_miljø
+Ny Alliance,Enhedslisten,65,14,5.0,0.35714285714285715,klima_miljø
+Ny Alliance,Kristeligt Folkeparti,65,12,9.0,0.75,klima_miljø
+Ny Alliance,Kristendemokraterne,65,9,6.0,0.6666666666666666,klima_miljø
+Ny Alliance,Liberal Alliance,65,13,13.0,1.0,klima_miljø
+Ny Alliance,Moderaterne,65,3,3.0,1.0,klima_miljø
+Ny Alliance,Not able to assign,65,17,12.0,0.7058823529411765,klima_miljø
+Ny Alliance,Radikale Venstre,65,26,18.0,0.6923076923076923,klima_miljø
+Ny Alliance,Sambandsflokkurin,65,1,1.0,1.0,klima_miljø
+Ny Alliance,Socialdemokratiet,65,330,215.0,0.6515151515151515,klima_miljø
+Ny Alliance,Socialistisk Folkeparti,65,64,37.0,0.578125,klima_miljø
+Ny Alliance,Uden for folketingsgrupperne,65,31,28.0,0.9032258064516129,klima_miljø
+Ny Alliance,Venstre,65,260,260.0,1.0,klima_miljø
+Radikale Venstre,Danmarksdemokraterne,65,62,38.0,0.6129032258064516,klima_miljø
+Radikale Venstre,Dansk Folkeparti,65,462,278.0,0.6017316017316018,klima_miljø
+Radikale Venstre,Det Konservative Folkeparti,65,116,90.0,0.7758620689655172,klima_miljø
+Radikale Venstre,Enhedslisten,65,40,26.0,0.65,klima_miljø
+Radikale Venstre,Kristeligt Folkeparti,65,49,35.0,0.7142857142857143,klima_miljø
+Radikale Venstre,Kristendemokraterne,65,33,26.0,0.7878787878787878,klima_miljø
+Radikale Venstre,Liberal Alliance,65,30,22.0,0.7333333333333333,klima_miljø
+Radikale Venstre,Moderaterne,65,7,0.0,0.0,klima_miljø
+Radikale Venstre,Not able to assign,65,63,53.0,0.8412698412698413,klima_miljø
+Radikale Venstre,Ny Alliance,65,28,20.0,0.7142857142857143,klima_miljø
+Radikale Venstre,Radikale Venstre,65,91,91.0,1.0,klima_miljø
+Radikale Venstre,Sambandsflokkurin,65,4,3.0,0.75,klima_miljø
+Radikale Venstre,Socialdemokratiet,65,1150,941.0,0.8182608695652174,klima_miljø
+Radikale Venstre,Socialistisk Folkeparti,65,224,188.0,0.8392857142857143,klima_miljø
+Radikale Venstre,Uden for folketingsgrupperne,65,103,70.0,0.6796116504854369,klima_miljø
+Radikale Venstre,Venstre,65,1096,770.0,0.7025547445255474,klima_miljø
+Sambandsflokkurin,Danmarksdemokraterne,65,2,2.0,1.0,klima_miljø
+Sambandsflokkurin,Dansk Folkeparti,65,10,10.0,1.0,klima_miljø
+Sambandsflokkurin,Enhedslisten,65,2,0.0,0.0,klima_miljø
+Sambandsflokkurin,Kristeligt Folkeparti,65,2,0.0,0.0,klima_miljø
+Sambandsflokkurin,Kristendemokraterne,65,2,0.0,0.0,klima_miljø
+Sambandsflokkurin,Radikale Venstre,65,4,1.0,0.25,klima_miljø
+Sambandsflokkurin,Socialdemokratiet,65,31,0.0,0.0,klima_miljø
+Sambandsflokkurin,Socialistisk Folkeparti,65,5,0.0,0.0,klima_miljø
+Sambandsflokkurin,Uden for folketingsgrupperne,65,4,4.0,1.0,klima_miljø
+Sambandsflokkurin,Venstre,65,21,21.0,1.0,klima_miljø
+Socialdemokratiet,Danmarksdemokraterne,65,390,173.0,0.44358974358974357,klima_miljø
+Socialdemokratiet,Dansk Folkeparti,65,3517,1648.0,0.4685811771396076,klima_miljø
+Socialdemokratiet,Det Konservative Folkeparti,65,1091,642.0,0.5884509624197983,klima_miljø
+Socialdemokratiet,Enhedslisten,65,321,252.0,0.7850467289719626,klima_miljø
+Socialdemokratiet,Kristeligt Folkeparti,65,391,332.0,0.8491048593350383,klima_miljø
+Socialdemokratiet,Kristendemokraterne,65,220,203.0,0.9227272727272727,klima_miljø
+Socialdemokratiet,Liberal Alliance,65,242,147.0,0.6074380165289256,klima_miljø
+Socialdemokratiet,Moderaterne,65,58,0.0,0.0,klima_miljø
+Socialdemokratiet,Not able to assign,65,468,466.0,0.9957264957264957,klima_miljø
+Socialdemokratiet,Ny Alliance,65,108,70.0,0.6481481481481481,klima_miljø
+Socialdemokratiet,Radikale Venstre,65,819,692.0,0.8449328449328449,klima_miljø
+Socialdemokratiet,Sambandsflokkurin,65,37,0.0,0.0,klima_miljø
+Socialdemokratiet,Socialdemokratiet,65,8119,8063.0,0.993102598842222,klima_miljø
+Socialdemokratiet,Socialistisk Folkeparti,65,1740,1574.0,0.9045977011494253,klima_miljø
+Socialdemokratiet,Uden for folketingsgrupperne,65,803,419.0,0.5217932752179327,klima_miljø
+Socialdemokratiet,Venstre,65,8324,5078.0,0.6100432484382509,klima_miljø
+Socialistisk Folkeparti,Danmarksdemokraterne,65,57,28.0,0.49122807017543857,klima_miljø
+Socialistisk Folkeparti,Dansk Folkeparti,65,464,214.0,0.46120689655172414,klima_miljø
+Socialistisk Folkeparti,Det Konservative Folkeparti,65,151,88.0,0.5827814569536424,klima_miljø
+Socialistisk Folkeparti,Enhedslisten,65,44,40.0,0.9090909090909091,klima_miljø
+Socialistisk Folkeparti,Kristeligt Folkeparti,65,57,47.0,0.8245614035087719,klima_miljø
+Socialistisk Folkeparti,Kristendemokraterne,65,28,26.0,0.9285714285714286,klima_miljø
+Socialistisk Folkeparti,Liberal Alliance,65,26,12.0,0.46153846153846156,klima_miljø
+Socialistisk Folkeparti,Moderaterne,65,7,0.0,0.0,klima_miljø
+Socialistisk Folkeparti,Not able to assign,65,71,61.0,0.8591549295774648,klima_miljø
+Socialistisk Folkeparti,Ny Alliance,65,16,10.0,0.625,klima_miljø
+Socialistisk Folkeparti,Radikale Venstre,65,125,102.0,0.816,klima_miljø
+Socialistisk Folkeparti,Sambandsflokkurin,65,6,0.0,0.0,klima_miljø
+Socialistisk Folkeparti,Socialdemokratiet,65,1210,1096.0,0.9057851239669421,klima_miljø
+Socialistisk Folkeparti,Socialistisk Folkeparti,65,226,226.0,1.0,klima_miljø
+Socialistisk Folkeparti,Uden for folketingsgrupperne,65,105,53.0,0.5047619047619047,klima_miljø
+Socialistisk Folkeparti,Venstre,65,1195,702.0,0.5874476987447699,klima_miljø
+Uden for folketingsgrupperne,Danmarksdemokraterne,65,23,22.0,0.9565217391304348,klima_miljø
+Uden for folketingsgrupperne,Dansk Folkeparti,65,313,295.0,0.9424920127795527,klima_miljø
+Uden for folketingsgrupperne,Det Konservative Folkeparti,65,70,70.0,1.0,klima_miljø
+Uden for folketingsgrupperne,Enhedslisten,65,29,8.0,0.27586206896551724,klima_miljø
+Uden for folketingsgrupperne,Kristeligt Folkeparti,65,30,18.0,0.6,klima_miljø
+Uden for folketingsgrupperne,Kristendemokraterne,65,18,8.0,0.4444444444444444,klima_miljø
+Uden for folketingsgrupperne,Liberal Alliance,65,15,15.0,1.0,klima_miljø
+Uden for folketingsgrupperne,Moderaterne,65,7,7.0,1.0,klima_miljø
+Uden for folketingsgrupperne,Not able to assign,65,33,21.0,0.6363636363636364,klima_miljø
+Uden for folketingsgrupperne,Ny Alliance,65,3,3.0,1.0,klima_miljø
+Uden for folketingsgrupperne,Radikale Venstre,65,72,42.0,0.5833333333333334,klima_miljø
+Uden for folketingsgrupperne,Sambandsflokkurin,65,3,3.0,1.0,klima_miljø
+Uden for folketingsgrupperne,Socialdemokratiet,65,664,355.0,0.5346385542168675,klima_miljø
+Uden for folketingsgrupperne,Socialistisk Folkeparti,65,151,68.0,0.4503311258278146,klima_miljø
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,65,49,45.0,0.9183673469387755,klima_miljø
+Uden for folketingsgrupperne,Venstre,65,639,609.0,0.9530516431924883,klima_miljø
+Venstre,Danmarksdemokraterne,65,381,360.0,0.9448818897637795,klima_miljø
+Venstre,Dansk Folkeparti,65,3436,3014.0,0.8771827706635623,klima_miljø
+Venstre,Det Konservative Folkeparti,65,1257,1257.0,1.0,klima_miljø
+Venstre,Enhedslisten,65,357,119.0,0.3333333333333333,klima_miljø
+Venstre,Kristeligt Folkeparti,65,368,255.0,0.6929347826086957,klima_miljø
+Venstre,Kristendemokraterne,65,210,129.0,0.6142857142857143,klima_miljø
+Venstre,Liberal Alliance,65,304,304.0,1.0,klima_miljø
+Venstre,Moderaterne,65,76,76.0,1.0,klima_miljø
+Venstre,Not able to assign,65,522,347.0,0.6647509578544061,klima_miljø
+Venstre,Ny Alliance,65,187,187.0,1.0,klima_miljø
+Venstre,Radikale Venstre,65,894,608.0,0.680089485458613,klima_miljø
+Venstre,Sambandsflokkurin,65,35,35.0,1.0,klima_miljø
+Venstre,Socialdemokratiet,65,8552,5226.0,0.6110851262862488,klima_miljø
+Venstre,Socialistisk Folkeparti,65,1791,982.0,0.5482970407593524,klima_miljø
+Venstre,Uden for folketingsgrupperne,65,833,768.0,0.921968787515006,klima_miljø
+Venstre,Venstre,65,8311,8311.0,1.0,klima_miljø
+Danmarksdemokraterne,Danmarksdemokraterne,66,1217,1186.0,0.9745275267050123,klima_miljø
+Danmarksdemokraterne,Dansk Folkeparti,66,7395,7302.0,0.9874239350912779,klima_miljø
+Danmarksdemokraterne,Det Konservative Folkeparti,66,4092,3917.0,0.9572336265884653,klima_miljø
+Danmarksdemokraterne,Enhedslisten,66,1485,330.0,0.2222222222222222,klima_miljø
+Danmarksdemokraterne,Inuit Ataqatigiit,66,19,10.0,0.5263157894736842,klima_miljø
+Danmarksdemokraterne,Kristendemokraterne,66,607,592.0,0.9752883031301482,klima_miljø
+Danmarksdemokraterne,Liberal Alliance,66,518,503.0,0.971042471042471,klima_miljø
+Danmarksdemokraterne,Moderaterne,66,123,120.0,0.975609756097561,klima_miljø
+Danmarksdemokraterne,Not able to assign,66,1619,820.0,0.506485484867202,klima_miljø
+Danmarksdemokraterne,Ny Alliance,66,235,223.0,0.948936170212766,klima_miljø
+Danmarksdemokraterne,Radikale Venstre,66,3955,2287.0,0.5782553729456384,klima_miljø
+Danmarksdemokraterne,Siumut,66,16,13.0,0.8125,klima_miljø
+Danmarksdemokraterne,Socialdemokratiet,66,15741,7924.0,0.5033987675497109,klima_miljø
+Danmarksdemokraterne,Socialistisk Folkeparti,66,3401,1421.0,0.41781828873860627,klima_miljø
+Danmarksdemokraterne,Tjóðveldi,66,8,4.0,0.5,klima_miljø
+Danmarksdemokraterne,Uden for folketingsgrupperne,66,1932,1590.0,0.8229813664596274,klima_miljø
+Danmarksdemokraterne,Venstre,66,16004,15393.0,0.9618220444888778,klima_miljø
+Dansk Folkeparti,Danmarksdemokraterne,66,3232,3206.0,0.9919554455445545,klima_miljø
+Dansk Folkeparti,Dansk Folkeparti,66,17851,17832.0,0.9989356338580472,klima_miljø
+Dansk Folkeparti,Det Konservative Folkeparti,66,8129,7764.0,0.9550990281707467,klima_miljø
+Dansk Folkeparti,Enhedslisten,66,3773,787.0,0.20858733103631064,klima_miljø
+Dansk Folkeparti,Inuit Ataqatigiit,66,51,27.0,0.5294117647058824,klima_miljø
+Dansk Folkeparti,Kristendemokraterne,66,1953,1887.0,0.9662058371735791,klima_miljø
+Dansk Folkeparti,Liberal Alliance,66,1139,1095.0,0.961369622475856,klima_miljø
+Dansk Folkeparti,Moderaterne,66,285,273.0,0.9578947368421052,klima_miljø
+Dansk Folkeparti,Not able to assign,66,4247,2120.0,0.4991758888627266,klima_miljø
+Dansk Folkeparti,Ny Alliance,66,339,326.0,0.9616519174041298,klima_miljø
+Dansk Folkeparti,Radikale Venstre,66,9870,5563.0,0.5636271529888551,klima_miljø
+Dansk Folkeparti,Siumut,66,47,41.0,0.8723404255319149,klima_miljø
+Dansk Folkeparti,Socialdemokratiet,66,38954,19104.0,0.4904246033783437,klima_miljø
+Dansk Folkeparti,Socialistisk Folkeparti,66,9642,4007.0,0.41557768097905,klima_miljø
+Dansk Folkeparti,Tjóðveldi,66,12,6.0,0.5,klima_miljø
+Dansk Folkeparti,Uden for folketingsgrupperne,66,5142,4002.0,0.7782963827304551,klima_miljø
+Dansk Folkeparti,Venstre,66,37814,36214.0,0.9576876289205056,klima_miljø
+Det Konservative Folkeparti,Danmarksdemokraterne,66,4468,4253.0,0.9518800358102059,klima_miljø
+Det Konservative Folkeparti,Dansk Folkeparti,66,21930,20919.0,0.9538987688098495,klima_miljø
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,10841,10823.0,0.9983396365648926,klima_miljø
+Det Konservative Folkeparti,Enhedslisten,66,4819,1063.0,0.22058518364805976,klima_miljø
+Det Konservative Folkeparti,Folkaflokkurin,66,3,3.0,1.0,klima_miljø
+Det Konservative Folkeparti,Inuit Ataqatigiit,66,64,35.0,0.546875,klima_miljø
+Det Konservative Folkeparti,Kristendemokraterne,66,2018,2016.0,0.9990089197224975,klima_miljø
+Det Konservative Folkeparti,Liberal Alliance,66,1620,1619.0,0.9993827160493827,klima_miljø
+Det Konservative Folkeparti,Moderaterne,66,386,385.0,0.9974093264248705,klima_miljø
+Det Konservative Folkeparti,Not able to assign,66,5034,2731.0,0.5425109257052046,klima_miljø
+Det Konservative Folkeparti,Ny Alliance,66,877,876.0,0.9988597491448119,klima_miljø
+Det Konservative Folkeparti,Radikale Venstre,66,12482,7498.0,0.6007050152219195,klima_miljø
+Det Konservative Folkeparti,Siumut,66,73,53.0,0.726027397260274,klima_miljø
+Det Konservative Folkeparti,Socialdemokratiet,66,48507,25902.0,0.5339847857010328,klima_miljø
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,10747,4728.0,0.4399367265283335,klima_miljø
+Det Konservative Folkeparti,Tjóðveldi,66,40,16.0,0.4,klima_miljø
+Det Konservative Folkeparti,Uden for folketingsgrupperne,66,6073,5075.0,0.8356660629013667,klima_miljø
+Det Konservative Folkeparti,Venstre,66,46891,46826.0,0.9986138064873856,klima_miljø
+Enhedslisten,Danmarksdemokraterne,66,666,164.0,0.24624624624624625,klima_miljø
+Enhedslisten,Dansk Folkeparti,66,3791,866.0,0.22843576892640463,klima_miljø
+Enhedslisten,Det Konservative Folkeparti,66,1177,261.0,0.221750212404418,klima_miljø
+Enhedslisten,Enhedslisten,66,487,485.0,0.9958932238193019,klima_miljø
+Enhedslisten,Inuit Ataqatigiit,66,13,7.0,0.5384615384615384,klima_miljø
+Enhedslisten,Kristendemokraterne,66,451,99.0,0.21951219512195122,klima_miljø
+Enhedslisten,Liberal Alliance,66,176,40.0,0.22727272727272727,klima_miljø
+Enhedslisten,Moderaterne,66,34,8.0,0.23529411764705882,klima_miljø
+Enhedslisten,Not able to assign,66,709,411.0,0.5796897038081805,klima_miljø
+Enhedslisten,Ny Alliance,66,47,12.0,0.2553191489361702,klima_miljø
+Enhedslisten,Radikale Venstre,66,1651,871.0,0.5275590551181102,klima_miljø
+Enhedslisten,Siumut,66,8,7.0,0.875,klima_miljø
+Enhedslisten,Socialdemokratiet,66,7465,4496.0,0.602277294038848,klima_miljø
+Enhedslisten,Socialistisk Folkeparti,66,1930,1408.0,0.7295336787564767,klima_miljø
+Enhedslisten,Tjóðveldi,66,3,2.0,0.6666666666666666,klima_miljø
+Enhedslisten,Uden for folketingsgrupperne,66,1157,440.0,0.3802938634399309,klima_miljø
+Enhedslisten,Venstre,66,6669,1508.0,0.22612085769980506,klima_miljø
+Folkaflokkurin,Danmarksdemokraterne,66,9,7.0,0.7777777777777778,klima_miljø
+Folkaflokkurin,Dansk Folkeparti,66,41,29.0,0.7073170731707317,klima_miljø
+Folkaflokkurin,Det Konservative Folkeparti,66,33,33.0,1.0,klima_miljø
+Folkaflokkurin,Enhedslisten,66,8,3.0,0.375,klima_miljø
+Folkaflokkurin,Inuit Ataqatigiit,66,2,0.0,0.0,klima_miljø
+Folkaflokkurin,Kristendemokraterne,66,3,3.0,1.0,klima_miljø
+Folkaflokkurin,Liberal Alliance,66,3,3.0,1.0,klima_miljø
+Folkaflokkurin,Moderaterne,66,1,1.0,1.0,klima_miljø
+Folkaflokkurin,Not able to assign,66,10,10.0,1.0,klima_miljø
+Folkaflokkurin,Ny Alliance,66,1,1.0,1.0,klima_miljø
+Folkaflokkurin,Radikale Venstre,66,27,27.0,1.0,klima_miljø
+Folkaflokkurin,Siumut,66,2,1.0,0.5,klima_miljø
+Folkaflokkurin,Socialdemokratiet,66,89,88.0,0.9887640449438202,klima_miljø
+Folkaflokkurin,Socialistisk Folkeparti,66,19,14.0,0.7368421052631579,klima_miljø
+Folkaflokkurin,Tjóðveldi,66,3,1.0,0.3333333333333333,klima_miljø
+Folkaflokkurin,Uden for folketingsgrupperne,66,10,10.0,1.0,klima_miljø
+Folkaflokkurin,Venstre,66,102,102.0,1.0,klima_miljø
+Inuit Ataqatigiit,Danmarksdemokraterne,66,5,3.0,0.6,klima_miljø
+Inuit Ataqatigiit,Dansk Folkeparti,66,38,24.0,0.631578947368421,klima_miljø
+Inuit Ataqatigiit,Det Konservative Folkeparti,66,10,6.0,0.6,klima_miljø
+Inuit Ataqatigiit,Enhedslisten,66,4,1.0,0.25,klima_miljø
+Inuit Ataqatigiit,Kristendemokraterne,66,4,2.0,0.5,klima_miljø
+Inuit Ataqatigiit,Liberal Alliance,66,3,1.0,0.3333333333333333,klima_miljø
+Inuit Ataqatigiit,Moderaterne,66,1,0.0,0.0,klima_miljø
+Inuit Ataqatigiit,Not able to assign,66,10,6.0,0.6,klima_miljø
+Inuit Ataqatigiit,Radikale Venstre,66,19,11.0,0.5789473684210527,klima_miljø
+Inuit Ataqatigiit,Siumut,66,1,1.0,1.0,klima_miljø
+Inuit Ataqatigiit,Socialdemokratiet,66,72,43.0,0.5972222222222222,klima_miljø
+Inuit Ataqatigiit,Socialistisk Folkeparti,66,13,10.0,0.7692307692307693,klima_miljø
+Inuit Ataqatigiit,Uden for folketingsgrupperne,66,9,5.0,0.5555555555555556,klima_miljø
+Inuit Ataqatigiit,Venstre,66,54,28.0,0.5185185185185185,klima_miljø
+Kristendemokraterne,Danmarksdemokraterne,66,198,188.0,0.9494949494949495,klima_miljø
+Kristendemokraterne,Dansk Folkeparti,66,923,898.0,0.9729144095341279,klima_miljø
+Kristendemokraterne,Det Konservative Folkeparti,66,219,219.0,1.0,klima_miljø
+Kristendemokraterne,Enhedslisten,66,115,18.0,0.1565217391304348,klima_miljø
+Kristendemokraterne,Inuit Ataqatigiit,66,3,2.0,0.6666666666666666,klima_miljø
+Kristendemokraterne,Not able to assign,66,139,76.0,0.5467625899280576,klima_miljø
+Kristendemokraterne,Radikale Venstre,66,149,101.0,0.6778523489932886,klima_miljø
+Kristendemokraterne,Socialdemokratiet,66,1492,774.0,0.5187667560321716,klima_miljø
+Kristendemokraterne,Socialistisk Folkeparti,66,623,270.0,0.4333868378812199,klima_miljø
+Kristendemokraterne,Uden for folketingsgrupperne,66,330,258.0,0.7818181818181819,klima_miljø
+Kristendemokraterne,Venstre,66,1819,1818.0,0.999450247388675,klima_miljø
+Liberal Alliance,Danmarksdemokraterne,66,179,168.0,0.9385474860335196,klima_miljø
+Liberal Alliance,Dansk Folkeparti,66,1329,1279.0,0.9623777276147479,klima_miljø
+Liberal Alliance,Det Konservative Folkeparti,66,341,341.0,1.0,klima_miljø
+Liberal Alliance,Enhedslisten,66,322,64.0,0.19875776397515527,klima_miljø
+Liberal Alliance,Inuit Ataqatigiit,66,1,1.0,1.0,klima_miljø
+Liberal Alliance,Kristendemokraterne,66,184,184.0,1.0,klima_miljø
+Liberal Alliance,Not able to assign,66,270,138.0,0.5111111111111111,klima_miljø
+Liberal Alliance,Radikale Venstre,66,848,510.0,0.6014150943396226,klima_miljø
+Liberal Alliance,Socialdemokratiet,66,2883,1507.0,0.5227193895248006,klima_miljø
+Liberal Alliance,Socialistisk Folkeparti,66,635,280.0,0.4409448818897638,klima_miljø
+Liberal Alliance,Uden for folketingsgrupperne,66,481,391.0,0.8128898128898129,klima_miljø
+Liberal Alliance,Venstre,66,1864,1863.0,0.9994635193133047,klima_miljø
+Moderaterne,Danmarksdemokraterne,66,28,27.0,0.9642857142857143,klima_miljø
+Moderaterne,Dansk Folkeparti,66,336,324.0,0.9642857142857143,klima_miljø
+Moderaterne,Det Konservative Folkeparti,66,83,83.0,1.0,klima_miljø
+Moderaterne,Enhedslisten,66,87,15.0,0.1724137931034483,klima_miljø
+Moderaterne,Inuit Ataqatigiit,66,1,1.0,1.0,klima_miljø
+Moderaterne,Kristendemokraterne,66,46,46.0,1.0,klima_miljø
+Moderaterne,Liberal Alliance,66,39,39.0,1.0,klima_miljø
+Moderaterne,Not able to assign,66,58,22.0,0.3793103448275862,klima_miljø
+Moderaterne,Radikale Venstre,66,232,135.0,0.5818965517241379,klima_miljø
+Moderaterne,Socialdemokratiet,66,719,276.0,0.38386648122392214,klima_miljø
+Moderaterne,Socialistisk Folkeparti,66,168,40.0,0.23809523809523808,klima_miljø
+Moderaterne,Uden for folketingsgrupperne,66,120,94.0,0.7833333333333333,klima_miljø
+Moderaterne,Venstre,66,461,461.0,1.0,klima_miljø
+Not able to assign,Danmarksdemokraterne,66,991,475.0,0.479313824419778,klima_miljø
+Not able to assign,Dansk Folkeparti,66,5332,2565.0,0.48105776444111026,klima_miljø
+Not able to assign,Det Konservative Folkeparti,66,2442,1275.0,0.5221130221130221,klima_miljø
+Not able to assign,Enhedslisten,66,1177,739.0,0.6278674596431606,klima_miljø
+Not able to assign,Inuit Ataqatigiit,66,13,10.0,0.7692307692307693,klima_miljø
+Not able to assign,Kristendemokraterne,66,571,296.0,0.5183887915936952,klima_miljø
+Not able to assign,Liberal Alliance,66,348,179.0,0.514367816091954,klima_miljø
+Not able to assign,Moderaterne,66,89,31.0,0.34831460674157305,klima_miljø
+Not able to assign,Not able to assign,66,901,898.0,0.9966703662597114,klima_miljø
+Not able to assign,Ny Alliance,66,176,80.0,0.45454545454545453,klima_miljø
+Not able to assign,Radikale Venstre,66,2732,2387.0,0.873718887262079,klima_miljø
+Not able to assign,Siumut,66,15,14.0,0.9333333333333333,klima_miljø
+Not able to assign,Socialdemokratiet,66,11408,11316.0,0.9919354838709677,klima_miljø
+Not able to assign,Socialistisk Folkeparti,66,2728,2387.0,0.875,klima_miljø
+Not able to assign,Tjóðveldi,66,7,2.0,0.2857142857142857,klima_miljø
+Not able to assign,Uden for folketingsgrupperne,66,1512,1066.0,0.705026455026455,klima_miljø
+Not able to assign,Venstre,66,10843,5712.0,0.526791478373144,klima_miljø
+Ny Alliance,Danmarksdemokraterne,66,243,234.0,0.9629629629629629,klima_miljø
+Ny Alliance,Dansk Folkeparti,66,1248,1192.0,0.9551282051282052,klima_miljø
+Ny Alliance,Det Konservative Folkeparti,66,380,380.0,1.0,klima_miljø
+Ny Alliance,Enhedslisten,66,274,49.0,0.17883211678832117,klima_miljø
+Ny Alliance,Inuit Ataqatigiit,66,1,1.0,1.0,klima_miljø
+Ny Alliance,Kristendemokraterne,66,115,115.0,1.0,klima_miljø
+Ny Alliance,Liberal Alliance,66,116,116.0,1.0,klima_miljø
+Ny Alliance,Moderaterne,66,24,24.0,1.0,klima_miljø
+Ny Alliance,Not able to assign,66,221,107.0,0.4841628959276018,klima_miljø
+Ny Alliance,Radikale Venstre,66,610,340.0,0.5573770491803278,klima_miljø
+Ny Alliance,Siumut,66,5,5.0,1.0,klima_miljø
+Ny Alliance,Socialdemokratiet,66,2824,1393.0,0.49327195467422097,klima_miljø
+Ny Alliance,Socialistisk Folkeparti,66,515,200.0,0.3883495145631068,klima_miljø
+Ny Alliance,Uden for folketingsgrupperne,66,389,333.0,0.8560411311053985,klima_miljø
+Ny Alliance,Venstre,66,2330,2329.0,0.9995708154506437,klima_miljø
+Radikale Venstre,Danmarksdemokraterne,66,2922,1582.0,0.5414099931553731,klima_miljø
+Radikale Venstre,Dansk Folkeparti,66,14560,7971.0,0.5474587912087913,klima_miljø
+Radikale Venstre,Det Konservative Folkeparti,66,6694,4013.0,0.5994920824619062,klima_miljø
+Radikale Venstre,Enhedslisten,66,3185,1736.0,0.545054945054945,klima_miljø
+Radikale Venstre,Inuit Ataqatigiit,66,30,26.0,0.8666666666666667,klima_miljø
+Radikale Venstre,Kristendemokraterne,66,1679,979.0,0.5830851697438951,klima_miljø
+Radikale Venstre,Liberal Alliance,66,719,411.0,0.5716272600834492,klima_miljø
+Radikale Venstre,Moderaterne,66,170,98.0,0.5764705882352941,klima_miljø
+Radikale Venstre,Not able to assign,66,3319,2993.0,0.9017776438686351,klima_miljø
+Radikale Venstre,Ny Alliance,66,418,213.0,0.5095693779904307,klima_miljø
+Radikale Venstre,Radikale Venstre,66,6936,6885.0,0.9926470588235294,klima_miljø
+Radikale Venstre,Siumut,66,32,29.0,0.90625,klima_miljø
+Radikale Venstre,Socialdemokratiet,66,30619,26523.0,0.8662268526078578,klima_miljø
+Radikale Venstre,Socialistisk Folkeparti,66,7486,5958.0,0.7958856532193428,klima_miljø
+Radikale Venstre,Tjóðveldi,66,13,7.0,0.5384615384615384,klima_miljø
+Radikale Venstre,Uden for folketingsgrupperne,66,4133,3173.0,0.7677232034841519,klima_miljø
+Radikale Venstre,Venstre,66,31092,18511.0,0.5953621510356362,klima_miljø
+Siumut,Danmarksdemokraterne,66,8,7.0,0.875,klima_miljø
+Siumut,Dansk Folkeparti,66,62,54.0,0.8709677419354839,klima_miljø
+Siumut,Det Konservative Folkeparti,66,15,12.0,0.8,klima_miljø
+Siumut,Enhedslisten,66,10,9.0,0.9,klima_miljø
+Siumut,Kristendemokraterne,66,8,6.0,0.75,klima_miljø
+Siumut,Liberal Alliance,66,8,6.0,0.75,klima_miljø
+Siumut,Not able to assign,66,11,9.0,0.8181818181818182,klima_miljø
+Siumut,Radikale Venstre,66,35,31.0,0.8857142857142857,klima_miljø
+Siumut,Socialdemokratiet,66,122,108.0,0.8852459016393442,klima_miljø
+Siumut,Socialistisk Folkeparti,66,26,25.0,0.9615384615384616,klima_miljø
+Siumut,Uden for folketingsgrupperne,66,24,23.0,0.9583333333333334,klima_miljø
+Siumut,Venstre,66,83,62.0,0.7469879518072289,klima_miljø
+Socialdemokratiet,Danmarksdemokraterne,66,6982,3296.0,0.4720710398166714,klima_miljø
+Socialdemokratiet,Dansk Folkeparti,66,41967,20395.0,0.4859770772273453,klima_miljø
+Socialdemokratiet,Det Konservative Folkeparti,66,15058,8329.0,0.5531279054323284,klima_miljø
+Socialdemokratiet,Enhedslisten,66,8479,5254.0,0.6196485434603137,klima_miljø
+Socialdemokratiet,Inuit Ataqatigiit,66,116,93.0,0.8017241379310345,klima_miljø
+Socialdemokratiet,Kristendemokraterne,66,4549,2398.0,0.5271488239173445,klima_miljø
+Socialdemokratiet,Liberal Alliance,66,2264,1180.0,0.5212014134275619,klima_miljø
+Socialdemokratiet,Moderaterne,66,567,212.0,0.37389770723104054,klima_miljø
+Socialdemokratiet,Not able to assign,66,8499,8473.0,0.9969408165666549,klima_miljø
+Socialdemokratiet,Ny Alliance,66,519,262.0,0.5048169556840078,klima_miljø
+Socialdemokratiet,Radikale Venstre,66,20866,17826.0,0.8543084443592447,klima_miljø
+Socialdemokratiet,Siumut,66,114,101.0,0.8859649122807017,klima_miljø
+Socialdemokratiet,Socialdemokratiet,66,82567,81783.0,0.9905046810469074,klima_miljø
+Socialdemokratiet,Socialistisk Folkeparti,66,20670,18026.0,0.8720851475568456,klima_miljø
+Socialdemokratiet,Tjóðveldi,66,21,11.0,0.5238095238095238,klima_miljø
+Socialdemokratiet,Uden for folketingsgrupperne,66,12054,8529.0,0.7075659532105525,klima_miljø
+Socialdemokratiet,Venstre,66,79136,42711.0,0.539716437525273,klima_miljø
+Socialistisk Folkeparti,Danmarksdemokraterne,66,2184,884.0,0.40476190476190477,klima_miljø
+Socialistisk Folkeparti,Dansk Folkeparti,66,10292,4197.0,0.40779246016323356,klima_miljø
+Socialistisk Folkeparti,Det Konservative Folkeparti,66,4929,2223.0,0.45100426049908704,klima_miljø
+Socialistisk Folkeparti,Enhedslisten,66,2003,1468.0,0.7329006490264603,klima_miljø
+Socialistisk Folkeparti,Inuit Ataqatigiit,66,33,29.0,0.8787878787878788,klima_miljø
+Socialistisk Folkeparti,Kristendemokraterne,66,870,369.0,0.4241379310344828,klima_miljø
+Socialistisk Folkeparti,Liberal Alliance,66,649,276.0,0.4252696456086287,klima_miljø
+Socialistisk Folkeparti,Moderaterne,66,157,48.0,0.3057324840764331,klima_miljø
+Socialistisk Folkeparti,Not able to assign,66,2180,1990.0,0.9128440366972477,klima_miljø
+Socialistisk Folkeparti,Ny Alliance,66,291,111.0,0.38144329896907214,klima_miljø
+Socialistisk Folkeparti,Radikale Venstre,66,5193,4228.0,0.8141729250914693,klima_miljø
+Socialistisk Folkeparti,Siumut,66,22,22.0,1.0,klima_miljø
+Socialistisk Folkeparti,Socialdemokratiet,66,21341,18888.0,0.8850569326648235,klima_miljø
+Socialistisk Folkeparti,Socialistisk Folkeparti,66,4500,4453.0,0.9895555555555555,klima_miljø
+Socialistisk Folkeparti,Tjóðveldi,66,11,7.0,0.6363636363636364,klima_miljø
+Socialistisk Folkeparti,Uden for folketingsgrupperne,66,2851,1721.0,0.6036478428621537,klima_miljø
+Socialistisk Folkeparti,Venstre,66,22368,9800.0,0.43812589413447783,klima_miljø
+Tjóðveldi,Danmarksdemokraterne,66,7,2.0,0.2857142857142857,klima_miljø
+Tjóðveldi,Dansk Folkeparti,66,55,33.0,0.6,klima_miljø
+Tjóðveldi,Det Konservative Folkeparti,66,17,8.0,0.47058823529411764,klima_miljø
+Tjóðveldi,Enhedslisten,66,11,9.0,0.8181818181818182,klima_miljø
+Tjóðveldi,Inuit Ataqatigiit,66,4,3.0,0.75,klima_miljø
+Tjóðveldi,Kristendemokraterne,66,5,2.0,0.4,klima_miljø
+Tjóðveldi,Liberal Alliance,66,5,2.0,0.4,klima_miljø
+Tjóðveldi,Moderaterne,66,1,0.0,0.0,klima_miljø
+Tjóðveldi,Not able to assign,66,10,4.0,0.4,klima_miljø
+Tjóðveldi,Ny Alliance,66,1,1.0,1.0,klima_miljø
+Tjóðveldi,Radikale Venstre,66,28,15.0,0.5357142857142857,klima_miljø
+Tjóðveldi,Siumut,66,2,2.0,1.0,klima_miljø
+Tjóðveldi,Socialdemokratiet,66,123,54.0,0.43902439024390244,klima_miljø
+Tjóðveldi,Socialistisk Folkeparti,66,22,13.0,0.5909090909090909,klima_miljø
+Tjóðveldi,Uden for folketingsgrupperne,66,13,5.0,0.38461538461538464,klima_miljø
+Tjóðveldi,Venstre,66,99,47.0,0.47474747474747475,klima_miljø
+Uden for folketingsgrupperne,Danmarksdemokraterne,66,647,548.0,0.8469860896445132,klima_miljø
+Uden for folketingsgrupperne,Dansk Folkeparti,66,4186,3748.0,0.8953655040611562,klima_miljø
+Uden for folketingsgrupperne,Det Konservative Folkeparti,66,1280,1151.0,0.89921875,klima_miljø
+Uden for folketingsgrupperne,Enhedslisten,66,726,170.0,0.23415977961432508,klima_miljø
+Uden for folketingsgrupperne,Inuit Ataqatigiit,66,11,6.0,0.5454545454545454,klima_miljø
+Uden for folketingsgrupperne,Kristendemokraterne,66,360,331.0,0.9194444444444444,klima_miljø
+Uden for folketingsgrupperne,Liberal Alliance,66,140,138.0,0.9857142857142858,klima_miljø
+Uden for folketingsgrupperne,Moderaterne,66,49,47.0,0.9591836734693877,klima_miljø
+Uden for folketingsgrupperne,Not able to assign,66,800,470.0,0.5875,klima_miljø
+Uden for folketingsgrupperne,Ny Alliance,66,5,4.0,0.8,klima_miljø
+Uden for folketingsgrupperne,Radikale Venstre,66,1762,1049.0,0.5953461975028377,klima_miljø
+Uden for folketingsgrupperne,Siumut,66,3,1.0,0.3333333333333333,klima_miljø
+Uden for folketingsgrupperne,Socialdemokratiet,66,7618,4277.0,0.5614334470989761,klima_miljø
+Uden for folketingsgrupperne,Socialistisk Folkeparti,66,1997,976.0,0.4887330996494742,klima_miljø
+Uden for folketingsgrupperne,Tjóðveldi,66,2,2.0,1.0,klima_miljø
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,66,901,674.0,0.7480577136514983,klima_miljø
+Uden for folketingsgrupperne,Venstre,66,7487,6730.0,0.8988914117804194,klima_miljø
+Venstre,Danmarksdemokraterne,66,10575,10069.0,0.9521513002364066,klima_miljø
+Venstre,Dansk Folkeparti,66,57197,54817.0,0.9583894260188471,klima_miljø
+Venstre,Det Konservative Folkeparti,66,27744,27685.0,0.997873414071511,klima_miljø
+Venstre,Enhedslisten,66,12089,2527.0,0.20903300521134915,klima_miljø
+Venstre,Inuit Ataqatigiit,66,165,99.0,0.6,klima_miljø
+Venstre,Kristendemokraterne,66,5281,5276.0,0.9990532096193903,klima_miljø
+Venstre,Liberal Alliance,66,4178,4174.0,0.9990426041168023,klima_miljø
+Venstre,Moderaterne,66,1039,1037.0,0.9980750721847931,klima_miljø
+Venstre,Not able to assign,66,12635,6744.0,0.5337554412346656,klima_miljø
+Venstre,Ny Alliance,66,1477,1474.0,0.997968855788761,klima_miljø
+Venstre,Radikale Venstre,66,29379,17454.0,0.5940978249770245,klima_miljø
+Venstre,Siumut,66,184,137.0,0.7445652173913043,klima_miljø
+Venstre,Socialdemokratiet,66,121464,64171.0,0.5283129157610486,klima_miljø
+Venstre,Socialistisk Folkeparti,66,27056,11748.0,0.4342105263157895,klima_miljø
+Venstre,Tjóðveldi,66,68,28.0,0.4117647058823529,klima_miljø
+Venstre,Uden for folketingsgrupperne,66,15495,12704.0,0.8198773797999355,klima_miljø
+Venstre,Venstre,66,114378,114194.0,0.9983912990260365,klima_miljø
+Danmarksdemokraterne,Danmarksdemokraterne,67,1745,1705.0,0.9770773638968482,klima_miljø
+Danmarksdemokraterne,Dansk Folkeparti,67,9023,8943.0,0.9911337692563449,klima_miljø
+Danmarksdemokraterne,Det Konservative Folkeparti,67,6828,6398.0,0.9370240187463386,klima_miljø
+Danmarksdemokraterne,Enhedslisten,67,1678,545.0,0.32479141835518477,klima_miljø
+Danmarksdemokraterne,Inuit Ataqatigiit,67,16,2.0,0.125,klima_miljø
+Danmarksdemokraterne,Javnaðarflokkurin,67,2,0.0,0.0,klima_miljø
+Danmarksdemokraterne,Kristendemokraterne,67,535,500.0,0.9345794392523364,klima_miljø
+Danmarksdemokraterne,Liberal Alliance,67,339,249.0,0.7345132743362832,klima_miljø
+Danmarksdemokraterne,Moderaterne,67,20,12.0,0.6,klima_miljø
+Danmarksdemokraterne,Not able to assign,67,104,47.0,0.4519230769230769,klima_miljø
+Danmarksdemokraterne,Radikale Venstre,67,3284,1719.0,0.5234470158343484,klima_miljø
+Danmarksdemokraterne,Sambandsflokkurin,67,19,16.0,0.8421052631578947,klima_miljø
+Danmarksdemokraterne,Siumut,67,48,24.0,0.5,klima_miljø
+Danmarksdemokraterne,Socialdemokratiet,67,22519,11817.0,0.5247568719747768,klima_miljø
+Danmarksdemokraterne,Socialistisk Folkeparti,67,8508,4126.0,0.48495533615420783,klima_miljø
+Danmarksdemokraterne,Tjóðveldi,67,8,0.0,0.0,klima_miljø
+Danmarksdemokraterne,Uden for folketingsgrupperne,67,1726,1530.0,0.8864426419466975,klima_miljø
+Danmarksdemokraterne,Venstre,67,20082,18840.0,0.9381535703615178,klima_miljø
+Dansk Folkeparti,Danmarksdemokraterne,67,4710,4675.0,0.9925690021231423,klima_miljø
+Dansk Folkeparti,Dansk Folkeparti,67,21057,21044.0,0.9993826281046683,klima_miljø
+Dansk Folkeparti,Det Konservative Folkeparti,67,16864,15747.0,0.9337642314990512,klima_miljø
+Dansk Folkeparti,Enhedslisten,67,4319,1415.0,0.3276221347534151,klima_miljø
+Dansk Folkeparti,Inuit Ataqatigiit,67,40,5.0,0.125,klima_miljø
+Dansk Folkeparti,Javnaðarflokkurin,67,12,0.0,0.0,klima_miljø
+Dansk Folkeparti,Kristendemokraterne,67,1419,1318.0,0.9288231148696265,klima_miljø
+Dansk Folkeparti,Liberal Alliance,67,1105,824.0,0.7457013574660634,klima_miljø
+Dansk Folkeparti,Moderaterne,67,64,32.0,0.5,klima_miljø
+Dansk Folkeparti,Not able to assign,67,284,125.0,0.44014084507042256,klima_miljø
+Dansk Folkeparti,Radikale Venstre,67,7867,4088.0,0.5196389983475277,klima_miljø
+Dansk Folkeparti,Sambandsflokkurin,67,33,24.0,0.7272727272727273,klima_miljø
+Dansk Folkeparti,Siumut,67,114,45.0,0.39473684210526316,klima_miljø
+Dansk Folkeparti,Socialdemokratiet,67,57194,30194.0,0.5279225093541281,klima_miljø
+Dansk Folkeparti,Socialistisk Folkeparti,67,22295,10896.0,0.48871944382148463,klima_miljø
+Dansk Folkeparti,Tjóðveldi,67,12,0.0,0.0,klima_miljø
+Dansk Folkeparti,Uden for folketingsgrupperne,67,4776,4243.0,0.8884003350083752,klima_miljø
+Dansk Folkeparti,Venstre,67,51937,48525.0,0.934305023393727,klima_miljø
+Det Konservative Folkeparti,Danmarksdemokraterne,67,3652,3345.0,0.9159364731653888,klima_miljø
+Det Konservative Folkeparti,Dansk Folkeparti,67,17504,16320.0,0.9323583180987203,klima_miljø
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,11879,11879.0,1.0,klima_miljø
+Det Konservative Folkeparti,Enhedslisten,67,3410,1281.0,0.37565982404692083,klima_miljø
+Det Konservative Folkeparti,Inuit Ataqatigiit,67,31,23.0,0.7419354838709677,klima_miljø
+Det Konservative Folkeparti,Javnaðarflokkurin,67,9,9.0,1.0,klima_miljø
+Det Konservative Folkeparti,Kristendemokraterne,67,1122,1122.0,1.0,klima_miljø
+Det Konservative Folkeparti,Liberal Alliance,67,735,579.0,0.7877551020408163,klima_miljø
+Det Konservative Folkeparti,Moderaterne,67,57,57.0,1.0,klima_miljø
+Det Konservative Folkeparti,Not able to assign,67,241,189.0,0.7842323651452282,klima_miljø
+Det Konservative Folkeparti,Radikale Venstre,67,6420,3929.0,0.611993769470405,klima_miljø
+Det Konservative Folkeparti,Sambandsflokkurin,67,35,35.0,1.0,klima_miljø
+Det Konservative Folkeparti,Siumut,67,105,85.0,0.8095238095238095,klima_miljø
+Det Konservative Folkeparti,Socialdemokratiet,67,44710,26792.0,0.5992395437262358,klima_miljø
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,16666,9203.0,0.5522020880835233,klima_miljø
+Det Konservative Folkeparti,Tjóðveldi,67,13,9.0,0.6923076923076923,klima_miljø
+Det Konservative Folkeparti,Uden for folketingsgrupperne,67,3760,3382.0,0.899468085106383,klima_miljø
+Det Konservative Folkeparti,Venstre,67,38854,38842.0,0.999691151490194,klima_miljø
+Enhedslisten,Danmarksdemokraterne,67,723,216.0,0.2987551867219917,klima_miljø
+Enhedslisten,Dansk Folkeparti,67,3490,1094.0,0.3134670487106017,klima_miljø
+Enhedslisten,Det Konservative Folkeparti,67,2471,947.0,0.3832456495346014,klima_miljø
+Enhedslisten,Enhedslisten,67,408,382.0,0.9362745098039216,klima_miljø
+Enhedslisten,Inuit Ataqatigiit,67,9,7.0,0.7777777777777778,klima_miljø
+Enhedslisten,Javnaðarflokkurin,67,2,2.0,1.0,klima_miljø
+Enhedslisten,Kristendemokraterne,67,299,110.0,0.36789297658862874,klima_miljø
+Enhedslisten,Liberal Alliance,67,203,79.0,0.3891625615763547,klima_miljø
+Enhedslisten,Moderaterne,67,12,9.0,0.75,klima_miljø
+Enhedslisten,Not able to assign,67,49,31.0,0.6326530612244898,klima_miljø
+Enhedslisten,Radikale Venstre,67,1187,840.0,0.7076663858466723,klima_miljø
+Enhedslisten,Sambandsflokkurin,67,2,2.0,1.0,klima_miljø
+Enhedslisten,Siumut,67,17,13.0,0.7647058823529411,klima_miljø
+Enhedslisten,Socialdemokratiet,67,8325,6245.0,0.7501501501501502,klima_miljø
+Enhedslisten,Socialistisk Folkeparti,67,3245,2521.0,0.7768875192604006,klima_miljø
+Enhedslisten,Tjóðveldi,67,4,3.0,0.75,klima_miljø
+Enhedslisten,Uden for folketingsgrupperne,67,756,320.0,0.42328042328042326,klima_miljø
+Enhedslisten,Venstre,67,7459,2833.0,0.3798096259552219,klima_miljø
+Inuit Ataqatigiit,Danmarksdemokraterne,67,12,1.0,0.08333333333333333,klima_miljø
+Inuit Ataqatigiit,Dansk Folkeparti,67,69,9.0,0.13043478260869565,klima_miljø
+Inuit Ataqatigiit,Det Konservative Folkeparti,67,49,36.0,0.7346938775510204,klima_miljø
+Inuit Ataqatigiit,Enhedslisten,67,11,8.0,0.7272727272727273,klima_miljø
+Inuit Ataqatigiit,Javnaðarflokkurin,67,1,1.0,1.0,klima_miljø
+Inuit Ataqatigiit,Kristendemokraterne,67,8,6.0,0.75,klima_miljø
+Inuit Ataqatigiit,Moderaterne,67,4,3.0,0.75,klima_miljø
+Inuit Ataqatigiit,Not able to assign,67,2,2.0,1.0,klima_miljø
+Inuit Ataqatigiit,Radikale Venstre,67,34,25.0,0.7352941176470589,klima_miljø
+Inuit Ataqatigiit,Siumut,67,5,5.0,1.0,klima_miljø
+Inuit Ataqatigiit,Socialdemokratiet,67,154,116.0,0.7532467532467533,klima_miljø
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,58,42.0,0.7241379310344828,klima_miljø
+Inuit Ataqatigiit,Uden for folketingsgrupperne,67,14,9.0,0.6428571428571429,klima_miljø
+Inuit Ataqatigiit,Venstre,67,135,102.0,0.7555555555555555,klima_miljø
+Javnaðarflokkurin,Dansk Folkeparti,67,2,0.0,0.0,klima_miljø
+Javnaðarflokkurin,Det Konservative Folkeparti,67,2,2.0,1.0,klima_miljø
+Javnaðarflokkurin,Socialdemokratiet,67,4,4.0,1.0,klima_miljø
+Javnaðarflokkurin,Socialistisk Folkeparti,67,1,1.0,1.0,klima_miljø
+Javnaðarflokkurin,Venstre,67,6,6.0,1.0,klima_miljø
+Kristendemokraterne,Danmarksdemokraterne,67,58,50.0,0.8620689655172413,klima_miljø
+Kristendemokraterne,Dansk Folkeparti,67,501,467.0,0.9321357285429142,klima_miljø
+Kristendemokraterne,Det Konservative Folkeparti,67,312,312.0,1.0,klima_miljø
+Kristendemokraterne,Enhedslisten,67,40,18.0,0.45,klima_miljø
+Kristendemokraterne,Javnaðarflokkurin,67,1,1.0,1.0,klima_miljø
+Kristendemokraterne,Liberal Alliance,67,47,31.0,0.6595744680851063,klima_miljø
+Kristendemokraterne,Not able to assign,67,11,6.0,0.5454545454545454,klima_miljø
+Kristendemokraterne,Socialdemokratiet,67,861,481.0,0.5586527293844367,klima_miljø
+Kristendemokraterne,Socialistisk Folkeparti,67,434,235.0,0.5414746543778802,klima_miljø
+Kristendemokraterne,Uden for folketingsgrupperne,67,74,57.0,0.7702702702702703,klima_miljø
+Kristendemokraterne,Venstre,67,1162,1162.0,1.0,klima_miljø
+Liberal Alliance,Danmarksdemokraterne,67,326,271.0,0.8312883435582822,klima_miljø
+Liberal Alliance,Dansk Folkeparti,67,1001,829.0,0.8281718281718282,klima_miljø
+Liberal Alliance,Det Konservative Folkeparti,67,861,768.0,0.89198606271777,klima_miljø
+Liberal Alliance,Enhedslisten,67,172,76.0,0.4418604651162791,klima_miljø
+Liberal Alliance,Inuit Ataqatigiit,67,5,4.0,0.8,klima_miljø
+Liberal Alliance,Javnaðarflokkurin,67,1,1.0,1.0,klima_miljø
+Liberal Alliance,Kristendemokraterne,67,47,44.0,0.9361702127659575,klima_miljø
+Liberal Alliance,Moderaterne,67,6,5.0,0.8333333333333334,klima_miljø
+Liberal Alliance,Not able to assign,67,14,7.0,0.5,klima_miljø
+Liberal Alliance,Radikale Venstre,67,374,250.0,0.6684491978609626,klima_miljø
+Liberal Alliance,Sambandsflokkurin,67,3,2.0,0.6666666666666666,klima_miljø
+Liberal Alliance,Siumut,67,7,6.0,0.8571428571428571,klima_miljø
+Liberal Alliance,Socialdemokratiet,67,2357,1456.0,0.6177344081459483,klima_miljø
+Liberal Alliance,Socialistisk Folkeparti,67,1038,625.0,0.6021194605009634,klima_miljø
+Liberal Alliance,Tjóðveldi,67,4,3.0,0.75,klima_miljø
+Liberal Alliance,Uden for folketingsgrupperne,67,157,124.0,0.7898089171974523,klima_miljø
+Liberal Alliance,Venstre,67,2330,2112.0,0.9064377682403434,klima_miljø
+Moderaterne,Danmarksdemokraterne,67,14,5.0,0.35714285714285715,klima_miljø
+Moderaterne,Dansk Folkeparti,67,46,21.0,0.45652173913043476,klima_miljø
+Moderaterne,Det Konservative Folkeparti,67,31,31.0,1.0,klima_miljø
+Moderaterne,Enhedslisten,67,10,8.0,0.8,klima_miljø
+Moderaterne,Kristendemokraterne,67,6,6.0,1.0,klima_miljø
+Moderaterne,Not able to assign,67,3,3.0,1.0,klima_miljø
+Moderaterne,Radikale Venstre,67,35,27.0,0.7714285714285715,klima_miljø
+Moderaterne,Socialdemokratiet,67,134,117.0,0.8731343283582089,klima_miljø
+Moderaterne,Socialistisk Folkeparti,67,30,22.0,0.7333333333333333,klima_miljø
+Moderaterne,Uden for folketingsgrupperne,67,18,15.0,0.8333333333333334,klima_miljø
+Moderaterne,Venstre,67,97,96.0,0.9896907216494846,klima_miljø
+Not able to assign,Danmarksdemokraterne,67,26,6.0,0.23076923076923078,klima_miljø
+Not able to assign,Dansk Folkeparti,67,72,20.0,0.2777777777777778,klima_miljø
+Not able to assign,Det Konservative Folkeparti,67,82,57.0,0.6951219512195121,klima_miljø
+Not able to assign,Enhedslisten,67,16,12.0,0.75,klima_miljø
+Not able to assign,Kristendemokraterne,67,8,5.0,0.625,klima_miljø
+Not able to assign,Moderaterne,67,1,1.0,1.0,klima_miljø
+Not able to assign,Not able to assign,67,14,14.0,1.0,klima_miljø
+Not able to assign,Radikale Venstre,67,34,33.0,0.9705882352941176,klima_miljø
+Not able to assign,Sambandsflokkurin,67,2,1.0,0.5,klima_miljø
+Not able to assign,Socialdemokratiet,67,241,234.0,0.970954356846473,klima_miljø
+Not able to assign,Socialistisk Folkeparti,67,102,81.0,0.7941176470588235,klima_miljø
+Not able to assign,Uden for folketingsgrupperne,67,25,14.0,0.56,klima_miljø
+Not able to assign,Venstre,67,259,185.0,0.7142857142857143,klima_miljø
+Radikale Venstre,Danmarksdemokraterne,67,1730,852.0,0.49248554913294795,klima_miljø
+Radikale Venstre,Dansk Folkeparti,67,8420,4326.0,0.5137767220902613,klima_miljø
+Radikale Venstre,Det Konservative Folkeparti,67,5962,3406.0,0.5712848037571285,klima_miljø
+Radikale Venstre,Enhedslisten,67,1644,1138.0,0.6922141119221411,klima_miljø
+Radikale Venstre,Inuit Ataqatigiit,67,6,4.0,0.6666666666666666,klima_miljø
+Radikale Venstre,Javnaðarflokkurin,67,4,4.0,1.0,klima_miljø
+Radikale Venstre,Kristendemokraterne,67,696,398.0,0.5718390804597702,klima_miljø
+Radikale Venstre,Liberal Alliance,67,397,221.0,0.5566750629722922,klima_miljø
+Radikale Venstre,Moderaterne,67,12,8.0,0.6666666666666666,klima_miljø
+Radikale Venstre,Not able to assign,67,101,98.0,0.9702970297029703,klima_miljø
+Radikale Venstre,Radikale Venstre,67,2368,2334.0,0.9856418918918919,klima_miljø
+Radikale Venstre,Sambandsflokkurin,67,14,9.0,0.6428571428571429,klima_miljø
+Radikale Venstre,Siumut,67,25,22.0,0.88,klima_miljø
+Radikale Venstre,Socialdemokratiet,67,20585,17850.0,0.8671362642700996,klima_miljø
+Radikale Venstre,Socialistisk Folkeparti,67,8017,6764.0,0.8437071223649745,klima_miljø
+Radikale Venstre,Uden for folketingsgrupperne,67,1752,1013.0,0.5781963470319634,klima_miljø
+Radikale Venstre,Venstre,67,18878,10925.0,0.5787159656743299,klima_miljø
+Sambandsflokkurin,Danmarksdemokraterne,67,38,34.0,0.8947368421052632,klima_miljø
+Sambandsflokkurin,Dansk Folkeparti,67,135,115.0,0.8518518518518519,klima_miljø
+Sambandsflokkurin,Det Konservative Folkeparti,67,100,100.0,1.0,klima_miljø
+Sambandsflokkurin,Enhedslisten,67,29,9.0,0.3103448275862069,klima_miljø
+Sambandsflokkurin,Inuit Ataqatigiit,67,1,1.0,1.0,klima_miljø
+Sambandsflokkurin,Javnaðarflokkurin,67,1,1.0,1.0,klima_miljø
+Sambandsflokkurin,Kristendemokraterne,67,4,4.0,1.0,klima_miljø
+Sambandsflokkurin,Liberal Alliance,67,9,8.0,0.8888888888888888,klima_miljø
+Sambandsflokkurin,Moderaterne,67,1,1.0,1.0,klima_miljø
+Sambandsflokkurin,Not able to assign,67,3,2.0,0.6666666666666666,klima_miljø
+Sambandsflokkurin,Radikale Venstre,67,45,33.0,0.7333333333333333,klima_miljø
+Sambandsflokkurin,Siumut,67,2,1.0,0.5,klima_miljø
+Sambandsflokkurin,Socialdemokratiet,67,340,232.0,0.6823529411764706,klima_miljø
+Sambandsflokkurin,Socialistisk Folkeparti,67,147,71.0,0.48299319727891155,klima_miljø
+Sambandsflokkurin,Uden for folketingsgrupperne,67,32,27.0,0.84375,klima_miljø
+Sambandsflokkurin,Venstre,67,316,315.0,0.9968354430379747,klima_miljø
+Siumut,Danmarksdemokraterne,67,34,15.0,0.4411764705882353,klima_miljø
+Siumut,Dansk Folkeparti,67,92,37.0,0.40217391304347827,klima_miljø
+Siumut,Det Konservative Folkeparti,67,58,47.0,0.8103448275862069,klima_miljø
+Siumut,Enhedslisten,67,21,13.0,0.6190476190476191,klima_miljø
+Siumut,Javnaðarflokkurin,67,1,1.0,1.0,klima_miljø
+Siumut,Kristendemokraterne,67,11,10.0,0.9090909090909091,klima_miljø
+Siumut,Liberal Alliance,67,5,4.0,0.8,klima_miljø
+Siumut,Moderaterne,67,3,2.0,0.6666666666666666,klima_miljø
+Siumut,Not able to assign,67,2,2.0,1.0,klima_miljø
+Siumut,Radikale Venstre,67,56,49.0,0.875,klima_miljø
+Siumut,Socialdemokratiet,67,274,243.0,0.8868613138686131,klima_miljø
+Siumut,Socialistisk Folkeparti,67,69,60.0,0.8695652173913043,klima_miljø
+Siumut,Uden for folketingsgrupperne,67,33,23.0,0.696969696969697,klima_miljø
+Siumut,Venstre,67,187,152.0,0.8128342245989305,klima_miljø
+Socialdemokratiet,Danmarksdemokraterne,67,9524,4772.0,0.50104997900042,klima_miljø
+Socialdemokratiet,Dansk Folkeparti,67,47114,24456.0,0.5190813770853674,klima_miljø
+Socialdemokratiet,Det Konservative Folkeparti,67,34507,20600.0,0.5969803228330484,klima_miljø
+Socialdemokratiet,Enhedslisten,67,9569,7269.0,0.7596405057999791,klima_miljø
+Socialdemokratiet,Inuit Ataqatigiit,67,77,57.0,0.7402597402597403,klima_miljø
+Socialdemokratiet,Javnaðarflokkurin,67,25,25.0,1.0,klima_miljø
+Socialdemokratiet,Kristendemokraterne,67,3596,2010.0,0.5589543937708565,klima_miljø
+Socialdemokratiet,Liberal Alliance,67,2440,1459.0,0.5979508196721312,klima_miljø
+Socialdemokratiet,Moderaterne,67,112,95.0,0.8482142857142857,klima_miljø
+Socialdemokratiet,Not able to assign,67,656,643.0,0.9801829268292683,klima_miljø
+Socialdemokratiet,Radikale Venstre,67,16902,14801.0,0.8756951840018933,klima_miljø
+Socialdemokratiet,Sambandsflokkurin,67,59,39.0,0.6610169491525424,klima_miljø
+Socialdemokratiet,Siumut,67,242,213.0,0.8801652892561983,klima_miljø
+Socialdemokratiet,Socialdemokratiet,67,116389,115403.0,0.9915284090420916,klima_miljø
+Socialdemokratiet,Socialistisk Folkeparti,67,44661,42544.0,0.9525984639842368,klima_miljø
+Socialdemokratiet,Tjóðveldi,67,20,15.0,0.75,klima_miljø
+Socialdemokratiet,Uden for folketingsgrupperne,67,10626,6309.0,0.5937323546019199,klima_miljø
+Socialdemokratiet,Venstre,67,106737,63085.0,0.5910321631674115,klima_miljø
+Socialistisk Folkeparti,Danmarksdemokraterne,67,5196,2454.0,0.4722863741339492,klima_miljø
+Socialistisk Folkeparti,Dansk Folkeparti,67,22577,10883.0,0.4820392434778757,klima_miljø
+Socialistisk Folkeparti,Det Konservative Folkeparti,67,17265,9534.0,0.5522154648132059,klima_miljø
+Socialistisk Folkeparti,Enhedslisten,67,4450,3614.0,0.8121348314606741,klima_miljø
+Socialistisk Folkeparti,Inuit Ataqatigiit,67,47,34.0,0.723404255319149,klima_miljø
+Socialistisk Folkeparti,Javnaðarflokkurin,67,11,11.0,1.0,klima_miljø
+Socialistisk Folkeparti,Kristendemokraterne,67,1527,774.0,0.5068762278978389,klima_miljø
+Socialistisk Folkeparti,Liberal Alliance,67,1076,570.0,0.5297397769516728,klima_miljø
+Socialistisk Folkeparti,Moderaterne,67,72,54.0,0.75,klima_miljø
+Socialistisk Folkeparti,Not able to assign,67,256,224.0,0.875,klima_miljø
+Socialistisk Folkeparti,Radikale Venstre,67,8052,6858.0,0.8517138599105812,klima_miljø
+Socialistisk Folkeparti,Sambandsflokkurin,67,21,9.0,0.42857142857142855,klima_miljø
+Socialistisk Folkeparti,Siumut,67,136,119.0,0.875,klima_miljø
+Socialistisk Folkeparti,Socialdemokratiet,67,58223,55297.0,0.9497449461552995,klima_miljø
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,20692,20617.0,0.9963754107867775,klima_miljø
+Socialistisk Folkeparti,Tjóðveldi,67,23,17.0,0.7391304347826086,klima_miljø
+Socialistisk Folkeparti,Uden for folketingsgrupperne,67,5117,2873.0,0.5614617940199336,klima_miljø
+Socialistisk Folkeparti,Venstre,67,54125,29382.0,0.5428545034642033,klima_miljø
+Tjóðveldi,Danmarksdemokraterne,67,8,0.0,0.0,klima_miljø
+Tjóðveldi,Dansk Folkeparti,67,44,0.0,0.0,klima_miljø
+Tjóðveldi,Det Konservative Folkeparti,67,27,20.0,0.7407407407407407,klima_miljø
+Tjóðveldi,Enhedslisten,67,8,6.0,0.75,klima_miljø
+Tjóðveldi,Inuit Ataqatigiit,67,4,4.0,1.0,klima_miljø
+Tjóðveldi,Kristendemokraterne,67,4,3.0,0.75,klima_miljø
+Tjóðveldi,Moderaterne,67,4,3.0,0.75,klima_miljø
+Tjóðveldi,Radikale Venstre,67,24,18.0,0.75,klima_miljø
+Tjóðveldi,Siumut,67,3,3.0,1.0,klima_miljø
+Tjóðveldi,Socialdemokratiet,67,96,72.0,0.75,klima_miljø
+Tjóðveldi,Socialistisk Folkeparti,67,30,22.0,0.7333333333333333,klima_miljø
+Tjóðveldi,Uden for folketingsgrupperne,67,8,6.0,0.75,klima_miljø
+Tjóðveldi,Venstre,67,79,59.0,0.7468354430379747,klima_miljø
+Uden for folketingsgrupperne,Danmarksdemokraterne,67,651,540.0,0.8294930875576036,klima_miljø
+Uden for folketingsgrupperne,Dansk Folkeparti,67,3243,2794.0,0.8615479494295405,klima_miljø
+Uden for folketingsgrupperne,Det Konservative Folkeparti,67,2346,1979.0,0.8435635123614663,klima_miljø
+Uden for folketingsgrupperne,Enhedslisten,67,594,265.0,0.44612794612794615,klima_miljø
+Uden for folketingsgrupperne,Inuit Ataqatigiit,67,1,0.0,0.0,klima_miljø
+Uden for folketingsgrupperne,Javnaðarflokkurin,67,1,0.0,0.0,klima_miljø
+Uden for folketingsgrupperne,Kristendemokraterne,67,254,228.0,0.8976377952755905,klima_miljø
+Uden for folketingsgrupperne,Liberal Alliance,67,178,131.0,0.7359550561797753,klima_miljø
+Uden for folketingsgrupperne,Moderaterne,67,5,2.0,0.4,klima_miljø
+Uden for folketingsgrupperne,Not able to assign,67,59,31.0,0.5254237288135594,klima_miljø
+Uden for folketingsgrupperne,Radikale Venstre,67,1075,663.0,0.6167441860465116,klima_miljø
+Uden for folketingsgrupperne,Sambandsflokkurin,67,2,1.0,0.5,klima_miljø
+Uden for folketingsgrupperne,Siumut,67,6,3.0,0.5,klima_miljø
+Uden for folketingsgrupperne,Socialdemokratiet,67,7866,4861.0,0.6179760996694635,klima_miljø
+Uden for folketingsgrupperne,Socialistisk Folkeparti,67,2793,1669.0,0.5975653419262442,klima_miljø
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,67,562,436.0,0.7758007117437722,klima_miljø
+Uden for folketingsgrupperne,Venstre,67,7181,6033.0,0.8401336861161398,klima_miljø
+Venstre,Danmarksdemokraterne,67,12130,11147.0,0.9189612530915087,klima_miljø
+Venstre,Dansk Folkeparti,67,53029,49521.0,0.9338475173961417,klima_miljø
+Venstre,Det Konservative Folkeparti,67,40771,40757.0,0.9996566186750386,klima_miljø
+Venstre,Enhedslisten,67,10611,3950.0,0.3722552068608048,klima_miljø
+Venstre,Inuit Ataqatigiit,67,106,78.0,0.7358490566037735,klima_miljø
+Venstre,Javnaðarflokkurin,67,24,24.0,1.0,klima_miljø
+Venstre,Kristendemokraterne,67,3406,3405.0,0.9997064004697592,klima_miljø
+Venstre,Liberal Alliance,67,2502,1898.0,0.7585931254996003,klima_miljø
+Venstre,Moderaterne,67,159,159.0,1.0,klima_miljø
+Venstre,Not able to assign,67,658,497.0,0.7553191489361702,klima_miljø
+Venstre,Radikale Venstre,67,18825,11326.0,0.6016467463479416,klima_miljø
+Venstre,Sambandsflokkurin,67,61,61.0,1.0,klima_miljø
+Venstre,Siumut,67,325,270.0,0.8307692307692308,klima_miljø
+Venstre,Socialdemokratiet,67,135113,79892.0,0.5912976545558163,klima_miljø
+Venstre,Socialistisk Folkeparti,67,49683,27286.0,0.5492019403015116,klima_miljø
+Venstre,Tjóðveldi,67,45,33.0,0.7333333333333333,klima_miljø
+Venstre,Uden for folketingsgrupperne,67,11395,10317.0,0.9053971039929793,klima_miljø
+Venstre,Venstre,67,118007,117937.0,0.9994068148499665,klima_miljø
+Alternativet,Det Konservative Folkeparti,68,39,30.0,0.7692307692307693,klima_miljø
+Alternativet,Liberal Alliance,68,56,26.0,0.4642857142857143,klima_miljø
+Alternativet,Radikale Venstre,68,92,86.0,0.9347826086956522,klima_miljø
+Alternativet,Socialdemokratiet,68,38,29.0,0.7631578947368421,klima_miljø
+Alternativet,Socialistisk Folkeparti,68,130,122.0,0.9384615384615385,klima_miljø
+Alternativet,Venstre,68,17,6.0,0.35294117647058826,klima_miljø
+Danmarksdemokraterne,Alternativet,68,716,400.0,0.5586592178770949,klima_miljø
+Danmarksdemokraterne,Danmarksdemokraterne,68,2548,2410.0,0.945839874411303,klima_miljø
+Danmarksdemokraterne,Dansk Folkeparti,68,5910,5755.0,0.9737732656514383,klima_miljø
+Danmarksdemokraterne,Det Konservative Folkeparti,68,4045,3096.0,0.765389369592089,klima_miljø
+Danmarksdemokraterne,Enhedslisten,68,7068,3330.0,0.47113752122241087,klima_miljø
+Danmarksdemokraterne,Inuit Ataqatigiit,68,9,0.0,0.0,klima_miljø
+Danmarksdemokraterne,Javnaðarflokkurin,68,14,2.0,0.14285714285714285,klima_miljø
+Danmarksdemokraterne,Liberal Alliance,68,4637,2864.0,0.6176407159801596,klima_miljø
+Danmarksdemokraterne,Moderaterne,68,238,198.0,0.8319327731092437,klima_miljø
+Danmarksdemokraterne,Radikale Venstre,68,9209,5427.0,0.589314800738408,klima_miljø
+Danmarksdemokraterne,Sambandsflokkurin,68,12,12.0,1.0,klima_miljø
+Danmarksdemokraterne,Siumut,68,6,0.0,0.0,klima_miljø
+Danmarksdemokraterne,Socialdemokratiet,68,25093,14742.0,0.5874945203841709,klima_miljø
+Danmarksdemokraterne,Socialistisk Folkeparti,68,6326,3488.0,0.551375276636105,klima_miljø
+Danmarksdemokraterne,Uden for folketingsgrupperne,68,2271,2068.0,0.9106120651695289,klima_miljø
+Danmarksdemokraterne,Venstre,68,20120,15960.0,0.7932405566600398,klima_miljø
+Dansk Folkeparti,Alternativet,68,987,550.0,0.5572441742654508,klima_miljø
+Dansk Folkeparti,Danmarksdemokraterne,68,2290,2244.0,0.9799126637554585,klima_miljø
+Dansk Folkeparti,Dansk Folkeparti,68,5003,4996.0,0.9986008394963022,klima_miljø
+Dansk Folkeparti,Det Konservative Folkeparti,68,4285,3194.0,0.7453908984830805,klima_miljø
+Dansk Folkeparti,Enhedslisten,68,7100,3490.0,0.4915492957746479,klima_miljø
+Dansk Folkeparti,Inuit Ataqatigiit,68,8,0.0,0.0,klima_miljø
+Dansk Folkeparti,Javnaðarflokkurin,68,12,0.0,0.0,klima_miljø
+Dansk Folkeparti,Liberal Alliance,68,4325,2717.0,0.6282080924855491,klima_miljø
+Dansk Folkeparti,Moderaterne,68,133,105.0,0.7894736842105263,klima_miljø
+Dansk Folkeparti,Radikale Venstre,68,8431,4782.0,0.5671925038548215,klima_miljø
+Dansk Folkeparti,Sambandsflokkurin,68,8,8.0,1.0,klima_miljø
+Dansk Folkeparti,Siumut,68,8,0.0,0.0,klima_miljø
+Dansk Folkeparti,Socialdemokratiet,68,24573,14135.0,0.5752248402718431,klima_miljø
+Dansk Folkeparti,Socialistisk Folkeparti,68,6682,3660.0,0.5477401975456451,klima_miljø
+Dansk Folkeparti,Uden for folketingsgrupperne,68,2032,1785.0,0.8784448818897638,klima_miljø
+Dansk Folkeparti,Venstre,68,18218,14030.0,0.770117466242178,klima_miljø
+Det Konservative Folkeparti,Alternativet,68,670,438.0,0.6537313432835821,klima_miljø
+Det Konservative Folkeparti,Danmarksdemokraterne,68,1901,1447.0,0.7611783271962125,klima_miljø
+Det Konservative Folkeparti,Dansk Folkeparti,68,3865,2872.0,0.7430789133247089,klima_miljø
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,2367,2359.0,0.9966201943388255,klima_miljø
+Det Konservative Folkeparti,Enhedslisten,68,5037,2695.0,0.5350406988286679,klima_miljø
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,5,1.0,0.2,klima_miljø
+Det Konservative Folkeparti,Javnaðarflokkurin,68,4,4.0,1.0,klima_miljø
+Det Konservative Folkeparti,Liberal Alliance,68,2937,1807.0,0.6152536601974804,klima_miljø
+Det Konservative Folkeparti,Moderaterne,68,134,125.0,0.9328358208955224,klima_miljø
+Det Konservative Folkeparti,Radikale Venstre,68,6005,4397.0,0.7322231473771856,klima_miljø
+Det Konservative Folkeparti,Sambandsflokkurin,68,9,9.0,1.0,klima_miljø
+Det Konservative Folkeparti,Siumut,68,4,3.0,0.75,klima_miljø
+Det Konservative Folkeparti,Socialdemokratiet,68,16921,12308.0,0.7273801784764494,klima_miljø
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,4396,2971.0,0.6758416742493175,klima_miljø
+Det Konservative Folkeparti,Uden for folketingsgrupperne,68,1392,1030.0,0.7399425287356322,klima_miljø
+Det Konservative Folkeparti,Venstre,68,13049,12028.0,0.9217564564334432,klima_miljø
+Enhedslisten,Alternativet,68,1173,943.0,0.803921568627451,klima_miljø
+Enhedslisten,Danmarksdemokraterne,68,2743,1249.0,0.4553408676631425,klima_miljø
+Enhedslisten,Dansk Folkeparti,68,6319,2953.0,0.4673207786042095,klima_miljø
+Enhedslisten,Det Konservative Folkeparti,68,4568,2387.0,0.5225481611208407,klima_miljø
+Enhedslisten,Enhedslisten,68,6982,6831.0,0.9783729590375251,klima_miljø
+Enhedslisten,Inuit Ataqatigiit,68,9,9.0,1.0,klima_miljø
+Enhedslisten,Javnaðarflokkurin,68,14,14.0,1.0,klima_miljø
+Enhedslisten,Liberal Alliance,68,5076,1663.0,0.3276201733648542,klima_miljø
+Enhedslisten,Moderaterne,68,234,92.0,0.39316239316239315,klima_miljø
+Enhedslisten,Radikale Venstre,68,9644,7470.0,0.7745748652011614,klima_miljø
+Enhedslisten,Sambandsflokkurin,68,2,1.0,0.5,klima_miljø
+Enhedslisten,Siumut,68,4,4.0,1.0,klima_miljø
+Enhedslisten,Socialdemokratiet,68,27587,21272.0,0.7710878312248522,klima_miljø
+Enhedslisten,Socialistisk Folkeparti,68,7532,6088.0,0.8082846521508231,klima_miljø
+Enhedslisten,Uden for folketingsgrupperne,68,2529,1150.0,0.45472518782127325,klima_miljø
+Enhedslisten,Venstre,68,20858,9949.0,0.4769872470994343,klima_miljø
+Inuit Ataqatigiit,Alternativet,68,2,2.0,1.0,klima_miljø
+Inuit Ataqatigiit,Danmarksdemokraterne,68,2,1.0,0.5,klima_miljø
+Inuit Ataqatigiit,Dansk Folkeparti,68,5,0.0,0.0,klima_miljø
+Inuit Ataqatigiit,Det Konservative Folkeparti,68,5,4.0,0.8,klima_miljø
+Inuit Ataqatigiit,Enhedslisten,68,7,7.0,1.0,klima_miljø
+Inuit Ataqatigiit,Liberal Alliance,68,5,4.0,0.8,klima_miljø
+Inuit Ataqatigiit,Radikale Venstre,68,6,6.0,1.0,klima_miljø
+Inuit Ataqatigiit,Siumut,68,1,1.0,1.0,klima_miljø
+Inuit Ataqatigiit,Socialdemokratiet,68,21,21.0,1.0,klima_miljø
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,7,7.0,1.0,klima_miljø
+Inuit Ataqatigiit,Uden for folketingsgrupperne,68,2,0.0,0.0,klima_miljø
+Inuit Ataqatigiit,Venstre,68,18,13.0,0.7222222222222222,klima_miljø
+Javnaðarflokkurin,Alternativet,68,2,2.0,1.0,klima_miljø
+Javnaðarflokkurin,Danmarksdemokraterne,68,2,0.0,0.0,klima_miljø
+Javnaðarflokkurin,Det Konservative Folkeparti,68,2,2.0,1.0,klima_miljø
+Javnaðarflokkurin,Enhedslisten,68,2,2.0,1.0,klima_miljø
+Javnaðarflokkurin,Liberal Alliance,68,2,0.0,0.0,klima_miljø
+Javnaðarflokkurin,Radikale Venstre,68,4,4.0,1.0,klima_miljø
+Javnaðarflokkurin,Socialdemokratiet,68,6,6.0,1.0,klima_miljø
+Javnaðarflokkurin,Socialistisk Folkeparti,68,3,3.0,1.0,klima_miljø
+Javnaðarflokkurin,Venstre,68,8,8.0,1.0,klima_miljø
+Liberal Alliance,Alternativet,68,586,243.0,0.41467576791808874,klima_miljø
+Liberal Alliance,Danmarksdemokraterne,68,790,497.0,0.6291139240506329,klima_miljø
+Liberal Alliance,Dansk Folkeparti,68,3076,1896.0,0.6163849154746424,klima_miljø
+Liberal Alliance,Det Konservative Folkeparti,68,2363,1527.0,0.6462124418112569,klima_miljø
+Liberal Alliance,Enhedslisten,68,3658,1299.0,0.35511208310552217,klima_miljø
+Liberal Alliance,Inuit Ataqatigiit,68,4,1.0,0.25,klima_miljø
+Liberal Alliance,Javnaðarflokkurin,68,4,0.0,0.0,klima_miljø
+Liberal Alliance,Liberal Alliance,68,1915,1904.0,0.9942558746736292,klima_miljø
+Liberal Alliance,Moderaterne,68,40,35.0,0.875,klima_miljø
+Liberal Alliance,Radikale Venstre,68,4288,1953.0,0.4554570895522388,klima_miljø
+Liberal Alliance,Sambandsflokkurin,68,1,1.0,1.0,klima_miljø
+Liberal Alliance,Siumut,68,3,3.0,1.0,klima_miljø
+Liberal Alliance,Socialdemokratiet,68,13151,5893.0,0.448102805870276,klima_miljø
+Liberal Alliance,Socialistisk Folkeparti,68,3540,1451.0,0.40988700564971753,klima_miljø
+Liberal Alliance,Uden for folketingsgrupperne,68,1039,802.0,0.7718960538979788,klima_miljø
+Liberal Alliance,Venstre,68,8175,5645.0,0.690519877675841,klima_miljø
+Moderaterne,Alternativet,68,61,36.0,0.5901639344262295,klima_miljø
+Moderaterne,Danmarksdemokraterne,68,132,103.0,0.7803030303030303,klima_miljø
+Moderaterne,Dansk Folkeparti,68,349,262.0,0.7507163323782235,klima_miljø
+Moderaterne,Det Konservative Folkeparti,68,237,217.0,0.9156118143459916,klima_miljø
+Moderaterne,Enhedslisten,68,383,191.0,0.49869451697127937,klima_miljø
+Moderaterne,Inuit Ataqatigiit,68,1,0.0,0.0,klima_miljø
+Moderaterne,Liberal Alliance,68,292,200.0,0.684931506849315,klima_miljø
+Moderaterne,Moderaterne,68,3,3.0,1.0,klima_miljø
+Moderaterne,Radikale Venstre,68,535,387.0,0.7233644859813084,klima_miljø
+Moderaterne,Socialdemokratiet,68,1466,1077.0,0.7346521145975443,klima_miljø
+Moderaterne,Socialistisk Folkeparti,68,309,197.0,0.6375404530744336,klima_miljø
+Moderaterne,Uden for folketingsgrupperne,68,150,117.0,0.78,klima_miljø
+Moderaterne,Venstre,68,930,929.0,0.9989247311827957,klima_miljø
+Radikale Venstre,Alternativet,68,1288,1174.0,0.9114906832298136,klima_miljø
+Radikale Venstre,Danmarksdemokraterne,68,2620,1538.0,0.5870229007633587,klima_miljø
+Radikale Venstre,Dansk Folkeparti,68,7846,4563.0,0.5815702268671935,klima_miljø
+Radikale Venstre,Det Konservative Folkeparti,68,5604,4104.0,0.7323340471092077,klima_miljø
+Radikale Venstre,Enhedslisten,68,9458,7430.0,0.7855783463734405,klima_miljø
+Radikale Venstre,Inuit Ataqatigiit,68,13,13.0,1.0,klima_miljø
+Radikale Venstre,Javnaðarflokkurin,68,16,16.0,1.0,klima_miljø
+Radikale Venstre,Liberal Alliance,68,6250,2683.0,0.42928,klima_miljø
+Radikale Venstre,Moderaterne,68,169,127.0,0.7514792899408284,klima_miljø
+Radikale Venstre,Radikale Venstre,68,10543,10522.0,0.9980081570710424,klima_miljø
+Radikale Venstre,Sambandsflokkurin,68,9,5.0,0.5555555555555556,klima_miljø
+Radikale Venstre,Siumut,68,9,9.0,1.0,klima_miljø
+Radikale Venstre,Socialdemokratiet,68,33230,33199.0,0.9990671080349082,klima_miljø
+Radikale Venstre,Socialistisk Folkeparti,68,8476,8143.0,0.9607126002831524,klima_miljø
+Radikale Venstre,Uden for folketingsgrupperne,68,2775,1546.0,0.5571171171171171,klima_miljø
+Radikale Venstre,Venstre,68,22825,15939.0,0.6983132530120482,klima_miljø
+Sambandsflokkurin,Alternativet,68,7,5.0,0.7142857142857143,klima_miljø
+Sambandsflokkurin,Danmarksdemokraterne,68,28,28.0,1.0,klima_miljø
+Sambandsflokkurin,Dansk Folkeparti,68,36,36.0,1.0,klima_miljø
+Sambandsflokkurin,Det Konservative Folkeparti,68,25,25.0,1.0,klima_miljø
+Sambandsflokkurin,Enhedslisten,68,54,30.0,0.5555555555555556,klima_miljø
+Sambandsflokkurin,Liberal Alliance,68,29,11.0,0.3793103448275862,klima_miljø
+Sambandsflokkurin,Moderaterne,68,3,3.0,1.0,klima_miljø
+Sambandsflokkurin,Radikale Venstre,68,60,44.0,0.7333333333333333,klima_miljø
+Sambandsflokkurin,Socialdemokratiet,68,174,124.0,0.7126436781609196,klima_miljø
+Sambandsflokkurin,Socialistisk Folkeparti,68,48,38.0,0.7916666666666666,klima_miljø
+Sambandsflokkurin,Uden for folketingsgrupperne,68,19,17.0,0.8947368421052632,klima_miljø
+Sambandsflokkurin,Venstre,68,154,154.0,1.0,klima_miljø
+Siumut,Alternativet,68,2,2.0,1.0,klima_miljø
+Siumut,Danmarksdemokraterne,68,5,1.0,0.2,klima_miljø
+Siumut,Dansk Folkeparti,68,5,0.0,0.0,klima_miljø
+Siumut,Det Konservative Folkeparti,68,6,2.0,0.3333333333333333,klima_miljø
+Siumut,Enhedslisten,68,12,12.0,1.0,klima_miljø
+Siumut,Inuit Ataqatigiit,68,1,1.0,1.0,klima_miljø
+Siumut,Liberal Alliance,68,6,2.0,0.3333333333333333,klima_miljø
+Siumut,Moderaterne,68,1,0.0,0.0,klima_miljø
+Siumut,Radikale Venstre,68,10,10.0,1.0,klima_miljø
+Siumut,Socialdemokratiet,68,35,35.0,1.0,klima_miljø
+Siumut,Socialistisk Folkeparti,68,9,9.0,1.0,klima_miljø
+Siumut,Uden for folketingsgrupperne,68,3,0.0,0.0,klima_miljø
+Siumut,Venstre,68,29,5.0,0.1724137931034483,klima_miljø
+Socialdemokratiet,Alternativet,68,4245,3900.0,0.9187279151943463,klima_miljø
+Socialdemokratiet,Danmarksdemokraterne,68,11318,6602.0,0.5833186075278318,klima_miljø
+Socialdemokratiet,Dansk Folkeparti,68,25176,14263.0,0.5665316174134096,klima_miljø
+Socialdemokratiet,Det Konservative Folkeparti,68,18681,13633.0,0.7297789197580429,klima_miljø
+Socialdemokratiet,Enhedslisten,68,30975,24311.0,0.7848587570621469,klima_miljø
+Socialdemokratiet,Inuit Ataqatigiit,68,40,40.0,1.0,klima_miljø
+Socialdemokratiet,Javnaðarflokkurin,68,51,51.0,1.0,klima_miljø
+Socialdemokratiet,Liberal Alliance,68,19202,8017.0,0.41750859285491093,klima_miljø
+Socialdemokratiet,Moderaterne,68,686,467.0,0.6807580174927114,klima_miljø
+Socialdemokratiet,Radikale Venstre,68,37625,37580.0,0.9988039867109635,klima_miljø
+Socialdemokratiet,Sambandsflokkurin,68,39,29.0,0.7435897435897436,klima_miljø
+Socialdemokratiet,Siumut,68,26,26.0,1.0,klima_miljø
+Socialdemokratiet,Socialdemokratiet,68,105345,105287.0,0.9994494280696758,klima_miljø
+Socialdemokratiet,Socialistisk Folkeparti,68,28983,27892.0,0.9623572439015975,klima_miljø
+Socialdemokratiet,Uden for folketingsgrupperne,68,9257,5057.0,0.5462892945878794,klima_miljø
+Socialdemokratiet,Venstre,68,81029,55823.0,0.688926186920732,klima_miljø
+Socialistisk Folkeparti,Alternativet,68,979,926.0,0.9458631256384066,klima_miljø
+Socialistisk Folkeparti,Danmarksdemokraterne,68,3140,1759.0,0.5601910828025478,klima_miljø
+Socialistisk Folkeparti,Dansk Folkeparti,68,6430,3415.0,0.531104199066874,klima_miljø
+Socialistisk Folkeparti,Det Konservative Folkeparti,68,4894,3418.0,0.6984062116877809,klima_miljø
+Socialistisk Folkeparti,Enhedslisten,68,7777,6348.0,0.8162530538768162,klima_miljø
+Socialistisk Folkeparti,Inuit Ataqatigiit,68,7,7.0,1.0,klima_miljø
+Socialistisk Folkeparti,Javnaðarflokkurin,68,12,12.0,1.0,klima_miljø
+Socialistisk Folkeparti,Liberal Alliance,68,4918,1988.0,0.40422936152907685,klima_miljø
+Socialistisk Folkeparti,Moderaterne,68,223,145.0,0.6502242152466368,klima_miljø
+Socialistisk Folkeparti,Radikale Venstre,68,10128,9771.0,0.9647511848341233,klima_miljø
+Socialistisk Folkeparti,Sambandsflokkurin,68,9,5.0,0.5555555555555556,klima_miljø
+Socialistisk Folkeparti,Siumut,68,5,5.0,1.0,klima_miljø
+Socialistisk Folkeparti,Socialdemokratiet,68,27848,26824.0,0.9632289571962079,klima_miljø
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,6643,6620.0,0.996537708866476,klima_miljø
+Socialistisk Folkeparti,Uden for folketingsgrupperne,68,2484,1315.0,0.5293880837359098,klima_miljø
+Socialistisk Folkeparti,Venstre,68,22955,15108.0,0.6581572642125898,klima_miljø
+Uden for folketingsgrupperne,Alternativet,68,297,162.0,0.5454545454545454,klima_miljø
+Uden for folketingsgrupperne,Danmarksdemokraterne,68,173,160.0,0.9248554913294798,klima_miljø
+Uden for folketingsgrupperne,Dansk Folkeparti,68,1301,1293.0,0.9938508839354343,klima_miljø
+Uden for folketingsgrupperne,Det Konservative Folkeparti,68,1027,765.0,0.744888023369036,klima_miljø
+Uden for folketingsgrupperne,Enhedslisten,68,1456,695.0,0.47733516483516486,klima_miljø
+Uden for folketingsgrupperne,Inuit Ataqatigiit,68,2,0.0,0.0,klima_miljø
+Uden for folketingsgrupperne,Javnaðarflokkurin,68,6,0.0,0.0,klima_miljø
+Uden for folketingsgrupperne,Liberal Alliance,68,1097,714.0,0.650865998176846,klima_miljø
+Uden for folketingsgrupperne,Moderaterne,68,6,5.0,0.8333333333333334,klima_miljø
+Uden for folketingsgrupperne,Radikale Venstre,68,2070,1176.0,0.5681159420289855,klima_miljø
+Uden for folketingsgrupperne,Siumut,68,1,0.0,0.0,klima_miljø
+Uden for folketingsgrupperne,Socialdemokratiet,68,5508,3151.0,0.5720769789397241,klima_miljø
+Uden for folketingsgrupperne,Socialistisk Folkeparti,68,1361,742.0,0.5451873622336517,klima_miljø
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,68,340,277.0,0.8147058823529412,klima_miljø
+Uden for folketingsgrupperne,Venstre,68,3072,2351.0,0.7652994791666666,klima_miljø
+Venstre,Alternativet,68,3829,2447.0,0.6390702533298511,klima_miljø
+Venstre,Danmarksdemokraterne,68,12768,9883.0,0.7740444862155389,klima_miljø
+Venstre,Dansk Folkeparti,68,26896,20389.0,0.7580681142177276,klima_miljø
+Venstre,Det Konservative Folkeparti,68,19129,17494.0,0.9145276804851273,klima_miljø
+Venstre,Enhedslisten,68,32186,15714.0,0.48822469396632073,klima_miljø
+Venstre,Inuit Ataqatigiit,68,35,13.0,0.37142857142857144,klima_miljø
+Venstre,Javnaðarflokkurin,68,46,46.0,1.0,klima_miljø
+Venstre,Liberal Alliance,68,21110,14256.0,0.6753197536712459,klima_miljø
+Venstre,Moderaterne,68,987,976.0,0.9888551165146909,klima_miljø
+Venstre,Radikale Venstre,68,41403,28542.0,0.689370335482936,klima_miljø
+Venstre,Sambandsflokkurin,68,27,27.0,1.0,klima_miljø
+Venstre,Siumut,68,24,21.0,0.875,klima_miljø
+Venstre,Socialdemokratiet,68,115798,79640.0,0.687749356638284,klima_miljø
+Venstre,Socialistisk Folkeparti,68,28604,18255.0,0.6381974549014124,klima_miljø
+Venstre,Uden for folketingsgrupperne,68,10265,7802.0,0.7600584510472479,klima_miljø
+Venstre,Venstre,68,86084,85358.0,0.9915663770270898,klima_miljø
+Alternativet,Alternativet,69,4160,4092.0,0.9836538461538461,klima_miljø
+Alternativet,Danmarksdemokraterne,69,2722,1154.0,0.4239529757531227,klima_miljø
+Alternativet,Dansk Folkeparti,69,9957,3902.0,0.3918851059556091,klima_miljø
+Alternativet,Det Konservative Folkeparti,69,1879,841.0,0.447578499201703,klima_miljø
+Alternativet,Enhedslisten,69,6546,5550.0,0.847846012832264,klima_miljø
+Alternativet,Liberal Alliance,69,4399,1734.0,0.3941804955671744,klima_miljø
+Alternativet,Moderaterne,69,447,155.0,0.34675615212527966,klima_miljø
+Alternativet,Radikale Venstre,69,3297,2525.0,0.7658477403700333,klima_miljø
+Alternativet,Socialdemokratiet,69,18884,10788.0,0.5712772717644566,klima_miljø
+Alternativet,Socialistisk Folkeparti,69,3250,2855.0,0.8784615384615385,klima_miljø
+Alternativet,Tjóðveldi,69,8,2.0,0.25,klima_miljø
+Alternativet,Uden for folketingsgrupperne,69,2005,808.0,0.4029925187032419,klima_miljø
+Alternativet,Venstre,69,11257,4949.0,0.4396375588522697,klima_miljø
+Danmarksdemokraterne,Alternativet,69,8036,3342.0,0.41587854654056744,klima_miljø
+Danmarksdemokraterne,Danmarksdemokraterne,69,5345,5263.0,0.9846585594013096,klima_miljø
+Danmarksdemokraterne,Dansk Folkeparti,69,20465,20303.0,0.9920840459320791,klima_miljø
+Danmarksdemokraterne,Det Konservative Folkeparti,69,4624,4340.0,0.9385813148788927,klima_miljø
+Danmarksdemokraterne,Enhedslisten,69,11798,4455.0,0.37760637396168845,klima_miljø
+Danmarksdemokraterne,Liberal Alliance,69,9570,8746.0,0.9138975966562174,klima_miljø
+Danmarksdemokraterne,Moderaterne,69,502,480.0,0.9561752988047809,klima_miljø
+Danmarksdemokraterne,Radikale Venstre,69,6020,3720.0,0.6179401993355482,klima_miljø
+Danmarksdemokraterne,Socialdemokratiet,69,36797,29023.0,0.7887327771285703,klima_miljø
+Danmarksdemokraterne,Socialistisk Folkeparti,69,5956,2950.0,0.49529885829415715,klima_miljø
+Danmarksdemokraterne,Tjóðveldi,69,28,0.0,0.0,klima_miljø
+Danmarksdemokraterne,Uden for folketingsgrupperne,69,4936,4740.0,0.960291734197731,klima_miljø
+Danmarksdemokraterne,Venstre,69,19912,18657.0,0.9369726797910808,klima_miljø
+Dansk Folkeparti,Alternativet,69,18709,7508.0,0.4013041851515313,klima_miljø
+Dansk Folkeparti,Danmarksdemokraterne,69,10138,10029.0,0.9892483724600513,klima_miljø
+Dansk Folkeparti,Dansk Folkeparti,69,39223,39223.0,1.0,klima_miljø
+Dansk Folkeparti,Det Konservative Folkeparti,69,8856,8155.0,0.9208446251129178,klima_miljø
+Dansk Folkeparti,Enhedslisten,69,24405,8952.0,0.3668100799016595,klima_miljø
+Dansk Folkeparti,Liberal Alliance,69,18025,16246.0,0.9013037447988904,klima_miljø
+Dansk Folkeparti,Moderaterne,69,907,846.0,0.9327453142227122,klima_miljø
+Dansk Folkeparti,Radikale Venstre,69,12734,7383.0,0.5797863986178734,klima_miljø
+Dansk Folkeparti,Socialdemokratiet,69,75238,57083.0,0.7586990616443818,klima_miljø
+Dansk Folkeparti,Socialistisk Folkeparti,69,12871,6180.0,0.4801491725584648,klima_miljø
+Dansk Folkeparti,Tjóðveldi,69,32,0.0,0.0,klima_miljø
+Dansk Folkeparti,Uden for folketingsgrupperne,69,9402,8899.0,0.946500744522442,klima_miljø
+Dansk Folkeparti,Venstre,69,42304,38796.0,0.9170763993948563,klima_miljø
+Det Konservative Folkeparti,Alternativet,69,5729,2545.0,0.44423110490486994,klima_miljø
+Det Konservative Folkeparti,Danmarksdemokraterne,69,3463,3230.0,0.932717297141207,klima_miljø
+Det Konservative Folkeparti,Dansk Folkeparti,69,12991,11817.0,0.9096297436686938,klima_miljø
+Det Konservative Folkeparti,Det Konservative Folkeparti,69,2335,2300.0,0.9850107066381156,klima_miljø
+Det Konservative Folkeparti,Enhedslisten,69,8039,3081.0,0.38325662395820376,klima_miljø
+Det Konservative Folkeparti,Liberal Alliance,69,5384,5144.0,0.9554234769687965,klima_miljø
+Det Konservative Folkeparti,Moderaterne,69,604,585.0,0.9685430463576159,klima_miljø
+Det Konservative Folkeparti,Radikale Venstre,69,3531,2267.0,0.6420277541772869,klima_miljø
+Det Konservative Folkeparti,Socialdemokratiet,69,22372,18188.0,0.8129805113534776,klima_miljø
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,3403,1816.0,0.5336467822509551,klima_miljø
+Det Konservative Folkeparti,Tjóðveldi,69,4,0.0,0.0,klima_miljø
+Det Konservative Folkeparti,Uden for folketingsgrupperne,69,2516,2401.0,0.9542925278219396,klima_miljø
+Det Konservative Folkeparti,Venstre,69,13090,12846.0,0.9813598166539343,klima_miljø
+Enhedslisten,Alternativet,69,9346,7991.0,0.8550181895998288,klima_miljø
+Enhedslisten,Danmarksdemokraterne,69,5500,2157.0,0.3921818181818182,klima_miljø
+Enhedslisten,Dansk Folkeparti,69,21531,7962.0,0.3697923923644977,klima_miljø
+Enhedslisten,Det Konservative Folkeparti,69,4037,1574.0,0.38989348526133266,klima_miljø
+Enhedslisten,Enhedslisten,69,11317,11295.0,0.9980560219139348,klima_miljø
+Enhedslisten,Liberal Alliance,69,9206,3279.0,0.35618075168368457,klima_miljø
+Enhedslisten,Moderaterne,69,550,187.0,0.34,klima_miljø
+Enhedslisten,Radikale Venstre,69,6214,4387.0,0.7059864821371098,klima_miljø
+Enhedslisten,Socialdemokratiet,69,38217,19927.0,0.5214171703692074,klima_miljø
+Enhedslisten,Socialistisk Folkeparti,69,6790,5573.0,0.8207658321060383,klima_miljø
+Enhedslisten,Tjóðveldi,69,20,5.0,0.25,klima_miljø
+Enhedslisten,Uden for folketingsgrupperne,69,4302,1608.0,0.3737796373779637,klima_miljø
+Enhedslisten,Venstre,69,22091,8194.0,0.3709202842786655,klima_miljø
+Inuit Ataqatigiit,Alternativet,69,113,76.0,0.672566371681416,klima_miljø
+Inuit Ataqatigiit,Danmarksdemokraterne,69,127,71.0,0.5590551181102362,klima_miljø
+Inuit Ataqatigiit,Dansk Folkeparti,69,278,153.0,0.5503597122302158,klima_miljø
+Inuit Ataqatigiit,Det Konservative Folkeparti,69,80,49.0,0.6125,klima_miljø
+Inuit Ataqatigiit,Enhedslisten,69,159,123.0,0.7735849056603774,klima_miljø
+Inuit Ataqatigiit,Liberal Alliance,69,122,68.0,0.5573770491803278,klima_miljø
+Inuit Ataqatigiit,Moderaterne,69,17,8.0,0.47058823529411764,klima_miljø
+Inuit Ataqatigiit,Nunatta Qitornai,69,1,1.0,1.0,klima_miljø
+Inuit Ataqatigiit,Radikale Venstre,69,76,51.0,0.6710526315789473,klima_miljø
+Inuit Ataqatigiit,Socialdemokratiet,69,511,339.0,0.6634050880626223,klima_miljø
+Inuit Ataqatigiit,Socialistisk Folkeparti,69,80,58.0,0.725,klima_miljø
+Inuit Ataqatigiit,Tjóðveldi,69,4,4.0,1.0,klima_miljø
+Inuit Ataqatigiit,Uden for folketingsgrupperne,69,48,29.0,0.6041666666666666,klima_miljø
+Inuit Ataqatigiit,Venstre,69,319,195.0,0.6112852664576802,klima_miljø
+Liberal Alliance,Alternativet,69,8039,3235.0,0.4024132354770494,klima_miljø
+Liberal Alliance,Danmarksdemokraterne,69,3882,3542.0,0.9124162802679031,klima_miljø
+Liberal Alliance,Dansk Folkeparti,69,17844,15810.0,0.8860121049092132,klima_miljø
+Liberal Alliance,Det Konservative Folkeparti,69,4057,3752.0,0.9248212965245255,klima_miljø
+Liberal Alliance,Enhedslisten,69,10655,3863.0,0.3625527921163773,klima_miljø
+Liberal Alliance,Liberal Alliance,69,6732,6701.0,0.9953951277480689,klima_miljø
+Liberal Alliance,Moderaterne,69,394,377.0,0.9568527918781726,klima_miljø
+Liberal Alliance,Radikale Venstre,69,5365,3195.0,0.5955265610438024,klima_miljø
+Liberal Alliance,Socialdemokratiet,69,31587,24611.0,0.7791496501725393,klima_miljø
+Liberal Alliance,Socialistisk Folkeparti,69,4916,2355.0,0.4790480065093572,klima_miljø
+Liberal Alliance,Tjóðveldi,69,20,0.0,0.0,klima_miljø
+Liberal Alliance,Uden for folketingsgrupperne,69,4404,4184.0,0.9500454132606722,klima_miljø
+Liberal Alliance,Venstre,69,16440,15210.0,0.9251824817518248,klima_miljø
+Moderaterne,Alternativet,69,1424,548.0,0.3848314606741573,klima_miljø
+Moderaterne,Danmarksdemokraterne,69,1438,1313.0,0.9130737134909597,klima_miljø
+Moderaterne,Dansk Folkeparti,69,4532,4125.0,0.9101941747572816,klima_miljø
+Moderaterne,Det Konservative Folkeparti,69,831,795.0,0.9566787003610109,klima_miljø
+Moderaterne,Enhedslisten,69,2428,839.0,0.34555189456342666,klima_miljø
+Moderaterne,Liberal Alliance,69,1886,1841.0,0.9761399787910923,klima_miljø
+Moderaterne,Moderaterne,69,84,79.0,0.9404761904761905,klima_miljø
+Moderaterne,Radikale Venstre,69,1179,737.0,0.6251060220525869,klima_miljø
+Moderaterne,Socialdemokratiet,69,7958,6339.0,0.7965569238502136,klima_miljø
+Moderaterne,Socialistisk Folkeparti,69,1335,620.0,0.46441947565543074,klima_miljø
+Moderaterne,Tjóðveldi,69,3,0.0,0.0,klima_miljø
+Moderaterne,Uden for folketingsgrupperne,69,877,832.0,0.9486887115165337,klima_miljø
+Moderaterne,Venstre,69,4617,4407.0,0.9545159194282001,klima_miljø
+Nunatta Qitornai,Alternativet,69,12,12.0,1.0,klima_miljø
+Nunatta Qitornai,Danmarksdemokraterne,69,12,2.0,0.16666666666666666,klima_miljø
+Nunatta Qitornai,Dansk Folkeparti,69,34,0.0,0.0,klima_miljø
+Nunatta Qitornai,Det Konservative Folkeparti,69,11,11.0,1.0,klima_miljø
+Nunatta Qitornai,Enhedslisten,69,17,17.0,1.0,klima_miljø
+Nunatta Qitornai,Liberal Alliance,69,14,14.0,1.0,klima_miljø
+Nunatta Qitornai,Moderaterne,69,2,2.0,1.0,klima_miljø
+Nunatta Qitornai,Radikale Venstre,69,8,8.0,1.0,klima_miljø
+Nunatta Qitornai,Socialdemokratiet,69,59,59.0,1.0,klima_miljø
+Nunatta Qitornai,Socialistisk Folkeparti,69,9,9.0,1.0,klima_miljø
+Nunatta Qitornai,Uden for folketingsgrupperne,69,4,2.0,0.5,klima_miljø
+Nunatta Qitornai,Venstre,69,36,36.0,1.0,klima_miljø
+Radikale Venstre,Alternativet,69,4033,3042.0,0.7542772129928094,klima_miljø
+Radikale Venstre,Danmarksdemokraterne,69,2023,1254.0,0.6198714780029659,klima_miljø
+Radikale Venstre,Dansk Folkeparti,69,8562,5015.0,0.5857276337304368,klima_miljø
+Radikale Venstre,Det Konservative Folkeparti,69,2061,1252.0,0.6074721009218825,klima_miljø
+Radikale Venstre,Enhedslisten,69,5583,3960.0,0.7092960773777539,klima_miljø
+Radikale Venstre,Liberal Alliance,69,3842,2290.0,0.5960437272254034,klima_miljø
+Radikale Venstre,Moderaterne,69,206,118.0,0.5728155339805825,klima_miljø
+Radikale Venstre,Radikale Venstre,69,2147,2139.0,0.9962738705170004,klima_miljø
+Radikale Venstre,Socialdemokratiet,69,15400,11268.0,0.7316883116883117,klima_miljø
+Radikale Venstre,Socialistisk Folkeparti,69,2141,1758.0,0.8211116300794021,klima_miljø
+Radikale Venstre,Tjóðveldi,69,6,2.0,0.3333333333333333,klima_miljø
+Radikale Venstre,Uden for folketingsgrupperne,69,1926,1161.0,0.602803738317757,klima_miljø
+Radikale Venstre,Venstre,69,8604,5426.0,0.6306369130636913,klima_miljø
+Socialdemokratiet,Alternativet,69,33571,19298.0,0.5748413809537994,klima_miljø
+Socialdemokratiet,Danmarksdemokraterne,69,20037,15590.0,0.7780605879123621,klima_miljø
+Socialdemokratiet,Dansk Folkeparti,69,76439,58188.0,0.7612344483836785,klima_miljø
+Socialdemokratiet,Det Konservative Folkeparti,69,17532,13914.0,0.7936344969199178,klima_miljø
+Socialdemokratiet,Enhedslisten,69,45779,24322.0,0.5312916402717404,klima_miljø
+Socialdemokratiet,Liberal Alliance,69,33972,26984.0,0.7943011892146473,klima_miljø
+Socialdemokratiet,Moderaterne,69,1944,1514.0,0.7788065843621399,klima_miljø
+Socialdemokratiet,Radikale Venstre,69,23429,18143.0,0.774382175935806,klima_miljø
+Socialdemokratiet,Socialdemokratiet,69,134225,132637.0,0.9881691190165767,klima_miljø
+Socialdemokratiet,Socialistisk Folkeparti,69,22581,14839.0,0.6571453877153359,klima_miljø
+Socialdemokratiet,Tjóðveldi,69,71,16.0,0.22535211267605634,klima_miljø
+Socialdemokratiet,Uden for folketingsgrupperne,69,17863,13903.0,0.778312713429995,klima_miljø
+Socialdemokratiet,Venstre,69,77048,63401.0,0.8228766483231232,klima_miljø
+Socialistisk Folkeparti,Alternativet,69,4457,3830.0,0.8593224141799417,klima_miljø
+Socialistisk Folkeparti,Danmarksdemokraterne,69,2474,1289.0,0.521018593371059,klima_miljø
+Socialistisk Folkeparti,Dansk Folkeparti,69,9636,4690.0,0.4867164798671648,klima_miljø
+Socialistisk Folkeparti,Det Konservative Folkeparti,69,2508,1312.0,0.5231259968102073,klima_miljø
+Socialistisk Folkeparti,Enhedslisten,69,5674,4593.0,0.8094818470215016,klima_miljø
+Socialistisk Folkeparti,Liberal Alliance,69,4789,2299.0,0.4800584673209438,klima_miljø
+Socialistisk Folkeparti,Moderaterne,69,147,79.0,0.5374149659863946,klima_miljø
+Socialistisk Folkeparti,Radikale Venstre,69,3661,3086.0,0.8429390876809615,klima_miljø
+Socialistisk Folkeparti,Socialdemokratiet,69,18554,12104.0,0.6523660666163631,klima_miljø
+Socialistisk Folkeparti,Socialistisk Folkeparti,69,2429,2325.0,0.9571840263482915,klima_miljø
+Socialistisk Folkeparti,Tjóðveldi,69,12,6.0,0.5,klima_miljø
+Socialistisk Folkeparti,Uden for folketingsgrupperne,69,2803,1380.0,0.4923296468069925,klima_miljø
+Socialistisk Folkeparti,Venstre,69,9892,5169.0,0.522543469470279,klima_miljø
+Tjóðveldi,Alternativet,69,16,4.0,0.25,klima_miljø
+Tjóðveldi,Danmarksdemokraterne,69,4,0.0,0.0,klima_miljø
+Tjóðveldi,Dansk Folkeparti,69,29,0.0,0.0,klima_miljø
+Tjóðveldi,Det Konservative Folkeparti,69,12,0.0,0.0,klima_miljø
+Tjóðveldi,Enhedslisten,69,16,4.0,0.25,klima_miljø
+Tjóðveldi,Liberal Alliance,69,8,0.0,0.0,klima_miljø
+Tjóðveldi,Radikale Venstre,69,11,3.0,0.2727272727272727,klima_miljø
+Tjóðveldi,Socialdemokratiet,69,47,12.0,0.2553191489361702,klima_miljø
+Tjóðveldi,Socialistisk Folkeparti,69,4,2.0,0.5,klima_miljø
+Tjóðveldi,Uden for folketingsgrupperne,69,12,0.0,0.0,klima_miljø
+Tjóðveldi,Venstre,69,15,0.0,0.0,klima_miljø
+Uden for folketingsgrupperne,Alternativet,69,2824,1141.0,0.4040368271954674,klima_miljø
+Uden for folketingsgrupperne,Danmarksdemokraterne,69,477,466.0,0.9769392033542977,klima_miljø
+Uden for folketingsgrupperne,Dansk Folkeparti,69,4592,4452.0,0.9695121951219512,klima_miljø
+Uden for folketingsgrupperne,Det Konservative Folkeparti,69,1010,936.0,0.9267326732673268,klima_miljø
+Uden for folketingsgrupperne,Enhedslisten,69,3511,1291.0,0.3677015095414412,klima_miljø
+Uden for folketingsgrupperne,Liberal Alliance,69,1629,1509.0,0.9263351749539595,klima_miljø
+Uden for folketingsgrupperne,Moderaterne,69,3,3.0,1.0,klima_miljø
+Uden for folketingsgrupperne,Radikale Venstre,69,1707,1030.0,0.6033977738722905,klima_miljø
+Uden for folketingsgrupperne,Socialdemokratiet,69,7852,6098.0,0.7766174223127865,klima_miljø
+Uden for folketingsgrupperne,Socialistisk Folkeparti,69,1039,492.0,0.4735322425409047,klima_miljø
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,69,926,870.0,0.9395248380129589,klima_miljø
+Uden for folketingsgrupperne,Venstre,69,4282,4012.0,0.9369453526389537,klima_miljø
+Venstre,Alternativet,69,19603,8633.0,0.44039177676886193,klima_miljø
+Venstre,Danmarksdemokraterne,69,13411,12640.0,0.9425098799492954,klima_miljø
+Venstre,Dansk Folkeparti,69,46856,43030.0,0.9183455694041318,klima_miljø
+Venstre,Det Konservative Folkeparti,69,10366,10253.0,0.989098977426201,klima_miljø
+Venstre,Enhedslisten,69,27302,10372.0,0.37989890850487146,klima_miljø
+Venstre,Liberal Alliance,69,22037,20910.0,0.9488587375777102,klima_miljø
+Venstre,Moderaterne,69,1282,1262.0,0.984399375975039,klima_miljø
+Venstre,Radikale Venstre,69,14266,9163.0,0.6422963689892051,klima_miljø
+Venstre,Socialdemokratiet,69,86485,71737.0,0.8294733190726715,klima_miljø
+Venstre,Socialistisk Folkeparti,69,14377,7473.0,0.5197885511580997,klima_miljø
+Venstre,Tjóðveldi,69,59,0.0,0.0,klima_miljø
+Venstre,Uden for folketingsgrupperne,69,10810,10254.0,0.9485661424606846,klima_miljø
+Venstre,Venstre,69,45661,45661.0,1.0,klima_miljø
+Alternativet,Alternativet,70,75,70.0,0.9333333333333333,klima_miljø
+Alternativet,Danmarksdemokraterne,70,1,0.0,0.0,klima_miljø
+Alternativet,Dansk Folkeparti,70,6,6.0,1.0,klima_miljø
+Alternativet,Det Konservative Folkeparti,70,29,9.0,0.3103448275862069,klima_miljø
+Alternativet,Enhedslisten,70,226,195.0,0.8628318584070797,klima_miljø
+Alternativet,Frie Grønne,70,12,12.0,1.0,klima_miljø
+Alternativet,Liberal Alliance,70,17,9.0,0.5294117647058824,klima_miljø
+Alternativet,Radikale Venstre,70,205,133.0,0.6487804878048781,klima_miljø
+Alternativet,Socialdemokratiet,70,293,144.0,0.49146757679180886,klima_miljø
+Alternativet,Socialistisk Folkeparti,70,140,117.0,0.8357142857142857,klima_miljø
+Alternativet,Uden for folketingsgrupperne,70,20,11.0,0.55,klima_miljø
+Alternativet,Venstre,70,417,188.0,0.45083932853717024,klima_miljø
+Borgernes Parti,Alternativet,70,140,68.0,0.4857142857142857,klima_miljø
+Borgernes Parti,Danmarksdemokraterne,70,205,150.0,0.7317073170731707,klima_miljø
+Borgernes Parti,Dansk Folkeparti,70,308,257.0,0.8344155844155844,klima_miljø
+Borgernes Parti,Det Konservative Folkeparti,70,513,361.0,0.7037037037037037,klima_miljø
+Borgernes Parti,Enhedslisten,70,506,190.0,0.37549407114624506,klima_miljø
+Borgernes Parti,Frie Grønne,70,138,53.0,0.38405797101449274,klima_miljø
+Borgernes Parti,Liberal Alliance,70,152,129.0,0.8486842105263158,klima_miljø
+Borgernes Parti,Radikale Venstre,70,614,279.0,0.4543973941368078,klima_miljø
+Borgernes Parti,Socialdemokratiet,70,1506,892.0,0.5922974767596282,klima_miljø
+Borgernes Parti,Socialistisk Folkeparti,70,281,118.0,0.4199288256227758,klima_miljø
+Borgernes Parti,Uden for folketingsgrupperne,70,324,252.0,0.7777777777777778,klima_miljø
+Borgernes Parti,Venstre,70,1224,856.0,0.6993464052287581,klima_miljø
+Danmarksdemokraterne,Alternativet,70,1620,832.0,0.5135802469135803,klima_miljø
+Danmarksdemokraterne,Borgernes Parti,70,480,375.0,0.78125,klima_miljø
+Danmarksdemokraterne,Danmarksdemokraterne,70,3825,3623.0,0.9471895424836602,klima_miljø
+Danmarksdemokraterne,Dansk Folkeparti,70,3460,3125.0,0.903179190751445,klima_miljø
+Danmarksdemokraterne,Det Konservative Folkeparti,70,6918,5727.0,0.8278404163052906,klima_miljø
+Danmarksdemokraterne,Enhedslisten,70,7631,3620.0,0.47438081509631763,klima_miljø
+Danmarksdemokraterne,Frie Grønne,70,1716,899.0,0.5238927738927739,klima_miljø
+Danmarksdemokraterne,Liberal Alliance,70,2397,1898.0,0.7918231122236129,klima_miljø
+Danmarksdemokraterne,Moderaterne,70,15,8.0,0.5333333333333333,klima_miljø
+Danmarksdemokraterne,Radikale Venstre,70,9517,6039.0,0.6345487023221603,klima_miljø
+Danmarksdemokraterne,Sambandsflokkurin,70,3,3.0,1.0,klima_miljø
+Danmarksdemokraterne,Socialdemokratiet,70,24832,17787.0,0.7162934922680413,klima_miljø
+Danmarksdemokraterne,Socialistisk Folkeparti,70,6439,3552.0,0.551638453175959,klima_miljø
+Danmarksdemokraterne,Uden for folketingsgrupperne,70,4197,3633.0,0.8656182987848463,klima_miljø
+Danmarksdemokraterne,Venstre,70,19776,16725.0,0.8457220873786407,klima_miljø
+Dansk Folkeparti,Alternativet,70,824,376.0,0.4563106796116505,klima_miljø
+Dansk Folkeparti,Borgernes Parti,70,43,33.0,0.7674418604651163,klima_miljø
+Dansk Folkeparti,Danmarksdemokraterne,70,965,878.0,0.9098445595854923,klima_miljø
+Dansk Folkeparti,Dansk Folkeparti,70,940,847.0,0.9010638297872341,klima_miljø
+Dansk Folkeparti,Det Konservative Folkeparti,70,1969,1554.0,0.7892331132554596,klima_miljø
+Dansk Folkeparti,Enhedslisten,70,3200,1316.0,0.41125,klima_miljø
+Dansk Folkeparti,Frie Grønne,70,915,457.0,0.4994535519125683,klima_miljø
+Dansk Folkeparti,Liberal Alliance,70,927,758.0,0.8176914778856527,klima_miljø
+Dansk Folkeparti,Moderaterne,70,3,1.0,0.3333333333333333,klima_miljø
+Dansk Folkeparti,Radikale Venstre,70,3379,1801.0,0.5329979283811779,klima_miljø
+Dansk Folkeparti,Sambandsflokkurin,70,1,1.0,1.0,klima_miljø
+Dansk Folkeparti,Socialdemokratiet,70,7830,4896.0,0.6252873563218391,klima_miljø
+Dansk Folkeparti,Socialistisk Folkeparti,70,2179,988.0,0.4534189995410739,klima_miljø
+Dansk Folkeparti,Uden for folketingsgrupperne,70,1034,794.0,0.7678916827852998,klima_miljø
+Dansk Folkeparti,Venstre,70,6120,4828.0,0.7888888888888889,klima_miljø
+Det Konservative Folkeparti,Alternativet,70,1882,882.0,0.46865037194473963,klima_miljø
+Det Konservative Folkeparti,Borgernes Parti,70,302,205.0,0.6788079470198676,klima_miljø
+Det Konservative Folkeparti,Danmarksdemokraterne,70,3449,2882.0,0.8356045230501594,klima_miljø
+Det Konservative Folkeparti,Dansk Folkeparti,70,3572,2711.0,0.7589585666293394,klima_miljø
+Det Konservative Folkeparti,Det Konservative Folkeparti,70,5482,5472.0,0.9981758482305728,klima_miljø
+Det Konservative Folkeparti,Enhedslisten,70,8410,4121.0,0.4900118906064209,klima_miljø
+Det Konservative Folkeparti,Frie Grønne,70,2075,1066.0,0.5137349397590362,klima_miljø
+Det Konservative Folkeparti,Liberal Alliance,70,2503,2008.0,0.8022373152217339,klima_miljø
+Det Konservative Folkeparti,Moderaterne,70,9,4.0,0.4444444444444444,klima_miljø
+Det Konservative Folkeparti,Radikale Venstre,70,9515,6696.0,0.7037309511297951,klima_miljø
+Det Konservative Folkeparti,Sambandsflokkurin,70,8,8.0,1.0,klima_miljø
+Det Konservative Folkeparti,Socialdemokratiet,70,23000,18110.0,0.7873913043478261,klima_miljø
+Det Konservative Folkeparti,Socialistisk Folkeparti,70,6340,3911.0,0.6168769716088328,klima_miljø
+Det Konservative Folkeparti,Uden for folketingsgrupperne,70,3627,2939.0,0.8103115522470361,klima_miljø
+Det Konservative Folkeparti,Venstre,70,18622,17713.0,0.9511867683385243,klima_miljø
+Enhedslisten,Alternativet,70,1860,1609.0,0.8650537634408603,klima_miljø
+Enhedslisten,Borgernes Parti,70,372,153.0,0.4112903225806452,klima_miljø
+Enhedslisten,Danmarksdemokraterne,70,3467,1644.0,0.4741851745024517,klima_miljø
+Enhedslisten,Dansk Folkeparti,70,2631,1203.0,0.4572405929304447,klima_miljø
+Enhedslisten,Det Konservative Folkeparti,70,4941,2452.0,0.49625581866019025,klima_miljø
+Enhedslisten,Enhedslisten,70,6164,6135.0,0.995295262816353,klima_miljø
+Enhedslisten,Frie Grønne,70,1666,1250.0,0.7503001200480192,klima_miljø
+Enhedslisten,Liberal Alliance,70,1791,798.0,0.4455611390284757,klima_miljø
+Enhedslisten,Moderaterne,70,11,4.0,0.36363636363636365,klima_miljø
+Enhedslisten,Radikale Venstre,70,8547,6309.0,0.7381537381537382,klima_miljø
+Enhedslisten,Sambandsflokkurin,70,1,0.0,0.0,klima_miljø
+Enhedslisten,Socialdemokratiet,70,20537,13331.0,0.6491210985051371,klima_miljø
+Enhedslisten,Socialistisk Folkeparti,70,5685,4676.0,0.8225153913808267,klima_miljø
+Enhedslisten,Uden for folketingsgrupperne,70,3142,1515.0,0.4821769573520051,klima_miljø
+Enhedslisten,Venstre,70,16875,8331.0,0.4936888888888889,klima_miljø
+Frie Grønne,Alternativet,70,300,267.0,0.89,klima_miljø
+Frie Grønne,Danmarksdemokraterne,70,90,40.0,0.4444444444444444,klima_miljø
+Frie Grønne,Dansk Folkeparti,70,1,0.0,0.0,klima_miljø
+Frie Grønne,Det Konservative Folkeparti,70,46,27.0,0.5869565217391305,klima_miljø
+Frie Grønne,Enhedslisten,70,598,460.0,0.7692307692307693,klima_miljø
+Frie Grønne,Frie Grønne,70,60,60.0,1.0,klima_miljø
+Frie Grønne,Radikale Venstre,70,323,223.0,0.6904024767801857,klima_miljø
+Frie Grønne,Socialdemokratiet,70,826,488.0,0.5907990314769975,klima_miljø
+Frie Grønne,Socialistisk Folkeparti,70,314,239.0,0.7611464968152867,klima_miljø
+Frie Grønne,Uden for folketingsgrupperne,70,3,1.0,0.3333333333333333,klima_miljø
+Frie Grønne,Venstre,70,835,466.0,0.5580838323353293,klima_miljø
+Inuit Ataqatigiit,Alternativet,70,8,6.0,0.75,klima_miljø
+Inuit Ataqatigiit,Borgernes Parti,70,5,2.0,0.4,klima_miljø
+Inuit Ataqatigiit,Danmarksdemokraterne,70,27,23.0,0.8518518518518519,klima_miljø
+Inuit Ataqatigiit,Dansk Folkeparti,70,14,10.0,0.7142857142857143,klima_miljø
+Inuit Ataqatigiit,Det Konservative Folkeparti,70,37,37.0,1.0,klima_miljø
+Inuit Ataqatigiit,Enhedslisten,70,38,31.0,0.8157894736842105,klima_miljø
+Inuit Ataqatigiit,Frie Grønne,70,5,4.0,0.8,klima_miljø
+Inuit Ataqatigiit,Liberal Alliance,70,11,9.0,0.8181818181818182,klima_miljø
+Inuit Ataqatigiit,Naleraq,70,4,4.0,1.0,klima_miljø
+Inuit Ataqatigiit,Radikale Venstre,70,43,43.0,1.0,klima_miljø
+Inuit Ataqatigiit,Sambandsflokkurin,70,1,1.0,1.0,klima_miljø
+Inuit Ataqatigiit,Socialdemokratiet,70,155,155.0,1.0,klima_miljø
+Inuit Ataqatigiit,Socialistisk Folkeparti,70,47,47.0,1.0,klima_miljø
+Inuit Ataqatigiit,Uden for folketingsgrupperne,70,22,17.0,0.7727272727272727,klima_miljø
+Inuit Ataqatigiit,Venstre,70,113,113.0,1.0,klima_miljø
+Liberal Alliance,Alternativet,70,664,299.0,0.4503012048192771,klima_miljø
+Liberal Alliance,Borgernes Parti,70,129,99.0,0.7674418604651163,klima_miljø
+Liberal Alliance,Danmarksdemokraterne,70,1299,1064.0,0.8190916089299461,klima_miljø
+Liberal Alliance,Dansk Folkeparti,70,924,736.0,0.7965367965367965,klima_miljø
+Liberal Alliance,Det Konservative Folkeparti,70,1828,1520.0,0.8315098468271335,klima_miljø
+Liberal Alliance,Enhedslisten,70,2844,1187.0,0.41736990154711673,klima_miljø
+Liberal Alliance,Frie Grønne,70,755,393.0,0.5205298013245033,klima_miljø
+Liberal Alliance,Liberal Alliance,70,525,454.0,0.8647619047619047,klima_miljø
+Liberal Alliance,Moderaterne,70,6,3.0,0.5,klima_miljø
+Liberal Alliance,Radikale Venstre,70,3393,2103.0,0.6198054818744474,klima_miljø
+Liberal Alliance,Sambandsflokkurin,70,2,2.0,1.0,klima_miljø
+Liberal Alliance,Socialdemokratiet,70,8339,6121.0,0.7340208658112484,klima_miljø
+Liberal Alliance,Socialistisk Folkeparti,70,2371,1259.0,0.5309995782370308,klima_miljø
+Liberal Alliance,Uden for folketingsgrupperne,70,1209,958.0,0.7923904052936311,klima_miljø
+Liberal Alliance,Venstre,70,6286,5309.0,0.844575246579701,klima_miljø
+Moderaterne,Alternativet,70,3,0.0,0.0,klima_miljø
+Moderaterne,Danmarksdemokraterne,70,8,4.0,0.5,klima_miljø
+Moderaterne,Dansk Folkeparti,70,12,6.0,0.5,klima_miljø
+Moderaterne,Det Konservative Folkeparti,70,20,10.0,0.5,klima_miljø
+Moderaterne,Enhedslisten,70,18,3.0,0.16666666666666666,klima_miljø
+Moderaterne,Frie Grønne,70,7,4.0,0.5714285714285714,klima_miljø
+Moderaterne,Liberal Alliance,70,5,3.0,0.6,klima_miljø
+Moderaterne,Radikale Venstre,70,22,6.0,0.2727272727272727,klima_miljø
+Moderaterne,Socialdemokratiet,70,39,11.0,0.28205128205128205,klima_miljø
+Moderaterne,Socialistisk Folkeparti,70,9,2.0,0.2222222222222222,klima_miljø
+Moderaterne,Uden for folketingsgrupperne,70,8,5.0,0.625,klima_miljø
+Moderaterne,Venstre,70,36,17.0,0.4722222222222222,klima_miljø
+Naleraq,Alternativet,70,8,7.0,0.875,klima_miljø
+Naleraq,Borgernes Parti,70,5,3.0,0.6,klima_miljø
+Naleraq,Danmarksdemokraterne,70,35,28.0,0.8,klima_miljø
+Naleraq,Dansk Folkeparti,70,15,12.0,0.8,klima_miljø
+Naleraq,Det Konservative Folkeparti,70,44,37.0,0.8409090909090909,klima_miljø
+Naleraq,Enhedslisten,70,46,39.0,0.8478260869565217,klima_miljø
+Naleraq,Frie Grønne,70,7,5.0,0.7142857142857143,klima_miljø
+Naleraq,Liberal Alliance,70,14,10.0,0.7142857142857143,klima_miljø
+Naleraq,Radikale Venstre,70,50,50.0,1.0,klima_miljø
+Naleraq,Sambandsflokkurin,70,1,1.0,1.0,klima_miljø
+Naleraq,Socialdemokratiet,70,184,184.0,1.0,klima_miljø
+Naleraq,Socialistisk Folkeparti,70,56,56.0,1.0,klima_miljø
+Naleraq,Uden for folketingsgrupperne,70,27,20.0,0.7407407407407407,klima_miljø
+Naleraq,Venstre,70,139,114.0,0.8201438848920863,klima_miljø
+Radikale Venstre,Alternativet,70,2168,1522.0,0.7020295202952029,klima_miljø
+Radikale Venstre,Borgernes Parti,70,384,176.0,0.4583333333333333,klima_miljø
+Radikale Venstre,Danmarksdemokraterne,70,3044,1943.0,0.6383048620236531,klima_miljø
+Radikale Venstre,Dansk Folkeparti,70,3223,1760.0,0.5460750853242321,klima_miljø
+Radikale Venstre,Det Konservative Folkeparti,70,5566,3805.0,0.6836148041681639,klima_miljø
+Radikale Venstre,Enhedslisten,70,7513,5528.0,0.7357912950885133,klima_miljø
+Radikale Venstre,Frie Grønne,70,2235,1510.0,0.6756152125279642,klima_miljø
+Radikale Venstre,Liberal Alliance,70,1891,1113.0,0.5885774722369117,klima_miljø
+Radikale Venstre,Moderaterne,70,12,3.0,0.25,klima_miljø
+Radikale Venstre,Radikale Venstre,70,8138,8094.0,0.9945932661587613,klima_miljø
+Radikale Venstre,Sambandsflokkurin,70,6,5.0,0.8333333333333334,klima_miljø
+Radikale Venstre,Socialdemokratiet,70,20844,17661.0,0.8472941853770869,klima_miljø
+Radikale Venstre,Socialistisk Folkeparti,70,5526,4813.0,0.8709735794426349,klima_miljø
+Radikale Venstre,Uden for folketingsgrupperne,70,3365,2021.0,0.600594353640416,klima_miljø
+Radikale Venstre,Venstre,70,17916,12693.0,0.7084728734092431,klima_miljø
+Sambandsflokkurin,Alternativet,70,5,3.0,0.6,klima_miljø
+Sambandsflokkurin,Borgernes Parti,70,1,1.0,1.0,klima_miljø
+Sambandsflokkurin,Danmarksdemokraterne,70,23,23.0,1.0,klima_miljø
+Sambandsflokkurin,Dansk Folkeparti,70,16,16.0,1.0,klima_miljø
+Sambandsflokkurin,Det Konservative Folkeparti,70,22,22.0,1.0,klima_miljø
+Sambandsflokkurin,Enhedslisten,70,32,25.0,0.78125,klima_miljø
+Sambandsflokkurin,Frie Grønne,70,7,6.0,0.8571428571428571,klima_miljø
+Sambandsflokkurin,Liberal Alliance,70,9,9.0,1.0,klima_miljø
+Sambandsflokkurin,Moderaterne,70,1,0.0,0.0,klima_miljø
+Sambandsflokkurin,Radikale Venstre,70,33,25.0,0.7575757575757576,klima_miljø
+Sambandsflokkurin,Socialdemokratiet,70,88,70.0,0.7954545454545454,klima_miljø
+Sambandsflokkurin,Socialistisk Folkeparti,70,27,21.0,0.7777777777777778,klima_miljø
+Sambandsflokkurin,Uden for folketingsgrupperne,70,18,17.0,0.9444444444444444,klima_miljø
+Sambandsflokkurin,Venstre,70,80,80.0,1.0,klima_miljø
+Socialdemokratiet,Alternativet,70,7837,4849.0,0.618731657522011,klima_miljø
+Socialdemokratiet,Borgernes Parti,70,1999,1192.0,0.5962981490745373,klima_miljø
+Socialdemokratiet,Danmarksdemokraterne,70,18477,13446.0,0.7277155382367267,klima_miljø
+Socialdemokratiet,Dansk Folkeparti,70,14844,9537.0,0.6424818108326596,klima_miljø
+Socialdemokratiet,Det Konservative Folkeparti,70,28938,22268.0,0.769507222337411,klima_miljø
+Socialdemokratiet,Enhedslisten,70,34793,22980.0,0.6604776822924151,klima_miljø
+Socialdemokratiet,Frie Grønne,70,7913,4762.0,0.6017945153544799,klima_miljø
+Socialdemokratiet,Liberal Alliance,70,9893,6828.0,0.6901849792782776,klima_miljø
+Socialdemokratiet,Moderaterne,70,72,16.0,0.2222222222222222,klima_miljø
+Socialdemokratiet,Radikale Venstre,70,41768,35512.0,0.8502202643171806,klima_miljø
+Socialdemokratiet,Sambandsflokkurin,70,41,29.0,0.7073170731707317,klima_miljø
+Socialdemokratiet,Socialdemokratiet,70,104821,104605.0,0.9979393442153767,klima_miljø
+Socialdemokratiet,Socialistisk Folkeparti,70,29372,23373.0,0.7957578646329838,klima_miljø
+Socialdemokratiet,Uden for folketingsgrupperne,70,16753,11668.0,0.6964722736226348,klima_miljø
+Socialdemokratiet,Venstre,70,87306,70193.0,0.8039882711382952,klima_miljø
+Socialistisk Folkeparti,Alternativet,70,2291,1778.0,0.7760803142732431,klima_miljø
+Socialistisk Folkeparti,Borgernes Parti,70,763,331.0,0.4338138925294889,klima_miljø
+Socialistisk Folkeparti,Danmarksdemokraterne,70,6672,3996.0,0.5989208633093526,klima_miljø
+Socialistisk Folkeparti,Dansk Folkeparti,70,4684,2498.0,0.5333048676345005,klima_miljø
+Socialistisk Folkeparti,Det Konservative Folkeparti,70,9397,5803.0,0.6175375119719059,klima_miljø
+Socialistisk Folkeparti,Enhedslisten,70,11039,8841.0,0.8008877615726062,klima_miljø
+Socialistisk Folkeparti,Frie Grønne,70,2350,1659.0,0.7059574468085107,klima_miljø
+Socialistisk Folkeparti,Liberal Alliance,70,3134,1748.0,0.5577536694320357,klima_miljø
+Socialistisk Folkeparti,Moderaterne,70,24,6.0,0.25,klima_miljø
+Socialistisk Folkeparti,Radikale Venstre,70,13417,11646.0,0.8680032794216292,klima_miljø
+Socialistisk Folkeparti,Sambandsflokkurin,70,14,12.0,0.8571428571428571,klima_miljø
+Socialistisk Folkeparti,Socialdemokratiet,70,35897,28677.0,0.7988689862662618,klima_miljø
+Socialistisk Folkeparti,Socialistisk Folkeparti,70,8749,8724.0,0.9971425305749229,klima_miljø
+Socialistisk Folkeparti,Uden for folketingsgrupperne,70,5720,3384.0,0.5916083916083916,klima_miljø
+Socialistisk Folkeparti,Venstre,70,29292,18360.0,0.6267922982384269,klima_miljø
+Uden for folketingsgrupperne,Alternativet,70,910,473.0,0.5197802197802198,klima_miljø
+Uden for folketingsgrupperne,Borgernes Parti,70,73,49.0,0.6712328767123288,klima_miljø
+Uden for folketingsgrupperne,Danmarksdemokraterne,70,822,697.0,0.8479318734793188,klima_miljø
+Uden for folketingsgrupperne,Dansk Folkeparti,70,1554,1372.0,0.8828828828828829,klima_miljø
+Uden for folketingsgrupperne,Det Konservative Folkeparti,70,2323,1915.0,0.8243650452001722,klima_miljø
+Uden for folketingsgrupperne,Enhedslisten,70,3224,1539.0,0.4773573200992556,klima_miljø
+Uden for folketingsgrupperne,Frie Grønne,70,1052,555.0,0.5275665399239544,klima_miljø
+Uden for folketingsgrupperne,Liberal Alliance,70,888,687.0,0.7736486486486487,klima_miljø
+Uden for folketingsgrupperne,Moderaterne,70,4,1.0,0.25,klima_miljø
+Uden for folketingsgrupperne,Radikale Venstre,70,3865,2420.0,0.6261319534282018,klima_miljø
+Uden for folketingsgrupperne,Socialdemokratiet,70,8009,5755.0,0.7185666125608691,klima_miljø
+Uden for folketingsgrupperne,Socialistisk Folkeparti,70,1811,1065.0,0.5880728879072336,klima_miljø
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,70,1160,903.0,0.778448275862069,klima_miljø
+Uden for folketingsgrupperne,Venstre,70,6287,5190.0,0.8255129632575156,klima_miljø
+Venstre,Alternativet,70,6044,2986.0,0.4940436796823296,klima_miljø
+Venstre,Borgernes Parti,70,1533,1057.0,0.6894977168949772,klima_miljø
+Venstre,Danmarksdemokraterne,70,14198,12321.0,0.8677982814480912,klima_miljø
+Venstre,Dansk Folkeparti,70,11546,9063.0,0.7849471678503378,klima_miljø
+Venstre,Det Konservative Folkeparti,70,22028,20836.0,0.9458870528418377,klima_miljø
+Venstre,Enhedslisten,70,26541,13068.0,0.4923702950152594,klima_miljø
+Venstre,Frie Grønne,70,6040,3180.0,0.5264900662251656,klima_miljø
+Venstre,Liberal Alliance,70,8046,6602.0,0.8205319413373104,klima_miljø
+Venstre,Moderaterne,70,47,24.0,0.5106382978723404,klima_miljø
+Venstre,Radikale Venstre,70,31282,22167.0,0.708618374784221,klima_miljø
+Venstre,Sambandsflokkurin,70,15,15.0,1.0,klima_miljø
+Venstre,Socialdemokratiet,70,82771,66188.0,0.7996520520472146,klima_miljø
+Venstre,Socialistisk Folkeparti,70,21879,13629.0,0.6229260935143288,klima_miljø
+Venstre,Uden for folketingsgrupperne,70,13105,10894.0,0.831285768790538,klima_miljø
+Venstre,Venstre,70,63983,63920.0,0.999015363455918,klima_miljø
+Alternativet,Alternativet,71,1067,949.0,0.8894095595126523,klima_miljø
+Alternativet,Borgernes Parti,71,316,146.0,0.4620253164556962,klima_miljø
+Alternativet,Danmarksdemokraterne,71,4272,2668.0,0.6245318352059925,klima_miljø
+Alternativet,Dansk Folkeparti,71,1765,1032.0,0.5847025495750708,klima_miljø
+Alternativet,Det Konservative Folkeparti,71,2509,1692.0,0.6743722598644878,klima_miljø
+Alternativet,Enhedslisten,71,3187,2723.0,0.8544085346721054,klima_miljø
+Alternativet,Javnaðarflokkurin,71,16,4.0,0.25,klima_miljø
+Alternativet,Liberal Alliance,71,4309,2709.0,0.6286841494546298,klima_miljø
+Alternativet,Moderaterne,71,3047,1929.0,0.633081719724319,klima_miljø
+Alternativet,Radikale Venstre,71,2373,1860.0,0.7838179519595448,klima_miljø
+Alternativet,Siumut,71,2,0.0,0.0,klima_miljø
+Alternativet,Socialdemokratiet,71,13889,8796.0,0.6333069335445316,klima_miljø
+Alternativet,Socialistisk Folkeparti,71,4254,3451.0,0.811236483309826,klima_miljø
+Alternativet,Uden for folketingsgrupperne,71,1311,826.0,0.6300533943554538,klima_miljø
+Alternativet,Venstre,71,6781,4236.0,0.6246866243916827,klima_miljø
+Borgernes Parti,Alternativet,71,165,74.0,0.4484848484848485,klima_miljø
+Borgernes Parti,Danmarksdemokraterne,71,505,319.0,0.6316831683168317,klima_miljø
+Borgernes Parti,Dansk Folkeparti,71,452,303.0,0.6703539823008849,klima_miljø
+Borgernes Parti,Det Konservative Folkeparti,71,540,293.0,0.5425925925925926,klima_miljø
+Borgernes Parti,Enhedslisten,71,631,261.0,0.41362916006339145,klima_miljø
+Borgernes Parti,Javnaðarflokkurin,71,2,0.0,0.0,klima_miljø
+Borgernes Parti,Liberal Alliance,71,814,488.0,0.5995085995085995,klima_miljø
+Borgernes Parti,Moderaterne,71,601,223.0,0.37104825291181365,klima_miljø
+Borgernes Parti,Radikale Venstre,71,434,173.0,0.3986175115207373,klima_miljø
+Borgernes Parti,Siumut,71,1,0.0,0.0,klima_miljø
+Borgernes Parti,Socialdemokratiet,71,2490,930.0,0.37349397590361444,klima_miljø
+Borgernes Parti,Socialistisk Folkeparti,71,731,286.0,0.3912448700410397,klima_miljø
+Borgernes Parti,Uden for folketingsgrupperne,71,130,69.0,0.5307692307692308,klima_miljø
+Borgernes Parti,Venstre,71,1246,469.0,0.37640449438202245,klima_miljø
+Danmarksdemokraterne,Alternativet,71,4284,2590.0,0.6045751633986928,klima_miljø
+Danmarksdemokraterne,Borgernes Parti,71,971,662.0,0.6817713697219362,klima_miljø
+Danmarksdemokraterne,Danmarksdemokraterne,71,11396,11122.0,0.9759564759564759,klima_miljø
+Danmarksdemokraterne,Dansk Folkeparti,71,6843,5615.0,0.8205465439134882,klima_miljø
+Danmarksdemokraterne,Det Konservative Folkeparti,71,8962,7259.0,0.8099754519080562,klima_miljø
+Danmarksdemokraterne,Enhedslisten,71,10092,5903.0,0.5849187475227904,klima_miljø
+Danmarksdemokraterne,Javnaðarflokkurin,71,42,9.0,0.21428571428571427,klima_miljø
+Danmarksdemokraterne,Liberal Alliance,71,13348,10377.0,0.7774198381780042,klima_miljø
+Danmarksdemokraterne,Moderaterne,71,10590,7639.0,0.7213408876298395,klima_miljø
+Danmarksdemokraterne,Radikale Venstre,71,7106,4525.0,0.6367858148043907,klima_miljø
+Danmarksdemokraterne,Siumut,71,8,1.0,0.125,klima_miljø
+Danmarksdemokraterne,Socialdemokratiet,71,44427,31055.0,0.6990118621558962,klima_miljø
+Danmarksdemokraterne,Socialistisk Folkeparti,71,12994,8377.0,0.6446821609973834,klima_miljø
+Danmarksdemokraterne,Uden for folketingsgrupperne,71,3912,2640.0,0.6748466257668712,klima_miljø
+Danmarksdemokraterne,Venstre,71,21323,14969.0,0.7020119120198847,klima_miljø
+Dansk Folkeparti,Alternativet,71,1608,869.0,0.5404228855721394,klima_miljø
+Dansk Folkeparti,Borgernes Parti,71,124,87.0,0.7016129032258065,klima_miljø
+Dansk Folkeparti,Danmarksdemokraterne,71,3097,2515.0,0.8120762027768809,klima_miljø
+Dansk Folkeparti,Dansk Folkeparti,71,1475,1464.0,0.9925423728813559,klima_miljø
+Dansk Folkeparti,Det Konservative Folkeparti,71,2422,1802.0,0.7440132122213047,klima_miljø
+Dansk Folkeparti,Enhedslisten,71,3829,2064.0,0.5390441368503526,klima_miljø
+Dansk Folkeparti,Javnaðarflokkurin,71,22,4.0,0.18181818181818182,klima_miljø
+Dansk Folkeparti,Liberal Alliance,71,4566,3212.0,0.7034603591765222,klima_miljø
+Dansk Folkeparti,Moderaterne,71,3303,2149.0,0.6506206478958523,klima_miljø
+Dansk Folkeparti,Radikale Venstre,71,2221,1317.0,0.5929761368752814,klima_miljø
+Dansk Folkeparti,Sambandsflokkurin,71,15,10.0,0.6666666666666666,klima_miljø
+Dansk Folkeparti,Socialdemokratiet,71,13613,8646.0,0.6351281862925146,klima_miljø
+Dansk Folkeparti,Socialistisk Folkeparti,71,4111,2464.0,0.5993675504743371,klima_miljø
+Dansk Folkeparti,Uden for folketingsgrupperne,71,918,541.0,0.5893246187363834,klima_miljø
+Dansk Folkeparti,Venstre,71,6463,4132.0,0.6393315797617206,klima_miljø
+Det Konservative Folkeparti,Alternativet,71,2702,1797.0,0.6650629163582531,klima_miljø
+Det Konservative Folkeparti,Borgernes Parti,71,367,210.0,0.5722070844686649,klima_miljø
+Det Konservative Folkeparti,Danmarksdemokraterne,71,6424,5174.0,0.8054171855541719,klima_miljø
+Det Konservative Folkeparti,Dansk Folkeparti,71,3650,2686.0,0.7358904109589041,klima_miljø
+Det Konservative Folkeparti,Det Konservative Folkeparti,71,3921,3921.0,1.0,klima_miljø
+Det Konservative Folkeparti,Enhedslisten,71,6129,4075.0,0.6648719203785283,klima_miljø
+Det Konservative Folkeparti,Javnaðarflokkurin,71,31,5.0,0.16129032258064516,klima_miljø
+Det Konservative Folkeparti,Liberal Alliance,71,8001,6815.0,0.8517685289338832,klima_miljø
+Det Konservative Folkeparti,Moderaterne,71,6300,4821.0,0.7652380952380953,klima_miljø
+Det Konservative Folkeparti,Radikale Venstre,71,4119,3148.0,0.7642631706724933,klima_miljø
+Det Konservative Folkeparti,Siumut,71,2,0.0,0.0,klima_miljø
+Det Konservative Folkeparti,Socialdemokratiet,71,25351,19104.0,0.753579740444164,klima_miljø
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,7346,5469.0,0.744486795534985,klima_miljø
+Det Konservative Folkeparti,Uden for folketingsgrupperne,71,2235,1582.0,0.7078299776286353,klima_miljø
+Det Konservative Folkeparti,Venstre,71,12076,9182.0,0.7603511096389532,klima_miljø
+Enhedslisten,Alternativet,71,1110,953.0,0.8585585585585586,klima_miljø
+Enhedslisten,Borgernes Parti,71,123,56.0,0.45528455284552843,klima_miljø
+Enhedslisten,Danmarksdemokraterne,71,2616,1535.0,0.5867737003058104,klima_miljø
+Enhedslisten,Dansk Folkeparti,71,1183,685.0,0.5790363482671175,klima_miljø
+Enhedslisten,Det Konservative Folkeparti,71,1626,1129.0,0.6943419434194342,klima_miljø
+Enhedslisten,Enhedslisten,71,2578,2570.0,0.9968968192397207,klima_miljø
+Enhedslisten,Javnaðarflokkurin,71,17,4.0,0.23529411764705882,klima_miljø
+Enhedslisten,Liberal Alliance,71,3050,1888.0,0.6190163934426229,klima_miljø
+Enhedslisten,Moderaterne,71,2002,1242.0,0.6203796203796204,klima_miljø
+Enhedslisten,Radikale Venstre,71,2201,1806.0,0.8205361199454794,klima_miljø
+Enhedslisten,Siumut,71,1,0.0,0.0,klima_miljø
+Enhedslisten,Socialdemokratiet,71,10371,6319.0,0.6092951499373253,klima_miljø
+Enhedslisten,Socialistisk Folkeparti,71,3365,2932.0,0.8713224368499257,klima_miljø
+Enhedslisten,Uden for folketingsgrupperne,71,790,505.0,0.6392405063291139,klima_miljø
+Enhedslisten,Venstre,71,4898,3027.0,0.6180073499387505,klima_miljø
+Inuit Ataqatigiit,Alternativet,71,19,7.0,0.3684210526315789,klima_miljø
+Inuit Ataqatigiit,Borgernes Parti,71,3,0.0,0.0,klima_miljø
+Inuit Ataqatigiit,Danmarksdemokraterne,71,48,20.0,0.4166666666666667,klima_miljø
+Inuit Ataqatigiit,Dansk Folkeparti,71,22,4.0,0.18181818181818182,klima_miljø
+Inuit Ataqatigiit,Det Konservative Folkeparti,71,31,11.0,0.3548387096774194,klima_miljø
+Inuit Ataqatigiit,Enhedslisten,71,28,10.0,0.35714285714285715,klima_miljø
+Inuit Ataqatigiit,Javnaðarflokkurin,71,3,3.0,1.0,klima_miljø
+Inuit Ataqatigiit,Liberal Alliance,71,47,17.0,0.3617021276595745,klima_miljø
+Inuit Ataqatigiit,Moderaterne,71,36,36.0,1.0,klima_miljø
+Inuit Ataqatigiit,Naleraq,71,1,1.0,1.0,klima_miljø
+Inuit Ataqatigiit,Radikale Venstre,71,19,7.0,0.3684210526315789,klima_miljø
+Inuit Ataqatigiit,Sambandsflokkurin,71,3,3.0,1.0,klima_miljø
+Inuit Ataqatigiit,Socialdemokratiet,71,161,161.0,1.0,klima_miljø
+Inuit Ataqatigiit,Socialistisk Folkeparti,71,47,17.0,0.3617021276595745,klima_miljø
+Inuit Ataqatigiit,Uden for folketingsgrupperne,71,15,10.0,0.6666666666666666,klima_miljø
+Inuit Ataqatigiit,Venstre,71,76,76.0,1.0,klima_miljø
+Javnaðarflokkurin,Alternativet,71,3,0.0,0.0,klima_miljø
+Javnaðarflokkurin,Danmarksdemokraterne,71,7,2.0,0.2857142857142857,klima_miljø
+Javnaðarflokkurin,Enhedslisten,71,11,1.0,0.09090909090909091,klima_miljø
+Javnaðarflokkurin,Liberal Alliance,71,9,1.0,0.1111111111111111,klima_miljø
+Javnaðarflokkurin,Radikale Venstre,71,5,0.0,0.0,klima_miljø
+Javnaðarflokkurin,Socialdemokratiet,71,19,19.0,1.0,klima_miljø
+Javnaðarflokkurin,Socialistisk Folkeparti,71,7,1.0,0.14285714285714285,klima_miljø
+Javnaðarflokkurin,Uden for folketingsgrupperne,71,3,2.0,0.6666666666666666,klima_miljø
+Javnaðarflokkurin,Venstre,71,15,15.0,1.0,klima_miljø
+Liberal Alliance,Alternativet,71,3569,2138.0,0.5990473521994957,klima_miljø
+Liberal Alliance,Borgernes Parti,71,571,343.0,0.6007005253940455,klima_miljø
+Liberal Alliance,Danmarksdemokraterne,71,9952,7888.0,0.792604501607717,klima_miljø
+Liberal Alliance,Dansk Folkeparti,71,4633,3311.0,0.7146557306281027,klima_miljø
+Liberal Alliance,Det Konservative Folkeparti,71,6223,5356.0,0.8606781295195244,klima_miljø
+Liberal Alliance,Enhedslisten,71,8691,5410.0,0.6224830284202049,klima_miljø
+Liberal Alliance,Javnaðarflokkurin,71,38,7.0,0.18421052631578946,klima_miljø
+Liberal Alliance,Liberal Alliance,71,9612,9478.0,0.9860590928006658,klima_miljø
+Liberal Alliance,Moderaterne,71,7744,5876.0,0.7587809917355371,klima_miljø
+Liberal Alliance,Radikale Venstre,71,5887,4310.0,0.7321216239171054,klima_miljø
+Liberal Alliance,Sambandsflokkurin,71,19,11.0,0.5789473684210527,klima_miljø
+Liberal Alliance,Siumut,71,6,0.0,0.0,klima_miljø
+Liberal Alliance,Socialdemokratiet,71,35101,26266.0,0.7482977692943221,klima_miljø
+Liberal Alliance,Socialistisk Folkeparti,71,10432,7260.0,0.6959355828220859,klima_miljø
+Liberal Alliance,Uden for folketingsgrupperne,71,3020,2085.0,0.6903973509933775,klima_miljø
+Liberal Alliance,Venstre,71,16609,12486.0,0.7517610933831056,klima_miljø
+Moderaterne,Alternativet,71,2941,1799.0,0.6116967018021081,klima_miljø
+Moderaterne,Borgernes Parti,71,432,163.0,0.3773148148148148,klima_miljø
+Moderaterne,Danmarksdemokraterne,71,7230,5015.0,0.6936376210235131,klima_miljø
+Moderaterne,Dansk Folkeparti,71,3747,2372.0,0.6330397651454497,klima_miljø
+Moderaterne,Det Konservative Folkeparti,71,4568,3463.0,0.7580998248686515,klima_miljø
+Moderaterne,Enhedslisten,71,6958,4194.0,0.6027594136246047,klima_miljø
+Moderaterne,Javnaðarflokkurin,71,36,36.0,1.0,klima_miljø
+Moderaterne,Liberal Alliance,71,8742,6561.0,0.7505147563486616,klima_miljø
+Moderaterne,Moderaterne,71,5485,5481.0,0.9992707383773929,klima_miljø
+Moderaterne,Radikale Venstre,71,4679,3454.0,0.738191921350716,klima_miljø
+Moderaterne,Sambandsflokkurin,71,3,3.0,1.0,klima_miljø
+Moderaterne,Siumut,71,3,3.0,1.0,klima_miljø
+Moderaterne,Socialdemokratiet,71,26804,26793.0,0.9995896134905238,klima_miljø
+Moderaterne,Socialistisk Folkeparti,71,8122,5876.0,0.7234671263235656,klima_miljø
+Moderaterne,Uden for folketingsgrupperne,71,2366,1773.0,0.7493660185967879,klima_miljø
+Moderaterne,Venstre,71,12756,12732.0,0.9981185324553151,klima_miljø
+Naleraq,Alternativet,71,6,6.0,1.0,klima_miljø
+Naleraq,Borgernes Parti,71,2,1.0,0.5,klima_miljø
+Naleraq,Danmarksdemokraterne,71,19,19.0,1.0,klima_miljø
+Naleraq,Dansk Folkeparti,71,8,4.0,0.5,klima_miljø
+Naleraq,Det Konservative Folkeparti,71,12,12.0,1.0,klima_miljø
+Naleraq,Enhedslisten,71,10,10.0,1.0,klima_miljø
+Naleraq,Liberal Alliance,71,18,18.0,1.0,klima_miljø
+Naleraq,Moderaterne,71,14,14.0,1.0,klima_miljø
+Naleraq,Radikale Venstre,71,8,8.0,1.0,klima_miljø
+Naleraq,Socialdemokratiet,71,61,61.0,1.0,klima_miljø
+Naleraq,Socialistisk Folkeparti,71,18,18.0,1.0,klima_miljø
+Naleraq,Uden for folketingsgrupperne,71,6,6.0,1.0,klima_miljø
+Naleraq,Venstre,71,30,30.0,1.0,klima_miljø
+Radikale Venstre,Alternativet,71,789,621.0,0.7870722433460076,klima_miljø
+Radikale Venstre,Borgernes Parti,71,133,56.0,0.42105263157894735,klima_miljø
+Radikale Venstre,Danmarksdemokraterne,71,2277,1503.0,0.6600790513833992,klima_miljø
+Radikale Venstre,Dansk Folkeparti,71,1504,961.0,0.6389627659574468,klima_miljø
+Radikale Venstre,Det Konservative Folkeparti,71,1627,1306.0,0.8027043638598648,klima_miljø
+Radikale Venstre,Enhedslisten,71,2545,2071.0,0.8137524557956778,klima_miljø
+Radikale Venstre,Javnaðarflokkurin,71,14,3.0,0.21428571428571427,klima_miljø
+Radikale Venstre,Liberal Alliance,71,2828,2092.0,0.7397454031117398,klima_miljø
+Radikale Venstre,Moderaterne,71,1992,1461.0,0.733433734939759,klima_miljø
+Radikale Venstre,Radikale Venstre,71,1318,1311.0,0.9946889226100152,klima_miljø
+Radikale Venstre,Siumut,71,2,0.0,0.0,klima_miljø
+Radikale Venstre,Socialdemokratiet,71,8828,6500.0,0.7362936112369732,klima_miljø
+Radikale Venstre,Socialistisk Folkeparti,71,2819,2542.0,0.9017382050372472,klima_miljø
+Radikale Venstre,Uden for folketingsgrupperne,71,610,396.0,0.6491803278688525,klima_miljø
+Radikale Venstre,Venstre,71,4242,3134.0,0.7388024516737388,klima_miljø
+Sambandsflokkurin,Alternativet,71,71,32.0,0.4507042253521127,klima_miljø
+Sambandsflokkurin,Borgernes Parti,71,6,2.0,0.3333333333333333,klima_miljø
+Sambandsflokkurin,Danmarksdemokraterne,71,205,116.0,0.5658536585365853,klima_miljø
+Sambandsflokkurin,Dansk Folkeparti,71,71,34.0,0.4788732394366197,klima_miljø
+Sambandsflokkurin,Det Konservative Folkeparti,71,127,59.0,0.4645669291338583,klima_miljø
+Sambandsflokkurin,Enhedslisten,71,107,48.0,0.4485981308411215,klima_miljø
+Sambandsflokkurin,Javnaðarflokkurin,71,3,3.0,1.0,klima_miljø
+Sambandsflokkurin,Liberal Alliance,71,175,87.0,0.49714285714285716,klima_miljø
+Sambandsflokkurin,Moderaterne,71,154,154.0,1.0,klima_miljø
+Sambandsflokkurin,Radikale Venstre,71,79,40.0,0.5063291139240507,klima_miljø
+Sambandsflokkurin,Siumut,71,1,1.0,1.0,klima_miljø
+Sambandsflokkurin,Socialdemokratiet,71,660,660.0,1.0,klima_miljø
+Sambandsflokkurin,Socialistisk Folkeparti,71,189,97.0,0.5132275132275133,klima_miljø
+Sambandsflokkurin,Uden for folketingsgrupperne,71,58,43.0,0.7413793103448276,klima_miljø
+Sambandsflokkurin,Venstre,71,298,298.0,1.0,klima_miljø
+Siumut,Alternativet,71,1,0.0,0.0,klima_miljø
+Siumut,Danmarksdemokraterne,71,2,0.0,0.0,klima_miljø
+Siumut,Dansk Folkeparti,71,4,0.0,0.0,klima_miljø
+Siumut,Det Konservative Folkeparti,71,4,0.0,0.0,klima_miljø
+Siumut,Enhedslisten,71,5,0.0,0.0,klima_miljø
+Siumut,Liberal Alliance,71,4,0.0,0.0,klima_miljø
+Siumut,Moderaterne,71,4,4.0,1.0,klima_miljø
+Siumut,Radikale Venstre,71,2,0.0,0.0,klima_miljø
+Siumut,Socialdemokratiet,71,13,13.0,1.0,klima_miljø
+Siumut,Socialistisk Folkeparti,71,5,0.0,0.0,klima_miljø
+Siumut,Uden for folketingsgrupperne,71,1,1.0,1.0,klima_miljø
+Siumut,Venstre,71,5,5.0,1.0,klima_miljø
+Socialdemokratiet,Alternativet,71,14881,9186.0,0.6172972246488811,klima_miljø
+Socialdemokratiet,Borgernes Parti,71,2536,950.0,0.3746056782334385,klima_miljø
+Socialdemokratiet,Danmarksdemokraterne,71,40376,28585.0,0.7079700812363781,klima_miljø
+Socialdemokratiet,Dansk Folkeparti,71,19845,12671.0,0.6384983623078861,klima_miljø
+Socialdemokratiet,Det Konservative Folkeparti,71,26424,20174.0,0.7634726006660612,klima_miljø
+Socialdemokratiet,Enhedslisten,71,32379,19483.0,0.6017171623583186,klima_miljø
+Socialdemokratiet,Javnaðarflokkurin,71,146,146.0,1.0,klima_miljø
+Socialdemokratiet,Liberal Alliance,71,43276,32624.0,0.7538589518439782,klima_miljø
+Socialdemokratiet,Moderaterne,71,33019,32992.0,0.9991822889851297,klima_miljø
+Socialdemokratiet,Radikale Venstre,71,22884,16801.0,0.7341810872225135,klima_miljø
+Socialdemokratiet,Sambandsflokkurin,71,37,37.0,1.0,klima_miljø
+Socialdemokratiet,Siumut,71,19,19.0,1.0,klima_miljø
+Socialdemokratiet,Socialdemokratiet,71,138628,138595.0,0.9997619528522377,klima_miljø
+Socialdemokratiet,Socialistisk Folkeparti,71,41710,30131.0,0.7223927115799569,klima_miljø
+Socialdemokratiet,Uden for folketingsgrupperne,71,12306,9467.0,0.7692995286851942,klima_miljø
+Socialdemokratiet,Venstre,71,68310,68173.0,0.9979944371248719,klima_miljø
+Socialistisk Folkeparti,Alternativet,71,3598,2932.0,0.8148971650917176,klima_miljø
+Socialistisk Folkeparti,Borgernes Parti,71,653,265.0,0.4058192955589586,klima_miljø
+Socialistisk Folkeparti,Danmarksdemokraterne,71,10282,6631.0,0.6449134409647929,klima_miljø
+Socialistisk Folkeparti,Dansk Folkeparti,71,5077,3025.0,0.595824305692338,klima_miljø
+Socialistisk Folkeparti,Det Konservative Folkeparti,71,6868,5147.0,0.7494175888177053,klima_miljø
+Socialistisk Folkeparti,Enhedslisten,71,8366,7144.0,0.8539325842696629,klima_miljø
+Socialistisk Folkeparti,Javnaðarflokkurin,71,40,7.0,0.175,klima_miljø
+Socialistisk Folkeparti,Liberal Alliance,71,11087,7718.0,0.6961306034093984,klima_miljø
+Socialistisk Folkeparti,Moderaterne,71,8320,6001.0,0.7212740384615385,klima_miljø
+Socialistisk Folkeparti,Radikale Venstre,71,5885,5292.0,0.8992353440951572,klima_miljø
+Socialistisk Folkeparti,Siumut,71,4,0.0,0.0,klima_miljø
+Socialistisk Folkeparti,Socialdemokratiet,71,36628,26353.0,0.7194769029158021,klima_miljø
+Socialistisk Folkeparti,Socialistisk Folkeparti,71,9604,9556.0,0.9950020824656394,klima_miljø
+Socialistisk Folkeparti,Uden for folketingsgrupperne,71,3036,2056.0,0.6772068511198946,klima_miljø
+Socialistisk Folkeparti,Venstre,71,18078,13068.0,0.7228675738466644,klima_miljø
+Uden for folketingsgrupperne,Alternativet,71,982,615.0,0.6262729124236253,klima_miljø
+Uden for folketingsgrupperne,Borgernes Parti,71,251,121.0,0.4820717131474104,klima_miljø
+Uden for folketingsgrupperne,Danmarksdemokraterne,71,2831,2026.0,0.7156481808548216,klima_miljø
+Uden for folketingsgrupperne,Dansk Folkeparti,71,1722,1103.0,0.640534262485482,klima_miljø
+Uden for folketingsgrupperne,Det Konservative Folkeparti,71,1861,1431.0,0.7689414293390651,klima_miljø
+Uden for folketingsgrupperne,Enhedslisten,71,2616,1536.0,0.5871559633027523,klima_miljø
+Uden for folketingsgrupperne,Javnaðarflokkurin,71,12,7.0,0.5833333333333334,klima_miljø
+Uden for folketingsgrupperne,Liberal Alliance,71,3154,2430.0,0.7704502219403931,klima_miljø
+Uden for folketingsgrupperne,Moderaterne,71,2300,2024.0,0.88,klima_miljø
+Uden for folketingsgrupperne,Radikale Venstre,71,1881,1311.0,0.696969696969697,klima_miljø
+Uden for folketingsgrupperne,Siumut,71,2,2.0,1.0,klima_miljø
+Uden for folketingsgrupperne,Socialdemokratiet,71,10330,8944.0,0.8658276863504356,klima_miljø
+Uden for folketingsgrupperne,Socialistisk Folkeparti,71,3161,2212.0,0.6997785510914267,klima_miljø
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,71,626,433.0,0.6916932907348243,klima_miljø
+Uden for folketingsgrupperne,Venstre,71,4614,4003.0,0.8675769397485913,klima_miljø
+Venstre,Alternativet,71,6547,4074.0,0.6222697418665037,klima_miljø
+Venstre,Borgernes Parti,71,1101,410.0,0.3723887375113533,klima_miljø
+Venstre,Danmarksdemokraterne,71,18124,12849.0,0.708949459280512,klima_miljø
+Venstre,Dansk Folkeparti,71,9049,5806.0,0.641617858326887,klima_miljø
+Venstre,Det Konservative Folkeparti,71,11986,9211.0,0.7684798932087435,klima_miljø
+Venstre,Enhedslisten,71,14968,8938.0,0.5971405665419561,klima_miljø
+Venstre,Javnaðarflokkurin,71,61,61.0,1.0,klima_miljø
+Venstre,Liberal Alliance,71,19797,14880.0,0.7516290347022276,klima_miljø
+Venstre,Moderaterne,71,14945,14851.0,0.9937102709936434,klima_miljø
+Venstre,Radikale Venstre,71,10438,7687.0,0.7364437631730216,klima_miljø
+Venstre,Siumut,71,8,8.0,1.0,klima_miljø
+Venstre,Socialdemokratiet,71,64329,63927.0,0.9937508744112298,klima_miljø
+Venstre,Socialistisk Folkeparti,71,18328,13241.0,0.7224465298996071,klima_miljø
+Venstre,Uden for folketingsgrupperne,71,5935,4559.0,0.7681550126368998,klima_miljø
+Venstre,Venstre,71,29006,28763.0,0.9916224229469764,klima_miljø

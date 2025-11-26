@@ -1,0 +1,1623 @@
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
+Danmarksdemokraterne,Danmarksdemokraterne,65,388,381.0,0.9819587628865979,social_familie
+Danmarksdemokraterne,Dansk Folkeparti,65,4754,4708.0,0.9903239377366428,social_familie
+Danmarksdemokraterne,Det Konservative Folkeparti,65,1960,1922.0,0.9806122448979592,social_familie
+Danmarksdemokraterne,Enhedslisten,65,95,35.0,0.3684210526315789,social_familie
+Danmarksdemokraterne,Inuit Ataqatigiit,65,21,2.0,0.09523809523809523,social_familie
+Danmarksdemokraterne,Kristeligt Folkeparti,65,528,257.0,0.48674242424242425,social_familie
+Danmarksdemokraterne,Kristendemokraterne,65,383,177.0,0.4621409921671018,social_familie
+Danmarksdemokraterne,Liberal Alliance,65,412,407.0,0.9878640776699029,social_familie
+Danmarksdemokraterne,Moderaterne,65,30,30.0,1.0,social_familie
+Danmarksdemokraterne,Not able to assign,65,1066,313.0,0.29362101313320826,social_familie
+Danmarksdemokraterne,Ny Alliance,65,115,111.0,0.9652173913043478,social_familie
+Danmarksdemokraterne,Radikale Venstre,65,1077,448.0,0.4159702878365831,social_familie
+Danmarksdemokraterne,Sambandsflokkurin,65,14,14.0,1.0,social_familie
+Danmarksdemokraterne,Socialdemokratiet,65,11730,3570.0,0.30434782608695654,social_familie
+Danmarksdemokraterne,Socialistisk Folkeparti,65,1907,572.0,0.2999475616151023,social_familie
+Danmarksdemokraterne,Tjóðveldi,65,9,0.0,0.0,social_familie
+Danmarksdemokraterne,Uden for folketingsgrupperne,65,1634,1398.0,0.8555691554467564,social_familie
+Danmarksdemokraterne,Venstre,65,11182,11002.0,0.9839027007690931,social_familie
+Dansk Folkeparti,Danmarksdemokraterne,65,1613,1596.0,0.9894606323620583,social_familie
+Dansk Folkeparti,Dansk Folkeparti,65,15346,15324.0,0.9985664016681871,social_familie
+Dansk Folkeparti,Det Konservative Folkeparti,65,4929,4802.0,0.974234124568878,social_familie
+Dansk Folkeparti,Enhedslisten,65,290,97.0,0.33448275862068966,social_familie
+Dansk Folkeparti,Inuit Ataqatigiit,65,69,6.0,0.08695652173913043,social_familie
+Dansk Folkeparti,Kristeligt Folkeparti,65,2326,1090.0,0.468615649183147,social_familie
+Dansk Folkeparti,Kristendemokraterne,65,1455,649.0,0.44604810996563576,social_familie
+Dansk Folkeparti,Liberal Alliance,65,1370,1338.0,0.9766423357664233,social_familie
+Dansk Folkeparti,Moderaterne,65,85,85.0,1.0,social_familie
+Dansk Folkeparti,Not able to assign,65,3482,941.0,0.27024698449167145,social_familie
+Dansk Folkeparti,Ny Alliance,65,419,405.0,0.9665871121718377,social_familie
+Dansk Folkeparti,Radikale Venstre,65,3533,1401.0,0.3965468440418907,social_familie
+Dansk Folkeparti,Sambandsflokkurin,65,47,47.0,1.0,social_familie
+Dansk Folkeparti,Socialdemokratiet,65,38265,10893.0,0.28467267738141905,social_familie
+Dansk Folkeparti,Socialistisk Folkeparti,65,7998,2187.0,0.27344336084021004,social_familie
+Dansk Folkeparti,Tjóðveldi,65,32,0.0,0.0,social_familie
+Dansk Folkeparti,Uden for folketingsgrupperne,65,5003,4087.0,0.8169098540875475,social_familie
+Dansk Folkeparti,Venstre,65,39606,38711.0,0.9774024137756906,social_familie
+Det Konservative Folkeparti,Danmarksdemokraterne,65,1764,1748.0,0.9909297052154195,social_familie
+Det Konservative Folkeparti,Dansk Folkeparti,65,14433,14103.0,0.9771357306173353,social_familie
+Det Konservative Folkeparti,Det Konservative Folkeparti,65,4960,4960.0,1.0,social_familie
+Det Konservative Folkeparti,Enhedslisten,65,381,136.0,0.3569553805774278,social_familie
+Det Konservative Folkeparti,Inuit Ataqatigiit,65,67,6.0,0.08955223880597014,social_familie
+Det Konservative Folkeparti,Kristeligt Folkeparti,65,1501,761.0,0.5069953364423717,social_familie
+Det Konservative Folkeparti,Kristendemokraterne,65,1353,646.0,0.47745750184774577,social_familie
+Det Konservative Folkeparti,Liberal Alliance,65,1483,1483.0,1.0,social_familie
+Det Konservative Folkeparti,Moderaterne,65,124,124.0,1.0,social_familie
+Det Konservative Folkeparti,Not able to assign,65,2723,894.0,0.3283143591626882,social_familie
+Det Konservative Folkeparti,Ny Alliance,65,619,619.0,1.0,social_familie
+Det Konservative Folkeparti,Radikale Venstre,65,4638,2019.0,0.43531694695989653,social_familie
+Det Konservative Folkeparti,Sambandsflokkurin,65,70,70.0,1.0,social_familie
+Det Konservative Folkeparti,Socialdemokratiet,65,38004,12575.0,0.33088622250289446,social_familie
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,6122,1934.0,0.3159098333877818,social_familie
+Det Konservative Folkeparti,Tjóðveldi,65,45,0.0,0.0,social_familie
+Det Konservative Folkeparti,Uden for folketingsgrupperne,65,5040,4234.0,0.8400793650793651,social_familie
+Det Konservative Folkeparti,Venstre,65,37756,37751.0,0.999867570717237,social_familie
+Enhedslisten,Danmarksdemokraterne,65,21,9.0,0.42857142857142855,social_familie
+Enhedslisten,Dansk Folkeparti,65,284,109.0,0.38380281690140844,social_familie
+Enhedslisten,Det Konservative Folkeparti,65,41,14.0,0.34146341463414637,social_familie
+Enhedslisten,Enhedslisten,65,7,7.0,1.0,social_familie
+Enhedslisten,Kristeligt Folkeparti,65,25,15.0,0.6,social_familie
+Enhedslisten,Kristendemokraterne,65,20,13.0,0.65,social_familie
+Enhedslisten,Liberal Alliance,65,18,7.0,0.3888888888888889,social_familie
+Enhedslisten,Moderaterne,65,4,0.0,0.0,social_familie
+Enhedslisten,Not able to assign,65,13,10.0,0.7692307692307693,social_familie
+Enhedslisten,Radikale Venstre,65,75,52.0,0.6933333333333334,social_familie
+Enhedslisten,Sambandsflokkurin,65,12,0.0,0.0,social_familie
+Enhedslisten,Socialdemokratiet,65,682,498.0,0.7302052785923754,social_familie
+Enhedslisten,Socialistisk Folkeparti,65,144,112.0,0.7777777777777778,social_familie
+Enhedslisten,Uden for folketingsgrupperne,65,79,31.0,0.3924050632911392,social_familie
+Enhedslisten,Venstre,65,562,230.0,0.4092526690391459,social_familie
+Inuit Ataqatigiit,Danmarksdemokraterne,65,9,1.0,0.1111111111111111,social_familie
+Inuit Ataqatigiit,Dansk Folkeparti,65,64,6.0,0.09375,social_familie
+Inuit Ataqatigiit,Det Konservative Folkeparti,65,13,1.0,0.07692307692307693,social_familie
+Inuit Ataqatigiit,Enhedslisten,65,1,1.0,1.0,social_familie
+Inuit Ataqatigiit,Kristeligt Folkeparti,65,10,7.0,0.7,social_familie
+Inuit Ataqatigiit,Kristendemokraterne,65,10,6.0,0.6,social_familie
+Inuit Ataqatigiit,Liberal Alliance,65,11,1.0,0.09090909090909091,social_familie
+Inuit Ataqatigiit,Not able to assign,65,10,8.0,0.8,social_familie
+Inuit Ataqatigiit,Radikale Venstre,65,13,12.0,0.9230769230769231,social_familie
+Inuit Ataqatigiit,Socialdemokratiet,65,184,152.0,0.8260869565217391,social_familie
+Inuit Ataqatigiit,Socialistisk Folkeparti,65,32,29.0,0.90625,social_familie
+Inuit Ataqatigiit,Uden for folketingsgrupperne,65,22,10.0,0.45454545454545453,social_familie
+Inuit Ataqatigiit,Venstre,65,134,12.0,0.08955223880597014,social_familie
+Kristeligt Folkeparti,Danmarksdemokraterne,65,23,17.0,0.7391304347826086,social_familie
+Kristeligt Folkeparti,Dansk Folkeparti,65,571,366.0,0.6409807355516638,social_familie
+Kristeligt Folkeparti,Det Konservative Folkeparti,65,228,173.0,0.7587719298245614,social_familie
+Kristeligt Folkeparti,Enhedslisten,65,47,23.0,0.48936170212765956,social_familie
+Kristeligt Folkeparti,Inuit Ataqatigiit,65,2,2.0,1.0,social_familie
+Kristeligt Folkeparti,Kristeligt Folkeparti,65,20,20.0,1.0,social_familie
+Kristeligt Folkeparti,Kristendemokraterne,65,1,1.0,1.0,social_familie
+Kristeligt Folkeparti,Liberal Alliance,65,34,27.0,0.7941176470588235,social_familie
+Kristeligt Folkeparti,Moderaterne,65,7,7.0,1.0,social_familie
+Kristeligt Folkeparti,Not able to assign,65,70,60.0,0.8571428571428571,social_familie
+Kristeligt Folkeparti,Ny Alliance,65,14,11.0,0.7857142857142857,social_familie
+Kristeligt Folkeparti,Radikale Venstre,65,109,88.0,0.8073394495412844,social_familie
+Kristeligt Folkeparti,Sambandsflokkurin,65,10,7.0,0.7,social_familie
+Kristeligt Folkeparti,Socialdemokratiet,65,933,774.0,0.8295819935691319,social_familie
+Kristeligt Folkeparti,Socialistisk Folkeparti,65,358,219.0,0.611731843575419,social_familie
+Kristeligt Folkeparti,Uden for folketingsgrupperne,65,113,88.0,0.7787610619469026,social_familie
+Kristeligt Folkeparti,Venstre,65,1499,980.0,0.6537691794529686,social_familie
+Kristendemokraterne,Danmarksdemokraterne,65,86,34.0,0.3953488372093023,social_familie
+Kristendemokraterne,Dansk Folkeparti,65,950,436.0,0.4589473684210526,social_familie
+Kristendemokraterne,Enhedslisten,65,1,1.0,1.0,social_familie
+Kristendemokraterne,Kristeligt Folkeparti,65,190,184.0,0.968421052631579,social_familie
+Kristendemokraterne,Not able to assign,65,173,89.0,0.5144508670520231,social_familie
+Kristendemokraterne,Radikale Venstre,65,175,87.0,0.49714285714285716,social_familie
+Kristendemokraterne,Socialdemokratiet,65,2379,1272.0,0.5346784363177806,social_familie
+Kristendemokraterne,Socialistisk Folkeparti,65,570,313.0,0.5491228070175439,social_familie
+Kristendemokraterne,Uden for folketingsgrupperne,65,350,166.0,0.4742857142857143,social_familie
+Kristendemokraterne,Venstre,65,1941,932.0,0.48016486347243686,social_familie
+Liberal Alliance,Danmarksdemokraterne,65,87,85.0,0.9770114942528736,social_familie
+Liberal Alliance,Dansk Folkeparti,65,1229,1201.0,0.9772172497965825,social_familie
+Liberal Alliance,Det Konservative Folkeparti,65,20,20.0,1.0,social_familie
+Liberal Alliance,Enhedslisten,65,22,10.0,0.45454545454545453,social_familie
+Liberal Alliance,Kristeligt Folkeparti,65,192,92.0,0.4791666666666667,social_familie
+Liberal Alliance,Kristendemokraterne,65,188,89.0,0.4734042553191489,social_familie
+Liberal Alliance,Not able to assign,65,182,50.0,0.27472527472527475,social_familie
+Liberal Alliance,Radikale Venstre,65,231,106.0,0.4588744588744589,social_familie
+Liberal Alliance,Sambandsflokkurin,65,4,4.0,1.0,social_familie
+Liberal Alliance,Socialdemokratiet,65,3412,1066.0,0.31242672919109027,social_familie
+Liberal Alliance,Socialistisk Folkeparti,65,635,202.0,0.31811023622047246,social_familie
+Liberal Alliance,Uden for folketingsgrupperne,65,399,288.0,0.7218045112781954,social_familie
+Liberal Alliance,Venstre,65,2296,2296.0,1.0,social_familie
+Moderaterne,Danmarksdemokraterne,65,11,11.0,1.0,social_familie
+Moderaterne,Dansk Folkeparti,65,95,95.0,1.0,social_familie
+Moderaterne,Det Konservative Folkeparti,65,5,5.0,1.0,social_familie
+Moderaterne,Enhedslisten,65,16,6.0,0.375,social_familie
+Moderaterne,Kristeligt Folkeparti,65,11,8.0,0.7272727272727273,social_familie
+Moderaterne,Kristendemokraterne,65,11,8.0,0.7272727272727273,social_familie
+Moderaterne,Liberal Alliance,65,13,13.0,1.0,social_familie
+Moderaterne,Radikale Venstre,65,22,11.0,0.5,social_familie
+Moderaterne,Sambandsflokkurin,65,5,5.0,1.0,social_familie
+Moderaterne,Socialdemokratiet,65,202,109.0,0.5396039603960396,social_familie
+Moderaterne,Socialistisk Folkeparti,65,56,40.0,0.7142857142857143,social_familie
+Moderaterne,Uden for folketingsgrupperne,65,20,20.0,1.0,social_familie
+Moderaterne,Venstre,65,175,175.0,1.0,social_familie
+Not able to assign,Danmarksdemokraterne,65,929,308.0,0.33153928955866524,social_familie
+Not able to assign,Dansk Folkeparti,65,6872,2061.0,0.29991268917345754,social_familie
+Not able to assign,Det Konservative Folkeparti,65,3255,1043.0,0.3204301075268817,social_familie
+Not able to assign,Enhedslisten,65,147,109.0,0.7414965986394558,social_familie
+Not able to assign,Inuit Ataqatigiit,65,32,27.0,0.84375,social_familie
+Not able to assign,Kristeligt Folkeparti,65,820,456.0,0.5560975609756098,social_familie
+Not able to assign,Kristendemokraterne,65,584,327.0,0.559931506849315,social_familie
+Not able to assign,Liberal Alliance,65,628,206.0,0.32802547770700635,social_familie
+Not able to assign,Moderaterne,65,52,35.0,0.6730769230769231,social_familie
+Not able to assign,Not able to assign,65,1207,1064.0,0.8815244407622204,social_familie
+Not able to assign,Ny Alliance,65,248,105.0,0.42338709677419356,social_familie
+Not able to assign,Radikale Venstre,65,1927,1301.0,0.6751427088738973,social_familie
+Not able to assign,Sambandsflokkurin,65,20,0.0,0.0,social_familie
+Not able to assign,Socialdemokratiet,65,16944,15236.0,0.8991973559962229,social_familie
+Not able to assign,Socialistisk Folkeparti,65,3035,2573.0,0.8477759472817133,social_familie
+Not able to assign,Tjóðveldi,65,18,16.0,0.8888888888888888,social_familie
+Not able to assign,Uden for folketingsgrupperne,65,2155,797.0,0.36983758700696057,social_familie
+Not able to assign,Venstre,65,16784,5513.0,0.3284675881792183,social_familie
+Ny Alliance,Danmarksdemokraterne,65,134,133.0,0.9925373134328358,social_familie
+Ny Alliance,Dansk Folkeparti,65,1059,1023.0,0.9660056657223796,social_familie
+Ny Alliance,Det Konservative Folkeparti,65,227,227.0,1.0,social_familie
+Ny Alliance,Enhedslisten,65,33,17.0,0.5151515151515151,social_familie
+Ny Alliance,Kristeligt Folkeparti,65,114,70.0,0.6140350877192983,social_familie
+Ny Alliance,Kristendemokraterne,65,103,62.0,0.6019417475728155,social_familie
+Ny Alliance,Liberal Alliance,65,114,114.0,1.0,social_familie
+Ny Alliance,Moderaterne,65,10,10.0,1.0,social_familie
+Ny Alliance,Not able to assign,65,200,77.0,0.385,social_familie
+Ny Alliance,Radikale Venstre,65,137,77.0,0.5620437956204379,social_familie
+Ny Alliance,Sambandsflokkurin,65,1,1.0,1.0,social_familie
+Ny Alliance,Socialdemokratiet,65,2882,1183.0,0.4104788341429563,social_familie
+Ny Alliance,Socialistisk Folkeparti,65,478,181.0,0.3786610878661088,social_familie
+Ny Alliance,Uden for folketingsgrupperne,65,400,343.0,0.8575,social_familie
+Ny Alliance,Venstre,65,2023,2023.0,1.0,social_familie
+Radikale Venstre,Danmarksdemokraterne,65,955,419.0,0.4387434554973822,social_familie
+Radikale Venstre,Dansk Folkeparti,65,7020,2842.0,0.40484330484330483,social_familie
+Radikale Venstre,Det Konservative Folkeparti,65,1508,612.0,0.40583554376657827,social_familie
+Radikale Venstre,Enhedslisten,65,115,88.0,0.7652173913043478,social_familie
+Radikale Venstre,Inuit Ataqatigiit,65,31,28.0,0.9032258064516129,social_familie
+Radikale Venstre,Kristeligt Folkeparti,65,812,431.0,0.5307881773399015,social_familie
+Radikale Venstre,Kristendemokraterne,65,583,317.0,0.5437392795883362,social_familie
+Radikale Venstre,Liberal Alliance,65,592,246.0,0.4155405405405405,social_familie
+Radikale Venstre,Moderaterne,65,37,23.0,0.6216216216216216,social_familie
+Radikale Venstre,Not able to assign,65,1353,871.0,0.6437546193643755,social_familie
+Radikale Venstre,Ny Alliance,65,320,152.0,0.475,social_familie
+Radikale Venstre,Radikale Venstre,65,1263,1257.0,0.995249406175772,social_familie
+Radikale Venstre,Sambandsflokkurin,65,18,0.0,0.0,social_familie
+Radikale Venstre,Socialdemokratiet,65,18595,12184.0,0.65522990051089,social_familie
+Radikale Venstre,Socialistisk Folkeparti,65,3134,2125.0,0.6780472239948947,social_familie
+Radikale Venstre,Tjóðveldi,65,18,18.0,1.0,social_familie
+Radikale Venstre,Uden for folketingsgrupperne,65,2630,1464.0,0.5566539923954372,social_familie
+Radikale Venstre,Venstre,65,17596,7406.0,0.4208911116162764,social_familie
+Sambandsflokkurin,Danmarksdemokraterne,65,1,1.0,1.0,social_familie
+Sambandsflokkurin,Dansk Folkeparti,65,36,36.0,1.0,social_familie
+Sambandsflokkurin,Enhedslisten,65,1,0.0,0.0,social_familie
+Sambandsflokkurin,Kristeligt Folkeparti,65,2,0.0,0.0,social_familie
+Sambandsflokkurin,Kristendemokraterne,65,1,0.0,0.0,social_familie
+Sambandsflokkurin,Not able to assign,65,1,0.0,0.0,social_familie
+Sambandsflokkurin,Radikale Venstre,65,11,0.0,0.0,social_familie
+Sambandsflokkurin,Socialdemokratiet,65,112,0.0,0.0,social_familie
+Sambandsflokkurin,Socialistisk Folkeparti,65,15,0.0,0.0,social_familie
+Sambandsflokkurin,Uden for folketingsgrupperne,65,9,9.0,1.0,social_familie
+Sambandsflokkurin,Venstre,65,61,61.0,1.0,social_familie
+Socialdemokratiet,Danmarksdemokraterne,65,4403,1496.0,0.33976833976833976,social_familie
+Socialdemokratiet,Dansk Folkeparti,65,45714,13908.0,0.30423940149625933,social_familie
+Socialdemokratiet,Det Konservative Folkeparti,65,10823,3522.0,0.3254180911022822,social_familie
+Socialdemokratiet,Enhedslisten,65,742,544.0,0.7331536388140162,social_familie
+Socialdemokratiet,Inuit Ataqatigiit,65,162,133.0,0.8209876543209876,social_familie
+Socialdemokratiet,Kristeligt Folkeparti,65,6382,3528.0,0.5528047633970542,social_familie
+Socialdemokratiet,Kristendemokraterne,65,3679,2044.0,0.5555857569991846,social_familie
+Socialdemokratiet,Liberal Alliance,65,3136,1040.0,0.33163265306122447,social_familie
+Socialdemokratiet,Moderaterne,65,230,142.0,0.6173913043478261,social_familie
+Socialdemokratiet,Not able to assign,65,9146,9034.0,0.9877542094904876,social_familie
+Socialdemokratiet,Ny Alliance,65,733,330.0,0.45020463847203274,social_familie
+Socialdemokratiet,Radikale Venstre,65,8007,5490.0,0.6856500562008243,social_familie
+Socialdemokratiet,Sambandsflokkurin,65,101,0.0,0.0,social_familie
+Socialdemokratiet,Socialdemokratiet,65,102679,99293.0,0.9670234419891117,social_familie
+Socialdemokratiet,Socialistisk Folkeparti,65,20371,15665.0,0.768985322271857,social_familie
+Socialdemokratiet,Tjóðveldi,65,54,42.0,0.7777777777777778,social_familie
+Socialdemokratiet,Uden for folketingsgrupperne,65,14401,5411.0,0.37573779598638984,social_familie
+Socialdemokratiet,Venstre,65,98854,32767.0,0.3314686305055941,social_familie
+Socialistisk Folkeparti,Danmarksdemokraterne,65,707,230.0,0.32531824611032534,social_familie
+Socialistisk Folkeparti,Dansk Folkeparti,65,5528,1592.0,0.28798842257597684,social_familie
+Socialistisk Folkeparti,Det Konservative Folkeparti,65,1793,526.0,0.2933630786391523,social_familie
+Socialistisk Folkeparti,Enhedslisten,65,122,103.0,0.8442622950819673,social_familie
+Socialistisk Folkeparti,Inuit Ataqatigiit,65,25,23.0,0.92,social_familie
+Socialistisk Folkeparti,Kristeligt Folkeparti,65,829,465.0,0.5609167671893848,social_familie
+Socialistisk Folkeparti,Kristendemokraterne,65,398,222.0,0.5577889447236181,social_familie
+Socialistisk Folkeparti,Liberal Alliance,65,418,123.0,0.2942583732057416,social_familie
+Socialistisk Folkeparti,Moderaterne,65,32,20.0,0.625,social_familie
+Socialistisk Folkeparti,Not able to assign,65,1157,873.0,0.7545375972342264,social_familie
+Socialistisk Folkeparti,Ny Alliance,65,115,40.0,0.34782608695652173,social_familie
+Socialistisk Folkeparti,Radikale Venstre,65,1162,812.0,0.6987951807228916,social_familie
+Socialistisk Folkeparti,Sambandsflokkurin,65,25,0.0,0.0,social_familie
+Socialistisk Folkeparti,Socialdemokratiet,65,13679,10700.0,0.7822209225820601,social_familie
+Socialistisk Folkeparti,Socialistisk Folkeparti,65,2231,2227.0,0.9982070820259973,social_familie
+Socialistisk Folkeparti,Tjóðveldi,65,9,9.0,1.0,social_familie
+Socialistisk Folkeparti,Uden for folketingsgrupperne,65,1798,680.0,0.3781979977753059,social_familie
+Socialistisk Folkeparti,Venstre,65,13732,4247.0,0.30927759976696767,social_familie
+Tjóðveldi,Danmarksdemokraterne,65,16,0.0,0.0,social_familie
+Tjóðveldi,Dansk Folkeparti,65,78,0.0,0.0,social_familie
+Tjóðveldi,Det Konservative Folkeparti,65,18,0.0,0.0,social_familie
+Tjóðveldi,Inuit Ataqatigiit,65,5,5.0,1.0,social_familie
+Tjóðveldi,Kristeligt Folkeparti,65,9,7.0,0.7777777777777778,social_familie
+Tjóðveldi,Kristendemokraterne,65,9,7.0,0.7777777777777778,social_familie
+Tjóðveldi,Liberal Alliance,65,9,0.0,0.0,social_familie
+Tjóðveldi,Not able to assign,65,18,14.0,0.7777777777777778,social_familie
+Tjóðveldi,Radikale Venstre,65,18,18.0,1.0,social_familie
+Tjóðveldi,Socialdemokratiet,65,233,186.0,0.7982832618025751,social_familie
+Tjóðveldi,Socialistisk Folkeparti,65,36,36.0,1.0,social_familie
+Tjóðveldi,Uden for folketingsgrupperne,65,36,9.0,0.25,social_familie
+Tjóðveldi,Venstre,65,161,0.0,0.0,social_familie
+Uden for folketingsgrupperne,Danmarksdemokraterne,65,242,199.0,0.8223140495867769,social_familie
+Uden for folketingsgrupperne,Dansk Folkeparti,65,4819,4215.0,0.8746627931106039,social_familie
+Uden for folketingsgrupperne,Det Konservative Folkeparti,65,611,608.0,0.9950900163666121,social_familie
+Uden for folketingsgrupperne,Enhedslisten,65,45,10.0,0.2222222222222222,social_familie
+Uden for folketingsgrupperne,Inuit Ataqatigiit,65,21,2.0,0.09523809523809523,social_familie
+Uden for folketingsgrupperne,Kristeligt Folkeparti,65,732,340.0,0.4644808743169399,social_familie
+Uden for folketingsgrupperne,Kristendemokraterne,65,369,164.0,0.4444444444444444,social_familie
+Uden for folketingsgrupperne,Liberal Alliance,65,366,363.0,0.9918032786885246,social_familie
+Uden for folketingsgrupperne,Moderaterne,65,11,11.0,1.0,social_familie
+Uden for folketingsgrupperne,Not able to assign,65,902,304.0,0.3370288248337029,social_familie
+Uden for folketingsgrupperne,Ny Alliance,65,2,2.0,1.0,social_familie
+Uden for folketingsgrupperne,Radikale Venstre,65,493,219.0,0.44421906693711966,social_familie
+Uden for folketingsgrupperne,Sambandsflokkurin,65,13,13.0,1.0,social_familie
+Uden for folketingsgrupperne,Socialdemokratiet,65,10495,3672.0,0.3498808956646022,social_familie
+Uden for folketingsgrupperne,Socialistisk Folkeparti,65,2159,685.0,0.31727651690597497,social_familie
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,65,1116,782.0,0.7007168458781362,social_familie
+Uden for folketingsgrupperne,Venstre,65,9057,7905.0,0.8728055647565419,social_familie
+Venstre,Danmarksdemokraterne,65,4884,4839.0,0.9907862407862408,social_familie
+Venstre,Dansk Folkeparti,65,43663,42637.0,0.976501843666262,social_familie
+Venstre,Det Konservative Folkeparti,65,10787,10785.0,0.9998145916380828,social_familie
+Venstre,Enhedslisten,65,956,354.0,0.3702928870292887,social_familie
+Venstre,Inuit Ataqatigiit,65,209,19.0,0.09090909090909091,social_familie
+Venstre,Kristeligt Folkeparti,65,5778,2852.0,0.49359640013845624,social_familie
+Venstre,Kristendemokraterne,65,4045,1913.0,0.47292954264524106,social_familie
+Venstre,Liberal Alliance,65,4208,4207.0,0.9997623574144486,social_familie
+Venstre,Moderaterne,65,306,306.0,1.0,social_familie
+Venstre,Not able to assign,65,9085,2771.0,0.3050082553659879,social_familie
+Venstre,Ny Alliance,65,1599,1599.0,1.0,social_familie
+Venstre,Radikale Venstre,65,8802,3919.0,0.44523971824585323,social_familie
+Venstre,Sambandsflokkurin,65,145,145.0,1.0,social_familie
+Venstre,Socialdemokratiet,65,111082,35399.0,0.31867449271709186,social_familie
+Venstre,Socialistisk Folkeparti,65,20144,6235.0,0.3095214455917395,social_familie
+Venstre,Tjóðveldi,65,117,0.0,0.0,social_familie
+Venstre,Uden for folketingsgrupperne,65,15402,12976.0,0.8424879885729126,social_familie
+Venstre,Venstre,65,101023,100992.0,0.9996931391861259,social_familie
+Danmarksdemokraterne,Danmarksdemokraterne,66,1393,1356.0,0.9734386216798278,social_familie
+Danmarksdemokraterne,Dansk Folkeparti,66,8155,8039.0,0.9857755977927651,social_familie
+Danmarksdemokraterne,Det Konservative Folkeparti,66,4460,4232.0,0.9488789237668162,social_familie
+Danmarksdemokraterne,Enhedslisten,66,1717,340.0,0.19801980198019803,social_familie
+Danmarksdemokraterne,Inuit Ataqatigiit,66,6,0.0,0.0,social_familie
+Danmarksdemokraterne,Kristendemokraterne,66,623,596.0,0.956661316211878,social_familie
+Danmarksdemokraterne,Liberal Alliance,66,526,499.0,0.9486692015209125,social_familie
+Danmarksdemokraterne,Moderaterne,66,122,117.0,0.9590163934426229,social_familie
+Danmarksdemokraterne,Not able to assign,66,1699,929.0,0.5467922307239552,social_familie
+Danmarksdemokraterne,Ny Alliance,66,232,203.0,0.875,social_familie
+Danmarksdemokraterne,Radikale Venstre,66,4531,2093.0,0.4619289340101523,social_familie
+Danmarksdemokraterne,Siumut,66,14,2.0,0.14285714285714285,social_familie
+Danmarksdemokraterne,Socialdemokratiet,66,17960,9924.0,0.5525612472160356,social_familie
+Danmarksdemokraterne,Socialistisk Folkeparti,66,3843,1087.0,0.2828519385896435,social_familie
+Danmarksdemokraterne,Tjóðveldi,66,10,0.0,0.0,social_familie
+Danmarksdemokraterne,Uden for folketingsgrupperne,66,1997,1563.0,0.7826740110165248,social_familie
+Danmarksdemokraterne,Venstre,66,18258,17284.0,0.9466535217438931,social_familie
+Dansk Folkeparti,Danmarksdemokraterne,66,3927,3894.0,0.9915966386554622,social_familie
+Dansk Folkeparti,Dansk Folkeparti,66,19818,19818.0,1.0,social_familie
+Dansk Folkeparti,Det Konservative Folkeparti,66,8932,8491.0,0.950626959247649,social_familie
+Dansk Folkeparti,Enhedslisten,66,4240,782.0,0.18443396226415093,social_familie
+Dansk Folkeparti,Inuit Ataqatigiit,66,20,0.0,0.0,social_familie
+Dansk Folkeparti,Kristendemokraterne,66,2044,1939.0,0.9486301369863014,social_familie
+Dansk Folkeparti,Liberal Alliance,66,1139,1074.0,0.9429323968393327,social_familie
+Dansk Folkeparti,Moderaterne,66,303,296.0,0.976897689768977,social_familie
+Dansk Folkeparti,Not able to assign,66,4308,2380.0,0.552460538532962,social_familie
+Dansk Folkeparti,Ny Alliance,66,296,261.0,0.8817567567567568,social_familie
+Dansk Folkeparti,Radikale Venstre,66,11435,5288.0,0.4624398775688675,social_familie
+Dansk Folkeparti,Siumut,66,29,6.0,0.20689655172413793,social_familie
+Dansk Folkeparti,Socialdemokratiet,66,44749,24182.0,0.5403919640662361,social_familie
+Dansk Folkeparti,Socialistisk Folkeparti,66,10977,3235.0,0.2947071148765601,social_familie
+Dansk Folkeparti,Tjóðveldi,66,8,0.0,0.0,social_familie
+Dansk Folkeparti,Uden for folketingsgrupperne,66,5550,4060.0,0.7315315315315315,social_familie
+Dansk Folkeparti,Venstre,66,43544,41115.0,0.9442173433768143,social_familie
+Det Konservative Folkeparti,Danmarksdemokraterne,66,4861,4633.0,0.9530960707673318,social_familie
+Det Konservative Folkeparti,Dansk Folkeparti,66,23655,22401.0,0.946987951807229,social_familie
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,11345,11234.0,0.9902159541648303,social_familie
+Det Konservative Folkeparti,Enhedslisten,66,5465,1071.0,0.1959743824336688,social_familie
+Det Konservative Folkeparti,Inuit Ataqatigiit,66,15,0.0,0.0,social_familie
+Det Konservative Folkeparti,Kristendemokraterne,66,2025,2005.0,0.9901234567901235,social_familie
+Det Konservative Folkeparti,Liberal Alliance,66,1596,1580.0,0.9899749373433584,social_familie
+Det Konservative Folkeparti,Moderaterne,66,396,384.0,0.9696969696969697,social_familie
+Det Konservative Folkeparti,Not able to assign,66,5190,3013.0,0.5805394990366088,social_familie
+Det Konservative Folkeparti,Ny Alliance,66,780,750.0,0.9615384615384616,social_familie
+Det Konservative Folkeparti,Radikale Venstre,66,13997,6746.0,0.48196042009001927,social_familie
+Det Konservative Folkeparti,Siumut,66,39,9.0,0.23076923076923078,social_familie
+Det Konservative Folkeparti,Socialdemokratiet,66,53813,31386.0,0.5832419675543085,social_familie
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,11845,3612.0,0.30493879273955254,social_familie
+Det Konservative Folkeparti,Tjóðveldi,66,23,0.0,0.0,social_familie
+Det Konservative Folkeparti,Uden for folketingsgrupperne,66,6228,4962.0,0.7967244701348748,social_familie
+Det Konservative Folkeparti,Venstre,66,52067,51402.0,0.9872279946991377,social_familie
+Enhedslisten,Danmarksdemokraterne,66,790,158.0,0.2,social_familie
+Enhedslisten,Dansk Folkeparti,66,4499,885.0,0.1967103800844632,social_familie
+Enhedslisten,Det Konservative Folkeparti,66,1271,276.0,0.21715184893784423,social_familie
+Enhedslisten,Enhedslisten,66,605,605.0,1.0,social_familie
+Enhedslisten,Inuit Ataqatigiit,66,4,2.0,0.5,social_familie
+Enhedslisten,Kristendemokraterne,66,507,106.0,0.20907297830374755,social_familie
+Enhedslisten,Liberal Alliance,66,199,37.0,0.18592964824120603,social_familie
+Enhedslisten,Moderaterne,66,31,4.0,0.12903225806451613,social_familie
+Enhedslisten,Not able to assign,66,709,418.0,0.5895627644569816,social_familie
+Enhedslisten,Ny Alliance,66,42,12.0,0.2857142857142857,social_familie
+Enhedslisten,Radikale Venstre,66,2127,1250.0,0.5876821814762576,social_familie
+Enhedslisten,Siumut,66,5,1.0,0.2,social_familie
+Enhedslisten,Socialdemokratiet,66,8824,5140.0,0.5825022665457842,social_familie
+Enhedslisten,Socialistisk Folkeparti,66,2316,2015.0,0.8700345423143351,social_familie
+Enhedslisten,Tjóðveldi,66,1,1.0,1.0,social_familie
+Enhedslisten,Uden for folketingsgrupperne,66,1286,466.0,0.36236391912908245,social_familie
+Enhedslisten,Venstre,66,7825,1659.0,0.21201277955271566,social_familie
+Inuit Ataqatigiit,Dansk Folkeparti,66,5,0.0,0.0,social_familie
+Inuit Ataqatigiit,Det Konservative Folkeparti,66,2,0.0,0.0,social_familie
+Inuit Ataqatigiit,Not able to assign,66,1,0.0,0.0,social_familie
+Inuit Ataqatigiit,Socialdemokratiet,66,9,0.0,0.0,social_familie
+Inuit Ataqatigiit,Socialistisk Folkeparti,66,2,1.0,0.5,social_familie
+Inuit Ataqatigiit,Venstre,66,9,0.0,0.0,social_familie
+Kristendemokraterne,Danmarksdemokraterne,66,218,205.0,0.9403669724770642,social_familie
+Kristendemokraterne,Dansk Folkeparti,66,923,880.0,0.9534127843986999,social_familie
+Kristendemokraterne,Det Konservative Folkeparti,66,218,217.0,0.9954128440366973,social_familie
+Kristendemokraterne,Enhedslisten,66,106,17.0,0.16037735849056603,social_familie
+Kristendemokraterne,Inuit Ataqatigiit,66,2,0.0,0.0,social_familie
+Kristendemokraterne,Not able to assign,66,133,81.0,0.6090225563909775,social_familie
+Kristendemokraterne,Radikale Venstre,66,183,97.0,0.5300546448087432,social_familie
+Kristendemokraterne,Socialdemokratiet,66,1539,957.0,0.621832358674464,social_familie
+Kristendemokraterne,Socialistisk Folkeparti,66,659,202.0,0.30652503793626706,social_familie
+Kristendemokraterne,Uden for folketingsgrupperne,66,318,255.0,0.8018867924528302,social_familie
+Kristendemokraterne,Venstre,66,1933,1909.0,0.9875840662183135,social_familie
+Liberal Alliance,Danmarksdemokraterne,66,212,200.0,0.9433962264150944,social_familie
+Liberal Alliance,Dansk Folkeparti,66,1394,1314.0,0.9426111908177905,social_familie
+Liberal Alliance,Det Konservative Folkeparti,66,355,351.0,0.9887323943661972,social_familie
+Liberal Alliance,Enhedslisten,66,352,58.0,0.16477272727272727,social_familie
+Liberal Alliance,Inuit Ataqatigiit,66,1,0.0,0.0,social_familie
+Liberal Alliance,Kristendemokraterne,66,189,187.0,0.9894179894179894,social_familie
+Liberal Alliance,Not able to assign,66,250,147.0,0.588,social_familie
+Liberal Alliance,Radikale Venstre,66,961,497.0,0.5171696149843913,social_familie
+Liberal Alliance,Socialdemokratiet,66,3113,1898.0,0.6097012528107935,social_familie
+Liberal Alliance,Socialistisk Folkeparti,66,673,179.0,0.2659732540861813,social_familie
+Liberal Alliance,Uden for folketingsgrupperne,66,461,372.0,0.806941431670282,social_familie
+Liberal Alliance,Venstre,66,2000,1970.0,0.985,social_familie
+Moderaterne,Danmarksdemokraterne,66,58,56.0,0.9655172413793104,social_familie
+Moderaterne,Dansk Folkeparti,66,345,335.0,0.9710144927536232,social_familie
+Moderaterne,Det Konservative Folkeparti,66,88,87.0,0.9886363636363636,social_familie
+Moderaterne,Enhedslisten,66,99,11.0,0.1111111111111111,social_familie
+Moderaterne,Kristendemokraterne,66,49,47.0,0.9591836734693877,social_familie
+Moderaterne,Liberal Alliance,66,42,41.0,0.9761904761904762,social_familie
+Moderaterne,Not able to assign,66,71,45.0,0.6338028169014085,social_familie
+Moderaterne,Radikale Venstre,66,243,161.0,0.6625514403292181,social_familie
+Moderaterne,Socialdemokratiet,66,814,497.0,0.6105651105651105,social_familie
+Moderaterne,Socialistisk Folkeparti,66,168,50.0,0.2976190476190476,social_familie
+Moderaterne,Uden for folketingsgrupperne,66,130,108.0,0.8307692307692308,social_familie
+Moderaterne,Venstre,66,493,475.0,0.9634888438133874,social_familie
+Not able to assign,Danmarksdemokraterne,66,1046,625.0,0.5975143403441683,social_familie
+Not able to assign,Dansk Folkeparti,66,5614,2999.0,0.534200213751336,social_familie
+Not able to assign,Det Konservative Folkeparti,66,2371,1433.0,0.6043863348797975,social_familie
+Not able to assign,Enhedslisten,66,1341,779.0,0.580909768829232,social_familie
+Not able to assign,Inuit Ataqatigiit,66,4,0.0,0.0,social_familie
+Not able to assign,Kristendemokraterne,66,579,354.0,0.6113989637305699,social_familie
+Not able to assign,Liberal Alliance,66,358,217.0,0.6061452513966481,social_familie
+Not able to assign,Moderaterne,66,88,55.0,0.625,social_familie
+Not able to assign,Not able to assign,66,912,897.0,0.9835526315789473,social_familie
+Not able to assign,Ny Alliance,66,150,91.0,0.6066666666666667,social_familie
+Not able to assign,Radikale Venstre,66,3031,2288.0,0.7548663807324315,social_familie
+Not able to assign,Siumut,66,9,3.0,0.3333333333333333,social_familie
+Not able to assign,Socialdemokratiet,66,12271,12053.0,0.9822345367125743,social_familie
+Not able to assign,Socialistisk Folkeparti,66,2987,2060.0,0.6896551724137931,social_familie
+Not able to assign,Tjóðveldi,66,2,2.0,1.0,social_familie
+Not able to assign,Uden for folketingsgrupperne,66,1531,1012.0,0.6610058785107773,social_familie
+Not able to assign,Venstre,66,11494,6903.0,0.600574212632678,social_familie
+Ny Alliance,Danmarksdemokraterne,66,231,209.0,0.9047619047619048,social_familie
+Ny Alliance,Dansk Folkeparti,66,1160,1023.0,0.881896551724138,social_familie
+Ny Alliance,Det Konservative Folkeparti,66,367,352.0,0.9591280653950953,social_familie
+Ny Alliance,Enhedslisten,66,292,54.0,0.18493150684931506,social_familie
+Ny Alliance,Kristendemokraterne,66,106,104.0,0.9811320754716981,social_familie
+Ny Alliance,Liberal Alliance,66,108,105.0,0.9722222222222222,social_familie
+Ny Alliance,Moderaterne,66,28,25.0,0.8928571428571429,social_familie
+Ny Alliance,Not able to assign,66,204,114.0,0.5588235294117647,social_familie
+Ny Alliance,Radikale Venstre,66,617,349.0,0.5656401944894651,social_familie
+Ny Alliance,Siumut,66,4,1.0,0.25,social_familie
+Ny Alliance,Socialdemokratiet,66,2639,1622.0,0.6146267525577871,social_familie
+Ny Alliance,Socialistisk Folkeparti,66,514,136.0,0.26459143968871596,social_familie
+Ny Alliance,Uden for folketingsgrupperne,66,361,306.0,0.8476454293628809,social_familie
+Ny Alliance,Venstre,66,2211,2144.0,0.9696969696969697,social_familie
+Radikale Venstre,Danmarksdemokraterne,66,3416,1632.0,0.477751756440281,social_familie
+Radikale Venstre,Dansk Folkeparti,66,16016,7354.0,0.4591658341658342,social_familie
+Radikale Venstre,Det Konservative Folkeparti,66,6950,3545.0,0.5100719424460431,social_familie
+Radikale Venstre,Enhedslisten,66,3564,2214.0,0.6212121212121212,social_familie
+Radikale Venstre,Inuit Ataqatigiit,66,13,0.0,0.0,social_familie
+Radikale Venstre,Kristendemokraterne,66,1729,910.0,0.5263157894736842,social_familie
+Radikale Venstre,Liberal Alliance,66,688,355.0,0.5159883720930233,social_familie
+Radikale Venstre,Moderaterne,66,164,109.0,0.6646341463414634,social_familie
+Radikale Venstre,Not able to assign,66,3316,2578.0,0.7774427020506635,social_familie
+Radikale Venstre,Ny Alliance,66,351,190.0,0.5413105413105413,social_familie
+Radikale Venstre,Radikale Venstre,66,7936,7877.0,0.9925655241935484,social_familie
+Radikale Venstre,Siumut,66,21,8.0,0.38095238095238093,social_familie
+Radikale Venstre,Socialdemokratiet,66,34168,25483.0,0.7458147974713182,social_familie
+Radikale Venstre,Socialistisk Folkeparti,66,8519,5887.0,0.6910435497124076,social_familie
+Radikale Venstre,Tjóðveldi,66,10,6.0,0.6,social_familie
+Radikale Venstre,Uden for folketingsgrupperne,66,4400,3153.0,0.7165909090909091,social_familie
+Radikale Venstre,Venstre,66,34454,17497.0,0.5078365356707494,social_familie
+Siumut,Danmarksdemokraterne,66,4,1.0,0.25,social_familie
+Siumut,Dansk Folkeparti,66,35,8.0,0.22857142857142856,social_familie
+Siumut,Det Konservative Folkeparti,66,11,2.0,0.18181818181818182,social_familie
+Siumut,Enhedslisten,66,6,4.0,0.6666666666666666,social_familie
+Siumut,Inuit Ataqatigiit,66,1,1.0,1.0,social_familie
+Siumut,Kristendemokraterne,66,5,1.0,0.2,social_familie
+Siumut,Liberal Alliance,66,4,1.0,0.25,social_familie
+Siumut,Not able to assign,66,4,2.0,0.5,social_familie
+Siumut,Radikale Venstre,66,20,8.0,0.4,social_familie
+Siumut,Socialdemokratiet,66,77,31.0,0.4025974025974026,social_familie
+Siumut,Socialistisk Folkeparti,66,20,8.0,0.4,social_familie
+Siumut,Uden for folketingsgrupperne,66,15,5.0,0.3333333333333333,social_familie
+Siumut,Venstre,66,52,10.0,0.19230769230769232,social_familie
+Socialdemokratiet,Danmarksdemokraterne,66,8697,5052.0,0.5808899620558814,social_familie
+Socialdemokratiet,Dansk Folkeparti,66,48726,25879.0,0.5311127529450396,social_familie
+Socialdemokratiet,Det Konservative Folkeparti,66,17393,10185.0,0.5855804059104237,social_familie
+Socialdemokratiet,Enhedslisten,66,10190,5783.0,0.5675171736997056,social_familie
+Socialdemokratiet,Inuit Ataqatigiit,66,48,0.0,0.0,social_familie
+Socialdemokratiet,Kristendemokraterne,66,4899,3031.0,0.6186976934068177,social_familie
+Socialdemokratiet,Liberal Alliance,66,2427,1545.0,0.6365883807169345,social_familie
+Socialdemokratiet,Moderaterne,66,599,366.0,0.6110183639398998,social_familie
+Socialdemokratiet,Not able to assign,66,9119,8895.0,0.975435903059546,social_familie
+Socialdemokratiet,Ny Alliance,66,525,332.0,0.6323809523809524,social_familie
+Socialdemokratiet,Radikale Venstre,66,25881,19108.0,0.7383022294347205,social_familie
+Socialdemokratiet,Siumut,66,67,25.0,0.373134328358209,social_familie
+Socialdemokratiet,Socialdemokratiet,66,98931,96246.0,0.9728598720320223,social_familie
+Socialdemokratiet,Socialistisk Folkeparti,66,24736,17189.0,0.6948981241914618,social_familie
+Socialdemokratiet,Tjóðveldi,66,14,14.0,1.0,social_familie
+Socialdemokratiet,Uden for folketingsgrupperne,66,13342,8659.0,0.64900314795383,social_familie
+Socialdemokratiet,Venstre,66,94686,55705.0,0.5883129501721479,social_familie
+Socialistisk Folkeparti,Danmarksdemokraterne,66,2446,698.0,0.285363859362224,social_familie
+Socialistisk Folkeparti,Dansk Folkeparti,66,11283,3291.0,0.2916777452805105,social_familie
+Socialistisk Folkeparti,Det Konservative Folkeparti,66,5138,1637.0,0.31860646165823275,social_familie
+Socialistisk Folkeparti,Enhedslisten,66,2223,1934.0,0.8699955015744489,social_familie
+Socialistisk Folkeparti,Inuit Ataqatigiit,66,14,7.0,0.5,social_familie
+Socialistisk Folkeparti,Kristendemokraterne,66,895,284.0,0.31731843575418994,social_familie
+Socialistisk Folkeparti,Liberal Alliance,66,649,177.0,0.2727272727272727,social_familie
+Socialistisk Folkeparti,Moderaterne,66,158,38.0,0.24050632911392406,social_familie
+Socialistisk Folkeparti,Not able to assign,66,2212,1557.0,0.703887884267631,social_familie
+Socialistisk Folkeparti,Ny Alliance,66,235,67.0,0.2851063829787234,social_familie
+Socialistisk Folkeparti,Radikale Venstre,66,5758,4041.0,0.7018061827023272,social_familie
+Socialistisk Folkeparti,Siumut,66,14,5.0,0.35714285714285715,social_familie
+Socialistisk Folkeparti,Socialdemokratiet,66,23860,16966.0,0.7110645431684828,social_familie
+Socialistisk Folkeparti,Socialistisk Folkeparti,66,5020,4988.0,0.9936254980079682,social_familie
+Socialistisk Folkeparti,Tjóðveldi,66,4,4.0,1.0,social_familie
+Socialistisk Folkeparti,Uden for folketingsgrupperne,66,2988,1346.0,0.4504685408299866,social_familie
+Socialistisk Folkeparti,Venstre,66,24773,8030.0,0.3241432204416098,social_familie
+Tjóðveldi,Danmarksdemokraterne,66,8,0.0,0.0,social_familie
+Tjóðveldi,Dansk Folkeparti,66,42,0.0,0.0,social_familie
+Tjóðveldi,Det Konservative Folkeparti,66,14,0.0,0.0,social_familie
+Tjóðveldi,Enhedslisten,66,9,9.0,1.0,social_familie
+Tjóðveldi,Kristendemokraterne,66,2,0.0,0.0,social_familie
+Tjóðveldi,Liberal Alliance,66,2,0.0,0.0,social_familie
+Tjóðveldi,Not able to assign,66,3,3.0,1.0,social_familie
+Tjóðveldi,Ny Alliance,66,2,0.0,0.0,social_familie
+Tjóðveldi,Radikale Venstre,66,23,11.0,0.4782608695652174,social_familie
+Tjóðveldi,Siumut,66,1,1.0,1.0,social_familie
+Tjóðveldi,Socialdemokratiet,66,99,99.0,1.0,social_familie
+Tjóðveldi,Socialistisk Folkeparti,66,19,19.0,1.0,social_familie
+Tjóðveldi,Uden for folketingsgrupperne,66,12,2.0,0.16666666666666666,social_familie
+Tjóðveldi,Venstre,66,86,0.0,0.0,social_familie
+Uden for folketingsgrupperne,Danmarksdemokraterne,66,761,617.0,0.8107752956636005,social_familie
+Uden for folketingsgrupperne,Dansk Folkeparti,66,4222,3645.0,0.8633349123638087,social_familie
+Uden for folketingsgrupperne,Det Konservative Folkeparti,66,1325,1159.0,0.8747169811320755,social_familie
+Uden for folketingsgrupperne,Enhedslisten,66,740,200.0,0.2702702702702703,social_familie
+Uden for folketingsgrupperne,Inuit Ataqatigiit,66,6,1.0,0.16666666666666666,social_familie
+Uden for folketingsgrupperne,Kristendemokraterne,66,341,307.0,0.9002932551319648,social_familie
+Uden for folketingsgrupperne,Liberal Alliance,66,151,142.0,0.9403973509933775,social_familie
+Uden for folketingsgrupperne,Moderaterne,66,46,41.0,0.8913043478260869,social_familie
+Uden for folketingsgrupperne,Not able to assign,66,761,460.0,0.6044678055190539,social_familie
+Uden for folketingsgrupperne,Ny Alliance,66,10,9.0,0.9,social_familie
+Uden for folketingsgrupperne,Radikale Venstre,66,1788,1017.0,0.5687919463087249,social_familie
+Uden for folketingsgrupperne,Siumut,66,2,0.0,0.0,social_familie
+Uden for folketingsgrupperne,Socialdemokratiet,66,8068,4786.0,0.5932077342588002,social_familie
+Uden for folketingsgrupperne,Socialistisk Folkeparti,66,2088,805.0,0.38553639846743293,social_familie
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,66,941,670.0,0.7120085015940489,social_familie
+Uden for folketingsgrupperne,Venstre,66,7897,6841.0,0.866278333544384,social_familie
+Venstre,Danmarksdemokraterne,66,12746,12074.0,0.9472775772791464,social_familie
+Venstre,Dansk Folkeparti,66,65566,61835.0,0.9430955068175578,social_familie
+Venstre,Det Konservative Folkeparti,66,31139,30732.0,0.9869295738463021,social_familie
+Venstre,Enhedslisten,66,14350,2860.0,0.19930313588850174,social_familie
+Venstre,Inuit Ataqatigiit,66,56,0.0,0.0,social_familie
+Venstre,Kristendemokraterne,66,5572,5495.0,0.9861809045226131,social_familie
+Venstre,Liberal Alliance,66,4375,4306.0,0.9842285714285715,social_familie
+Venstre,Moderaterne,66,1082,1036.0,0.9574861367837338,social_familie
+Venstre,Not able to assign,66,13466,7895.0,0.5862914005643843,social_familie
+Venstre,Ny Alliance,66,1380,1336.0,0.9681159420289855,social_familie
+Venstre,Radikale Venstre,66,35619,17549.0,0.49268648754878014,social_familie
+Venstre,Siumut,66,106,22.0,0.20754716981132076,social_familie
+Venstre,Socialdemokratiet,66,144117,83483.0,0.5792723967332098,social_familie
+Venstre,Socialistisk Folkeparti,66,32025,9944.0,0.3105074160811866,social_familie
+Venstre,Tjóðveldi,66,54,0.0,0.0,social_familie
+Venstre,Uden for folketingsgrupperne,66,16876,13195.0,0.7818795923204551,social_familie
+Venstre,Venstre,66,135686,134001.0,0.9875816222749584,social_familie
+Danmarksdemokraterne,Danmarksdemokraterne,67,1926,1882.0,0.9771547248182763,social_familie
+Danmarksdemokraterne,Dansk Folkeparti,67,10367,10262.0,0.9898717083051992,social_familie
+Danmarksdemokraterne,Det Konservative Folkeparti,67,7650,7283.0,0.9520261437908497,social_familie
+Danmarksdemokraterne,Enhedslisten,67,1909,561.0,0.29387113672079623,social_familie
+Danmarksdemokraterne,Inuit Ataqatigiit,67,6,1.0,0.16666666666666666,social_familie
+Danmarksdemokraterne,Kristendemokraterne,67,598,554.0,0.9264214046822743,social_familie
+Danmarksdemokraterne,Liberal Alliance,67,435,367.0,0.8436781609195402,social_familie
+Danmarksdemokraterne,Moderaterne,67,24,20.0,0.8333333333333334,social_familie
+Danmarksdemokraterne,Not able to assign,67,69,48.0,0.6956521739130435,social_familie
+Danmarksdemokraterne,Radikale Venstre,67,3774,2053.0,0.5439851616322204,social_familie
+Danmarksdemokraterne,Sambandsflokkurin,67,7,7.0,1.0,social_familie
+Danmarksdemokraterne,Siumut,67,34,18.0,0.5294117647058824,social_familie
+Danmarksdemokraterne,Socialdemokratiet,67,25643,13654.0,0.532465000194985,social_familie
+Danmarksdemokraterne,Socialistisk Folkeparti,67,9626,4384.0,0.45543320174527324,social_familie
+Danmarksdemokraterne,Tjóðveldi,67,2,0.0,0.0,social_familie
+Danmarksdemokraterne,Uden for folketingsgrupperne,67,2177,1905.0,0.8750574184657786,social_familie
+Danmarksdemokraterne,Venstre,67,22425,21439.0,0.9560312151616499,social_familie
+Dansk Folkeparti,Danmarksdemokraterne,67,5316,5269.0,0.9911587659894657,social_familie
+Dansk Folkeparti,Dansk Folkeparti,67,24213,24187.0,0.9989261966712096,social_familie
+Dansk Folkeparti,Det Konservative Folkeparti,67,19059,18030.0,0.9460097591688966,social_familie
+Dansk Folkeparti,Enhedslisten,67,4988,1487.0,0.29811547714514836,social_familie
+Dansk Folkeparti,Inuit Ataqatigiit,67,9,0.0,0.0,social_familie
+Dansk Folkeparti,Kristendemokraterne,67,1604,1472.0,0.9177057356608479,social_familie
+Dansk Folkeparti,Liberal Alliance,67,1370,1146.0,0.8364963503649635,social_familie
+Dansk Folkeparti,Moderaterne,67,76,54.0,0.7105263157894737,social_familie
+Dansk Folkeparti,Not able to assign,67,195,133.0,0.6820512820512821,social_familie
+Dansk Folkeparti,Radikale Venstre,67,9151,4967.0,0.5427822095945798,social_familie
+Dansk Folkeparti,Sambandsflokkurin,67,13,13.0,1.0,social_familie
+Dansk Folkeparti,Siumut,67,70,29.0,0.4142857142857143,social_familie
+Dansk Folkeparti,Socialdemokratiet,67,65316,34948.0,0.5350603221262784,social_familie
+Dansk Folkeparti,Socialistisk Folkeparti,67,25290,11595.0,0.45848161328588377,social_familie
+Dansk Folkeparti,Tjóðveldi,67,3,0.0,0.0,social_familie
+Dansk Folkeparti,Uden for folketingsgrupperne,67,5685,4956.0,0.8717678100263853,social_familie
+Dansk Folkeparti,Venstre,67,58323,55422.0,0.950259760300396,social_familie
+Det Konservative Folkeparti,Danmarksdemokraterne,67,3983,3801.0,0.9543057996485061,social_familie
+Det Konservative Folkeparti,Dansk Folkeparti,67,19551,18565.0,0.9495677970436295,social_familie
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,12964,12946.0,0.9986115396482567,social_familie
+Det Konservative Folkeparti,Enhedslisten,67,3832,1275.0,0.33272442588726514,social_familie
+Det Konservative Folkeparti,Inuit Ataqatigiit,67,9,4.0,0.4444444444444444,social_familie
+Det Konservative Folkeparti,Kristendemokraterne,67,1263,1245.0,0.9857482185273159,social_familie
+Det Konservative Folkeparti,Liberal Alliance,67,901,783.0,0.8690344062153164,social_familie
+Det Konservative Folkeparti,Moderaterne,67,68,68.0,1.0,social_familie
+Det Konservative Folkeparti,Not able to assign,67,164,156.0,0.9512195121951219,social_familie
+Det Konservative Folkeparti,Radikale Venstre,67,7158,4318.0,0.6032411288069293,social_familie
+Det Konservative Folkeparti,Sambandsflokkurin,67,10,10.0,1.0,social_familie
+Det Konservative Folkeparti,Siumut,67,75,46.0,0.6133333333333333,social_familie
+Det Konservative Folkeparti,Socialdemokratiet,67,49591,29553.0,0.5959347462241132,social_familie
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,18370,9390.0,0.5111594991834513,social_familie
+Det Konservative Folkeparti,Tjóðveldi,67,4,0.0,0.0,social_familie
+Det Konservative Folkeparti,Uden for folketingsgrupperne,67,4350,3848.0,0.8845977011494253,social_familie
+Det Konservative Folkeparti,Venstre,67,42215,42135.0,0.9981049390027241,social_familie
+Enhedslisten,Danmarksdemokraterne,67,809,233.0,0.2880098887515451,social_familie
+Enhedslisten,Dansk Folkeparti,67,3992,1140.0,0.28557114228456915,social_familie
+Enhedslisten,Det Konservative Folkeparti,67,2749,861.0,0.3132048017460895,social_familie
+Enhedslisten,Enhedslisten,67,469,430.0,0.9168443496801706,social_familie
+Enhedslisten,Inuit Ataqatigiit,67,2,0.0,0.0,social_familie
+Enhedslisten,Kristendemokraterne,67,337,105.0,0.3115727002967359,social_familie
+Enhedslisten,Liberal Alliance,67,260,85.0,0.3269230769230769,social_familie
+Enhedslisten,Moderaterne,67,10,2.0,0.2,social_familie
+Enhedslisten,Not able to assign,67,31,13.0,0.41935483870967744,social_familie
+Enhedslisten,Radikale Venstre,67,1348,855.0,0.634272997032641,social_familie
+Enhedslisten,Siumut,67,7,3.0,0.42857142857142855,social_familie
+Enhedslisten,Socialdemokratiet,67,9440,6422.0,0.6802966101694915,social_familie
+Enhedslisten,Socialistisk Folkeparti,67,3683,2720.0,0.7385283736084713,social_familie
+Enhedslisten,Tjóðveldi,67,1,0.0,0.0,social_familie
+Enhedslisten,Uden for folketingsgrupperne,67,930,317.0,0.34086021505376346,social_familie
+Enhedslisten,Venstre,67,8252,2582.0,0.3128938439166263,social_familie
+Inuit Ataqatigiit,Danmarksdemokraterne,67,4,0.0,0.0,social_familie
+Inuit Ataqatigiit,Dansk Folkeparti,67,16,0.0,0.0,social_familie
+Inuit Ataqatigiit,Det Konservative Folkeparti,67,11,5.0,0.45454545454545453,social_familie
+Inuit Ataqatigiit,Enhedslisten,67,3,0.0,0.0,social_familie
+Inuit Ataqatigiit,Kristendemokraterne,67,2,1.0,0.5,social_familie
+Inuit Ataqatigiit,Moderaterne,67,1,0.0,0.0,social_familie
+Inuit Ataqatigiit,Not able to assign,67,2,2.0,1.0,social_familie
+Inuit Ataqatigiit,Radikale Venstre,67,7,1.0,0.14285714285714285,social_familie
+Inuit Ataqatigiit,Siumut,67,2,2.0,1.0,social_familie
+Inuit Ataqatigiit,Socialdemokratiet,67,39,20.0,0.5128205128205128,social_familie
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,14,7.0,0.5,social_familie
+Inuit Ataqatigiit,Uden for folketingsgrupperne,67,5,2.0,0.4,social_familie
+Inuit Ataqatigiit,Venstre,67,33,15.0,0.45454545454545453,social_familie
+Kristendemokraterne,Danmarksdemokraterne,67,65,61.0,0.9384615384615385,social_familie
+Kristendemokraterne,Dansk Folkeparti,67,589,543.0,0.9219015280135824,social_familie
+Kristendemokraterne,Det Konservative Folkeparti,67,348,338.0,0.9712643678160919,social_familie
+Kristendemokraterne,Enhedslisten,67,60,26.0,0.43333333333333335,social_familie
+Kristendemokraterne,Liberal Alliance,67,68,58.0,0.8529411764705882,social_familie
+Kristendemokraterne,Not able to assign,67,13,12.0,0.9230769230769231,social_familie
+Kristendemokraterne,Socialdemokratiet,67,1006,645.0,0.6411530815109344,social_familie
+Kristendemokraterne,Socialistisk Folkeparti,67,519,276.0,0.5317919075144508,social_familie
+Kristendemokraterne,Uden for folketingsgrupperne,67,90,67.0,0.7444444444444445,social_familie
+Kristendemokraterne,Venstre,67,1298,1274.0,0.9815100154083205,social_familie
+Liberal Alliance,Danmarksdemokraterne,67,402,380.0,0.945273631840796,social_familie
+Liberal Alliance,Dansk Folkeparti,67,1337,1257.0,0.9401645474943904,social_familie
+Liberal Alliance,Det Konservative Folkeparti,67,1108,1055.0,0.9521660649819494,social_familie
+Liberal Alliance,Enhedslisten,67,220,72.0,0.32727272727272727,social_familie
+Liberal Alliance,Inuit Ataqatigiit,67,1,0.0,0.0,social_familie
+Liberal Alliance,Kristendemokraterne,67,55,53.0,0.9636363636363636,social_familie
+Liberal Alliance,Moderaterne,67,5,5.0,1.0,social_familie
+Liberal Alliance,Not able to assign,67,13,12.0,0.9230769230769231,social_familie
+Liberal Alliance,Radikale Venstre,67,483,312.0,0.6459627329192547,social_familie
+Liberal Alliance,Siumut,67,4,1.0,0.25,social_familie
+Liberal Alliance,Socialdemokratiet,67,3115,1908.0,0.6125200642054575,social_familie
+Liberal Alliance,Socialistisk Folkeparti,67,1356,742.0,0.5471976401179941,social_familie
+Liberal Alliance,Tjóðveldi,67,1,0.0,0.0,social_familie
+Liberal Alliance,Uden for folketingsgrupperne,67,234,199.0,0.8504273504273504,social_familie
+Liberal Alliance,Venstre,67,3017,2902.0,0.9618826648989062,social_familie
+Moderaterne,Danmarksdemokraterne,67,15,11.0,0.7333333333333333,social_familie
+Moderaterne,Dansk Folkeparti,67,49,37.0,0.7551020408163265,social_familie
+Moderaterne,Det Konservative Folkeparti,67,36,36.0,1.0,social_familie
+Moderaterne,Enhedslisten,67,12,4.0,0.3333333333333333,social_familie
+Moderaterne,Kristendemokraterne,67,9,8.0,0.8888888888888888,social_familie
+Moderaterne,Not able to assign,67,5,5.0,1.0,social_familie
+Moderaterne,Radikale Venstre,67,34,19.0,0.5588235294117647,social_familie
+Moderaterne,Socialdemokratiet,67,163,116.0,0.7116564417177914,social_familie
+Moderaterne,Socialistisk Folkeparti,67,31,16.0,0.5161290322580645,social_familie
+Moderaterne,Uden for folketingsgrupperne,67,23,18.0,0.782608695652174,social_familie
+Moderaterne,Venstre,67,99,99.0,1.0,social_familie
+Not able to assign,Danmarksdemokraterne,67,11,9.0,0.8181818181818182,social_familie
+Not able to assign,Dansk Folkeparti,67,35,31.0,0.8857142857142857,social_familie
+Not able to assign,Det Konservative Folkeparti,67,39,38.0,0.9743589743589743,social_familie
+Not able to assign,Enhedslisten,67,9,3.0,0.3333333333333333,social_familie
+Not able to assign,Kristendemokraterne,67,7,7.0,1.0,social_familie
+Not able to assign,Not able to assign,67,9,9.0,1.0,social_familie
+Not able to assign,Radikale Venstre,67,18,18.0,1.0,social_familie
+Not able to assign,Sambandsflokkurin,67,1,1.0,1.0,social_familie
+Not able to assign,Socialdemokratiet,67,119,119.0,1.0,social_familie
+Not able to assign,Socialistisk Folkeparti,67,52,52.0,1.0,social_familie
+Not able to assign,Uden for folketingsgrupperne,67,6,6.0,1.0,social_familie
+Not able to assign,Venstre,67,125,123.0,0.984,social_familie
+Radikale Venstre,Danmarksdemokraterne,67,1937,965.0,0.4981930820856995,social_familie
+Radikale Venstre,Dansk Folkeparti,67,9690,5185.0,0.5350877192982456,social_familie
+Radikale Venstre,Det Konservative Folkeparti,67,6803,3884.0,0.5709245920917242,social_familie
+Radikale Venstre,Enhedslisten,67,1929,1363.0,0.7065837221358217,social_familie
+Radikale Venstre,Inuit Ataqatigiit,67,1,1.0,1.0,social_familie
+Radikale Venstre,Kristendemokraterne,67,811,508.0,0.6263871763255241,social_familie
+Radikale Venstre,Liberal Alliance,67,516,280.0,0.5426356589147286,social_familie
+Radikale Venstre,Moderaterne,67,9,4.0,0.4444444444444444,social_familie
+Radikale Venstre,Not able to assign,67,66,65.0,0.9848484848484849,social_familie
+Radikale Venstre,Radikale Venstre,67,2775,2717.0,0.9790990990990991,social_familie
+Radikale Venstre,Sambandsflokkurin,67,4,2.0,0.5,social_familie
+Radikale Venstre,Siumut,67,16,9.0,0.5625,social_familie
+Radikale Venstre,Socialdemokratiet,67,23728,19759.0,0.8327292650033715,social_familie
+Radikale Venstre,Socialistisk Folkeparti,67,9086,7423.0,0.8169711644287916,social_familie
+Radikale Venstre,Uden for folketingsgrupperne,67,2101,1273.0,0.6059019514516897,social_familie
+Radikale Venstre,Venstre,67,21246,12341.0,0.5808622799585804,social_familie
+Sambandsflokkurin,Danmarksdemokraterne,67,15,15.0,1.0,social_familie
+Sambandsflokkurin,Dansk Folkeparti,67,45,45.0,1.0,social_familie
+Sambandsflokkurin,Det Konservative Folkeparti,67,36,36.0,1.0,social_familie
+Sambandsflokkurin,Enhedslisten,67,10,4.0,0.4,social_familie
+Sambandsflokkurin,Kristendemokraterne,67,5,5.0,1.0,social_familie
+Sambandsflokkurin,Liberal Alliance,67,3,3.0,1.0,social_familie
+Sambandsflokkurin,Not able to assign,67,2,2.0,1.0,social_familie
+Sambandsflokkurin,Radikale Venstre,67,17,6.0,0.35294117647058826,social_familie
+Sambandsflokkurin,Socialdemokratiet,67,131,104.0,0.7938931297709924,social_familie
+Sambandsflokkurin,Socialistisk Folkeparti,67,55,21.0,0.38181818181818183,social_familie
+Sambandsflokkurin,Uden for folketingsgrupperne,67,11,9.0,0.8181818181818182,social_familie
+Sambandsflokkurin,Venstre,67,125,125.0,1.0,social_familie
+Siumut,Danmarksdemokraterne,67,27,15.0,0.5555555555555556,social_familie
+Siumut,Dansk Folkeparti,67,56,25.0,0.44642857142857145,social_familie
+Siumut,Det Konservative Folkeparti,67,35,22.0,0.6285714285714286,social_familie
+Siumut,Enhedslisten,67,12,4.0,0.3333333333333333,social_familie
+Siumut,Kristendemokraterne,67,5,2.0,0.4,social_familie
+Siumut,Liberal Alliance,67,5,5.0,1.0,social_familie
+Siumut,Moderaterne,67,1,0.0,0.0,social_familie
+Siumut,Not able to assign,67,3,3.0,1.0,social_familie
+Siumut,Radikale Venstre,67,33,21.0,0.6363636363636364,social_familie
+Siumut,Socialdemokratiet,67,178,144.0,0.8089887640449438,social_familie
+Siumut,Socialistisk Folkeparti,67,45,34.0,0.7555555555555555,social_familie
+Siumut,Uden for folketingsgrupperne,67,23,13.0,0.5652173913043478,social_familie
+Siumut,Venstre,67,121,81.0,0.6694214876033058,social_familie
+Socialdemokratiet,Danmarksdemokraterne,67,10556,5433.0,0.5146835922697992,social_familie
+Socialdemokratiet,Dansk Folkeparti,67,53754,28296.0,0.526398035495033,social_familie
+Socialdemokratiet,Det Konservative Folkeparti,67,38617,22437.0,0.5810135432581506,social_familie
+Socialdemokratiet,Enhedslisten,67,10917,7966.0,0.7296876431254008,social_familie
+Socialdemokratiet,Inuit Ataqatigiit,67,18,8.0,0.4444444444444444,social_familie
+Socialdemokratiet,Kristendemokraterne,67,4008,2501.0,0.624001996007984,social_familie
+Socialdemokratiet,Liberal Alliance,67,3018,1644.0,0.5447316103379721,social_familie
+Socialdemokratiet,Moderaterne,67,126,84.0,0.6666666666666666,social_familie
+Socialdemokratiet,Not able to assign,67,460,460.0,1.0,social_familie
+Socialdemokratiet,Radikale Venstre,67,19135,16008.0,0.8365821792526783,social_familie
+Socialdemokratiet,Sambandsflokkurin,67,20,14.0,0.7,social_familie
+Socialdemokratiet,Siumut,67,158,121.0,0.7658227848101266,social_familie
+Socialdemokratiet,Socialdemokratiet,67,131875,130473.0,0.9893687203791469,social_familie
+Socialdemokratiet,Socialistisk Folkeparti,67,50139,46322.0,0.9238716368495582,social_familie
+Socialdemokratiet,Tjóðveldi,67,5,0.0,0.0,social_familie
+Socialdemokratiet,Uden for folketingsgrupperne,67,12695,7380.0,0.5813312327688066,social_familie
+Socialdemokratiet,Venstre,67,118470,69196.0,0.5840803578965139,social_familie
+Socialistisk Folkeparti,Danmarksdemokraterne,67,5834,2646.0,0.4535481659238944,social_familie
+Socialistisk Folkeparti,Dansk Folkeparti,67,25909,11941.0,0.46088231888532943,social_familie
+Socialistisk Folkeparti,Det Konservative Folkeparti,67,19376,10110.0,0.5217795210569777,social_familie
+Socialistisk Folkeparti,Enhedslisten,67,5135,4078.0,0.794157740993184,social_familie
+Socialistisk Folkeparti,Inuit Ataqatigiit,67,10,3.0,0.3,social_familie
+Socialistisk Folkeparti,Kristendemokraterne,67,1676,855.0,0.5101431980906921,social_familie
+Socialistisk Folkeparti,Liberal Alliance,67,1322,567.0,0.4288956127080182,social_familie
+Socialistisk Folkeparti,Moderaterne,67,87,53.0,0.6091954022988506,social_familie
+Socialistisk Folkeparti,Not able to assign,67,174,174.0,1.0,social_familie
+Socialistisk Folkeparti,Radikale Venstre,67,9404,7524.0,0.8000850701829009,social_familie
+Socialistisk Folkeparti,Sambandsflokkurin,67,5,3.0,0.6,social_familie
+Socialistisk Folkeparti,Siumut,67,82,57.0,0.6951219512195121,social_familie
+Socialistisk Folkeparti,Socialdemokratiet,67,66502,60637.0,0.911807163694325,social_familie
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,23359,23244.0,0.9950768440429812,social_familie
+Socialistisk Folkeparti,Tjóðveldi,67,6,0.0,0.0,social_familie
+Socialistisk Folkeparti,Uden for folketingsgrupperne,67,6120,3185.0,0.5204248366013072,social_familie
+Socialistisk Folkeparti,Venstre,67,60457,31037.0,0.513373141240882,social_familie
+Tjóðveldi,Danmarksdemokraterne,67,2,0.0,0.0,social_familie
+Tjóðveldi,Dansk Folkeparti,67,11,0.0,0.0,social_familie
+Tjóðveldi,Det Konservative Folkeparti,67,7,0.0,0.0,social_familie
+Tjóðveldi,Enhedslisten,67,2,0.0,0.0,social_familie
+Tjóðveldi,Inuit Ataqatigiit,67,1,1.0,1.0,social_familie
+Tjóðveldi,Kristendemokraterne,67,1,0.0,0.0,social_familie
+Tjóðveldi,Moderaterne,67,1,0.0,0.0,social_familie
+Tjóðveldi,Radikale Venstre,67,6,0.0,0.0,social_familie
+Tjóðveldi,Siumut,67,1,1.0,1.0,social_familie
+Tjóðveldi,Socialdemokratiet,67,24,0.0,0.0,social_familie
+Tjóðveldi,Socialistisk Folkeparti,67,8,0.0,0.0,social_familie
+Tjóðveldi,Uden for folketingsgrupperne,67,2,0.0,0.0,social_familie
+Tjóðveldi,Venstre,67,20,0.0,0.0,social_familie
+Uden for folketingsgrupperne,Danmarksdemokraterne,67,752,610.0,0.8111702127659575,social_familie
+Uden for folketingsgrupperne,Dansk Folkeparti,67,4046,3416.0,0.8442906574394463,social_familie
+Uden for folketingsgrupperne,Det Konservative Folkeparti,67,2894,2367.0,0.8178991015894955,social_familie
+Uden for folketingsgrupperne,Enhedslisten,67,697,293.0,0.42037302725968434,social_familie
+Uden for folketingsgrupperne,Inuit Ataqatigiit,67,1,0.0,0.0,social_familie
+Uden for folketingsgrupperne,Kristendemokraterne,67,306,275.0,0.8986928104575164,social_familie
+Uden for folketingsgrupperne,Liberal Alliance,67,223,174.0,0.7802690582959642,social_familie
+Uden for folketingsgrupperne,Moderaterne,67,14,8.0,0.5714285714285714,social_familie
+Uden for folketingsgrupperne,Not able to assign,67,52,37.0,0.7115384615384616,social_familie
+Uden for folketingsgrupperne,Radikale Venstre,67,1320,771.0,0.5840909090909091,social_familie
+Uden for folketingsgrupperne,Sambandsflokkurin,67,1,1.0,1.0,social_familie
+Uden for folketingsgrupperne,Siumut,67,4,0.0,0.0,social_familie
+Uden for folketingsgrupperne,Socialdemokratiet,67,9690,6082.0,0.62765737874097,social_familie
+Uden for folketingsgrupperne,Socialistisk Folkeparti,67,3388,1908.0,0.5631641086186541,social_familie
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,67,686,509.0,0.7419825072886297,social_familie
+Uden for folketingsgrupperne,Venstre,67,8623,7105.0,0.8239591789400441,social_familie
+Venstre,Danmarksdemokraterne,67,13657,12971.0,0.9497693490517684,social_familie
+Venstre,Dansk Folkeparti,67,60568,57402.0,0.9477281732928279,social_familie
+Venstre,Det Konservative Folkeparti,67,45799,45675.0,0.9972925173038713,social_familie
+Venstre,Enhedslisten,67,12162,4104.0,0.33744449925999015,social_familie
+Venstre,Inuit Ataqatigiit,67,26,12.0,0.46153846153846156,social_familie
+Venstre,Kristendemokraterne,67,3859,3785.0,0.9808240476807463,social_familie
+Venstre,Liberal Alliance,67,3124,2734.0,0.8751600512163893,social_familie
+Venstre,Moderaterne,67,188,188.0,1.0,social_familie
+Venstre,Not able to assign,67,469,443.0,0.9445628997867804,social_familie
+Venstre,Radikale Venstre,67,21649,12947.0,0.5980414799759805,social_familie
+Venstre,Sambandsflokkurin,67,20,20.0,1.0,social_familie
+Venstre,Siumut,67,211,141.0,0.6682464454976303,social_familie
+Venstre,Socialdemokratiet,67,153515,91762.0,0.5977396345633977,social_familie
+Venstre,Socialistisk Folkeparti,67,56203,28921.0,0.5145810721847588,social_familie
+Venstre,Tjóðveldi,67,12,0.0,0.0,social_familie
+Venstre,Uden for folketingsgrupperne,67,13679,12159.0,0.8888807661378756,social_familie
+Venstre,Venstre,67,131820,131544.0,0.9979062357760583,social_familie
+Alternativet,Det Konservative Folkeparti,68,85,66.0,0.7764705882352941,social_familie
+Alternativet,Liberal Alliance,68,132,57.0,0.4318181818181818,social_familie
+Alternativet,Radikale Venstre,68,182,167.0,0.9175824175824175,social_familie
+Alternativet,Socialdemokratiet,68,80,53.0,0.6625,social_familie
+Alternativet,Socialistisk Folkeparti,68,201,184.0,0.9154228855721394,social_familie
+Alternativet,Venstre,68,38,32.0,0.8421052631578947,social_familie
+Danmarksdemokraterne,Alternativet,68,1438,797.0,0.5542420027816412,social_familie
+Danmarksdemokraterne,Danmarksdemokraterne,68,5198,4944.0,0.951135051943055,social_familie
+Danmarksdemokraterne,Dansk Folkeparti,68,12778,12474.0,0.976209109406793,social_familie
+Danmarksdemokraterne,Det Konservative Folkeparti,68,8675,6619.0,0.7629971181556195,social_familie
+Danmarksdemokraterne,Enhedslisten,68,14843,6502.0,0.4380516068180287,social_familie
+Danmarksdemokraterne,Javnaðarflokkurin,68,48,6.0,0.125,social_familie
+Danmarksdemokraterne,Liberal Alliance,68,9896,6865.0,0.693714632174616,social_familie
+Danmarksdemokraterne,Moderaterne,68,563,446.0,0.7921847246891652,social_familie
+Danmarksdemokraterne,Radikale Venstre,68,19298,12379.0,0.6414654368328324,social_familie
+Danmarksdemokraterne,Sambandsflokkurin,68,22,18.0,0.8181818181818182,social_familie
+Danmarksdemokraterne,Socialdemokratiet,68,52943,34321.0,0.6482632264888654,social_familie
+Danmarksdemokraterne,Socialistisk Folkeparti,68,13208,7691.0,0.5822986069049061,social_familie
+Danmarksdemokraterne,Uden for folketingsgrupperne,68,4715,4262.0,0.9039236479321315,social_familie
+Danmarksdemokraterne,Venstre,68,41872,31958.0,0.763230798624379,social_familie
+Dansk Folkeparti,Alternativet,68,2058,1121.0,0.5447035957240038,social_familie
+Dansk Folkeparti,Danmarksdemokraterne,68,4686,4595.0,0.9805804524114383,social_familie
+Dansk Folkeparti,Dansk Folkeparti,68,11071,11045.0,0.9976515219943998,social_familie
+Dansk Folkeparti,Det Konservative Folkeparti,68,9146,6772.0,0.7404329761644435,social_familie
+Dansk Folkeparti,Enhedslisten,68,15149,6651.0,0.4390388804541554,social_familie
+Dansk Folkeparti,Javnaðarflokkurin,68,42,0.0,0.0,social_familie
+Dansk Folkeparti,Liberal Alliance,68,9305,6443.0,0.692423428264374,social_familie
+Dansk Folkeparti,Moderaterne,68,331,249.0,0.7522658610271903,social_familie
+Dansk Folkeparti,Radikale Venstre,68,17410,10973.0,0.6302699597932223,social_familie
+Dansk Folkeparti,Sambandsflokkurin,68,13,10.0,0.7692307692307693,social_familie
+Dansk Folkeparti,Socialdemokratiet,68,51961,32615.0,0.6276823001866785,social_familie
+Dansk Folkeparti,Socialistisk Folkeparti,68,13496,7428.0,0.550385299347955,social_familie
+Dansk Folkeparti,Uden for folketingsgrupperne,68,3958,3428.0,0.8660939868620515,social_familie
+Dansk Folkeparti,Venstre,68,37913,28334.0,0.7473426001635323,social_familie
+Det Konservative Folkeparti,Alternativet,68,1357,905.0,0.6669123065585851,social_familie
+Det Konservative Folkeparti,Danmarksdemokraterne,68,3716,2688.0,0.7233584499461787,social_familie
+Det Konservative Folkeparti,Dansk Folkeparti,68,8466,6225.0,0.7352941176470589,social_familie
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,5052,5043.0,0.9982185273159145,social_familie
+Det Konservative Folkeparti,Enhedslisten,68,10656,4211.0,0.3951764264264264,social_familie
+Det Konservative Folkeparti,Javnaðarflokkurin,68,16,16.0,1.0,social_familie
+Det Konservative Folkeparti,Liberal Alliance,68,6404,5119.0,0.7993441599000625,social_familie
+Det Konservative Folkeparti,Moderaterne,68,318,299.0,0.940251572327044,social_familie
+Det Konservative Folkeparti,Radikale Venstre,68,12702,10109.0,0.7958589198551409,social_familie
+Det Konservative Folkeparti,Sambandsflokkurin,68,18,18.0,1.0,social_familie
+Det Konservative Folkeparti,Socialdemokratiet,68,35548,28517.0,0.8022110948576573,social_familie
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,8853,6309.0,0.7126397831243646,social_familie
+Det Konservative Folkeparti,Uden for folketingsgrupperne,68,2900,2104.0,0.7255172413793104,social_familie
+Det Konservative Folkeparti,Venstre,68,26992,25874.0,0.958580320094843,social_familie
+Enhedslisten,Alternativet,68,2384,1787.0,0.7495805369127517,social_familie
+Enhedslisten,Danmarksdemokraterne,68,5919,2569.0,0.4340260179084305,social_familie
+Enhedslisten,Dansk Folkeparti,68,14422,6044.0,0.4190819581195396,social_familie
+Enhedslisten,Det Konservative Folkeparti,68,10062,3675.0,0.3652355396541443,social_familie
+Enhedslisten,Enhedslisten,68,15347,14863.0,0.9684628917703786,social_familie
+Enhedslisten,Javnaðarflokkurin,68,49,35.0,0.7142857142857143,social_familie
+Enhedslisten,Liberal Alliance,68,11398,3808.0,0.3340937006492367,social_familie
+Enhedslisten,Moderaterne,68,594,175.0,0.2946127946127946,social_familie
+Enhedslisten,Radikale Venstre,68,20995,11619.0,0.5534174803524649,social_familie
+Enhedslisten,Sambandsflokkurin,68,2,1.0,0.5,social_familie
+Enhedslisten,Socialdemokratiet,68,60463,32871.0,0.5436547971486695,social_familie
+Enhedslisten,Socialistisk Folkeparti,68,15760,10016.0,0.6355329949238578,social_familie
+Enhedslisten,Uden for folketingsgrupperne,68,5280,2038.0,0.3859848484848485,social_familie
+Enhedslisten,Venstre,68,45192,16472.0,0.36448929013984777,social_familie
+Javnaðarflokkurin,Alternativet,68,7,7.0,1.0,social_familie
+Javnaðarflokkurin,Danmarksdemokraterne,68,7,0.0,0.0,social_familie
+Javnaðarflokkurin,Det Konservative Folkeparti,68,7,7.0,1.0,social_familie
+Javnaðarflokkurin,Enhedslisten,68,7,5.0,0.7142857142857143,social_familie
+Javnaðarflokkurin,Liberal Alliance,68,7,0.0,0.0,social_familie
+Javnaðarflokkurin,Radikale Venstre,68,14,14.0,1.0,social_familie
+Javnaðarflokkurin,Socialdemokratiet,68,21,21.0,1.0,social_familie
+Javnaðarflokkurin,Socialistisk Folkeparti,68,12,12.0,1.0,social_familie
+Javnaðarflokkurin,Venstre,68,28,28.0,1.0,social_familie
+Liberal Alliance,Alternativet,68,1181,630.0,0.5334462320067739,social_familie
+Liberal Alliance,Danmarksdemokraterne,68,1575,1039.0,0.6596825396825396,social_familie
+Liberal Alliance,Dansk Folkeparti,68,7112,4884.0,0.686726659167604,social_familie
+Liberal Alliance,Det Konservative Folkeparti,68,5062,3856.0,0.76175424733307,social_familie
+Liberal Alliance,Enhedslisten,68,7847,2766.0,0.35249139798649165,social_familie
+Liberal Alliance,Javnaðarflokkurin,68,16,0.0,0.0,social_familie
+Liberal Alliance,Liberal Alliance,68,4260,4253.0,0.998356807511737,social_familie
+Liberal Alliance,Moderaterne,68,57,43.0,0.7543859649122807,social_familie
+Liberal Alliance,Radikale Venstre,68,9133,6006.0,0.6576152414321691,social_familie
+Liberal Alliance,Sambandsflokkurin,68,1,0.0,0.0,social_familie
+Liberal Alliance,Socialdemokratiet,68,28470,18674.0,0.6559185107130313,social_familie
+Liberal Alliance,Socialistisk Folkeparti,68,7144,4052.0,0.5671892497200448,social_familie
+Liberal Alliance,Uden for folketingsgrupperne,68,2130,1689.0,0.7929577464788733,social_familie
+Liberal Alliance,Venstre,68,17026,12974.0,0.7620110419358628,social_familie
+Moderaterne,Alternativet,68,130,71.0,0.5461538461538461,social_familie
+Moderaterne,Danmarksdemokraterne,68,357,281.0,0.7871148459383753,social_familie
+Moderaterne,Dansk Folkeparti,68,962,735.0,0.764033264033264,social_familie
+Moderaterne,Det Konservative Folkeparti,68,634,595.0,0.9384858044164038,social_familie
+Moderaterne,Enhedslisten,68,1013,394.0,0.3889437314906219,social_familie
+Moderaterne,Liberal Alliance,68,825,659.0,0.7987878787878788,social_familie
+Moderaterne,Moderaterne,68,2,2.0,1.0,social_familie
+Moderaterne,Radikale Venstre,68,1386,1118.0,0.8066378066378066,social_familie
+Moderaterne,Socialdemokratiet,68,3967,3255.0,0.8205192840937736,social_familie
+Moderaterne,Socialistisk Folkeparti,68,835,529.0,0.6335329341317365,social_familie
+Moderaterne,Uden for folketingsgrupperne,68,357,278.0,0.7787114845938375,social_familie
+Moderaterne,Venstre,68,2442,2441.0,0.9995904995904996,social_familie
+Radikale Venstre,Alternativet,68,2593,2241.0,0.8642499035865793,social_familie
+Radikale Venstre,Danmarksdemokraterne,68,5246,3118.0,0.5943576057948914,social_familie
+Radikale Venstre,Dansk Folkeparti,68,17662,11073.0,0.6269391914845431,social_familie
+Radikale Venstre,Det Konservative Folkeparti,68,11870,9428.0,0.7942712721145746,social_familie
+Radikale Venstre,Enhedslisten,68,20057,11620.0,0.579348855761081,social_familie
+Radikale Venstre,Javnaðarflokkurin,68,56,56.0,1.0,social_familie
+Radikale Venstre,Liberal Alliance,68,13556,8860.0,0.6535851283564473,social_familie
+Radikale Venstre,Moderaterne,68,379,310.0,0.8179419525065963,social_familie
+Radikale Venstre,Radikale Venstre,68,22235,22235.0,1.0,social_familie
+Radikale Venstre,Sambandsflokkurin,68,13,12.0,0.9230769230769231,social_familie
+Radikale Venstre,Socialdemokratiet,68,70711,70690.0,0.9997030165037971,social_familie
+Radikale Venstre,Socialistisk Folkeparti,68,16893,15652.0,0.9265376191321849,social_familie
+Radikale Venstre,Uden for folketingsgrupperne,68,5721,3486.0,0.6093340325117986,social_familie
+Radikale Venstre,Venstre,68,47995,38252.0,0.7969996874674445,social_familie
+Sambandsflokkurin,Alternativet,68,11,10.0,0.9090909090909091,social_familie
+Sambandsflokkurin,Danmarksdemokraterne,68,43,37.0,0.8604651162790697,social_familie
+Sambandsflokkurin,Dansk Folkeparti,68,54,45.0,0.8333333333333334,social_familie
+Sambandsflokkurin,Det Konservative Folkeparti,68,36,36.0,1.0,social_familie
+Sambandsflokkurin,Enhedslisten,68,84,46.0,0.5476190476190477,social_familie
+Sambandsflokkurin,Liberal Alliance,68,45,28.0,0.6222222222222222,social_familie
+Sambandsflokkurin,Moderaterne,68,1,1.0,1.0,social_familie
+Sambandsflokkurin,Radikale Venstre,68,95,86.0,0.9052631578947369,social_familie
+Sambandsflokkurin,Socialdemokratiet,68,272,248.0,0.9117647058823529,social_familie
+Sambandsflokkurin,Socialistisk Folkeparti,68,76,69.0,0.9078947368421053,social_familie
+Sambandsflokkurin,Uden for folketingsgrupperne,68,31,24.0,0.7741935483870968,social_familie
+Sambandsflokkurin,Venstre,68,252,252.0,1.0,social_familie
+Socialdemokratiet,Alternativet,68,8509,7425.0,0.8726054765542367,social_familie
+Socialdemokratiet,Danmarksdemokraterne,68,22771,14166.0,0.6221070660050063,social_familie
+Socialdemokratiet,Dansk Folkeparti,68,55709,35704.0,0.6409018291478935,social_familie
+Socialdemokratiet,Det Konservative Folkeparti,68,39969,31677.0,0.7925392178938677,social_familie
+Socialdemokratiet,Enhedslisten,68,65946,38376.0,0.5819306705486307,social_familie
+Socialdemokratiet,Javnaðarflokkurin,68,179,179.0,1.0,social_familie
+Socialdemokratiet,Liberal Alliance,68,41578,26812.0,0.6448602626388956,social_familie
+Socialdemokratiet,Moderaterne,68,1680,1351.0,0.8041666666666667,social_familie
+Socialdemokratiet,Radikale Venstre,68,79022,78941.0,0.9989749689959758,social_familie
+Socialdemokratiet,Sambandsflokkurin,68,61,55.0,0.9016393442622951,social_familie
+Socialdemokratiet,Socialdemokratiet,68,223266,222962.0,0.9986383954565407,social_familie
+Socialdemokratiet,Socialistisk Folkeparti,68,58968,54421.0,0.9228903812237146,social_familie
+Socialdemokratiet,Uden for folketingsgrupperne,68,18771,11645.0,0.6203718501944488,social_familie
+Socialdemokratiet,Venstre,68,168780,133646.0,0.791835525536201,social_familie
+Socialistisk Folkeparti,Alternativet,68,2024,1926.0,0.9515810276679841,social_familie
+Socialistisk Folkeparti,Danmarksdemokraterne,68,6289,3641.0,0.5789473684210527,social_familie
+Socialistisk Folkeparti,Dansk Folkeparti,68,14442,8296.0,0.5744356737294004,social_familie
+Socialistisk Folkeparti,Det Konservative Folkeparti,68,10613,7578.0,0.7140299632526147,social_familie
+Socialistisk Folkeparti,Enhedslisten,68,16801,10906.0,0.6491280280935658,social_familie
+Socialistisk Folkeparti,Javnaðarflokkurin,68,42,42.0,1.0,social_familie
+Socialistisk Folkeparti,Liberal Alliance,68,10930,6385.0,0.5841720036596524,social_familie
+Socialistisk Folkeparti,Moderaterne,68,559,348.0,0.6225402504472272,social_familie
+Socialistisk Folkeparti,Radikale Venstre,68,21932,20377.0,0.9290990333758891,social_familie
+Socialistisk Folkeparti,Sambandsflokkurin,68,14,13.0,0.9285714285714286,social_familie
+Socialistisk Folkeparti,Socialdemokratiet,68,59996,55608.0,0.9268617907860524,social_familie
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,13682,13649.0,0.9975880719193101,social_familie
+Socialistisk Folkeparti,Uden for folketingsgrupperne,68,5260,2996.0,0.5695817490494297,social_familie
+Socialistisk Folkeparti,Venstre,68,48511,34777.0,0.7168889530209643,social_familie
+Uden for folketingsgrupperne,Alternativet,68,562,299.0,0.5320284697508897,social_familie
+Uden for folketingsgrupperne,Danmarksdemokraterne,68,329,306.0,0.9300911854103343,social_familie
+Uden for folketingsgrupperne,Dansk Folkeparti,68,3080,3071.0,0.9970779220779221,social_familie
+Uden for folketingsgrupperne,Det Konservative Folkeparti,68,2126,1558.0,0.7328316086547507,social_familie
+Uden for folketingsgrupperne,Enhedslisten,68,3122,1359.0,0.4352978859705317,social_familie
+Uden for folketingsgrupperne,Javnaðarflokkurin,68,21,0.0,0.0,social_familie
+Uden for folketingsgrupperne,Liberal Alliance,68,2418,1709.0,0.7067824648469809,social_familie
+Uden for folketingsgrupperne,Moderaterne,68,4,3.0,0.75,social_familie
+Uden for folketingsgrupperne,Radikale Venstre,68,4307,2748.0,0.638031112143023,social_familie
+Uden for folketingsgrupperne,Socialdemokratiet,68,11728,7486.0,0.6383015006821282,social_familie
+Uden for folketingsgrupperne,Socialistisk Folkeparti,68,2619,1540.0,0.5880106911034746,social_familie
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,68,664,543.0,0.8177710843373494,social_familie
+Uden for folketingsgrupperne,Venstre,68,6427,4720.0,0.7344017426482029,social_familie
+Venstre,Alternativet,68,7734,5352.0,0.6920093095422808,social_familie
+Venstre,Danmarksdemokraterne,68,25806,19495.0,0.7554444702782299,social_familie
+Venstre,Dansk Folkeparti,68,58436,43447.0,0.7434971592853721,social_familie
+Venstre,Det Konservative Folkeparti,68,40506,38454.0,0.9493408383943119,social_familie
+Venstre,Enhedslisten,68,67696,27429.0,0.4051790356889624,social_familie
+Venstre,Javnaðarflokkurin,68,161,161.0,1.0,social_familie
+Venstre,Liberal Alliance,68,45596,35627.0,0.7813624002105448,social_familie
+Venstre,Moderaterne,68,2492,2473.0,0.9923756019261637,social_familie
+Venstre,Radikale Venstre,68,86003,68293.0,0.7940769508040417,social_familie
+Venstre,Sambandsflokkurin,68,38,38.0,1.0,social_familie
+Venstre,Socialdemokratiet,68,243321,194606.0,0.7997912222948287,social_familie
+Venstre,Socialistisk Folkeparti,68,58176,42124.0,0.7240786578657866,social_familie
+Venstre,Uden for folketingsgrupperne,68,20750,15250.0,0.7349397590361446,social_familie
+Venstre,Venstre,68,178305,177388.0,0.9948571268332352,social_familie
+Alternativet,Alternativet,69,8418,8265.0,0.9818246614397719,social_familie
+Alternativet,Danmarksdemokraterne,69,5921,2494.0,0.4212126330011822,social_familie
+Alternativet,Dansk Folkeparti,69,21127,8689.0,0.4112746722203815,social_familie
+Alternativet,Det Konservative Folkeparti,69,3700,1653.0,0.44675675675675675,social_familie
+Alternativet,Enhedslisten,69,13469,10599.0,0.7869181082485708,social_familie
+Alternativet,Liberal Alliance,69,9295,4113.0,0.44249596557288867,social_familie
+Alternativet,Moderaterne,69,967,403.0,0.41675284384694933,social_familie
+Alternativet,Radikale Venstre,69,6834,4806.0,0.7032484635645303,social_familie
+Alternativet,Socialdemokratiet,69,38709,21315.0,0.5506471363248857,social_familie
+Alternativet,Socialistisk Folkeparti,69,6917,5671.0,0.8198641029347983,social_familie
+Alternativet,Tjóðveldi,69,15,3.0,0.2,social_familie
+Alternativet,Uden for folketingsgrupperne,69,4282,1843.0,0.4304063521718823,social_familie
+Alternativet,Venstre,69,22711,10397.0,0.45779578177975433,social_familie
+Danmarksdemokraterne,Alternativet,69,15647,6689.0,0.42749408832364033,social_familie
+Danmarksdemokraterne,Danmarksdemokraterne,69,10419,9920.0,0.9521067280929072,social_familie
+Danmarksdemokraterne,Dansk Folkeparti,69,41445,40227.0,0.9706116539992762,social_familie
+Danmarksdemokraterne,Det Konservative Folkeparti,69,8778,7542.0,0.8591934381408065,social_familie
+Danmarksdemokraterne,Enhedslisten,69,23482,8050.0,0.3428157737841751,social_familie
+Danmarksdemokraterne,Liberal Alliance,69,19121,16427.0,0.8591077872496209,social_familie
+Danmarksdemokraterne,Moderaterne,69,1043,868.0,0.8322147651006712,social_familie
+Danmarksdemokraterne,Radikale Venstre,69,12192,7288.0,0.597769028871391,social_familie
+Danmarksdemokraterne,Socialdemokratiet,69,72420,53505.0,0.7388152444076223,social_familie
+Danmarksdemokraterne,Socialistisk Folkeparti,69,11927,6026.0,0.505240211285319,social_familie
+Danmarksdemokraterne,Tjóðveldi,69,36,5.0,0.1388888888888889,social_familie
+Danmarksdemokraterne,Uden for folketingsgrupperne,69,10151,9330.0,0.9191212688405084,social_familie
+Danmarksdemokraterne,Venstre,69,38493,33073.0,0.8591951783441145,social_familie
+Dansk Folkeparti,Alternativet,69,36338,15038.0,0.4138367549122131,social_familie
+Dansk Folkeparti,Danmarksdemokraterne,69,20354,19772.0,0.9714061118207723,social_familie
+Dansk Folkeparti,Dansk Folkeparti,69,78200,78156.0,0.9994373401534526,social_familie
+Dansk Folkeparti,Det Konservative Folkeparti,69,16206,13215.0,0.8154387263976305,social_familie
+Dansk Folkeparti,Enhedslisten,69,48430,17581.0,0.3630187900061945,social_familie
+Dansk Folkeparti,Liberal Alliance,69,35649,29854.0,0.8374428455216135,social_familie
+Dansk Folkeparti,Moderaterne,69,1666,1332.0,0.7995198079231692,social_familie
+Dansk Folkeparti,Radikale Venstre,69,25258,14103.0,0.5583577480402249,social_familie
+Dansk Folkeparti,Socialdemokratiet,69,146363,102530.0,0.7005185736832397,social_familie
+Dansk Folkeparti,Socialistisk Folkeparti,69,25363,12340.0,0.4865355044750227,social_familie
+Dansk Folkeparti,Tjóðveldi,69,42,6.0,0.14285714285714285,social_familie
+Dansk Folkeparti,Uden for folketingsgrupperne,69,19131,17275.0,0.9029846845434112,social_familie
+Dansk Folkeparti,Venstre,69,80547,65949.0,0.8187641997839771,social_familie
+Det Konservative Folkeparti,Alternativet,69,11364,5067.0,0.4458817317845829,social_familie
+Det Konservative Folkeparti,Danmarksdemokraterne,69,7098,6072.0,0.8554522400676247,social_familie
+Det Konservative Folkeparti,Dansk Folkeparti,69,26444,21531.0,0.8142111632128272,social_familie
+Det Konservative Folkeparti,Det Konservative Folkeparti,69,4546,4502.0,0.9903211614606248,social_familie
+Det Konservative Folkeparti,Enhedslisten,69,16178,4982.0,0.3079490666337001,social_familie
+Det Konservative Folkeparti,Liberal Alliance,69,10895,10239.0,0.939788893988068,social_familie
+Det Konservative Folkeparti,Moderaterne,69,1319,1257.0,0.9529946929492039,social_familie
+Det Konservative Folkeparti,Radikale Venstre,69,7072,4941.0,0.698670814479638,social_familie
+Det Konservative Folkeparti,Socialdemokratiet,69,44390,37281.0,0.8398513178643838,social_familie
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,6977,3797.0,0.5442167120538913,social_familie
+Det Konservative Folkeparti,Tjóðveldi,69,9,2.0,0.2222222222222222,social_familie
+Det Konservative Folkeparti,Uden for folketingsgrupperne,69,5214,4805.0,0.9215573456079785,social_familie
+Det Konservative Folkeparti,Venstre,69,25724,25426.0,0.9884154874825066,social_familie
+Enhedslisten,Alternativet,69,18375,14597.0,0.7943945578231293,social_familie
+Enhedslisten,Danmarksdemokraterne,69,11154,3791.0,0.3398780706473014,social_familie
+Enhedslisten,Dansk Folkeparti,69,43230,15610.0,0.3610918343742771,social_familie
+Enhedslisten,Det Konservative Folkeparti,69,7481,2331.0,0.31158935971126855,social_familie
+Enhedslisten,Enhedslisten,69,22591,22559.0,0.9985835067062104,social_familie
+Enhedslisten,Liberal Alliance,69,18411,6243.0,0.33909076095812285,social_familie
+Enhedslisten,Moderaterne,69,1161,319.0,0.2747631352282515,social_familie
+Enhedslisten,Radikale Venstre,69,12481,6792.0,0.5441871644900248,social_familie
+Enhedslisten,Socialdemokratiet,69,74719,29963.0,0.40100911414767326,social_familie
+Enhedslisten,Socialistisk Folkeparti,69,13567,10024.0,0.7388516252671925,social_familie
+Enhedslisten,Tjóðveldi,69,30,5.0,0.16666666666666666,social_familie
+Enhedslisten,Uden for folketingsgrupperne,69,8706,2968.0,0.34091431196875716,social_familie
+Enhedslisten,Venstre,69,42445,13005.0,0.30639651313464483,social_familie
+Inuit Ataqatigiit,Alternativet,69,133,43.0,0.3233082706766917,social_familie
+Inuit Ataqatigiit,Danmarksdemokraterne,69,138,52.0,0.37681159420289856,social_familie
+Inuit Ataqatigiit,Dansk Folkeparti,69,314,100.0,0.3184713375796178,social_familie
+Inuit Ataqatigiit,Det Konservative Folkeparti,69,106,37.0,0.3490566037735849,social_familie
+Inuit Ataqatigiit,Enhedslisten,69,187,52.0,0.27807486631016043,social_familie
+Inuit Ataqatigiit,Liberal Alliance,69,146,47.0,0.3219178082191781,social_familie
+Inuit Ataqatigiit,Moderaterne,69,17,6.0,0.35294117647058826,social_familie
+Inuit Ataqatigiit,Nunatta Qitornai,69,1,1.0,1.0,social_familie
+Inuit Ataqatigiit,Radikale Venstre,69,84,36.0,0.42857142857142855,social_familie
+Inuit Ataqatigiit,Socialdemokratiet,69,612,258.0,0.4215686274509804,social_familie
+Inuit Ataqatigiit,Socialistisk Folkeparti,69,96,42.0,0.4375,social_familie
+Inuit Ataqatigiit,Tjóðveldi,69,3,3.0,1.0,social_familie
+Inuit Ataqatigiit,Uden for folketingsgrupperne,69,42,19.0,0.4523809523809524,social_familie
+Inuit Ataqatigiit,Venstre,69,402,151.0,0.3756218905472637,social_familie
+Liberal Alliance,Alternativet,69,15324,6546.0,0.42717306186374315,social_familie
+Liberal Alliance,Danmarksdemokraterne,69,7622,6658.0,0.8735240094463396,social_familie
+Liberal Alliance,Dansk Folkeparti,69,35206,29332.0,0.8331534397545873,social_familie
+Liberal Alliance,Det Konservative Folkeparti,69,7313,6754.0,0.9235607821687406,social_familie
+Liberal Alliance,Enhedslisten,69,20837,6901.0,0.3311897106109325,social_familie
+Liberal Alliance,Liberal Alliance,69,13162,13076.0,0.9934660385959581,social_familie
+Liberal Alliance,Moderaterne,69,731,711.0,0.9726402188782489,social_familie
+Liberal Alliance,Radikale Venstre,69,10538,6883.0,0.6531599924084266,social_familie
+Liberal Alliance,Socialdemokratiet,69,60477,48139.0,0.7959885576334805,social_familie
+Liberal Alliance,Socialistisk Folkeparti,69,9639,4790.0,0.4969395165473597,social_familie
+Liberal Alliance,Tjóðveldi,69,27,4.0,0.14814814814814814,social_familie
+Liberal Alliance,Uden for folketingsgrupperne,69,8824,8231.0,0.9327969174977334,social_familie
+Liberal Alliance,Venstre,69,31047,28903.0,0.930943408380842,social_familie
+Moderaterne,Alternativet,69,2948,1165.0,0.3951831750339213,social_familie
+Moderaterne,Danmarksdemokraterne,69,3031,2533.0,0.8356977895084131,social_familie
+Moderaterne,Dansk Folkeparti,69,9492,7673.0,0.8083649388959123,social_familie
+Moderaterne,Det Konservative Folkeparti,69,1641,1541.0,0.9390615478366849,social_familie
+Moderaterne,Enhedslisten,69,4992,1537.0,0.3078926282051282,social_familie
+Moderaterne,Liberal Alliance,69,3879,3793.0,0.9778293374581077,social_familie
+Moderaterne,Moderaterne,69,179,170.0,0.9497206703910615,social_familie
+Moderaterne,Radikale Venstre,69,2455,1641.0,0.6684317718940936,social_familie
+Moderaterne,Socialdemokratiet,69,16312,13201.0,0.8092815105443845,social_familie
+Moderaterne,Socialistisk Folkeparti,69,2716,1336.0,0.49189985272459497,social_familie
+Moderaterne,Tjóðveldi,69,9,2.0,0.2222222222222222,social_familie
+Moderaterne,Uden for folketingsgrupperne,69,1870,1712.0,0.9155080213903743,social_familie
+Moderaterne,Venstre,69,9171,8691.0,0.947661105659143,social_familie
+Nunatta Qitornai,Alternativet,69,6,6.0,1.0,social_familie
+Nunatta Qitornai,Danmarksdemokraterne,69,5,1.0,0.2,social_familie
+Nunatta Qitornai,Dansk Folkeparti,69,18,0.0,0.0,social_familie
+Nunatta Qitornai,Det Konservative Folkeparti,69,5,5.0,1.0,social_familie
+Nunatta Qitornai,Enhedslisten,69,8,8.0,1.0,social_familie
+Nunatta Qitornai,Liberal Alliance,69,7,7.0,1.0,social_familie
+Nunatta Qitornai,Radikale Venstre,69,4,4.0,1.0,social_familie
+Nunatta Qitornai,Socialdemokratiet,69,29,29.0,1.0,social_familie
+Nunatta Qitornai,Socialistisk Folkeparti,69,4,4.0,1.0,social_familie
+Nunatta Qitornai,Uden for folketingsgrupperne,69,3,2.0,0.6666666666666666,social_familie
+Nunatta Qitornai,Venstre,69,18,18.0,1.0,social_familie
+Radikale Venstre,Alternativet,69,7832,5568.0,0.710929519918284,social_familie
+Radikale Venstre,Danmarksdemokraterne,69,3876,2219.0,0.5724974200206399,social_familie
+Radikale Venstre,Dansk Folkeparti,69,17222,9448.0,0.5486006271048659,social_familie
+Radikale Venstre,Det Konservative Folkeparti,69,3826,2587.0,0.6761630946157867,social_familie
+Radikale Venstre,Enhedslisten,69,11027,6551.0,0.594087240409903,social_familie
+Radikale Venstre,Liberal Alliance,69,7620,4851.0,0.6366141732283465,social_familie
+Radikale Venstre,Moderaterne,69,392,220.0,0.5612244897959183,social_familie
+Radikale Venstre,Radikale Venstre,69,4243,4217.0,0.9938722601932595,social_familie
+Radikale Venstre,Socialdemokratiet,69,29885,22968.0,0.7685460933578718,social_familie
+Radikale Venstre,Socialistisk Folkeparti,69,4347,3226.0,0.7421210029905682,social_familie
+Radikale Venstre,Tjóðveldi,69,10,2.0,0.2,social_familie
+Radikale Venstre,Uden for folketingsgrupperne,69,3976,2490.0,0.6262575452716298,social_familie
+Radikale Venstre,Venstre,69,16469,11042.0,0.6704717954945656,social_familie
+Socialdemokratiet,Alternativet,69,64820,35733.0,0.5512650416538105,social_familie
+Socialdemokratiet,Danmarksdemokraterne,69,39773,28990.0,0.728886430493048,social_familie
+Socialdemokratiet,Dansk Folkeparti,69,151787,105647.0,0.6960213984069782,social_familie
+Socialdemokratiet,Det Konservative Folkeparti,69,32691,27094.0,0.8287907986907712,social_familie
+Socialdemokratiet,Enhedslisten,69,90475,38260.0,0.4228792484111633,social_familie
+Socialdemokratiet,Liberal Alliance,69,67197,53437.0,0.7952289536735271,social_familie
+Socialdemokratiet,Moderaterne,69,3728,2994.0,0.8031115879828327,social_familie
+Socialdemokratiet,Radikale Venstre,69,46433,36471.0,0.7854543105119204,social_familie
+Socialdemokratiet,Socialdemokratiet,69,259981,257675.0,0.9911301210473074,social_familie
+Socialdemokratiet,Socialistisk Folkeparti,69,44621,28365.0,0.6356872324690168,social_familie
+Socialdemokratiet,Tjóðveldi,69,112,19.0,0.16964285714285715,social_familie
+Socialdemokratiet,Uden for folketingsgrupperne,69,36394,28137.0,0.7731219431774469,social_familie
+Socialdemokratiet,Venstre,69,146753,123961.0,0.8446914202776094,social_familie
+Socialistisk Folkeparti,Alternativet,69,8579,7063.0,0.8232894276722229,social_familie
+Socialistisk Folkeparti,Danmarksdemokraterne,69,5036,2603.0,0.5168784749801429,social_familie
+Socialistisk Folkeparti,Dansk Folkeparti,69,19675,9768.0,0.49646759847522237,social_familie
+Socialistisk Folkeparti,Det Konservative Folkeparti,69,4657,2541.0,0.5456302340562594,social_familie
+Socialistisk Folkeparti,Enhedslisten,69,11391,8404.0,0.73777543674831,social_familie
+Socialistisk Folkeparti,Liberal Alliance,69,9614,5086.0,0.5290201789057625,social_familie
+Socialistisk Folkeparti,Moderaterne,69,318,147.0,0.46226415094339623,social_familie
+Socialistisk Folkeparti,Radikale Venstre,69,7226,5414.0,0.7492388596734016,social_familie
+Socialistisk Folkeparti,Socialdemokratiet,69,36504,23861.0,0.6536543940390094,social_familie
+Socialistisk Folkeparti,Socialistisk Folkeparti,69,4844,4569.0,0.9432287365813378,social_familie
+Socialistisk Folkeparti,Tjóðveldi,69,18,6.0,0.3333333333333333,social_familie
+Socialistisk Folkeparti,Uden for folketingsgrupperne,69,5703,2938.0,0.515167455725057,social_familie
+Socialistisk Folkeparti,Venstre,69,19303,10719.0,0.5553022846189711,social_familie
+Tjóðveldi,Alternativet,69,18,2.0,0.1111111111111111,social_familie
+Tjóðveldi,Danmarksdemokraterne,69,5,1.0,0.2,social_familie
+Tjóðveldi,Dansk Folkeparti,69,50,10.0,0.2,social_familie
+Tjóðveldi,Det Konservative Folkeparti,69,14,2.0,0.14285714285714285,social_familie
+Tjóðveldi,Enhedslisten,69,24,4.0,0.16666666666666666,social_familie
+Tjóðveldi,Liberal Alliance,69,15,3.0,0.2,social_familie
+Tjóðveldi,Radikale Venstre,69,14,2.0,0.14285714285714285,social_familie
+Tjóðveldi,Socialdemokratiet,69,69,11.0,0.15942028985507245,social_familie
+Tjóðveldi,Socialistisk Folkeparti,69,6,2.0,0.3333333333333333,social_familie
+Tjóðveldi,Uden for folketingsgrupperne,69,15,2.0,0.13333333333333333,social_familie
+Tjóðveldi,Venstre,69,26,5.0,0.19230769230769232,social_familie
+Uden for folketingsgrupperne,Alternativet,69,5696,2448.0,0.4297752808988764,social_familie
+Uden for folketingsgrupperne,Danmarksdemokraterne,69,974,920.0,0.944558521560575,social_familie
+Uden for folketingsgrupperne,Dansk Folkeparti,69,9872,9295.0,0.9415518638573744,social_familie
+Uden for folketingsgrupperne,Det Konservative Folkeparti,69,1976,1664.0,0.8421052631578947,social_familie
+Uden for folketingsgrupperne,Enhedslisten,69,7468,2544.0,0.34065345474022496,social_familie
+Uden for folketingsgrupperne,Liberal Alliance,69,3580,3149.0,0.879608938547486,social_familie
+Uden for folketingsgrupperne,Moderaterne,69,3,3.0,1.0,social_familie
+Uden for folketingsgrupperne,Radikale Venstre,69,3534,2115.0,0.5984719864176571,social_familie
+Uden for folketingsgrupperne,Socialdemokratiet,69,16058,11985.0,0.7463569560343754,social_familie
+Uden for folketingsgrupperne,Socialistisk Folkeparti,69,2239,1050.0,0.4689593568557392,social_familie
+Uden for folketingsgrupperne,Tjóðveldi,69,3,1.0,0.3333333333333333,social_familie
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,69,1948,1775.0,0.9111909650924025,social_familie
+Uden for folketingsgrupperne,Venstre,69,8715,7720.0,0.8858290304073436,social_familie
+Venstre,Alternativet,69,37299,16713.0,0.4480817180085257,social_familie
+Venstre,Danmarksdemokraterne,69,26124,22725.0,0.8698897565457051,social_familie
+Venstre,Dansk Folkeparti,69,91884,75983.0,0.826944843498324,social_familie
+Venstre,Det Konservative Folkeparti,69,18966,18790.0,0.9907202362121691,social_familie
+Venstre,Enhedslisten,69,53099,16746.0,0.3153731708695079,social_familie
+Venstre,Liberal Alliance,69,42767,40408.0,0.9448406481633035,social_familie
+Venstre,Moderaterne,69,2473,2418.0,0.9777598059037607,social_familie
+Venstre,Radikale Venstre,69,27701,19346.0,0.698386339843327,social_familie
+Venstre,Socialdemokratiet,69,164886,140349.0,0.8511880935919363,social_familie
+Venstre,Socialistisk Folkeparti,69,27713,14865.0,0.5363908634936673,social_familie
+Venstre,Tjóðveldi,69,81,12.0,0.14814814814814814,social_familie
+Venstre,Uden for folketingsgrupperne,69,21468,19669.0,0.9162008570896217,social_familie
+Venstre,Venstre,69,85451,85425.0,0.9996957320569683,social_familie
+Alternativet,Alternativet,70,141,124.0,0.8794326241134752,social_familie
+Alternativet,Danmarksdemokraterne,70,9,8.0,0.8888888888888888,social_familie
+Alternativet,Dansk Folkeparti,70,16,15.0,0.9375,social_familie
+Alternativet,Det Konservative Folkeparti,70,45,23.0,0.5111111111111111,social_familie
+Alternativet,Enhedslisten,70,414,362.0,0.8743961352657005,social_familie
+Alternativet,Frie Grønne,70,21,21.0,1.0,social_familie
+Alternativet,Liberal Alliance,70,27,15.0,0.5555555555555556,social_familie
+Alternativet,Radikale Venstre,70,380,293.0,0.7710526315789473,social_familie
+Alternativet,Socialdemokratiet,70,552,356.0,0.644927536231884,social_familie
+Alternativet,Socialistisk Folkeparti,70,259,220.0,0.8494208494208494,social_familie
+Alternativet,Uden for folketingsgrupperne,70,29,19.0,0.6551724137931034,social_familie
+Alternativet,Venstre,70,735,403.0,0.5482993197278911,social_familie
+Borgernes Parti,Alternativet,70,303,130.0,0.429042904290429,social_familie
+Borgernes Parti,Danmarksdemokraterne,70,424,304.0,0.7169811320754716,social_familie
+Borgernes Parti,Dansk Folkeparti,70,542,441.0,0.8136531365313653,social_familie
+Borgernes Parti,Det Konservative Folkeparti,70,1066,649.0,0.6088180112570356,social_familie
+Borgernes Parti,Enhedslisten,70,964,373.0,0.3869294605809129,social_familie
+Borgernes Parti,Frie Grønne,70,275,111.0,0.4036363636363636,social_familie
+Borgernes Parti,Liberal Alliance,70,294,216.0,0.7346938775510204,social_familie
+Borgernes Parti,Moderaterne,70,1,1.0,1.0,social_familie
+Borgernes Parti,Radikale Venstre,70,1140,449.0,0.393859649122807,social_familie
+Borgernes Parti,Socialdemokratiet,70,2879,1199.0,0.41646405001736714,social_familie
+Borgernes Parti,Socialistisk Folkeparti,70,567,196.0,0.345679012345679,social_familie
+Borgernes Parti,Uden for folketingsgrupperne,70,549,416.0,0.7577413479052824,social_familie
+Borgernes Parti,Venstre,70,2399,1433.0,0.5973322217590663,social_familie
+Danmarksdemokraterne,Alternativet,70,3172,1559.0,0.49148802017654475,social_familie
+Danmarksdemokraterne,Borgernes Parti,70,962,715.0,0.7432432432432432,social_familie
+Danmarksdemokraterne,Danmarksdemokraterne,70,7590,6839.0,0.9010540184453228,social_familie
+Danmarksdemokraterne,Dansk Folkeparti,70,6254,5465.0,0.8738407419251679,social_familie
+Danmarksdemokraterne,Det Konservative Folkeparti,70,13660,9607.0,0.703294289897511,social_familie
+Danmarksdemokraterne,Enhedslisten,70,14752,6786.0,0.4600054229934924,social_familie
+Danmarksdemokraterne,Frie Grønne,70,3547,1662.0,0.4685649844939385,social_familie
+Danmarksdemokraterne,Liberal Alliance,70,4516,3219.0,0.7127989371124889,social_familie
+Danmarksdemokraterne,Moderaterne,70,23,10.0,0.43478260869565216,social_familie
+Danmarksdemokraterne,Radikale Venstre,70,17949,9533.0,0.5311159396066634,social_familie
+Danmarksdemokraterne,Sambandsflokkurin,70,12,8.0,0.6666666666666666,social_familie
+Danmarksdemokraterne,Socialdemokratiet,70,47553,28013.0,0.5890900679242109,social_familie
+Danmarksdemokraterne,Socialistisk Folkeparti,70,12392,5819.0,0.4695771465461588,social_familie
+Danmarksdemokraterne,Uden for folketingsgrupperne,70,7703,6415.0,0.8327924185382318,social_familie
+Danmarksdemokraterne,Venstre,70,37936,27823.0,0.7334194432728807,social_familie
+Dansk Folkeparti,Alternativet,70,1523,674.0,0.4425476034143139,social_familie
+Dansk Folkeparti,Borgernes Parti,70,132,96.0,0.7272727272727273,social_familie
+Dansk Folkeparti,Danmarksdemokraterne,70,2234,2041.0,0.9136078782452999,social_familie
+Dansk Folkeparti,Dansk Folkeparti,70,1711,1527.0,0.8924605493863238,social_familie
+Dansk Folkeparti,Det Konservative Folkeparti,70,4107,2744.0,0.668127587046506,social_familie
+Dansk Folkeparti,Enhedslisten,70,6239,2665.0,0.4271517871453759,social_familie
+Dansk Folkeparti,Frie Grønne,70,1852,841.0,0.4541036717062635,social_familie
+Dansk Folkeparti,Liberal Alliance,70,1853,1350.0,0.7285483000539665,social_familie
+Dansk Folkeparti,Moderaterne,70,6,2.0,0.3333333333333333,social_familie
+Dansk Folkeparti,Radikale Venstre,70,6427,3004.0,0.4674031429905088,social_familie
+Dansk Folkeparti,Sambandsflokkurin,70,1,1.0,1.0,social_familie
+Dansk Folkeparti,Socialdemokratiet,70,15937,8213.0,0.5153416577774989,social_familie
+Dansk Folkeparti,Socialistisk Folkeparti,70,4477,1912.0,0.4270716997989725,social_familie
+Dansk Folkeparti,Uden for folketingsgrupperne,70,1917,1470.0,0.7668231611893583,social_familie
+Dansk Folkeparti,Venstre,70,12704,8358.0,0.6579030226700252,social_familie
+Det Konservative Folkeparti,Alternativet,70,3617,1839.0,0.5084324025435444,social_familie
+Det Konservative Folkeparti,Borgernes Parti,70,535,320.0,0.5981308411214953,social_familie
+Det Konservative Folkeparti,Danmarksdemokraterne,70,6585,4784.0,0.7264996203492786,social_familie
+Det Konservative Folkeparti,Dansk Folkeparti,70,6164,4200.0,0.6813757300454251,social_familie
+Det Konservative Folkeparti,Det Konservative Folkeparti,70,10415,10362.0,0.9949111857897264,social_familie
+Det Konservative Folkeparti,Enhedslisten,70,15734,7740.0,0.4919283081225372,social_familie
+Det Konservative Folkeparti,Frie Grønne,70,4258,2075.0,0.4873179896665101,social_familie
+Det Konservative Folkeparti,Liberal Alliance,70,4557,3358.0,0.7368883037085802,social_familie
+Det Konservative Folkeparti,Moderaterne,70,15,5.0,0.3333333333333333,social_familie
+Det Konservative Folkeparti,Radikale Venstre,70,17255,10985.0,0.636627064618951,social_familie
+Det Konservative Folkeparti,Sambandsflokkurin,70,20,20.0,1.0,social_familie
+Det Konservative Folkeparti,Socialdemokratiet,70,42145,29865.0,0.7086249851702456,social_familie
+Det Konservative Folkeparti,Socialistisk Folkeparti,70,11662,6825.0,0.5852340936374549,social_familie
+Det Konservative Folkeparti,Uden for folketingsgrupperne,70,6284,4722.0,0.7514322087842139,social_familie
+Det Konservative Folkeparti,Venstre,70,34618,31488.0,0.9095846091628632,social_familie
+Enhedslisten,Alternativet,70,3606,3116.0,0.8641153632834165,social_familie
+Enhedslisten,Borgernes Parti,70,781,322.0,0.41229193341869397,social_familie
+Enhedslisten,Danmarksdemokraterne,70,6967,3257.0,0.46748959379933974,social_familie
+Enhedslisten,Dansk Folkeparti,70,4713,2090.0,0.44345427540844473,social_familie
+Enhedslisten,Det Konservative Folkeparti,70,9795,4794.0,0.4894333843797856,social_familie
+Enhedslisten,Enhedslisten,70,11832,11796.0,0.9969574036511156,social_familie
+Enhedslisten,Frie Grønne,70,3456,2894.0,0.8373842592592593,social_familie
+Enhedslisten,Liberal Alliance,70,3405,1499.0,0.4402349486049927,social_familie
+Enhedslisten,Moderaterne,70,18,4.0,0.2222222222222222,social_familie
+Enhedslisten,Radikale Venstre,70,16093,13024.0,0.8092959671907041,social_familie
+Enhedslisten,Sambandsflokkurin,70,4,3.0,0.75,social_familie
+Enhedslisten,Socialdemokratiet,70,39422,28265.0,0.7169854396022526,social_familie
+Enhedslisten,Socialistisk Folkeparti,70,10939,9523.0,0.8705548953286406,social_familie
+Enhedslisten,Uden for folketingsgrupperne,70,5734,2630.0,0.45866759679107083,social_familie
+Enhedslisten,Venstre,70,32450,16496.0,0.508351309707242,social_familie
+Frie Grønne,Alternativet,70,606,532.0,0.8778877887788779,social_familie
+Frie Grønne,Danmarksdemokraterne,70,197,94.0,0.47715736040609136,social_familie
+Frie Grønne,Dansk Folkeparti,70,4,4.0,1.0,social_familie
+Frie Grønne,Det Konservative Folkeparti,70,92,56.0,0.6086956521739131,social_familie
+Frie Grønne,Enhedslisten,70,1183,996.0,0.841927303465765,social_familie
+Frie Grønne,Frie Grønne,70,155,155.0,1.0,social_familie
+Frie Grønne,Radikale Venstre,70,734,545.0,0.7425068119891008,social_familie
+Frie Grønne,Socialdemokratiet,70,1741,1122.0,0.6444572085008615,social_familie
+Frie Grønne,Socialistisk Folkeparti,70,605,494.0,0.8165289256198347,social_familie
+Frie Grønne,Uden for folketingsgrupperne,70,6,3.0,0.5,social_familie
+Frie Grønne,Venstre,70,1727,901.0,0.521713954834974,social_familie
+Inuit Ataqatigiit,Alternativet,70,1,1.0,1.0,social_familie
+Inuit Ataqatigiit,Borgernes Parti,70,1,0.0,0.0,social_familie
+Inuit Ataqatigiit,Danmarksdemokraterne,70,5,5.0,1.0,social_familie
+Inuit Ataqatigiit,Dansk Folkeparti,70,2,2.0,1.0,social_familie
+Inuit Ataqatigiit,Det Konservative Folkeparti,70,7,7.0,1.0,social_familie
+Inuit Ataqatigiit,Enhedslisten,70,8,1.0,0.125,social_familie
+Inuit Ataqatigiit,Frie Grønne,70,1,1.0,1.0,social_familie
+Inuit Ataqatigiit,Liberal Alliance,70,2,2.0,1.0,social_familie
+Inuit Ataqatigiit,Naleraq,70,1,1.0,1.0,social_familie
+Inuit Ataqatigiit,Radikale Venstre,70,7,7.0,1.0,social_familie
+Inuit Ataqatigiit,Socialdemokratiet,70,27,27.0,1.0,social_familie
+Inuit Ataqatigiit,Socialistisk Folkeparti,70,8,8.0,1.0,social_familie
+Inuit Ataqatigiit,Uden for folketingsgrupperne,70,4,3.0,0.75,social_familie
+Inuit Ataqatigiit,Venstre,70,22,22.0,1.0,social_familie
+Liberal Alliance,Alternativet,70,1273,614.0,0.48232521602513745,social_familie
+Liberal Alliance,Borgernes Parti,70,256,167.0,0.65234375,social_familie
+Liberal Alliance,Danmarksdemokraterne,70,2628,1939.0,0.7378234398782344,social_familie
+Liberal Alliance,Dansk Folkeparti,70,1657,1211.0,0.7308388654194327,social_familie
+Liberal Alliance,Det Konservative Folkeparti,70,3698,2988.0,0.8080043266630611,social_familie
+Liberal Alliance,Enhedslisten,70,5442,2515.0,0.462146269753767,social_familie
+Liberal Alliance,Frie Grønne,70,1518,711.0,0.4683794466403162,social_familie
+Liberal Alliance,Liberal Alliance,70,982,818.0,0.8329938900203666,social_familie
+Liberal Alliance,Moderaterne,70,7,2.0,0.2857142857142857,social_familie
+Liberal Alliance,Radikale Venstre,70,6275,3631.0,0.5786454183266933,social_familie
+Liberal Alliance,Sambandsflokkurin,70,1,1.0,1.0,social_familie
+Liberal Alliance,Socialdemokratiet,70,16004,10200.0,0.6373406648337916,social_familie
+Liberal Alliance,Socialistisk Folkeparti,70,4611,2369.0,0.5137714161787031,social_familie
+Liberal Alliance,Uden for folketingsgrupperne,70,2172,1598.0,0.7357274401473296,social_familie
+Liberal Alliance,Venstre,70,12043,9654.0,0.8016275014531263,social_familie
+Moderaterne,Alternativet,70,6,0.0,0.0,social_familie
+Moderaterne,Danmarksdemokraterne,70,13,4.0,0.3076923076923077,social_familie
+Moderaterne,Dansk Folkeparti,70,13,5.0,0.38461538461538464,social_familie
+Moderaterne,Det Konservative Folkeparti,70,29,10.0,0.3448275862068966,social_familie
+Moderaterne,Enhedslisten,70,26,4.0,0.15384615384615385,social_familie
+Moderaterne,Frie Grønne,70,9,4.0,0.4444444444444444,social_familie
+Moderaterne,Liberal Alliance,70,6,2.0,0.3333333333333333,social_familie
+Moderaterne,Radikale Venstre,70,26,3.0,0.11538461538461539,social_familie
+Moderaterne,Socialdemokratiet,70,60,10.0,0.16666666666666666,social_familie
+Moderaterne,Socialistisk Folkeparti,70,11,1.0,0.09090909090909091,social_familie
+Moderaterne,Uden for folketingsgrupperne,70,9,4.0,0.4444444444444444,social_familie
+Moderaterne,Venstre,70,54,16.0,0.2962962962962963,social_familie
+Naleraq,Alternativet,70,3,2.0,0.6666666666666666,social_familie
+Naleraq,Borgernes Parti,70,2,1.0,0.5,social_familie
+Naleraq,Danmarksdemokraterne,70,18,11.0,0.6111111111111112,social_familie
+Naleraq,Dansk Folkeparti,70,7,4.0,0.5714285714285714,social_familie
+Naleraq,Det Konservative Folkeparti,70,21,14.0,0.6666666666666666,social_familie
+Naleraq,Enhedslisten,70,23,16.0,0.6956521739130435,social_familie
+Naleraq,Frie Grønne,70,4,2.0,0.5,social_familie
+Naleraq,Liberal Alliance,70,7,5.0,0.7142857142857143,social_familie
+Naleraq,Radikale Venstre,70,24,24.0,1.0,social_familie
+Naleraq,Socialdemokratiet,70,84,84.0,1.0,social_familie
+Naleraq,Socialistisk Folkeparti,70,25,25.0,1.0,social_familie
+Naleraq,Uden for folketingsgrupperne,70,12,6.0,0.5,social_familie
+Naleraq,Venstre,70,69,44.0,0.6376811594202898,social_familie
+Radikale Venstre,Alternativet,70,4098,3213.0,0.7840409956076134,social_familie
+Radikale Venstre,Borgernes Parti,70,759,277.0,0.36495388669301715,social_familie
+Radikale Venstre,Danmarksdemokraterne,70,6129,3241.0,0.5287975199869474,social_familie
+Radikale Venstre,Dansk Folkeparti,70,5816,2782.0,0.4783356258596974,social_familie
+Radikale Venstre,Det Konservative Folkeparti,70,11112,7121.0,0.6408387329013678,social_familie
+Radikale Venstre,Enhedslisten,70,14231,11534.0,0.8104841543110112,social_familie
+Radikale Venstre,Frie Grønne,70,4449,3333.0,0.7491571139581928,social_familie
+Radikale Venstre,Liberal Alliance,70,3631,1894.0,0.5216193885981824,social_familie
+Radikale Venstre,Moderaterne,70,20,4.0,0.2,social_familie
+Radikale Venstre,Radikale Venstre,70,15045,14993.0,0.9965437022266533,social_familie
+Radikale Venstre,Sambandsflokkurin,70,17,16.0,0.9411764705882353,social_familie
+Radikale Venstre,Socialdemokratiet,70,39416,34039.0,0.8635833164197281,social_familie
+Radikale Venstre,Socialistisk Folkeparti,70,10671,9477.0,0.888107956142817,social_familie
+Radikale Venstre,Uden for folketingsgrupperne,70,6159,3234.0,0.5250852411105699,social_familie
+Radikale Venstre,Venstre,70,34224,23003.0,0.6721306685366993,social_familie
+Sambandsflokkurin,Alternativet,70,12,9.0,0.75,social_familie
+Sambandsflokkurin,Borgernes Parti,70,3,2.0,0.6666666666666666,social_familie
+Sambandsflokkurin,Danmarksdemokraterne,70,42,29.0,0.6904761904761905,social_familie
+Sambandsflokkurin,Dansk Folkeparti,70,35,25.0,0.7142857142857143,social_familie
+Sambandsflokkurin,Det Konservative Folkeparti,70,43,43.0,1.0,social_familie
+Sambandsflokkurin,Enhedslisten,70,68,53.0,0.7794117647058824,social_familie
+Sambandsflokkurin,Frie Grønne,70,13,11.0,0.8461538461538461,social_familie
+Sambandsflokkurin,Liberal Alliance,70,21,21.0,1.0,social_familie
+Sambandsflokkurin,Moderaterne,70,1,0.0,0.0,social_familie
+Sambandsflokkurin,Radikale Venstre,70,62,54.0,0.8709677419354839,social_familie
+Sambandsflokkurin,Socialdemokratiet,70,168,150.0,0.8928571428571429,social_familie
+Sambandsflokkurin,Socialistisk Folkeparti,70,47,41.0,0.8723404255319149,social_familie
+Sambandsflokkurin,Uden for folketingsgrupperne,70,23,19.0,0.8260869565217391,social_familie
+Sambandsflokkurin,Venstre,70,146,146.0,1.0,social_familie
+Socialdemokratiet,Alternativet,70,14921,10611.0,0.7111453655921185,social_familie
+Socialdemokratiet,Borgernes Parti,70,3932,1668.0,0.4242115971515768,social_familie
+Socialdemokratiet,Danmarksdemokraterne,70,36233,22139.0,0.6110175806585157,social_familie
+Socialdemokratiet,Dansk Folkeparti,70,26042,14441.0,0.5545273020505338,social_familie
+Socialdemokratiet,Det Konservative Folkeparti,70,55920,39416.0,0.7048640915593706,social_familie
+Socialdemokratiet,Enhedslisten,70,65491,48295.0,0.7374295704753325,social_familie
+Socialdemokratiet,Frie Grønne,70,15900,10581.0,0.6654716981132075,social_familie
+Socialdemokratiet,Liberal Alliance,70,18353,10665.0,0.5811039067182477,social_familie
+Socialdemokratiet,Moderaterne,70,111,20.0,0.18018018018018017,social_familie
+Socialdemokratiet,Radikale Venstre,70,77057,67030.0,0.8698755466732419,social_familie
+Socialdemokratiet,Sambandsflokkurin,70,79,67.0,0.8481012658227848,social_familie
+Socialdemokratiet,Socialdemokratiet,70,196365,195910.0,0.9976828864614367,social_familie
+Socialdemokratiet,Socialistisk Folkeparti,70,55652,45834.0,0.8235822611945662,social_familie
+Socialdemokratiet,Uden for folketingsgrupperne,70,30020,17702.0,0.5896735509660227,social_familie
+Socialdemokratiet,Venstre,70,164686,121849.0,0.739886814908371,social_familie
+Socialistisk Folkeparti,Alternativet,70,4378,3594.0,0.8209227957971676,social_familie
+Socialistisk Folkeparti,Borgernes Parti,70,1462,501.0,0.3426812585499316,social_familie
+Socialistisk Folkeparti,Danmarksdemokraterne,70,13040,6432.0,0.49325153374233127,social_familie
+Socialistisk Folkeparti,Dansk Folkeparti,70,8320,3674.0,0.44158653846153845,social_familie
+Socialistisk Folkeparti,Det Konservative Folkeparti,70,18185,10388.0,0.571240032994226,social_familie
+Socialistisk Folkeparti,Enhedslisten,70,20922,18337.0,0.8764458464773922,social_familie
+Socialistisk Folkeparti,Frie Grønne,70,4830,3869.0,0.8010351966873706,social_familie
+Socialistisk Folkeparti,Liberal Alliance,70,5799,2851.0,0.4916364890498362,social_familie
+Socialistisk Folkeparti,Moderaterne,70,40,8.0,0.2,social_familie
+Socialistisk Folkeparti,Radikale Venstre,70,24806,21937.0,0.8843424977827945,social_familie
+Socialistisk Folkeparti,Sambandsflokkurin,70,33,31.0,0.9393939393939394,social_familie
+Socialistisk Folkeparti,Socialdemokratiet,70,67039,55227.0,0.8238040543564193,social_familie
+Socialistisk Folkeparti,Socialistisk Folkeparti,70,16510,16470.0,0.9975772259236826,social_familie
+Socialistisk Folkeparti,Uden for folketingsgrupperne,70,10397,5077.0,0.4883139367125132,social_familie
+Socialistisk Folkeparti,Venstre,70,55132,32983.0,0.5982550968584488,social_familie
+Uden for folketingsgrupperne,Alternativet,70,1725,868.0,0.5031884057971014,social_familie
+Uden for folketingsgrupperne,Borgernes Parti,70,165,96.0,0.5818181818181818,social_familie
+Uden for folketingsgrupperne,Danmarksdemokraterne,70,1728,1369.0,0.7922453703703703,social_familie
+Uden for folketingsgrupperne,Dansk Folkeparti,70,2715,2301.0,0.8475138121546961,social_familie
+Uden for folketingsgrupperne,Det Konservative Folkeparti,70,4699,3332.0,0.7090870397957012,social_familie
+Uden for folketingsgrupperne,Enhedslisten,70,6000,2788.0,0.4646666666666667,social_familie
+Uden for folketingsgrupperne,Frie Grønne,70,2087,990.0,0.47436511739338766,social_familie
+Uden for folketingsgrupperne,Liberal Alliance,70,1658,1181.0,0.7123039806996381,social_familie
+Uden for folketingsgrupperne,Moderaterne,70,8,2.0,0.25,social_familie
+Uden for folketingsgrupperne,Radikale Venstre,70,6971,3871.0,0.5553005307703343,social_familie
+Uden for folketingsgrupperne,Socialdemokratiet,70,15264,9204.0,0.6029874213836478,social_familie
+Uden for folketingsgrupperne,Socialistisk Folkeparti,70,3426,1726.0,0.50379451255108,social_familie
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,70,2090,1570.0,0.7511961722488039,social_familie
+Uden for folketingsgrupperne,Venstre,70,11866,8690.0,0.7323445137367268,social_familie
+Venstre,Alternativet,70,11654,6222.0,0.5338939419941651,social_familie
+Venstre,Borgernes Parti,70,3009,1778.0,0.5908939847125291,social_familie
+Venstre,Danmarksdemokraterne,70,28230,21137.0,0.7487424725469359,social_familie
+Venstre,Dansk Folkeparti,70,20366,13952.0,0.6850633408622213,social_familie
+Venstre,Det Konservative Folkeparti,70,42717,38423.0,0.8994779595945408,social_familie
+Venstre,Enhedslisten,70,50541,25511.0,0.5047585128905245,social_familie
+Venstre,Frie Grønne,70,12271,6238.0,0.5083530274631244,social_familie
+Venstre,Liberal Alliance,70,15116,11252.0,0.7443768192643556,social_familie
+Venstre,Moderaterne,70,75,27.0,0.36,social_familie
+Venstre,Radikale Venstre,70,58072,38513.0,0.6631939661110345,social_familie
+Venstre,Sambandsflokkurin,70,47,47.0,1.0,social_familie
+Venstre,Socialdemokratiet,70,156416,114046.0,0.7291197831423896,social_familie
+Venstre,Socialistisk Folkeparti,70,41852,25166.0,0.6013093758960145,social_familie
+Venstre,Uden for folketingsgrupperne,70,23860,17710.0,0.742246437552389,social_familie
+Venstre,Venstre,70,121619,121276.0,0.9971797169850105,social_familie
+Alternativet,Alternativet,71,1468,1290.0,0.8787465940054496,social_familie
+Alternativet,Borgernes Parti,71,422,180.0,0.4265402843601896,social_familie
+Alternativet,Danmarksdemokraterne,71,5917,3537.0,0.5977691397667737,social_familie
+Alternativet,Dansk Folkeparti,71,2417,1428.0,0.5908150599917252,social_familie
+Alternativet,Det Konservative Folkeparti,71,3626,1956.0,0.5394373965802537,social_familie
+Alternativet,Enhedslisten,71,4433,3236.0,0.7299796977216332,social_familie
+Alternativet,Javnaðarflokkurin,71,4,2.0,0.5,social_familie
+Alternativet,Liberal Alliance,71,6075,3517.0,0.5789300411522633,social_familie
+Alternativet,Moderaterne,71,4246,2645.0,0.6229392369288742,social_familie
+Alternativet,Radikale Venstre,71,3279,2321.0,0.7078377554132358,social_familie
+Alternativet,Socialdemokratiet,71,19441,12192.0,0.6271282341443342,social_familie
+Alternativet,Socialistisk Folkeparti,71,5806,4383.0,0.7549087151222873,social_familie
+Alternativet,Uden for folketingsgrupperne,71,1807,1091.0,0.6037631433314886,social_familie
+Alternativet,Venstre,71,9411,5904.0,0.6273509722664966,social_familie
+Borgernes Parti,Alternativet,71,210,93.0,0.44285714285714284,social_familie
+Borgernes Parti,Danmarksdemokraterne,71,683,447.0,0.6544655929721815,social_familie
+Borgernes Parti,Dansk Folkeparti,71,590,375.0,0.635593220338983,social_familie
+Borgernes Parti,Det Konservative Folkeparti,71,738,435.0,0.5894308943089431,social_familie
+Borgernes Parti,Enhedslisten,71,809,296.0,0.3658838071693449,social_familie
+Borgernes Parti,Javnaðarflokkurin,71,1,0.0,0.0,social_familie
+Borgernes Parti,Liberal Alliance,71,1077,694.0,0.6443825441039925,social_familie
+Borgernes Parti,Moderaterne,71,780,323.0,0.41410256410256413,social_familie
+Borgernes Parti,Radikale Venstre,71,564,225.0,0.39893617021276595,social_familie
+Borgernes Parti,Socialdemokratiet,71,3235,1335.0,0.4126738794435858,social_familie
+Borgernes Parti,Socialistisk Folkeparti,71,923,331.0,0.35861321776814736,social_familie
+Borgernes Parti,Uden for folketingsgrupperne,71,165,89.0,0.5393939393939394,social_familie
+Borgernes Parti,Venstre,71,1578,652.0,0.4131812420785805,social_familie
+Danmarksdemokraterne,Alternativet,71,5744,3544.0,0.616991643454039,social_familie
+Danmarksdemokraterne,Borgernes Parti,71,1256,855.0,0.6807324840764332,social_familie
+Danmarksdemokraterne,Danmarksdemokraterne,71,15406,14880.0,0.9658574581331949,social_familie
+Danmarksdemokraterne,Dansk Folkeparti,71,9064,7398.0,0.8161959399823477,social_familie
+Danmarksdemokraterne,Det Konservative Folkeparti,71,12459,9602.0,0.7706878561682318,social_familie
+Danmarksdemokraterne,Enhedslisten,71,13665,7125.0,0.5214050493962679,social_familie
+Danmarksdemokraterne,Javnaðarflokkurin,71,18,9.0,0.5,social_familie
+Danmarksdemokraterne,Liberal Alliance,71,18379,14090.0,0.7666358343761902,social_familie
+Danmarksdemokraterne,Moderaterne,71,14486,9537.0,0.6583597956647798,social_familie
+Danmarksdemokraterne,Radikale Venstre,71,9758,5628.0,0.5767575322812052,social_familie
+Danmarksdemokraterne,Socialdemokratiet,71,60924,39464.0,0.6477578622546123,social_familie
+Danmarksdemokraterne,Socialistisk Folkeparti,71,17530,10284.0,0.5866514546491729,social_familie
+Danmarksdemokraterne,Uden for folketingsgrupperne,71,5379,3369.0,0.6263245956497491,social_familie
+Danmarksdemokraterne,Venstre,71,28727,18621.0,0.6482055209384899,social_familie
+Dansk Folkeparti,Alternativet,71,2178,1341.0,0.6157024793388429,social_familie
+Dansk Folkeparti,Borgernes Parti,71,163,107.0,0.656441717791411,social_familie
+Dansk Folkeparti,Danmarksdemokraterne,71,4429,3617.0,0.8166629035899752,social_familie
+Dansk Folkeparti,Dansk Folkeparti,71,2000,1973.0,0.9865,social_familie
+Dansk Folkeparti,Det Konservative Folkeparti,71,3411,2417.0,0.7085898563471122,social_familie
+Dansk Folkeparti,Enhedslisten,71,5220,2694.0,0.5160919540229885,social_familie
+Dansk Folkeparti,Javnaðarflokkurin,71,8,4.0,0.5,social_familie
+Dansk Folkeparti,Liberal Alliance,71,6454,4746.0,0.735357917570499,social_familie
+Dansk Folkeparti,Moderaterne,71,4567,2920.0,0.6393693890956864,social_familie
+Dansk Folkeparti,Radikale Venstre,71,3131,1703.0,0.5439156818907698,social_familie
+Dansk Folkeparti,Sambandsflokkurin,71,30,12.0,0.4,social_familie
+Dansk Folkeparti,Socialdemokratiet,71,19104,11917.0,0.6237960636515912,social_familie
+Dansk Folkeparti,Socialistisk Folkeparti,71,5721,3361.0,0.5874847054710715,social_familie
+Dansk Folkeparti,Uden for folketingsgrupperne,71,1361,770.0,0.5657604702424688,social_familie
+Dansk Folkeparti,Venstre,71,9091,5655.0,0.6220437795622044,social_familie
+Det Konservative Folkeparti,Alternativet,71,3490,1864.0,0.5340974212034384,social_familie
+Det Konservative Folkeparti,Borgernes Parti,71,455,281.0,0.6175824175824176,social_familie
+Det Konservative Folkeparti,Danmarksdemokraterne,71,8405,6633.0,0.7891731112433076,social_familie
+Det Konservative Folkeparti,Dansk Folkeparti,71,4840,3443.0,0.7113636363636363,social_familie
+Det Konservative Folkeparti,Det Konservative Folkeparti,71,5323,5318.0,0.999060680067631,social_familie
+Det Konservative Folkeparti,Enhedslisten,71,8252,4287.0,0.5195104217159476,social_familie
+Det Konservative Folkeparti,Javnaðarflokkurin,71,12,6.0,0.5,social_familie
+Det Konservative Folkeparti,Liberal Alliance,71,10791,8809.0,0.816328421833009,social_familie
+Det Konservative Folkeparti,Moderaterne,71,8425,6375.0,0.7566765578635015,social_familie
+Det Konservative Folkeparti,Radikale Venstre,71,5586,3958.0,0.7085571070533476,social_familie
+Det Konservative Folkeparti,Socialdemokratiet,71,34002,25541.0,0.7511616963708018,social_familie
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,9777,6223.0,0.6364938120077733,social_familie
+Det Konservative Folkeparti,Uden for folketingsgrupperne,71,3000,1949.0,0.6496666666666666,social_familie
+Det Konservative Folkeparti,Venstre,71,15934,11957.0,0.7504079327224802,social_familie
+Enhedslisten,Alternativet,71,1423,1078.0,0.7575544624033732,social_familie
+Enhedslisten,Borgernes Parti,71,172,70.0,0.4069767441860465,social_familie
+Enhedslisten,Danmarksdemokraterne,71,3546,1926.0,0.5431472081218274,social_familie
+Enhedslisten,Dansk Folkeparti,71,1581,863.0,0.5458570524984188,social_familie
+Enhedslisten,Det Konservative Folkeparti,71,2266,1306.0,0.5763459841129744,social_familie
+Enhedslisten,Enhedslisten,71,3483,3475.0,0.9977031294860752,social_familie
+Enhedslisten,Javnaðarflokkurin,71,5,2.0,0.4,social_familie
+Enhedslisten,Liberal Alliance,71,4147,2113.0,0.5095249578008199,social_familie
+Enhedslisten,Moderaterne,71,2764,1698.0,0.6143270622286541,social_familie
+Enhedslisten,Radikale Venstre,71,3055,2119.0,0.6936170212765957,social_familie
+Enhedslisten,Socialdemokratiet,71,14046,8456.0,0.602021927951018,social_familie
+Enhedslisten,Socialistisk Folkeparti,71,4512,3857.0,0.8548315602836879,social_familie
+Enhedslisten,Uden for folketingsgrupperne,71,1121,609.0,0.5432649420160571,social_familie
+Enhedslisten,Venstre,71,6556,4008.0,0.6113483831604637,social_familie
+Inuit Ataqatigiit,Alternativet,71,3,3.0,1.0,social_familie
+Inuit Ataqatigiit,Borgernes Parti,71,1,0.0,0.0,social_familie
+Inuit Ataqatigiit,Danmarksdemokraterne,71,9,9.0,1.0,social_familie
+Inuit Ataqatigiit,Dansk Folkeparti,71,4,0.0,0.0,social_familie
+Inuit Ataqatigiit,Det Konservative Folkeparti,71,6,6.0,1.0,social_familie
+Inuit Ataqatigiit,Enhedslisten,71,5,5.0,1.0,social_familie
+Inuit Ataqatigiit,Liberal Alliance,71,9,9.0,1.0,social_familie
+Inuit Ataqatigiit,Moderaterne,71,7,7.0,1.0,social_familie
+Inuit Ataqatigiit,Naleraq,71,1,1.0,1.0,social_familie
+Inuit Ataqatigiit,Radikale Venstre,71,4,4.0,1.0,social_familie
+Inuit Ataqatigiit,Socialdemokratiet,71,30,30.0,1.0,social_familie
+Inuit Ataqatigiit,Socialistisk Folkeparti,71,9,9.0,1.0,social_familie
+Inuit Ataqatigiit,Uden for folketingsgrupperne,71,3,3.0,1.0,social_familie
+Inuit Ataqatigiit,Venstre,71,15,15.0,1.0,social_familie
+Javnaðarflokkurin,Alternativet,71,2,1.0,0.5,social_familie
+Javnaðarflokkurin,Danmarksdemokraterne,71,2,1.0,0.5,social_familie
+Javnaðarflokkurin,Enhedslisten,71,5,3.0,0.6,social_familie
+Javnaðarflokkurin,Liberal Alliance,71,5,3.0,0.6,social_familie
+Javnaðarflokkurin,Radikale Venstre,71,3,2.0,0.6666666666666666,social_familie
+Javnaðarflokkurin,Socialdemokratiet,71,10,10.0,1.0,social_familie
+Javnaðarflokkurin,Socialistisk Folkeparti,71,3,1.0,0.3333333333333333,social_familie
+Javnaðarflokkurin,Venstre,71,7,7.0,1.0,social_familie
+Liberal Alliance,Alternativet,71,4756,2764.0,0.5811606391925989,social_familie
+Liberal Alliance,Borgernes Parti,71,737,483.0,0.655359565807327,social_familie
+Liberal Alliance,Danmarksdemokraterne,71,13437,10388.0,0.7730892312272084,social_familie
+Liberal Alliance,Dansk Folkeparti,71,6135,4405.0,0.7180114099429503,social_familie
+Liberal Alliance,Det Konservative Folkeparti,71,8669,6905.0,0.79651632252855,social_familie
+Liberal Alliance,Enhedslisten,71,11895,5821.0,0.48936527952921394,social_familie
+Liberal Alliance,Javnaðarflokkurin,71,13,6.0,0.46153846153846156,social_familie
+Liberal Alliance,Liberal Alliance,71,13253,13152.0,0.9923790839809854,social_familie
+Liberal Alliance,Moderaterne,71,10607,7038.0,0.6635240878665033,social_familie
+Liberal Alliance,Radikale Venstre,71,8122,5281.0,0.6502093080522039,social_familie
+Liberal Alliance,Sambandsflokkurin,71,29,10.0,0.3448275862068966,social_familie
+Liberal Alliance,Socialdemokratiet,71,48027,31485.0,0.6555687425822975,social_familie
+Liberal Alliance,Socialistisk Folkeparti,71,14145,7993.0,0.5650759985860728,social_familie
+Liberal Alliance,Uden for folketingsgrupperne,71,4161,2578.0,0.6195626051429944,social_familie
+Liberal Alliance,Venstre,71,22431,14855.0,0.6622531318264901,social_familie
+Moderaterne,Alternativet,71,3901,2445.0,0.6267623686234299,social_familie
+Moderaterne,Borgernes Parti,71,565,235.0,0.415929203539823,social_familie
+Moderaterne,Danmarksdemokraterne,71,9651,6334.0,0.6563050461092115,social_familie
+Moderaterne,Dansk Folkeparti,71,5001,3104.0,0.6206758648270346,social_familie
+Moderaterne,Det Konservative Folkeparti,71,6325,4893.0,0.773596837944664,social_familie
+Moderaterne,Enhedslisten,71,9390,5608.0,0.5972310969116081,social_familie
+Moderaterne,Javnaðarflokkurin,71,15,15.0,1.0,social_familie
+Moderaterne,Liberal Alliance,71,11920,7883.0,0.6613255033557047,social_familie
+Moderaterne,Moderaterne,71,7438,7418.0,0.9973111051357892,social_familie
+Moderaterne,Radikale Venstre,71,6408,5108.0,0.7971285892634207,social_familie
+Moderaterne,Sambandsflokkurin,71,1,1.0,1.0,social_familie
+Moderaterne,Socialdemokratiet,71,36155,36058.0,0.9973171069008436,social_familie
+Moderaterne,Socialistisk Folkeparti,71,10889,7944.0,0.7295435760859583,social_familie
+Moderaterne,Uden for folketingsgrupperne,71,3277,2393.0,0.7302410741531888,social_familie
+Moderaterne,Venstre,71,17090,17013.0,0.9954944411936805,social_familie
+Naleraq,Alternativet,71,3,3.0,1.0,social_familie
+Naleraq,Borgernes Parti,71,1,0.0,0.0,social_familie
+Naleraq,Danmarksdemokraterne,71,9,9.0,1.0,social_familie
+Naleraq,Dansk Folkeparti,71,4,0.0,0.0,social_familie
+Naleraq,Det Konservative Folkeparti,71,6,6.0,1.0,social_familie
+Naleraq,Enhedslisten,71,5,5.0,1.0,social_familie
+Naleraq,Liberal Alliance,71,9,9.0,1.0,social_familie
+Naleraq,Moderaterne,71,7,7.0,1.0,social_familie
+Naleraq,Radikale Venstre,71,4,4.0,1.0,social_familie
+Naleraq,Socialdemokratiet,71,30,30.0,1.0,social_familie
+Naleraq,Socialistisk Folkeparti,71,9,9.0,1.0,social_familie
+Naleraq,Uden for folketingsgrupperne,71,3,3.0,1.0,social_familie
+Naleraq,Venstre,71,15,15.0,1.0,social_familie
+Radikale Venstre,Alternativet,71,1026,723.0,0.7046783625730995,social_familie
+Radikale Venstre,Borgernes Parti,71,174,76.0,0.4367816091954023,social_familie
+Radikale Venstre,Danmarksdemokraterne,71,2939,1790.0,0.6090506975161619,social_familie
+Radikale Venstre,Dansk Folkeparti,71,1921,1108.0,0.5767829255596044,social_familie
+Radikale Venstre,Det Konservative Folkeparti,71,2201,1682.0,0.7641980917764652,social_familie
+Radikale Venstre,Enhedslisten,71,3370,2338.0,0.6937685459940652,social_familie
+Radikale Venstre,Javnaðarflokkurin,71,5,2.0,0.4,social_familie
+Radikale Venstre,Liberal Alliance,71,3752,2524.0,0.6727078891257996,social_familie
+Radikale Venstre,Moderaterne,71,2628,2098.0,0.7983257229832572,social_familie
+Radikale Venstre,Radikale Venstre,71,1780,1774.0,0.996629213483146,social_familie
+Radikale Venstre,Socialdemokratiet,71,11643,9257.0,0.7950699991411149,social_familie
+Radikale Venstre,Socialistisk Folkeparti,71,3695,2991.0,0.8094722598105548,social_familie
+Radikale Venstre,Uden for folketingsgrupperne,71,826,495.0,0.5992736077481841,social_familie
+Radikale Venstre,Venstre,71,5532,4440.0,0.8026030368763557,social_familie
+Sambandsflokkurin,Alternativet,71,120,60.0,0.5,social_familie
+Sambandsflokkurin,Borgernes Parti,71,3,1.0,0.3333333333333333,social_familie
+Sambandsflokkurin,Danmarksdemokraterne,71,362,134.0,0.3701657458563536,social_familie
+Sambandsflokkurin,Dansk Folkeparti,71,110,37.0,0.33636363636363636,social_familie
+Sambandsflokkurin,Det Konservative Folkeparti,71,214,148.0,0.6915887850467289,social_familie
+Sambandsflokkurin,Enhedslisten,71,179,140.0,0.7821229050279329,social_familie
+Sambandsflokkurin,Liberal Alliance,71,298,96.0,0.3221476510067114,social_familie
+Sambandsflokkurin,Moderaterne,71,261,261.0,1.0,social_familie
+Sambandsflokkurin,Radikale Venstre,71,137,126.0,0.9197080291970803,social_familie
+Sambandsflokkurin,Socialdemokratiet,71,1125,1125.0,1.0,social_familie
+Sambandsflokkurin,Socialistisk Folkeparti,71,322,278.0,0.8633540372670807,social_familie
+Sambandsflokkurin,Uden for folketingsgrupperne,71,99,78.0,0.7878787878787878,social_familie
+Sambandsflokkurin,Venstre,71,497,497.0,1.0,social_familie
+Socialdemokratiet,Alternativet,71,19971,12526.0,0.6272094537078764,social_familie
+Socialdemokratiet,Borgernes Parti,71,3336,1364.0,0.4088729016786571,social_familie
+Socialdemokratiet,Danmarksdemokraterne,71,54612,36206.0,0.6629678458946752,social_familie
+Socialdemokratiet,Dansk Folkeparti,71,26634,16512.0,0.6199594503266501,social_familie
+Socialdemokratiet,Det Konservative Folkeparti,71,36668,28057.0,0.7651630849787281,social_familie
+Socialdemokratiet,Enhedslisten,71,44255,26041.0,0.5884306857982149,social_familie
+Socialdemokratiet,Javnaðarflokkurin,71,60,60.0,1.0,social_familie
+Socialdemokratiet,Liberal Alliance,71,59752,39600.0,0.6627393225331369,social_familie
+Socialdemokratiet,Moderaterne,71,45483,45331.0,0.9966580920343865,social_familie
+Socialdemokratiet,Radikale Venstre,71,31562,25201.0,0.7984601736265129,social_familie
+Socialdemokratiet,Sambandsflokkurin,71,61,61.0,1.0,social_familie
+Socialdemokratiet,Socialdemokratiet,71,190225,190135.0,0.9995268760678144,social_familie
+Socialdemokratiet,Socialistisk Folkeparti,71,56650,41115.0,0.7257722859664607,social_familie
+Socialdemokratiet,Uden for folketingsgrupperne,71,16884,12815.0,0.7590026060175314,social_familie
+Socialdemokratiet,Venstre,71,92598,92387.0,0.9977213330741485,social_familie
+Socialistisk Folkeparti,Alternativet,71,4927,3768.0,0.7647655774304851,social_familie
+Socialistisk Folkeparti,Borgernes Parti,71,890,347.0,0.3898876404494382,social_familie
+Socialistisk Folkeparti,Danmarksdemokraterne,71,14093,8403.0,0.596253459164124,social_familie
+Socialistisk Folkeparti,Dansk Folkeparti,71,6792,3840.0,0.5653710247349824,social_familie
+Socialistisk Folkeparti,Det Konservative Folkeparti,71,9568,6281.0,0.6564590301003345,social_familie
+Socialistisk Folkeparti,Enhedslisten,71,11432,9451.0,0.8267144856543037,social_familie
+Socialistisk Folkeparti,Javnaðarflokkurin,71,15,8.0,0.5333333333333333,social_familie
+Socialistisk Folkeparti,Liberal Alliance,71,15354,8806.0,0.5735313273414094,social_familie
+Socialistisk Folkeparti,Moderaterne,71,11486,8427.0,0.7336757792094724,social_familie
+Socialistisk Folkeparti,Radikale Venstre,71,8130,6417.0,0.7892988929889299,social_familie
+Socialistisk Folkeparti,Socialdemokratiet,71,50496,36658.0,0.7259584917617237,social_familie
+Socialistisk Folkeparti,Socialistisk Folkeparti,71,13075,13048.0,0.9979349904397705,social_familie
+Socialistisk Folkeparti,Uden for folketingsgrupperne,71,4252,2669.0,0.6277046095954845,social_familie
+Socialistisk Folkeparti,Venstre,71,24664,18019.0,0.7305789815115148,social_familie
+Uden for folketingsgrupperne,Alternativet,71,1270,820.0,0.6456692913385826,social_familie
+Uden for folketingsgrupperne,Borgernes Parti,71,315,144.0,0.45714285714285713,social_familie
+Uden for folketingsgrupperne,Danmarksdemokraterne,71,3620,2522.0,0.6966850828729282,social_familie
+Uden for folketingsgrupperne,Dansk Folkeparti,71,2194,1426.0,0.649954421148587,social_familie
+Uden for folketingsgrupperne,Det Konservative Folkeparti,71,2496,1938.0,0.7764423076923077,social_familie
+Uden for folketingsgrupperne,Enhedslisten,71,3422,2027.0,0.592343658679135,social_familie
+Uden for folketingsgrupperne,Javnaðarflokkurin,71,6,5.0,0.8333333333333334,social_familie
+Uden for folketingsgrupperne,Liberal Alliance,71,4206,2949.0,0.7011412268188303,social_familie
+Uden for folketingsgrupperne,Moderaterne,71,3007,2685.0,0.8929165281010975,social_familie
+Uden for folketingsgrupperne,Radikale Venstre,71,2503,1835.0,0.7331202556931682,social_familie
+Uden for folketingsgrupperne,Socialdemokratiet,71,13589,11852.0,0.8721760247258812,social_familie
+Uden for folketingsgrupperne,Socialistisk Folkeparti,71,4069,2885.0,0.7090194150897027,social_familie
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,71,823,552.0,0.6707168894289186,social_familie
+Uden for folketingsgrupperne,Venstre,71,6023,5278.0,0.8763074879628092,social_familie
+Venstre,Alternativet,71,8538,5370.0,0.6289529163738581,social_familie
+Venstre,Borgernes Parti,71,1481,611.0,0.41255908170155303,social_familie
+Venstre,Danmarksdemokraterne,71,24085,16045.0,0.6661822711231057,social_familie
+Venstre,Dansk Folkeparti,71,11779,7328.0,0.6221241191951778,social_familie
+Venstre,Det Konservative Folkeparti,71,16356,12603.0,0.770542920029347,social_familie
+Venstre,Enhedslisten,71,20071,11661.0,0.5809874943948982,social_familie
+Venstre,Javnaðarflokkurin,71,23,23.0,1.0,social_familie
+Venstre,Liberal Alliance,71,26791,17772.0,0.6633570975327535,social_familie
+Venstre,Moderaterne,71,20066,19882.0,0.990830260141533,social_familie
+Venstre,Radikale Venstre,71,14150,11255.0,0.7954063604240282,social_familie
+Venstre,Socialdemokratiet,71,86382,85864.0,0.9940033803338658,social_familie
+Venstre,Socialistisk Folkeparti,71,24296,17347.0,0.7139858412907475,social_familie
+Venstre,Uden for folketingsgrupperne,71,7915,5955.0,0.7523689197725837,social_familie
+Venstre,Venstre,71,38426,38120.0,0.992036641857076,social_familie

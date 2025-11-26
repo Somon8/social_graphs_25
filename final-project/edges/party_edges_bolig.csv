@@ -1,812 +1,1344 @@
 source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
-Danmarksdemokraterne,Danmarksdemokraterne,68,430,424.0,0.986046511627907,bolig
-Danmarksdemokraterne,Dansk Folkeparti,68,664,660.0,0.9939759036144579,bolig
-Danmarksdemokraterne,Det Konservative Folkeparti,68,713,531.0,0.7447405329593267,bolig
-Danmarksdemokraterne,Enhedslisten,68,1337,590.0,0.4412864622288706,bolig
-Danmarksdemokraterne,Liberal Alliance,68,763,513.0,0.672346002621232,bolig
-Danmarksdemokraterne,Moderaterne,68,70,50.0,0.7142857142857143,bolig
-Danmarksdemokraterne,Radikale Venstre,68,1413,796.0,0.5633404104741684,bolig
-Danmarksdemokraterne,Socialdemokratiet,68,1662,965.0,0.5806257521058965,bolig
-Danmarksdemokraterne,Socialistisk Folkeparti,68,826,409.0,0.49515738498789347,bolig
-Danmarksdemokraterne,Uden for folketingsgrupperne,68,498,459.0,0.9216867469879518,bolig
-Danmarksdemokraterne,Venstre,68,2398,1979.0,0.8252710592160133,bolig
-Dansk Folkeparti,Danmarksdemokraterne,68,504,498.0,0.9880952380952381,bolig
-Dansk Folkeparti,Dansk Folkeparti,68,538,535.0,0.9944237918215614,bolig
-Dansk Folkeparti,Det Konservative Folkeparti,68,732,540.0,0.7377049180327869,bolig
-Dansk Folkeparti,Enhedslisten,68,1399,607.0,0.43388134381701216,bolig
-Dansk Folkeparti,Liberal Alliance,68,697,472.0,0.6771879483500718,bolig
-Dansk Folkeparti,Moderaterne,68,48,35.0,0.7291666666666666,bolig
-Dansk Folkeparti,Radikale Venstre,68,1273,697.0,0.5475255302435192,bolig
-Dansk Folkeparti,Socialdemokratiet,68,1618,889.0,0.5494437577255872,bolig
-Dansk Folkeparti,Socialistisk Folkeparti,68,874,424.0,0.4851258581235698,bolig
-Dansk Folkeparti,Uden for folketingsgrupperne,68,448,397.0,0.8861607142857143,bolig
-Dansk Folkeparti,Venstre,68,2402,1976.0,0.8226477935054122,bolig
-Det Konservative Folkeparti,Danmarksdemokraterne,68,343,267.0,0.7784256559766763,bolig
-Det Konservative Folkeparti,Dansk Folkeparti,68,382,297.0,0.7774869109947644,bolig
-Det Konservative Folkeparti,Det Konservative Folkeparti,68,379,379.0,1.0,bolig
-Det Konservative Folkeparti,Enhedslisten,68,1001,451.0,0.45054945054945056,bolig
-Det Konservative Folkeparti,Liberal Alliance,68,497,412.0,0.8289738430583501,bolig
-Det Konservative Folkeparti,Moderaterne,68,46,45.0,0.9782608695652174,bolig
-Det Konservative Folkeparti,Radikale Venstre,68,859,605.0,0.7043073341094296,bolig
-Det Konservative Folkeparti,Socialdemokratiet,68,1117,807.0,0.7224709042076992,bolig
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,610,404.0,0.6622950819672131,bolig
-Det Konservative Folkeparti,Uden for folketingsgrupperne,68,314,257.0,0.8184713375796179,bolig
-Det Konservative Folkeparti,Venstre,68,1572,1486.0,0.94529262086514,bolig
-Enhedslisten,Danmarksdemokraterne,68,774,384.0,0.49612403100775193,bolig
-Enhedslisten,Dansk Folkeparti,68,938,410.0,0.43710021321961623,bolig
-Enhedslisten,Det Konservative Folkeparti,68,994,403.0,0.40543259557344064,bolig
-Enhedslisten,Enhedslisten,68,1801,1742.0,0.9672404219877846,bolig
-Enhedslisten,Liberal Alliance,68,1079,371.0,0.3438368860055607,bolig
-Enhedslisten,Moderaterne,68,101,27.0,0.26732673267326734,bolig
-Enhedslisten,Radikale Venstre,68,1918,1388.0,0.7236704900938478,bolig
-Enhedslisten,Socialdemokratiet,68,2488,1737.0,0.6981511254019293,bolig
-Enhedslisten,Socialistisk Folkeparti,68,1332,1015.0,0.762012012012012,bolig
-Enhedslisten,Uden for folketingsgrupperne,68,724,293.0,0.4046961325966851,bolig
-Enhedslisten,Venstre,68,3645,1399.0,0.3838134430727023,bolig
-Liberal Alliance,Danmarksdemokraterne,68,205,131.0,0.6390243902439025,bolig
-Liberal Alliance,Dansk Folkeparti,68,369,237.0,0.6422764227642277,bolig
-Liberal Alliance,Det Konservative Folkeparti,68,414,322.0,0.7777777777777778,bolig
-Liberal Alliance,Enhedslisten,68,811,272.0,0.3353884093711467,bolig
-Liberal Alliance,Liberal Alliance,68,323,314.0,0.9721362229102167,bolig
-Liberal Alliance,Moderaterne,68,13,11.0,0.8461538461538461,bolig
-Liberal Alliance,Radikale Venstre,68,576,306.0,0.53125,bolig
-Liberal Alliance,Socialdemokratiet,68,974,519.0,0.5328542094455853,bolig
-Liberal Alliance,Socialistisk Folkeparti,68,546,267.0,0.489010989010989,bolig
-Liberal Alliance,Uden for folketingsgrupperne,68,220,185.0,0.8409090909090909,bolig
-Liberal Alliance,Venstre,68,1227,957.0,0.7799511002444988,bolig
-Moderaterne,Danmarksdemokraterne,68,67,50.0,0.746268656716418,bolig
-Moderaterne,Dansk Folkeparti,68,78,55.0,0.7051282051282052,bolig
-Moderaterne,Det Konservative Folkeparti,68,89,87.0,0.9775280898876404,bolig
-Moderaterne,Enhedslisten,68,143,54.0,0.3776223776223776,bolig
-Moderaterne,Liberal Alliance,68,101,91.0,0.900990099009901,bolig
-Moderaterne,Moderaterne,68,2,2.0,1.0,bolig
-Moderaterne,Radikale Venstre,68,176,112.0,0.6363636363636364,bolig
-Moderaterne,Socialdemokratiet,68,204,129.0,0.6323529411764706,bolig
-Moderaterne,Socialistisk Folkeparti,68,76,41.0,0.5394736842105263,bolig
-Moderaterne,Uden for folketingsgrupperne,68,67,55.0,0.8208955223880597,bolig
-Moderaterne,Venstre,68,257,257.0,1.0,bolig
-Radikale Venstre,Danmarksdemokraterne,68,439,259.0,0.5899772209567198,bolig
-Radikale Venstre,Dansk Folkeparti,68,769,406.0,0.5279583875162549,bolig
-Radikale Venstre,Det Konservative Folkeparti,68,883,616.0,0.6976217440543602,bolig
-Radikale Venstre,Enhedslisten,68,1673,1232.0,0.7364016736401674,bolig
-Radikale Venstre,Liberal Alliance,68,1068,620.0,0.5805243445692884,bolig
-Radikale Venstre,Moderaterne,68,28,15.0,0.5357142857142857,bolig
-Radikale Venstre,Radikale Venstre,68,1366,1366.0,1.0,bolig
-Radikale Venstre,Socialdemokratiet,68,2138,2138.0,1.0,bolig
-Radikale Venstre,Socialistisk Folkeparti,68,1113,1056.0,0.9487870619946092,bolig
-Radikale Venstre,Uden for folketingsgrupperne,68,577,313.0,0.5424610051993067,bolig
-Radikale Venstre,Venstre,68,2964,1962.0,0.6619433198380567,bolig
-Socialdemokratiet,Danmarksdemokraterne,68,1424,845.0,0.5933988764044944,bolig
-Socialdemokratiet,Dansk Folkeparti,68,1755,977.0,0.5566951566951567,bolig
-Socialdemokratiet,Det Konservative Folkeparti,68,1810,1285.0,0.7099447513812155,bolig
-Socialdemokratiet,Enhedslisten,68,3475,2502.0,0.72,bolig
-Socialdemokratiet,Liberal Alliance,68,1785,1062.0,0.5949579831932773,bolig
-Socialdemokratiet,Moderaterne,68,172,101.0,0.5872093023255814,bolig
-Socialdemokratiet,Radikale Venstre,68,3024,3024.0,1.0,bolig
-Socialdemokratiet,Socialdemokratiet,68,4082,4082.0,1.0,bolig
-Socialdemokratiet,Socialistisk Folkeparti,68,2103,1960.0,0.932001902044698,bolig
-Socialdemokratiet,Uden for folketingsgrupperne,68,1100,597.0,0.5427272727272727,bolig
-Socialdemokratiet,Venstre,68,5889,4006.0,0.6802513160129054,bolig
-Socialistisk Folkeparti,Danmarksdemokraterne,68,493,259.0,0.5253549695740365,bolig
-Socialistisk Folkeparti,Dansk Folkeparti,68,576,282.0,0.4895833333333333,bolig
-Socialistisk Folkeparti,Det Konservative Folkeparti,68,636,422.0,0.6635220125786163,bolig
-Socialistisk Folkeparti,Enhedslisten,68,1213,968.0,0.7980214344600165,bolig
-Socialistisk Folkeparti,Liberal Alliance,68,635,344.0,0.5417322834645669,bolig
-Socialistisk Folkeparti,Moderaterne,68,76,43.0,0.5657894736842105,bolig
-Socialistisk Folkeparti,Radikale Venstre,68,1139,1096.0,0.9622475856014048,bolig
-Socialistisk Folkeparti,Socialdemokratiet,68,1581,1488.0,0.9411764705882353,bolig
-Socialistisk Folkeparti,Socialistisk Folkeparti,68,649,649.0,1.0,bolig
-Socialistisk Folkeparti,Uden for folketingsgrupperne,68,395,204.0,0.5164556962025316,bolig
-Socialistisk Folkeparti,Venstre,68,2374,1499.0,0.6314237573715249,bolig
-Uden for folketingsgrupperne,Danmarksdemokraterne,68,69,64.0,0.927536231884058,bolig
-Uden for folketingsgrupperne,Dansk Folkeparti,68,169,168.0,0.9940828402366864,bolig
-Uden for folketingsgrupperne,Det Konservative Folkeparti,68,235,175.0,0.7446808510638298,bolig
-Uden for folketingsgrupperne,Enhedslisten,68,404,168.0,0.4158415841584158,bolig
-Uden for folketingsgrupperne,Liberal Alliance,68,291,204.0,0.7010309278350515,bolig
-Uden for folketingsgrupperne,Moderaterne,68,4,1.0,0.25,bolig
-Uden for folketingsgrupperne,Radikale Venstre,68,416,236.0,0.5673076923076923,bolig
-Uden for folketingsgrupperne,Socialdemokratiet,68,538,295.0,0.5483271375464684,bolig
-Uden for folketingsgrupperne,Socialistisk Folkeparti,68,288,147.0,0.5104166666666666,bolig
-Uden for folketingsgrupperne,Uden for folketingsgrupperne,68,110,93.0,0.8454545454545455,bolig
-Uden for folketingsgrupperne,Venstre,68,666,554.0,0.8318318318318318,bolig
-Venstre,Danmarksdemokraterne,68,1565,1223.0,0.7814696485623003,bolig
-Venstre,Dansk Folkeparti,68,2020,1623.0,0.8034653465346535,bolig
-Venstre,Det Konservative Folkeparti,68,2198,2024.0,0.9208371246587808,bolig
-Venstre,Enhedslisten,68,4111,1791.0,0.43566042325468257,bolig
-Venstre,Liberal Alliance,68,2371,1905.0,0.8034584563475327,bolig
-Venstre,Moderaterne,68,183,179.0,0.9781420765027322,bolig
-Venstre,Radikale Venstre,68,3909,2688.0,0.6876438986953185,bolig
-Venstre,Socialdemokratiet,68,5372,3764.0,0.7006701414743113,bolig
-Venstre,Socialistisk Folkeparti,68,2474,1594.0,0.6443007275666937,bolig
-Venstre,Uden for folketingsgrupperne,68,1481,1228.0,0.8291694800810263,bolig
-Venstre,Venstre,68,7008,6883.0,0.9821632420091324,bolig
-Danmarksdemokraterne,Danmarksdemokraterne,67,234,219.0,0.9358974358974359,bolig
-Danmarksdemokraterne,Dansk Folkeparti,67,1098,1051.0,0.9571948998178507,bolig
-Danmarksdemokraterne,Det Konservative Folkeparti,67,550,453.0,0.8236363636363636,bolig
-Danmarksdemokraterne,Enhedslisten,67,285,108.0,0.37894736842105264,bolig
-Danmarksdemokraterne,Liberal Alliance,67,80,65.0,0.8125,bolig
-Danmarksdemokraterne,Moderaterne,67,10,10.0,1.0,bolig
-Danmarksdemokraterne,Radikale Venstre,67,217,118.0,0.543778801843318,bolig
-Danmarksdemokraterne,Sambandsflokkurin,67,8,7.0,0.875,bolig
-Danmarksdemokraterne,Socialdemokratiet,67,2623,1167.0,0.4449104079298513,bolig
-Danmarksdemokraterne,Socialistisk Folkeparti,67,1075,502.0,0.4669767441860465,bolig
-Danmarksdemokraterne,Uden for folketingsgrupperne,67,215,182.0,0.8465116279069768,bolig
-Danmarksdemokraterne,Venstre,67,2774,2292.0,0.8262436914203316,bolig
-Dansk Folkeparti,Danmarksdemokraterne,67,149,149.0,1.0,bolig
-Dansk Folkeparti,Dansk Folkeparti,67,1061,1061.0,1.0,bolig
-Dansk Folkeparti,Det Konservative Folkeparti,67,700,553.0,0.79,bolig
-Dansk Folkeparti,Enhedslisten,67,317,116.0,0.3659305993690852,bolig
-Dansk Folkeparti,Liberal Alliance,67,144,114.0,0.7916666666666666,bolig
-Dansk Folkeparti,Moderaterne,67,10,10.0,1.0,bolig
-Dansk Folkeparti,Radikale Venstre,67,253,134.0,0.5296442687747036,bolig
-Dansk Folkeparti,Socialdemokratiet,67,2684,1118.0,0.4165424739195231,bolig
-Dansk Folkeparti,Socialistisk Folkeparti,67,1150,517.0,0.44956521739130434,bolig
-Dansk Folkeparti,Uden for folketingsgrupperne,67,287,221.0,0.7700348432055749,bolig
-Dansk Folkeparti,Venstre,67,2514,1991.0,0.7919649960222752,bolig
-Det Konservative Folkeparti,Danmarksdemokraterne,67,199,168.0,0.8442211055276382,bolig
-Det Konservative Folkeparti,Dansk Folkeparti,67,796,634.0,0.7964824120603015,bolig
-Det Konservative Folkeparti,Det Konservative Folkeparti,67,366,366.0,1.0,bolig
-Det Konservative Folkeparti,Enhedslisten,67,241,96.0,0.3983402489626556,bolig
-Det Konservative Folkeparti,Liberal Alliance,67,83,70.0,0.8433734939759037,bolig
-Det Konservative Folkeparti,Moderaterne,67,10,10.0,1.0,bolig
-Det Konservative Folkeparti,Radikale Venstre,67,188,128.0,0.6808510638297872,bolig
-Det Konservative Folkeparti,Sambandsflokkurin,67,9,9.0,1.0,bolig
-Det Konservative Folkeparti,Socialdemokratiet,67,1902,1132.0,0.5951629863301787,bolig
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,807,471.0,0.5836431226765799,bolig
-Det Konservative Folkeparti,Uden for folketingsgrupperne,67,186,146.0,0.7849462365591398,bolig
-Det Konservative Folkeparti,Venstre,67,1991,1991.0,1.0,bolig
-Enhedslisten,Danmarksdemokraterne,67,102,44.0,0.43137254901960786,bolig
-Enhedslisten,Dansk Folkeparti,67,430,166.0,0.386046511627907,bolig
-Enhedslisten,Det Konservative Folkeparti,67,194,78.0,0.4020618556701031,bolig
-Enhedslisten,Enhedslisten,67,66,56.0,0.8484848484848485,bolig
-Enhedslisten,Liberal Alliance,67,50,24.0,0.48,bolig
-Enhedslisten,Moderaterne,67,4,1.0,0.25,bolig
-Enhedslisten,Radikale Venstre,67,69,49.0,0.7101449275362319,bolig
-Enhedslisten,Socialdemokratiet,67,896,649.0,0.7243303571428571,bolig
-Enhedslisten,Socialistisk Folkeparti,67,454,331.0,0.7290748898678414,bolig
-Enhedslisten,Uden for folketingsgrupperne,67,86,41.0,0.47674418604651164,bolig
-Enhedslisten,Venstre,67,915,362.0,0.39562841530054643,bolig
-Liberal Alliance,Danmarksdemokraterne,67,77,51.0,0.6623376623376623,bolig
-Liberal Alliance,Dansk Folkeparti,67,152,101.0,0.6644736842105263,bolig
-Liberal Alliance,Det Konservative Folkeparti,67,97,89.0,0.9175257731958762,bolig
-Liberal Alliance,Enhedslisten,67,43,10.0,0.23255813953488372,bolig
-Liberal Alliance,Moderaterne,67,4,4.0,1.0,bolig
-Liberal Alliance,Radikale Venstre,67,29,17.0,0.5862068965517241,bolig
-Liberal Alliance,Socialdemokratiet,67,464,216.0,0.46551724137931033,bolig
-Liberal Alliance,Socialistisk Folkeparti,67,193,79.0,0.40932642487046633,bolig
-Liberal Alliance,Uden for folketingsgrupperne,67,27,18.0,0.6666666666666666,bolig
-Liberal Alliance,Venstre,67,498,427.0,0.857429718875502,bolig
-Moderaterne,Danmarksdemokraterne,67,4,4.0,1.0,bolig
-Moderaterne,Dansk Folkeparti,67,15,15.0,1.0,bolig
+Danmarksdemokraterne,Danmarksdemokraterne,65,25,25.0,1.0,bolig
+Danmarksdemokraterne,Dansk Folkeparti,65,335,335.0,1.0,bolig
+Danmarksdemokraterne,Det Konservative Folkeparti,65,145,145.0,1.0,bolig
+Danmarksdemokraterne,Enhedslisten,65,28,8.0,0.2857142857142857,bolig
+Danmarksdemokraterne,Kristeligt Folkeparti,65,41,27.0,0.6585365853658537,bolig
+Danmarksdemokraterne,Kristendemokraterne,65,16,6.0,0.375,bolig
+Danmarksdemokraterne,Liberal Alliance,65,28,28.0,1.0,bolig
+Danmarksdemokraterne,Moderaterne,65,4,4.0,1.0,bolig
+Danmarksdemokraterne,Not able to assign,65,53,24.0,0.4528301886792453,bolig
+Danmarksdemokraterne,Ny Alliance,65,14,14.0,1.0,bolig
+Danmarksdemokraterne,Radikale Venstre,65,76,30.0,0.39473684210526316,bolig
+Danmarksdemokraterne,Socialdemokratiet,65,781,400.0,0.5121638924455826,bolig
+Danmarksdemokraterne,Socialistisk Folkeparti,65,145,56.0,0.38620689655172413,bolig
+Danmarksdemokraterne,Uden for folketingsgrupperne,65,78,74.0,0.9487179487179487,bolig
+Danmarksdemokraterne,Venstre,65,830,830.0,1.0,bolig
+Dansk Folkeparti,Danmarksdemokraterne,65,82,82.0,1.0,bolig
+Dansk Folkeparti,Dansk Folkeparti,65,972,972.0,1.0,bolig
+Dansk Folkeparti,Det Konservative Folkeparti,65,247,247.0,1.0,bolig
+Dansk Folkeparti,Enhedslisten,65,75,21.0,0.28,bolig
+Dansk Folkeparti,Kristeligt Folkeparti,65,95,55.0,0.5789473684210527,bolig
+Dansk Folkeparti,Kristendemokraterne,65,54,19.0,0.35185185185185186,bolig
+Dansk Folkeparti,Liberal Alliance,65,75,75.0,1.0,bolig
+Dansk Folkeparti,Moderaterne,65,12,12.0,1.0,bolig
+Dansk Folkeparti,Not able to assign,65,136,52.0,0.38235294117647056,bolig
+Dansk Folkeparti,Ny Alliance,65,35,35.0,1.0,bolig
+Dansk Folkeparti,Radikale Venstre,65,197,63.0,0.3197969543147208,bolig
+Dansk Folkeparti,Socialdemokratiet,65,2203,1034.0,0.4693599636858829,bolig
+Dansk Folkeparti,Socialistisk Folkeparti,65,532,191.0,0.35902255639097747,bolig
+Dansk Folkeparti,Uden for folketingsgrupperne,65,197,181.0,0.9187817258883249,bolig
+Dansk Folkeparti,Venstre,65,2485,2485.0,1.0,bolig
+Det Konservative Folkeparti,Danmarksdemokraterne,65,139,139.0,1.0,bolig
+Det Konservative Folkeparti,Dansk Folkeparti,65,1212,1212.0,1.0,bolig
+Det Konservative Folkeparti,Det Konservative Folkeparti,65,456,456.0,1.0,bolig
+Det Konservative Folkeparti,Enhedslisten,65,109,33.0,0.30275229357798167,bolig
+Det Konservative Folkeparti,Kristeligt Folkeparti,65,111,71.0,0.6396396396396397,bolig
+Det Konservative Folkeparti,Kristendemokraterne,65,59,22.0,0.3728813559322034,bolig
+Det Konservative Folkeparti,Liberal Alliance,65,115,115.0,1.0,bolig
+Det Konservative Folkeparti,Moderaterne,65,15,15.0,1.0,bolig
+Det Konservative Folkeparti,Not able to assign,65,190,102.0,0.5368421052631579,bolig
+Det Konservative Folkeparti,Ny Alliance,65,87,87.0,1.0,bolig
+Det Konservative Folkeparti,Radikale Venstre,65,354,158.0,0.4463276836158192,bolig
+Det Konservative Folkeparti,Socialdemokratiet,65,3039,1698.0,0.558736426456071,bolig
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,528,223.0,0.42234848484848486,bolig
+Det Konservative Folkeparti,Uden for folketingsgrupperne,65,295,279.0,0.9457627118644067,bolig
+Det Konservative Folkeparti,Venstre,65,3144,3144.0,1.0,bolig
+Enhedslisten,Danmarksdemokraterne,65,5,1.0,0.2,bolig
+Enhedslisten,Dansk Folkeparti,65,90,25.0,0.2777777777777778,bolig
+Enhedslisten,Det Konservative Folkeparti,65,8,2.0,0.25,bolig
+Enhedslisten,Kristeligt Folkeparti,65,7,3.0,0.42857142857142855,bolig
+Enhedslisten,Kristendemokraterne,65,7,4.0,0.5714285714285714,bolig
+Enhedslisten,Liberal Alliance,65,8,2.0,0.25,bolig
+Enhedslisten,Not able to assign,65,3,3.0,1.0,bolig
+Enhedslisten,Radikale Venstre,65,20,12.0,0.6,bolig
+Enhedslisten,Socialdemokratiet,65,209,136.0,0.6507177033492823,bolig
+Enhedslisten,Socialistisk Folkeparti,65,50,43.0,0.86,bolig
+Enhedslisten,Uden for folketingsgrupperne,65,24,8.0,0.3333333333333333,bolig
+Enhedslisten,Venstre,65,180,50.0,0.2777777777777778,bolig
+Kristeligt Folkeparti,Danmarksdemokraterne,65,8,5.0,0.625,bolig
+Kristeligt Folkeparti,Dansk Folkeparti,65,165,110.0,0.6666666666666666,bolig
+Kristeligt Folkeparti,Det Konservative Folkeparti,65,76,50.0,0.6578947368421053,bolig
+Kristeligt Folkeparti,Enhedslisten,65,14,6.0,0.42857142857142855,bolig
+Kristeligt Folkeparti,Kristeligt Folkeparti,65,7,7.0,1.0,bolig
+Kristeligt Folkeparti,Kristendemokraterne,65,1,1.0,1.0,bolig
+Kristeligt Folkeparti,Liberal Alliance,65,14,10.0,0.7142857142857143,bolig
+Kristeligt Folkeparti,Not able to assign,65,27,27.0,1.0,bolig
+Kristeligt Folkeparti,Ny Alliance,65,7,4.0,0.5714285714285714,bolig
+Kristeligt Folkeparti,Radikale Venstre,65,33,33.0,1.0,bolig
+Kristeligt Folkeparti,Socialdemokratiet,65,367,364.0,0.9918256130790191,bolig
+Kristeligt Folkeparti,Socialistisk Folkeparti,65,74,36.0,0.4864864864864865,bolig
+Kristeligt Folkeparti,Uden for folketingsgrupperne,65,43,33.0,0.7674418604651163,bolig
+Kristeligt Folkeparti,Venstre,65,402,264.0,0.6567164179104478,bolig
+Kristendemokraterne,Danmarksdemokraterne,65,5,3.0,0.6,bolig
+Kristendemokraterne,Dansk Folkeparti,65,42,18.0,0.42857142857142855,bolig
+Kristendemokraterne,Kristeligt Folkeparti,65,7,6.0,0.8571428571428571,bolig
+Kristendemokraterne,Not able to assign,65,3,2.0,0.6666666666666666,bolig
+Kristendemokraterne,Radikale Venstre,65,3,2.0,0.6666666666666666,bolig
+Kristendemokraterne,Socialdemokratiet,65,77,57.0,0.7402597402597403,bolig
+Kristendemokraterne,Socialistisk Folkeparti,65,23,14.0,0.6086956521739131,bolig
+Kristendemokraterne,Uden for folketingsgrupperne,65,5,3.0,0.6,bolig
+Kristendemokraterne,Venstre,65,87,34.0,0.39080459770114945,bolig
+Liberal Alliance,Danmarksdemokraterne,65,5,5.0,1.0,bolig
+Liberal Alliance,Dansk Folkeparti,65,90,90.0,1.0,bolig
+Liberal Alliance,Det Konservative Folkeparti,65,2,2.0,1.0,bolig
+Liberal Alliance,Enhedslisten,65,6,2.0,0.3333333333333333,bolig
+Liberal Alliance,Kristeligt Folkeparti,65,7,4.0,0.5714285714285714,bolig
+Liberal Alliance,Kristendemokraterne,65,7,3.0,0.42857142857142855,bolig
+Liberal Alliance,Not able to assign,65,3,1.0,0.3333333333333333,bolig
+Liberal Alliance,Radikale Venstre,65,20,7.0,0.35,bolig
+Liberal Alliance,Socialdemokratiet,65,199,112.0,0.5628140703517588,bolig
+Liberal Alliance,Socialistisk Folkeparti,65,49,22.0,0.4489795918367347,bolig
+Liberal Alliance,Uden for folketingsgrupperne,65,24,23.0,0.9583333333333334,bolig
+Liberal Alliance,Venstre,65,164,164.0,1.0,bolig
+Moderaterne,Danmarksdemokraterne,65,1,1.0,1.0,bolig
+Moderaterne,Dansk Folkeparti,65,11,11.0,1.0,bolig
+Moderaterne,Enhedslisten,65,2,1.0,0.5,bolig
+Moderaterne,Kristeligt Folkeparti,65,2,1.0,0.5,bolig
+Moderaterne,Kristendemokraterne,65,2,1.0,0.5,bolig
+Moderaterne,Liberal Alliance,65,2,2.0,1.0,bolig
+Moderaterne,Not able to assign,65,1,1.0,1.0,bolig
+Moderaterne,Radikale Venstre,65,5,0.0,0.0,bolig
+Moderaterne,Socialdemokratiet,65,32,17.0,0.53125,bolig
+Moderaterne,Socialistisk Folkeparti,65,8,4.0,0.5,bolig
+Moderaterne,Uden for folketingsgrupperne,65,4,4.0,1.0,bolig
+Moderaterne,Venstre,65,23,23.0,1.0,bolig
+Not able to assign,Danmarksdemokraterne,65,69,29.0,0.42028985507246375,bolig
+Not able to assign,Dansk Folkeparti,65,484,214.0,0.44214876033057854,bolig
+Not able to assign,Det Konservative Folkeparti,65,230,97.0,0.4217391304347826,bolig
+Not able to assign,Enhedslisten,65,44,31.0,0.7045454545454546,bolig
+Not able to assign,Kristeligt Folkeparti,65,47,30.0,0.6382978723404256,bolig
+Not able to assign,Kristendemokraterne,65,27,21.0,0.7777777777777778,bolig
+Not able to assign,Liberal Alliance,65,44,22.0,0.5,bolig
+Not able to assign,Moderaterne,65,5,2.0,0.4,bolig
+Not able to assign,Not able to assign,65,67,57.0,0.8507462686567164,bolig
+Not able to assign,Ny Alliance,65,34,15.0,0.4411764705882353,bolig
+Not able to assign,Radikale Venstre,65,132,111.0,0.8409090909090909,bolig
+Not able to assign,Socialdemokratiet,65,1243,1113.0,0.8954143201930812,bolig
+Not able to assign,Socialistisk Folkeparti,65,233,184.0,0.7896995708154506,bolig
+Not able to assign,Uden for folketingsgrupperne,65,110,58.0,0.5272727272727272,bolig
+Not able to assign,Venstre,65,1246,540.0,0.4333868378812199,bolig
+Ny Alliance,Danmarksdemokraterne,65,19,19.0,1.0,bolig
+Ny Alliance,Dansk Folkeparti,65,133,133.0,1.0,bolig
+Ny Alliance,Det Konservative Folkeparti,65,29,29.0,1.0,bolig
+Ny Alliance,Enhedslisten,65,13,4.0,0.3076923076923077,bolig
+Ny Alliance,Kristeligt Folkeparti,65,13,8.0,0.6153846153846154,bolig
+Ny Alliance,Kristendemokraterne,65,8,3.0,0.375,bolig
+Ny Alliance,Liberal Alliance,65,13,13.0,1.0,bolig
+Ny Alliance,Moderaterne,65,2,2.0,1.0,bolig
+Ny Alliance,Not able to assign,65,15,6.0,0.4,bolig
+Ny Alliance,Radikale Venstre,65,21,6.0,0.2857142857142857,bolig
+Ny Alliance,Socialdemokratiet,65,322,153.0,0.4751552795031056,bolig
+Ny Alliance,Socialistisk Folkeparti,65,63,26.0,0.4126984126984127,bolig
+Ny Alliance,Uden for folketingsgrupperne,65,35,33.0,0.9428571428571428,bolig
+Ny Alliance,Venstre,65,270,270.0,1.0,bolig
+Radikale Venstre,Danmarksdemokraterne,65,52,24.0,0.46153846153846156,bolig
+Radikale Venstre,Dansk Folkeparti,65,442,207.0,0.4683257918552036,bolig
+Radikale Venstre,Det Konservative Folkeparti,65,84,40.0,0.47619047619047616,bolig
+Radikale Venstre,Enhedslisten,65,31,18.0,0.5806451612903226,bolig
+Radikale Venstre,Kristeligt Folkeparti,65,43,30.0,0.6976744186046512,bolig
+Radikale Venstre,Kristendemokraterne,65,29,21.0,0.7241379310344828,bolig
+Radikale Venstre,Liberal Alliance,65,31,16.0,0.5161290322580645,bolig
+Radikale Venstre,Moderaterne,65,4,0.0,0.0,bolig
+Radikale Venstre,Not able to assign,65,56,50.0,0.8928571428571429,bolig
+Radikale Venstre,Ny Alliance,65,30,14.0,0.4666666666666667,bolig
+Radikale Venstre,Radikale Venstre,65,73,73.0,1.0,bolig
+Radikale Venstre,Socialdemokratiet,65,1018,932.0,0.9155206286836935,bolig
+Radikale Venstre,Socialistisk Folkeparti,65,194,130.0,0.6701030927835051,bolig
+Radikale Venstre,Uden for folketingsgrupperne,65,91,48.0,0.5274725274725275,bolig
+Radikale Venstre,Venstre,65,1037,481.0,0.46383799421407906,bolig
+Socialdemokratiet,Danmarksdemokraterne,65,284,140.0,0.49295774647887325,bolig
+Socialdemokratiet,Dansk Folkeparti,65,3236,1740.0,0.5377008652657602,bolig
+Socialdemokratiet,Det Konservative Folkeparti,65,721,391.0,0.5423023578363384,bolig
+Socialdemokratiet,Enhedslisten,65,215,133.0,0.6186046511627907,bolig
+Socialdemokratiet,Kristeligt Folkeparti,65,309,221.0,0.7152103559870551,bolig
+Socialdemokratiet,Kristendemokraterne,65,163,125.0,0.7668711656441718,bolig
+Socialdemokratiet,Liberal Alliance,65,225,129.0,0.5733333333333334,bolig
+Socialdemokratiet,Moderaterne,65,25,11.0,0.44,bolig
+Socialdemokratiet,Not able to assign,65,353,352.0,0.9971671388101983,bolig
+Socialdemokratiet,Ny Alliance,65,104,57.0,0.5480769230769231,bolig
+Socialdemokratiet,Radikale Venstre,65,621,561.0,0.9033816425120773,bolig
+Socialdemokratiet,Socialdemokratiet,65,6789,6725.0,0.9905729857121814,bolig
+Socialdemokratiet,Socialistisk Folkeparti,65,1482,1032.0,0.6963562753036437,bolig
+Socialdemokratiet,Uden for folketingsgrupperne,65,708,450.0,0.635593220338983,bolig
+Socialdemokratiet,Venstre,65,7332,3907.0,0.5328696126568467,bolig
+Socialistisk Folkeparti,Danmarksdemokraterne,65,42,15.0,0.35714285714285715,bolig
+Socialistisk Folkeparti,Dansk Folkeparti,65,423,157.0,0.37115839243498816,bolig
+Socialistisk Folkeparti,Det Konservative Folkeparti,65,118,37.0,0.3135593220338983,bolig
+Socialistisk Folkeparti,Enhedslisten,65,21,18.0,0.8571428571428571,bolig
+Socialistisk Folkeparti,Kristeligt Folkeparti,65,40,20.0,0.5,bolig
+Socialistisk Folkeparti,Kristendemokraterne,65,23,11.0,0.4782608695652174,bolig
+Socialistisk Folkeparti,Liberal Alliance,65,22,8.0,0.36363636363636365,bolig
+Socialistisk Folkeparti,Moderaterne,65,4,2.0,0.5,bolig
+Socialistisk Folkeparti,Not able to assign,65,49,30.0,0.6122448979591837,bolig
+Socialistisk Folkeparti,Ny Alliance,65,13,4.0,0.3076923076923077,bolig
+Socialistisk Folkeparti,Radikale Venstre,65,94,53.0,0.5638297872340425,bolig
+Socialistisk Folkeparti,Socialdemokratiet,65,964,627.0,0.6504149377593361,bolig
+Socialistisk Folkeparti,Socialistisk Folkeparti,65,185,185.0,1.0,bolig
+Socialistisk Folkeparti,Uden for folketingsgrupperne,65,97,35.0,0.36082474226804123,bolig
+Socialistisk Folkeparti,Venstre,65,1027,364.0,0.35443037974683544,bolig
+Uden for folketingsgrupperne,Danmarksdemokraterne,65,8,8.0,1.0,bolig
+Uden for folketingsgrupperne,Dansk Folkeparti,65,252,243.0,0.9642857142857143,bolig
+Uden for folketingsgrupperne,Det Konservative Folkeparti,65,21,21.0,1.0,bolig
+Uden for folketingsgrupperne,Enhedslisten,65,11,3.0,0.2727272727272727,bolig
+Uden for folketingsgrupperne,Kristeligt Folkeparti,65,15,8.0,0.5333333333333333,bolig
+Uden for folketingsgrupperne,Kristendemokraterne,65,13,4.0,0.3076923076923077,bolig
+Uden for folketingsgrupperne,Liberal Alliance,65,11,11.0,1.0,bolig
+Uden for folketingsgrupperne,Moderaterne,65,1,1.0,1.0,bolig
+Uden for folketingsgrupperne,Not able to assign,65,20,10.0,0.5,bolig
+Uden for folketingsgrupperne,Radikale Venstre,65,43,19.0,0.4418604651162791,bolig
+Uden for folketingsgrupperne,Socialdemokratiet,65,457,279.0,0.6105032822757112,bolig
+Uden for folketingsgrupperne,Socialistisk Folkeparti,65,107,44.0,0.411214953271028,bolig
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,65,31,27.0,0.8709677419354839,bolig
+Uden for folketingsgrupperne,Venstre,65,467,446.0,0.9550321199143469,bolig
+Venstre,Danmarksdemokraterne,65,309,309.0,1.0,bolig
+Venstre,Dansk Folkeparti,65,3314,3314.0,1.0,bolig
+Venstre,Det Konservative Folkeparti,65,876,876.0,1.0,bolig
+Venstre,Enhedslisten,65,275,79.0,0.2872727272727273,bolig
+Venstre,Kristeligt Folkeparti,65,319,199.0,0.6238244514106583,bolig
+Venstre,Kristendemokraterne,65,168,60.0,0.35714285714285715,bolig
+Venstre,Liberal Alliance,65,291,291.0,1.0,bolig
+Venstre,Moderaterne,65,39,39.0,1.0,bolig
+Venstre,Not able to assign,65,445,203.0,0.45617977528089887,bolig
+Venstre,Ny Alliance,65,187,187.0,1.0,bolig
+Venstre,Radikale Venstre,65,711,268.0,0.3769338959212377,bolig
+Venstre,Socialdemokratiet,65,7590,3908.0,0.5148880105401844,bolig
+Venstre,Socialistisk Folkeparti,65,1578,599.0,0.37959442332065907,bolig
+Venstre,Uden for folketingsgrupperne,65,773,727.0,0.9404915912031048,bolig
+Venstre,Venstre,65,7717,7717.0,1.0,bolig
+Danmarksdemokraterne,Danmarksdemokraterne,66,770,751.0,0.9753246753246754,bolig
+Danmarksdemokraterne,Dansk Folkeparti,66,4871,4798.0,0.9850133442824882,bolig
+Danmarksdemokraterne,Det Konservative Folkeparti,66,2637,2466.0,0.9351535836177475,bolig
+Danmarksdemokraterne,Enhedslisten,66,1009,243.0,0.24083250743310208,bolig
+Danmarksdemokraterne,Kristendemokraterne,66,390,371.0,0.9512820512820512,bolig
+Danmarksdemokraterne,Liberal Alliance,66,353,338.0,0.9575070821529745,bolig
+Danmarksdemokraterne,Moderaterne,66,71,71.0,1.0,bolig
+Danmarksdemokraterne,Not able to assign,66,1004,564.0,0.5617529880478087,bolig
+Danmarksdemokraterne,Ny Alliance,66,168,164.0,0.9761904761904762,bolig
+Danmarksdemokraterne,Radikale Venstre,66,2625,1828.0,0.6963809523809524,bolig
+Danmarksdemokraterne,Siumut,66,4,0.0,0.0,bolig
+Danmarksdemokraterne,Socialdemokratiet,66,10423,6080.0,0.5833253381943778,bolig
+Danmarksdemokraterne,Socialistisk Folkeparti,66,2193,1001.0,0.45645234838121296,bolig
+Danmarksdemokraterne,Tjóðveldi,66,6,0.0,0.0,bolig
+Danmarksdemokraterne,Uden for folketingsgrupperne,66,1262,1091.0,0.8645007923930269,bolig
+Danmarksdemokraterne,Venstre,66,10698,10050.0,0.9394279304542905,bolig
+Dansk Folkeparti,Danmarksdemokraterne,66,2088,2062.0,0.9875478927203065,bolig
+Dansk Folkeparti,Dansk Folkeparti,66,11960,11949.0,0.9990802675585284,bolig
+Dansk Folkeparti,Det Konservative Folkeparti,66,5310,4863.0,0.915819209039548,bolig
+Dansk Folkeparti,Enhedslisten,66,2467,583.0,0.23631941629509526,bolig
+Dansk Folkeparti,Kristendemokraterne,66,1287,1194.0,0.9277389277389277,bolig
+Dansk Folkeparti,Liberal Alliance,66,790,738.0,0.9341772151898734,bolig
+Dansk Folkeparti,Moderaterne,66,169,169.0,1.0,bolig
+Dansk Folkeparti,Not able to assign,66,2635,1513.0,0.5741935483870968,bolig
+Dansk Folkeparti,Ny Alliance,66,226,221.0,0.9778761061946902,bolig
+Dansk Folkeparti,Radikale Venstre,66,6625,4623.0,0.697811320754717,bolig
+Dansk Folkeparti,Siumut,66,6,0.0,0.0,bolig
+Dansk Folkeparti,Socialdemokratiet,66,25996,15010.0,0.5773965225419295,bolig
+Dansk Folkeparti,Socialistisk Folkeparti,66,6232,2832.0,0.4544287548138639,bolig
+Dansk Folkeparti,Tjóðveldi,66,4,0.0,0.0,bolig
+Dansk Folkeparti,Uden for folketingsgrupperne,66,3448,2847.0,0.8256960556844548,bolig
+Dansk Folkeparti,Venstre,66,25484,23278.0,0.9134358813373097,bolig
+Det Konservative Folkeparti,Danmarksdemokraterne,66,2798,2681.0,0.9581844174410293,bolig
+Det Konservative Folkeparti,Dansk Folkeparti,66,14428,13397.0,0.9285417244247297,bolig
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,6957,6957.0,1.0,bolig
+Det Konservative Folkeparti,Enhedslisten,66,3250,709.0,0.21815384615384614,bolig
+Det Konservative Folkeparti,Kristendemokraterne,66,1295,1295.0,1.0,bolig
+Det Konservative Folkeparti,Liberal Alliance,66,1094,1094.0,1.0,bolig
+Det Konservative Folkeparti,Moderaterne,66,239,239.0,1.0,bolig
+Det Konservative Folkeparti,Not able to assign,66,3184,1995.0,0.6265703517587939,bolig
+Det Konservative Folkeparti,Ny Alliance,66,611,611.0,1.0,bolig
+Det Konservative Folkeparti,Radikale Venstre,66,8285,6193.0,0.7474954737477368,bolig
+Det Konservative Folkeparti,Siumut,66,10,0.0,0.0,bolig
+Det Konservative Folkeparti,Socialdemokratiet,66,31899,20594.0,0.6456001755540927,bolig
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,6926,3413.0,0.49278082587352007,bolig
+Det Konservative Folkeparti,Tjóðveldi,66,16,0.0,0.0,bolig
+Det Konservative Folkeparti,Uden for folketingsgrupperne,66,4018,3534.0,0.8795420607267297,bolig
+Det Konservative Folkeparti,Venstre,66,31190,31168.0,0.999294645719782,bolig
+Enhedslisten,Danmarksdemokraterne,66,460,135.0,0.29347826086956524,bolig
+Enhedslisten,Dansk Folkeparti,66,2785,729.0,0.26175942549371634,bolig
+Enhedslisten,Det Konservative Folkeparti,66,843,224.0,0.265717674970344,bolig
+Enhedslisten,Enhedslisten,66,368,368.0,1.0,bolig
+Enhedslisten,Kristendemokraterne,66,314,74.0,0.2356687898089172,bolig
+Enhedslisten,Liberal Alliance,66,142,35.0,0.24647887323943662,bolig
+Enhedslisten,Moderaterne,66,22,6.0,0.2727272727272727,bolig
+Enhedslisten,Not able to assign,66,472,254.0,0.538135593220339,bolig
+Enhedslisten,Ny Alliance,66,38,11.0,0.2894736842105263,bolig
+Enhedslisten,Radikale Venstre,66,1302,557.0,0.42780337941628266,bolig
+Enhedslisten,Siumut,66,2,2.0,1.0,bolig
+Enhedslisten,Socialdemokratiet,66,5446,3068.0,0.5633492471538744,bolig
+Enhedslisten,Socialistisk Folkeparti,66,1351,953.0,0.7054034048852702,bolig
+Enhedslisten,Tjóðveldi,66,2,2.0,1.0,bolig
+Enhedslisten,Uden for folketingsgrupperne,66,833,287.0,0.3445378151260504,bolig
+Enhedslisten,Venstre,66,4909,1222.0,0.24893053575066204,bolig
+Kristendemokraterne,Danmarksdemokraterne,66,125,118.0,0.944,bolig
+Kristendemokraterne,Dansk Folkeparti,66,590,542.0,0.9186440677966101,bolig
+Kristendemokraterne,Det Konservative Folkeparti,66,137,137.0,1.0,bolig
+Kristendemokraterne,Enhedslisten,66,66,12.0,0.18181818181818182,bolig
+Kristendemokraterne,Not able to assign,66,86,54.0,0.627906976744186,bolig
+Kristendemokraterne,Radikale Venstre,66,109,82.0,0.7522935779816514,bolig
+Kristendemokraterne,Socialdemokratiet,66,981,627.0,0.6391437308868502,bolig
+Kristendemokraterne,Socialistisk Folkeparti,66,393,187.0,0.4758269720101781,bolig
+Kristendemokraterne,Uden for folketingsgrupperne,66,198,169.0,0.8535353535353535,bolig
+Kristendemokraterne,Venstre,66,1204,1203.0,0.9991694352159468,bolig
+Liberal Alliance,Danmarksdemokraterne,66,118,112.0,0.9491525423728814,bolig
+Liberal Alliance,Dansk Folkeparti,66,930,867.0,0.932258064516129,bolig
+Liberal Alliance,Det Konservative Folkeparti,66,234,234.0,1.0,bolig
+Liberal Alliance,Enhedslisten,66,218,40.0,0.1834862385321101,bolig
+Liberal Alliance,Kristendemokraterne,66,127,127.0,1.0,bolig
+Liberal Alliance,Not able to assign,66,163,101.0,0.6196319018404908,bolig
+Liberal Alliance,Radikale Venstre,66,618,442.0,0.7152103559870551,bolig
+Liberal Alliance,Socialdemokratiet,66,2047,1288.0,0.6292134831460674,bolig
+Liberal Alliance,Socialistisk Folkeparti,66,438,204.0,0.4657534246575342,bolig
+Liberal Alliance,Uden for folketingsgrupperne,66,330,276.0,0.8363636363636363,bolig
+Liberal Alliance,Venstre,66,1338,1337.0,0.9992526158445441,bolig
+Moderaterne,Danmarksdemokraterne,66,32,32.0,1.0,bolig
+Moderaterne,Dansk Folkeparti,66,188,188.0,1.0,bolig
+Moderaterne,Det Konservative Folkeparti,66,42,42.0,1.0,bolig
+Moderaterne,Enhedslisten,66,55,13.0,0.23636363636363636,bolig
+Moderaterne,Kristendemokraterne,66,29,29.0,1.0,bolig
+Moderaterne,Liberal Alliance,66,24,24.0,1.0,bolig
+Moderaterne,Not able to assign,66,30,16.0,0.5333333333333333,bolig
+Moderaterne,Radikale Venstre,66,146,118.0,0.8082191780821918,bolig
+Moderaterne,Socialdemokratiet,66,450,268.0,0.5955555555555555,bolig
+Moderaterne,Socialistisk Folkeparti,66,97,46.0,0.4742268041237113,bolig
+Moderaterne,Uden for folketingsgrupperne,66,76,69.0,0.9078947368421053,bolig
+Moderaterne,Venstre,66,280,280.0,1.0,bolig
+Not able to assign,Danmarksdemokraterne,66,605,331.0,0.547107438016529,bolig
+Not able to assign,Dansk Folkeparti,66,3469,1904.0,0.5488613433266071,bolig
+Not able to assign,Det Konservative Folkeparti,66,1487,920.0,0.6186953597848016,bolig
+Not able to assign,Enhedslisten,66,760,435.0,0.5723684210526315,bolig
+Not able to assign,Kristendemokraterne,66,349,216.0,0.6189111747851003,bolig
+Not able to assign,Liberal Alliance,66,248,145.0,0.5846774193548387,bolig
+Not able to assign,Moderaterne,66,46,29.0,0.6304347826086957,bolig
+Not able to assign,Not able to assign,66,563,558.0,0.9911190053285968,bolig
+Not able to assign,Ny Alliance,66,115,67.0,0.5826086956521739,bolig
+Not able to assign,Radikale Venstre,66,1779,1309.0,0.7358066329398538,bolig
+Not able to assign,Siumut,66,1,0.0,0.0,bolig
+Not able to assign,Socialdemokratiet,66,7391,7292.0,0.9866053308077392,bolig
+Not able to assign,Socialistisk Folkeparti,66,1718,1419.0,0.8259604190919674,bolig
+Not able to assign,Uden for folketingsgrupperne,66,969,660.0,0.6811145510835913,bolig
+Not able to assign,Venstre,66,7006,4341.0,0.6196117613474165,bolig
+Ny Alliance,Danmarksdemokraterne,66,144,143.0,0.9930555555555556,bolig
+Ny Alliance,Dansk Folkeparti,66,871,852.0,0.9781859931113662,bolig
+Ny Alliance,Det Konservative Folkeparti,66,259,259.0,1.0,bolig
+Ny Alliance,Enhedslisten,66,205,32.0,0.15609756097560976,bolig
+Ny Alliance,Kristendemokraterne,66,78,78.0,1.0,bolig
+Ny Alliance,Liberal Alliance,66,78,78.0,1.0,bolig
+Ny Alliance,Moderaterne,66,22,22.0,1.0,bolig
+Ny Alliance,Not able to assign,66,150,82.0,0.5466666666666666,bolig
+Ny Alliance,Radikale Venstre,66,439,306.0,0.6970387243735763,bolig
+Ny Alliance,Siumut,66,1,0.0,0.0,bolig
+Ny Alliance,Socialdemokratiet,66,1936,1165.0,0.6017561983471075,bolig
+Ny Alliance,Socialistisk Folkeparti,66,352,142.0,0.4034090909090909,bolig
+Ny Alliance,Uden for folketingsgrupperne,66,286,255.0,0.8916083916083916,bolig
+Ny Alliance,Venstre,66,1644,1642.0,0.9987834549878345,bolig
+Radikale Venstre,Danmarksdemokraterne,66,1827,1262.0,0.6907498631636563,bolig
+Radikale Venstre,Dansk Folkeparti,66,9417,6700.0,0.7114792396729319,bolig
+Radikale Venstre,Det Konservative Folkeparti,66,4067,3136.0,0.7710843373493976,bolig
+Radikale Venstre,Enhedslisten,66,2014,827.0,0.41062562065541214,bolig
+Radikale Venstre,Kristendemokraterne,66,1058,802.0,0.7580340264650284,bolig
+Radikale Venstre,Liberal Alliance,66,453,331.0,0.7306843267108167,bolig
+Radikale Venstre,Moderaterne,66,78,62.0,0.7948717948717948,bolig
+Radikale Venstre,Not able to assign,66,1971,1456.0,0.7387113140537798,bolig
+Radikale Venstre,Ny Alliance,66,263,199.0,0.7566539923954373,bolig
+Radikale Venstre,Radikale Venstre,66,4469,4417.0,0.9883642873125978,bolig
+Radikale Venstre,Siumut,66,2,0.0,0.0,bolig
+Radikale Venstre,Socialdemokratiet,66,19478,14660.0,0.7526440086251155,bolig
+Radikale Venstre,Socialistisk Folkeparti,66,4739,3184.0,0.6718717028909053,bolig
+Radikale Venstre,Tjóðveldi,66,4,2.0,0.5,bolig
+Radikale Venstre,Uden for folketingsgrupperne,66,2642,2225.0,0.8421650264950795,bolig
+Radikale Venstre,Venstre,66,19896,14976.0,0.752714113389626,bolig
+Siumut,Danmarksdemokraterne,66,1,0.0,0.0,bolig
+Siumut,Dansk Folkeparti,66,6,0.0,0.0,bolig
+Siumut,Det Konservative Folkeparti,66,3,0.0,0.0,bolig
+Siumut,Enhedslisten,66,1,1.0,1.0,bolig
+Siumut,Kristendemokraterne,66,1,0.0,0.0,bolig
+Siumut,Radikale Venstre,66,7,0.0,0.0,bolig
+Siumut,Socialdemokratiet,66,14,1.0,0.07142857142857142,bolig
+Siumut,Socialistisk Folkeparti,66,3,3.0,1.0,bolig
+Siumut,Uden for folketingsgrupperne,66,3,0.0,0.0,bolig
+Siumut,Venstre,66,10,0.0,0.0,bolig
+Socialdemokratiet,Danmarksdemokraterne,66,4625,2568.0,0.5552432432432433,bolig
+Socialdemokratiet,Dansk Folkeparti,66,28890,16461.0,0.5697819314641744,bolig
+Socialdemokratiet,Det Konservative Folkeparti,66,10281,6692.0,0.6509094446065558,bolig
+Socialdemokratiet,Enhedslisten,66,5784,3003.0,0.5191908713692946,bolig
+Socialdemokratiet,Kristendemokraterne,66,3013,1920.0,0.6372386325921009,bolig
+Socialdemokratiet,Liberal Alliance,66,1618,1021.0,0.6310259579728059,bolig
+Socialdemokratiet,Moderaterne,66,348,197.0,0.5660919540229885,bolig
+Socialdemokratiet,Not able to assign,66,5403,5361.0,0.9922265408106608,bolig
+Socialdemokratiet,Ny Alliance,66,397,229.0,0.5768261964735516,bolig
+Socialdemokratiet,Radikale Venstre,66,14762,11122.0,0.7534209456713182,bolig
+Socialdemokratiet,Siumut,66,14,0.0,0.0,bolig
+Socialdemokratiet,Socialdemokratiet,66,56646,55689.0,0.9831056032199978,bolig
+Socialdemokratiet,Socialistisk Folkeparti,66,13803,10896.0,0.7893936100847642,bolig
+Socialdemokratiet,Tjóðveldi,66,10,5.0,0.5,bolig
+Socialdemokratiet,Uden for folketingsgrupperne,66,8129,5614.0,0.6906138516422684,bolig
+Socialdemokratiet,Venstre,66,55120,35664.0,0.6470246734397678,bolig
+Socialistisk Folkeparti,Danmarksdemokraterne,66,1373,592.0,0.43117261471230883,bolig
+Socialistisk Folkeparti,Dansk Folkeparti,66,6884,3085.0,0.4481406159209762,bolig
+Socialistisk Folkeparti,Det Konservative Folkeparti,66,3150,1558.0,0.4946031746031746,bolig
+Socialistisk Folkeparti,Enhedslisten,66,1325,905.0,0.6830188679245283,bolig
+Socialistisk Folkeparti,Kristendemokraterne,66,561,277.0,0.49376114081996436,bolig
+Socialistisk Folkeparti,Liberal Alliance,66,440,196.0,0.44545454545454544,bolig
+Socialistisk Folkeparti,Moderaterne,66,89,41.0,0.4606741573033708,bolig
+Socialistisk Folkeparti,Not able to assign,66,1388,1133.0,0.8162824207492796,bolig
+Socialistisk Folkeparti,Ny Alliance,66,188,79.0,0.42021276595744683,bolig
+Socialistisk Folkeparti,Radikale Venstre,66,3426,2269.0,0.662288382953882,bolig
+Socialistisk Folkeparti,Siumut,66,3,3.0,1.0,bolig
+Socialistisk Folkeparti,Socialdemokratiet,66,14202,11540.0,0.8125616110406985,bolig
+Socialistisk Folkeparti,Socialistisk Folkeparti,66,2902,2867.0,0.9879393521709167,bolig
+Socialistisk Folkeparti,Tjóðveldi,66,4,4.0,1.0,bolig
+Socialistisk Folkeparti,Uden for folketingsgrupperne,66,1898,1088.0,0.5732349841938883,bolig
+Socialistisk Folkeparti,Venstre,66,14931,7384.0,0.4945415578326971,bolig
+Tjóðveldi,Danmarksdemokraterne,66,4,0.0,0.0,bolig
+Tjóðveldi,Dansk Folkeparti,66,21,0.0,0.0,bolig
+Tjóðveldi,Det Konservative Folkeparti,66,9,0.0,0.0,bolig
+Tjóðveldi,Enhedslisten,66,6,6.0,1.0,bolig
+Tjóðveldi,Kristendemokraterne,66,1,0.0,0.0,bolig
+Tjóðveldi,Liberal Alliance,66,1,0.0,0.0,bolig
+Tjóðveldi,Not able to assign,66,3,2.0,0.6666666666666666,bolig
+Tjóðveldi,Ny Alliance,66,2,0.0,0.0,bolig
+Tjóðveldi,Radikale Venstre,66,15,8.0,0.5333333333333333,bolig
+Tjóðveldi,Siumut,66,1,1.0,1.0,bolig
+Tjóðveldi,Socialdemokratiet,66,46,24.0,0.5217391304347826,bolig
+Tjóðveldi,Socialistisk Folkeparti,66,8,8.0,1.0,bolig
+Tjóðveldi,Uden for folketingsgrupperne,66,6,1.0,0.16666666666666666,bolig
+Tjóðveldi,Venstre,66,39,0.0,0.0,bolig
+Uden for folketingsgrupperne,Danmarksdemokraterne,66,436,388.0,0.8899082568807339,bolig
+Uden for folketingsgrupperne,Dansk Folkeparti,66,2834,2613.0,0.9220183486238532,bolig
+Uden for folketingsgrupperne,Det Konservative Folkeparti,66,850,744.0,0.8752941176470588,bolig
+Uden for folketingsgrupperne,Enhedslisten,66,499,133.0,0.2665330661322645,bolig
+Uden for folketingsgrupperne,Kristendemokraterne,66,253,228.0,0.9011857707509882,bolig
+Uden for folketingsgrupperne,Liberal Alliance,66,109,104.0,0.9541284403669725,bolig
+Uden for folketingsgrupperne,Moderaterne,66,30,30.0,1.0,bolig
+Uden for folketingsgrupperne,Not able to assign,66,529,319.0,0.6030245746691871,bolig
+Uden for folketingsgrupperne,Ny Alliance,66,13,13.0,1.0,bolig
+Uden for folketingsgrupperne,Radikale Venstre,66,1205,887.0,0.7360995850622407,bolig
+Uden for folketingsgrupperne,Socialdemokratiet,66,5313,3396.0,0.6391869000564653,bolig
+Uden for folketingsgrupperne,Socialistisk Folkeparti,66,1308,662.0,0.5061162079510704,bolig
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,66,667,537.0,0.8050974512743628,bolig
+Uden for folketingsgrupperne,Venstre,66,5218,4647.0,0.8905711000383288,bolig
+Venstre,Danmarksdemokraterne,66,6885,6496.0,0.9435003631082063,bolig
+Venstre,Dansk Folkeparti,66,38764,35533.0,0.916649468579094,bolig
+Venstre,Det Konservative Folkeparti,66,18178,18169.0,0.999504896028166,bolig
+Venstre,Enhedslisten,66,8225,1814.0,0.2205471124620061,bolig
+Venstre,Kristendemokraterne,66,3468,3466.0,0.9994232987312572,bolig
+Venstre,Liberal Alliance,66,2934,2932.0,0.9993183367416496,bolig
+Venstre,Moderaterne,66,616,615.0,0.9983766233766234,bolig
+Venstre,Not able to assign,66,8071,5067.0,0.6278032461900632,bolig
+Venstre,Ny Alliance,66,1016,1015.0,0.9990157480314961,bolig
+Venstre,Radikale Venstre,66,20173,15061.0,0.7465919793783771,bolig
+Venstre,Siumut,66,21,0.0,0.0,bolig
+Venstre,Socialdemokratiet,66,82203,53039.0,0.6452197608359792,bolig
+Venstre,Socialistisk Folkeparti,66,17901,8949.0,0.4999162057985587,bolig
+Venstre,Tjóðveldi,66,23,0.0,0.0,bolig
+Venstre,Uden for folketingsgrupperne,66,10403,8993.0,0.8644621743727771,bolig
+Venstre,Venstre,66,78126,78045.0,0.9989632132708701,bolig
+Danmarksdemokraterne,Danmarksdemokraterne,67,966,949.0,0.9824016563146998,bolig
+Danmarksdemokraterne,Dansk Folkeparti,67,5447,5402.0,0.991738571690839,bolig
+Danmarksdemokraterne,Det Konservative Folkeparti,67,4123,3888.0,0.9430026679602231,bolig
+Danmarksdemokraterne,Enhedslisten,67,967,354.0,0.36608066184074456,bolig
+Danmarksdemokraterne,Kristendemokraterne,67,313,294.0,0.939297124600639,bolig
+Danmarksdemokraterne,Liberal Alliance,67,222,149.0,0.6711711711711712,bolig
+Danmarksdemokraterne,Moderaterne,67,6,6.0,1.0,bolig
+Danmarksdemokraterne,Not able to assign,67,23,7.0,0.30434782608695654,bolig
+Danmarksdemokraterne,Radikale Venstre,67,1841,1093.0,0.5936990765888104,bolig
+Danmarksdemokraterne,Sambandsflokkurin,67,9,7.0,0.7777777777777778,bolig
+Danmarksdemokraterne,Siumut,67,13,11.0,0.8461538461538461,bolig
+Danmarksdemokraterne,Socialdemokratiet,67,13375,6946.0,0.5193271028037383,bolig
+Danmarksdemokraterne,Socialistisk Folkeparti,67,5139,2476.0,0.4818057987935396,bolig
+Danmarksdemokraterne,Uden for folketingsgrupperne,67,1094,960.0,0.8775137111517367,bolig
+Danmarksdemokraterne,Venstre,67,11802,11195.0,0.9485680393153703,bolig
+Dansk Folkeparti,Danmarksdemokraterne,67,2832,2811.0,0.9925847457627118,bolig
+Dansk Folkeparti,Dansk Folkeparti,67,13554,13541.0,0.9990408735428655,bolig
+Dansk Folkeparti,Det Konservative Folkeparti,67,10703,10015.0,0.9357189573016911,bolig
+Dansk Folkeparti,Enhedslisten,67,2666,964.0,0.36159039759939987,bolig
+Dansk Folkeparti,Kristendemokraterne,67,860,794.0,0.9232558139534883,bolig
+Dansk Folkeparti,Liberal Alliance,67,712,477.0,0.6699438202247191,bolig
+Dansk Folkeparti,Moderaterne,67,16,16.0,1.0,bolig
+Dansk Folkeparti,Not able to assign,67,65,20.0,0.3076923076923077,bolig
+Dansk Folkeparti,Radikale Venstre,67,4779,2759.0,0.577317430424775,bolig
+Dansk Folkeparti,Sambandsflokkurin,67,15,11.0,0.7333333333333333,bolig
+Dansk Folkeparti,Siumut,67,23,17.0,0.7391304347826086,bolig
+Dansk Folkeparti,Socialdemokratiet,67,36483,18102.0,0.49617630129101226,bolig
+Dansk Folkeparti,Socialistisk Folkeparti,67,14356,6606.0,0.4601560323209808,bolig
+Dansk Folkeparti,Uden for folketingsgrupperne,67,3124,2701.0,0.864596670934699,bolig
+Dansk Folkeparti,Venstre,67,32659,30582.0,0.9364034416240546,bolig
+Det Konservative Folkeparti,Danmarksdemokraterne,67,2179,2060.0,0.945387792565397,bolig
+Det Konservative Folkeparti,Dansk Folkeparti,67,11334,10602.0,0.9354155637903653,bolig
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,7611,7611.0,1.0,bolig
+Det Konservative Folkeparti,Enhedslisten,67,2120,799.0,0.3768867924528302,bolig
+Det Konservative Folkeparti,Kristendemokraterne,67,695,681.0,0.9798561151079137,bolig
+Det Konservative Folkeparti,Liberal Alliance,67,489,383.0,0.7832310838445807,bolig
+Det Konservative Folkeparti,Moderaterne,67,11,11.0,1.0,bolig
+Det Konservative Folkeparti,Not able to assign,67,55,23.0,0.41818181818181815,bolig
+Det Konservative Folkeparti,Radikale Venstre,67,3800,2417.0,0.6360526315789473,bolig
+Det Konservative Folkeparti,Sambandsflokkurin,67,12,12.0,1.0,bolig
+Det Konservative Folkeparti,Siumut,67,28,28.0,1.0,bolig
+Det Konservative Folkeparti,Socialdemokratiet,67,28503,16244.0,0.5699049222888819,bolig
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,10804,5359.0,0.4960199925953351,bolig
+Det Konservative Folkeparti,Uden for folketingsgrupperne,67,2475,2189.0,0.8844444444444445,bolig
+Det Konservative Folkeparti,Venstre,67,24611,24611.0,1.0,bolig
+Enhedslisten,Danmarksdemokraterne,67,443,151.0,0.34085778781038373,bolig
+Enhedslisten,Dansk Folkeparti,67,2245,763.0,0.3398663697104677,bolig
+Enhedslisten,Det Konservative Folkeparti,67,1568,516.0,0.32908163265306123,bolig
+Enhedslisten,Enhedslisten,67,251,221.0,0.8804780876494024,bolig
+Enhedslisten,Kristendemokraterne,67,176,65.0,0.3693181818181818,bolig
+Enhedslisten,Liberal Alliance,67,129,61.0,0.4728682170542636,bolig
+Enhedslisten,Moderaterne,67,3,2.0,0.6666666666666666,bolig
+Enhedslisten,Not able to assign,67,10,3.0,0.3,bolig
+Enhedslisten,Radikale Venstre,67,698,443.0,0.6346704871060171,bolig
+Enhedslisten,Siumut,67,1,0.0,0.0,bolig
+Enhedslisten,Socialdemokratiet,67,5319,3854.0,0.7245722880240647,bolig
+Enhedslisten,Socialistisk Folkeparti,67,2122,1619.0,0.7629594721960414,bolig
+Enhedslisten,Uden for folketingsgrupperne,67,494,199.0,0.402834008097166,bolig
+Enhedslisten,Venstre,67,4726,1604.0,0.33939906898011,bolig
+Kristendemokraterne,Danmarksdemokraterne,67,35,31.0,0.8857142857142857,bolig
+Kristendemokraterne,Dansk Folkeparti,67,297,275.0,0.9259259259259259,bolig
+Kristendemokraterne,Det Konservative Folkeparti,67,183,179.0,0.9781420765027322,bolig
+Kristendemokraterne,Enhedslisten,67,18,9.0,0.5,bolig
+Kristendemokraterne,Liberal Alliance,67,27,22.0,0.8148148148148148,bolig
+Kristendemokraterne,Not able to assign,67,3,1.0,0.3333333333333333,bolig
+Kristendemokraterne,Socialdemokratiet,67,505,282.0,0.5584158415841585,bolig
+Kristendemokraterne,Socialistisk Folkeparti,67,284,143.0,0.5035211267605634,bolig
+Kristendemokraterne,Uden for folketingsgrupperne,67,58,42.0,0.7241379310344828,bolig
+Kristendemokraterne,Venstre,67,717,701.0,0.9776847977684798,bolig
+Liberal Alliance,Danmarksdemokraterne,67,177,160.0,0.903954802259887,bolig
+Liberal Alliance,Dansk Folkeparti,67,610,543.0,0.8901639344262295,bolig
+Liberal Alliance,Det Konservative Folkeparti,67,510,473.0,0.9274509803921569,bolig
+Liberal Alliance,Enhedslisten,67,97,46.0,0.4742268041237113,bolig
+Liberal Alliance,Kristendemokraterne,67,27,27.0,1.0,bolig
+Liberal Alliance,Liberal Alliance,67,1,1.0,1.0,bolig
+Liberal Alliance,Moderaterne,67,2,2.0,1.0,bolig
+Liberal Alliance,Not able to assign,67,5,2.0,0.4,bolig
+Liberal Alliance,Radikale Venstre,67,208,155.0,0.7451923076923077,bolig
+Liberal Alliance,Sambandsflokkurin,67,1,1.0,1.0,bolig
+Liberal Alliance,Siumut,67,1,1.0,1.0,bolig
+Liberal Alliance,Socialdemokratiet,67,1417,934.0,0.6591390261115032,bolig
+Liberal Alliance,Socialistisk Folkeparti,67,627,361.0,0.5757575757575758,bolig
+Liberal Alliance,Uden for folketingsgrupperne,67,115,93.0,0.808695652173913,bolig
+Liberal Alliance,Venstre,67,1388,1304.0,0.9394812680115274,bolig
+Moderaterne,Danmarksdemokraterne,67,3,3.0,1.0,bolig
+Moderaterne,Dansk Folkeparti,67,10,10.0,1.0,bolig
 Moderaterne,Det Konservative Folkeparti,67,7,7.0,1.0,bolig
-Moderaterne,Enhedslisten,67,1,0.0,0.0,bolig
-Moderaterne,Radikale Venstre,67,1,1.0,1.0,bolig
-Moderaterne,Socialdemokratiet,67,36,9.0,0.25,bolig
-Moderaterne,Socialistisk Folkeparti,67,4,1.0,0.25,bolig
-Moderaterne,Uden for folketingsgrupperne,67,3,2.0,0.6666666666666666,bolig
-Moderaterne,Venstre,67,23,23.0,1.0,bolig
-Radikale Venstre,Danmarksdemokraterne,67,37,21.0,0.5675675675675675,bolig
-Radikale Venstre,Dansk Folkeparti,67,213,113.0,0.5305164319248826,bolig
-Radikale Venstre,Det Konservative Folkeparti,67,109,70.0,0.6422018348623854,bolig
-Radikale Venstre,Enhedslisten,67,87,67.0,0.7701149425287356,bolig
-Radikale Venstre,Liberal Alliance,67,30,23.0,0.7666666666666667,bolig
-Radikale Venstre,Radikale Venstre,67,21,21.0,1.0,bolig
-Radikale Venstre,Socialdemokratiet,67,423,350.0,0.8274231678486997,bolig
-Radikale Venstre,Socialistisk Folkeparti,67,211,184.0,0.8720379146919431,bolig
-Radikale Venstre,Uden for folketingsgrupperne,67,28,22.0,0.7857142857142857,bolig
-Radikale Venstre,Venstre,67,342,223.0,0.652046783625731,bolig
-Sambandsflokkurin,Danmarksdemokraterne,67,12,10.0,0.8333333333333334,bolig
-Sambandsflokkurin,Dansk Folkeparti,67,36,30.0,0.8333333333333334,bolig
-Sambandsflokkurin,Det Konservative Folkeparti,67,12,12.0,1.0,bolig
-Sambandsflokkurin,Enhedslisten,67,16,2.0,0.125,bolig
-Sambandsflokkurin,Liberal Alliance,67,6,5.0,0.8333333333333334,bolig
-Sambandsflokkurin,Radikale Venstre,67,8,5.0,0.625,bolig
-Sambandsflokkurin,Socialdemokratiet,67,83,40.0,0.4819277108433735,bolig
-Sambandsflokkurin,Socialistisk Folkeparti,67,48,17.0,0.3541666666666667,bolig
-Sambandsflokkurin,Uden for folketingsgrupperne,67,6,5.0,0.8333333333333334,bolig
-Sambandsflokkurin,Venstre,67,107,107.0,1.0,bolig
-Socialdemokratiet,Danmarksdemokraterne,67,1055,473.0,0.4483412322274882,bolig
-Socialdemokratiet,Dansk Folkeparti,67,4672,2010.0,0.430222602739726,bolig
-Socialdemokratiet,Det Konservative Folkeparti,67,2458,1474.0,0.5996745321399511,bolig
-Socialdemokratiet,Enhedslisten,67,1288,951.0,0.7383540372670807,bolig
-Socialdemokratiet,Liberal Alliance,67,424,251.0,0.5919811320754716,bolig
-Socialdemokratiet,Moderaterne,67,48,14.0,0.2916666666666667,bolig
-Socialdemokratiet,Radikale Venstre,67,926,791.0,0.8542116630669546,bolig
-Socialdemokratiet,Sambandsflokkurin,67,22,9.0,0.4090909090909091,bolig
-Socialdemokratiet,Socialdemokratiet,67,10282,10122.0,0.9844388251312974,bolig
-Socialdemokratiet,Socialistisk Folkeparti,67,4449,4148.0,0.9323443470442796,bolig
-Socialdemokratiet,Uden for folketingsgrupperne,67,988,607.0,0.6143724696356275,bolig
-Socialdemokratiet,Venstre,67,10616,6254.0,0.5891107761868877,bolig
-Socialistisk Folkeparti,Danmarksdemokraterne,67,425,195.0,0.4588235294117647,bolig
-Socialistisk Folkeparti,Dansk Folkeparti,67,1803,816.0,0.4525790349417637,bolig
-Socialistisk Folkeparti,Det Konservative Folkeparti,67,968,543.0,0.5609504132231405,bolig
-Socialistisk Folkeparti,Enhedslisten,67,441,352.0,0.7981859410430839,bolig
-Socialistisk Folkeparti,Liberal Alliance,67,167,101.0,0.6047904191616766,bolig
-Socialistisk Folkeparti,Moderaterne,67,18,4.0,0.2222222222222222,bolig
-Socialistisk Folkeparti,Radikale Venstre,67,361,302.0,0.8365650969529086,bolig
-Socialistisk Folkeparti,Sambandsflokkurin,67,2,2.0,1.0,bolig
-Socialistisk Folkeparti,Socialdemokratiet,67,4149,3868.0,0.9322728368281513,bolig
-Socialistisk Folkeparti,Socialistisk Folkeparti,67,1544,1544.0,1.0,bolig
-Socialistisk Folkeparti,Uden for folketingsgrupperne,67,388,214.0,0.5515463917525774,bolig
-Socialistisk Folkeparti,Venstre,67,4560,2558.0,0.5609649122807018,bolig
-Uden for folketingsgrupperne,Danmarksdemokraterne,67,31,29.0,0.9354838709677419,bolig
-Uden for folketingsgrupperne,Dansk Folkeparti,67,197,197.0,1.0,bolig
-Uden for folketingsgrupperne,Det Konservative Folkeparti,67,123,99.0,0.8048780487804879,bolig
-Uden for folketingsgrupperne,Enhedslisten,67,57,24.0,0.42105263157894735,bolig
-Uden for folketingsgrupperne,Liberal Alliance,67,23,19.0,0.8260869565217391,bolig
-Uden for folketingsgrupperne,Moderaterne,67,4,4.0,1.0,bolig
-Uden for folketingsgrupperne,Radikale Venstre,67,67,37.0,0.5522388059701493,bolig
-Uden for folketingsgrupperne,Socialdemokratiet,67,429,191.0,0.44522144522144524,bolig
-Uden for folketingsgrupperne,Socialistisk Folkeparti,67,173,89.0,0.5144508670520231,bolig
-Uden for folketingsgrupperne,Uden for folketingsgrupperne,67,25,18.0,0.72,bolig
-Uden for folketingsgrupperne,Venstre,67,405,319.0,0.7876543209876543,bolig
-Venstre,Danmarksdemokraterne,67,1383,1194.0,0.8633405639913232,bolig
-Venstre,Dansk Folkeparti,67,5752,4562.0,0.7931154381084841,bolig
-Venstre,Det Konservative Folkeparti,67,2974,2974.0,1.0,bolig
-Venstre,Enhedslisten,67,1540,669.0,0.4344155844155844,bolig
-Venstre,Liberal Alliance,67,478,404.0,0.8451882845188284,bolig
-Venstre,Moderaterne,67,63,63.0,1.0,bolig
-Venstre,Radikale Venstre,67,1230,821.0,0.667479674796748,bolig
-Venstre,Sambandsflokkurin,67,11,11.0,1.0,bolig
-Venstre,Socialdemokratiet,67,13494,8056.0,0.597006076774863,bolig
-Venstre,Socialistisk Folkeparti,67,5121,2903.0,0.5668814684631908,bolig
-Venstre,Uden for folketingsgrupperne,67,1244,980.0,0.7877813504823151,bolig
-Venstre,Venstre,67,12973,12973.0,1.0,bolig
-Alternativet,Liberal Alliance,69,10,5.0,0.5,bolig
-Alternativet,Radikale Venstre,69,6,6.0,1.0,bolig
-Danmarksdemokraterne,Alternativet,69,66,29.0,0.4393939393939394,bolig
-Danmarksdemokraterne,Danmarksdemokraterne,69,714,670.0,0.938375350140056,bolig
-Danmarksdemokraterne,Dansk Folkeparti,69,1507,1465.0,0.9721300597213006,bolig
-Danmarksdemokraterne,Det Konservative Folkeparti,69,55,48.0,0.8727272727272727,bolig
-Danmarksdemokraterne,Enhedslisten,69,1201,373.0,0.3105745212323064,bolig
-Danmarksdemokraterne,Liberal Alliance,69,1478,1263.0,0.854533152909337,bolig
-Danmarksdemokraterne,Moderaterne,69,73,67.0,0.9178082191780822,bolig
-Danmarksdemokraterne,Radikale Venstre,69,1216,684.0,0.5625,bolig
-Danmarksdemokraterne,Socialdemokratiet,69,4870,3139.0,0.6445585215605749,bolig
-Danmarksdemokraterne,Socialistisk Folkeparti,69,742,319.0,0.4299191374663073,bolig
-Danmarksdemokraterne,Uden for folketingsgrupperne,69,816,779.0,0.9546568627450981,bolig
-Danmarksdemokraterne,Venstre,69,4485,3907.0,0.8711259754738016,bolig
-Dansk Folkeparti,Alternativet,69,72,32.0,0.4444444444444444,bolig
-Dansk Folkeparti,Danmarksdemokraterne,69,579,563.0,0.9723661485319517,bolig
-Dansk Folkeparti,Dansk Folkeparti,69,1111,1111.0,1.0,bolig
-Dansk Folkeparti,Det Konservative Folkeparti,69,52,42.0,0.8076923076923077,bolig
-Dansk Folkeparti,Enhedslisten,69,1143,367.0,0.321084864391951,bolig
-Dansk Folkeparti,Liberal Alliance,69,1064,882.0,0.8289473684210527,bolig
-Dansk Folkeparti,Moderaterne,69,34,28.0,0.8235294117647058,bolig
-Dansk Folkeparti,Radikale Venstre,69,1062,573.0,0.53954802259887,bolig
-Dansk Folkeparti,Socialdemokratiet,69,4081,2396.0,0.5871110022053418,bolig
-Dansk Folkeparti,Socialistisk Folkeparti,69,400,166.0,0.415,bolig
-Dansk Folkeparti,Uden for folketingsgrupperne,69,596,568.0,0.9530201342281879,bolig
-Dansk Folkeparti,Venstre,69,3716,3158.0,0.8498385360602799,bolig
-Det Konservative Folkeparti,Alternativet,69,5,0.0,0.0,bolig
-Det Konservative Folkeparti,Danmarksdemokraterne,69,66,54.0,0.8181818181818182,bolig
-Det Konservative Folkeparti,Dansk Folkeparti,69,133,109.0,0.8195488721804511,bolig
-Det Konservative Folkeparti,Det Konservative Folkeparti,69,8,8.0,1.0,bolig
-Det Konservative Folkeparti,Enhedslisten,69,124,54.0,0.43548387096774194,bolig
-Det Konservative Folkeparti,Liberal Alliance,69,94,83.0,0.8829787234042553,bolig
-Det Konservative Folkeparti,Moderaterne,69,9,9.0,1.0,bolig
-Det Konservative Folkeparti,Radikale Venstre,69,75,61.0,0.8133333333333334,bolig
-Det Konservative Folkeparti,Socialdemokratiet,69,347,315.0,0.9077809798270894,bolig
-Det Konservative Folkeparti,Socialistisk Folkeparti,69,52,24.0,0.46153846153846156,bolig
-Det Konservative Folkeparti,Uden for folketingsgrupperne,69,43,35.0,0.813953488372093,bolig
-Det Konservative Folkeparti,Venstre,69,364,364.0,1.0,bolig
-Enhedslisten,Alternativet,69,57,35.0,0.6140350877192983,bolig
-Enhedslisten,Danmarksdemokraterne,69,624,194.0,0.3108974358974359,bolig
-Enhedslisten,Dansk Folkeparti,69,1075,341.0,0.3172093023255814,bolig
-Enhedslisten,Det Konservative Folkeparti,69,40,22.0,0.55,bolig
-Enhedslisten,Enhedslisten,69,770,770.0,1.0,bolig
-Enhedslisten,Liberal Alliance,69,994,303.0,0.30482897384305835,bolig
-Enhedslisten,Moderaterne,69,62,14.0,0.22580645161290322,bolig
-Enhedslisten,Radikale Venstre,69,828,493.0,0.5954106280193237,bolig
-Enhedslisten,Socialdemokratiet,69,3625,1867.0,0.5150344827586207,bolig
-Enhedslisten,Socialistisk Folkeparti,69,518,432.0,0.833976833976834,bolig
-Enhedslisten,Uden for folketingsgrupperne,69,520,139.0,0.2673076923076923,bolig
-Enhedslisten,Venstre,69,3440,991.0,0.2880813953488372,bolig
-Liberal Alliance,Alternativet,69,43,19.0,0.4418604651162791,bolig
-Liberal Alliance,Danmarksdemokraterne,69,90,79.0,0.8777777777777778,bolig
-Liberal Alliance,Dansk Folkeparti,69,821,697.0,0.8489646772228989,bolig
-Liberal Alliance,Det Konservative Folkeparti,69,20,16.0,0.8,bolig
-Liberal Alliance,Enhedslisten,69,640,214.0,0.334375,bolig
-Liberal Alliance,Liberal Alliance,69,541,541.0,1.0,bolig
-Liberal Alliance,Moderaterne,69,2,2.0,1.0,bolig
-Liberal Alliance,Radikale Venstre,69,681,399.0,0.5859030837004405,bolig
-Liberal Alliance,Socialdemokratiet,69,2318,1740.0,0.7506471095772217,bolig
-Liberal Alliance,Socialistisk Folkeparti,69,173,80.0,0.4624277456647399,bolig
-Liberal Alliance,Uden for folketingsgrupperne,69,370,339.0,0.9162162162162162,bolig
-Liberal Alliance,Venstre,69,1863,1785.0,0.9581320450885669,bolig
-Moderaterne,Alternativet,69,3,0.0,0.0,bolig
-Moderaterne,Danmarksdemokraterne,69,30,25.0,0.8333333333333334,bolig
-Moderaterne,Dansk Folkeparti,69,91,79.0,0.8681318681318682,bolig
-Moderaterne,Det Konservative Folkeparti,69,3,3.0,1.0,bolig
-Moderaterne,Enhedslisten,69,52,14.0,0.2692307692307692,bolig
-Moderaterne,Liberal Alliance,69,99,99.0,1.0,bolig
-Moderaterne,Radikale Venstre,69,74,40.0,0.5405405405405406,bolig
-Moderaterne,Socialdemokratiet,69,302,247.0,0.8178807947019867,bolig
-Moderaterne,Socialistisk Folkeparti,69,39,15.0,0.38461538461538464,bolig
-Moderaterne,Uden for folketingsgrupperne,69,49,46.0,0.9387755102040817,bolig
-Moderaterne,Venstre,69,255,255.0,1.0,bolig
-Radikale Venstre,Alternativet,69,60,36.0,0.6,bolig
-Radikale Venstre,Danmarksdemokraterne,69,331,196.0,0.5921450151057401,bolig
-Radikale Venstre,Dansk Folkeparti,69,825,448.0,0.5430303030303031,bolig
-Radikale Venstre,Det Konservative Folkeparti,69,37,33.0,0.8918918918918919,bolig
-Radikale Venstre,Enhedslisten,69,748,457.0,0.6109625668449198,bolig
-Radikale Venstre,Liberal Alliance,69,711,441.0,0.620253164556962,bolig
-Radikale Venstre,Moderaterne,69,13,7.0,0.5384615384615384,bolig
-Radikale Venstre,Radikale Venstre,69,540,540.0,1.0,bolig
-Radikale Venstre,Socialdemokratiet,69,2581,1930.0,0.7477721813250678,bolig
-Radikale Venstre,Socialistisk Folkeparti,69,173,125.0,0.7225433526011561,bolig
-Radikale Venstre,Uden for folketingsgrupperne,69,321,184.0,0.573208722741433,bolig
-Radikale Venstre,Venstre,69,2238,1457.0,0.6510277033065237,bolig
-Socialdemokratiet,Alternativet,69,249,131.0,0.5261044176706827,bolig
-Socialdemokratiet,Danmarksdemokraterne,69,1780,1050.0,0.5898876404494382,bolig
-Socialdemokratiet,Dansk Folkeparti,69,4114,2390.0,0.580943121050073,bolig
-Socialdemokratiet,Det Konservative Folkeparti,69,178,147.0,0.8258426966292135,bolig
-Socialdemokratiet,Enhedslisten,69,3292,1685.0,0.5118469015795869,bolig
-Socialdemokratiet,Liberal Alliance,69,3614,2564.0,0.7094631986718317,bolig
-Socialdemokratiet,Moderaterne,69,118,84.0,0.711864406779661,bolig
-Socialdemokratiet,Radikale Venstre,69,3313,2459.0,0.7422275882885602,bolig
-Socialdemokratiet,Socialdemokratiet,69,12198,12009.0,0.9845056566650271,bolig
-Socialdemokratiet,Socialistisk Folkeparti,69,1405,879.0,0.6256227758007118,bolig
-Socialdemokratiet,Uden for folketingsgrupperne,69,1980,1115.0,0.5631313131313131,bolig
-Socialdemokratiet,Venstre,69,11498,8347.0,0.7259523395373109,bolig
-Socialistisk Folkeparti,Alternativet,69,35,21.0,0.6,bolig
-Socialistisk Folkeparti,Danmarksdemokraterne,69,156,58.0,0.3717948717948718,bolig
-Socialistisk Folkeparti,Dansk Folkeparti,69,715,286.0,0.4,bolig
-Socialistisk Folkeparti,Det Konservative Folkeparti,69,28,21.0,0.75,bolig
-Socialistisk Folkeparti,Enhedslisten,69,421,349.0,0.828978622327791,bolig
-Socialistisk Folkeparti,Liberal Alliance,69,640,259.0,0.4046875,bolig
-Socialistisk Folkeparti,Moderaterne,69,16,6.0,0.375,bolig
-Socialistisk Folkeparti,Radikale Venstre,69,650,449.0,0.6907692307692308,bolig
-Socialistisk Folkeparti,Socialdemokratiet,69,2047,1291.0,0.6306790425012213,bolig
-Socialistisk Folkeparti,Socialistisk Folkeparti,69,152,152.0,1.0,bolig
-Socialistisk Folkeparti,Uden for folketingsgrupperne,69,431,163.0,0.37819025522041766,bolig
-Socialistisk Folkeparti,Venstre,69,1825,753.0,0.4126027397260274,bolig
-Uden for folketingsgrupperne,Alternativet,69,41,13.0,0.3170731707317073,bolig
-Uden for folketingsgrupperne,Danmarksdemokraterne,69,22,22.0,1.0,bolig
-Uden for folketingsgrupperne,Dansk Folkeparti,69,435,435.0,1.0,bolig
-Uden for folketingsgrupperne,Det Konservative Folkeparti,69,16,12.0,0.75,bolig
-Uden for folketingsgrupperne,Enhedslisten,69,332,92.0,0.27710843373493976,bolig
-Uden for folketingsgrupperne,Liberal Alliance,69,364,304.0,0.8351648351648352,bolig
+Moderaterne,Enhedslisten,67,2,1.0,0.5,bolig
+Moderaterne,Kristendemokraterne,67,2,2.0,1.0,bolig
+Moderaterne,Radikale Venstre,67,8,5.0,0.625,bolig
+Moderaterne,Socialdemokratiet,67,32,15.0,0.46875,bolig
+Moderaterne,Socialistisk Folkeparti,67,9,4.0,0.4444444444444444,bolig
+Moderaterne,Uden for folketingsgrupperne,67,4,3.0,0.75,bolig
+Moderaterne,Venstre,67,25,25.0,1.0,bolig
+Not able to assign,Danmarksdemokraterne,67,5,1.0,0.2,bolig
+Not able to assign,Dansk Folkeparti,67,14,0.0,0.0,bolig
+Not able to assign,Det Konservative Folkeparti,67,18,3.0,0.16666666666666666,bolig
+Not able to assign,Enhedslisten,67,4,3.0,0.75,bolig
+Not able to assign,Kristendemokraterne,67,4,1.0,0.25,bolig
+Not able to assign,Not able to assign,67,5,5.0,1.0,bolig
+Not able to assign,Radikale Venstre,67,10,3.0,0.3,bolig
+Not able to assign,Socialdemokratiet,67,58,58.0,1.0,bolig
+Not able to assign,Socialistisk Folkeparti,67,25,25.0,1.0,bolig
+Not able to assign,Uden for folketingsgrupperne,67,2,0.0,0.0,bolig
+Not able to assign,Venstre,67,60,11.0,0.18333333333333332,bolig
+Radikale Venstre,Danmarksdemokraterne,67,1091,624.0,0.5719523373052245,bolig
+Radikale Venstre,Dansk Folkeparti,67,5425,3055.0,0.5631336405529954,bolig
+Radikale Venstre,Det Konservative Folkeparti,67,3930,2333.0,0.5936386768447837,bolig
+Radikale Venstre,Enhedslisten,67,1025,718.0,0.7004878048780487,bolig
+Radikale Venstre,Kristendemokraterne,67,407,265.0,0.6511056511056511,bolig
+Radikale Venstre,Liberal Alliance,67,258,141.0,0.5465116279069767,bolig
+Radikale Venstre,Moderaterne,67,3,1.0,0.3333333333333333,bolig
+Radikale Venstre,Not able to assign,67,22,7.0,0.3181818181818182,bolig
+Radikale Venstre,Radikale Venstre,67,1440,1408.0,0.9777777777777777,bolig
+Radikale Venstre,Sambandsflokkurin,67,9,7.0,0.7777777777777778,bolig
+Radikale Venstre,Siumut,67,6,5.0,0.8333333333333334,bolig
+Radikale Venstre,Socialdemokratiet,67,13162,10514.0,0.798814769791825,bolig
+Radikale Venstre,Socialistisk Folkeparti,67,5248,4143.0,0.7894435975609756,bolig
+Radikale Venstre,Uden for folketingsgrupperne,67,1174,741.0,0.631175468483816,bolig
+Radikale Venstre,Venstre,67,12033,7146.0,0.5938668661181751,bolig
+Sambandsflokkurin,Danmarksdemokraterne,67,18,12.0,0.6666666666666666,bolig
+Sambandsflokkurin,Dansk Folkeparti,67,72,50.0,0.6944444444444444,bolig
+Sambandsflokkurin,Det Konservative Folkeparti,67,54,54.0,1.0,bolig
+Sambandsflokkurin,Enhedslisten,67,18,6.0,0.3333333333333333,bolig
+Sambandsflokkurin,Kristendemokraterne,67,2,2.0,1.0,bolig
+Sambandsflokkurin,Liberal Alliance,67,6,6.0,1.0,bolig
+Sambandsflokkurin,Radikale Venstre,67,18,12.0,0.6666666666666666,bolig
+Sambandsflokkurin,Socialdemokratiet,67,190,187.0,0.9842105263157894,bolig
+Sambandsflokkurin,Socialistisk Folkeparti,67,82,46.0,0.5609756097560976,bolig
+Sambandsflokkurin,Uden for folketingsgrupperne,67,14,12.0,0.8571428571428571,bolig
+Sambandsflokkurin,Venstre,67,178,178.0,1.0,bolig
+Siumut,Danmarksdemokraterne,67,12,9.0,0.75,bolig
+Siumut,Dansk Folkeparti,67,20,15.0,0.75,bolig
+Siumut,Det Konservative Folkeparti,67,12,12.0,1.0,bolig
+Siumut,Enhedslisten,67,4,2.0,0.5,bolig
+Siumut,Liberal Alliance,67,3,3.0,1.0,bolig
+Siumut,Radikale Venstre,67,11,9.0,0.8181818181818182,bolig
+Siumut,Socialdemokratiet,67,66,66.0,1.0,bolig
+Siumut,Socialistisk Folkeparti,67,17,16.0,0.9411764705882353,bolig
+Siumut,Uden for folketingsgrupperne,67,9,6.0,0.6666666666666666,bolig
+Siumut,Venstre,67,46,46.0,1.0,bolig
+Socialdemokratiet,Danmarksdemokraterne,67,5689,3059.0,0.5377043417120759,bolig
+Socialdemokratiet,Dansk Folkeparti,67,29612,14853.0,0.5015871943806565,bolig
+Socialdemokratiet,Det Konservative Folkeparti,67,21603,12213.0,0.5653381474795167,bolig
+Socialdemokratiet,Enhedslisten,67,5759,4409.0,0.7655843028303525,bolig
+Socialdemokratiet,Kristendemokraterne,67,2173,1256.0,0.5780027611596871,bolig
+Socialdemokratiet,Liberal Alliance,67,1587,955.0,0.6017643352236925,bolig
+Socialdemokratiet,Moderaterne,67,25,13.0,0.52,bolig
+Socialdemokratiet,Not able to assign,67,147,147.0,1.0,bolig
+Socialdemokratiet,Radikale Venstre,67,9893,8168.0,0.8256342868695037,bolig
+Socialdemokratiet,Sambandsflokkurin,67,27,25.0,0.9259259259259259,bolig
+Socialdemokratiet,Siumut,67,59,59.0,1.0,bolig
+Socialdemokratiet,Socialdemokratiet,67,72712,72116.0,0.9918032786885246,bolig
+Socialdemokratiet,Socialistisk Folkeparti,67,28532,26818.0,0.9399270993971681,bolig
+Socialdemokratiet,Uden for folketingsgrupperne,67,6904,4103.0,0.5942931633835458,bolig
+Socialdemokratiet,Venstre,67,66356,37222.0,0.5609439990355054,bolig
+Socialistisk Folkeparti,Danmarksdemokraterne,67,3009,1459.0,0.4848786972416085,bolig
+Socialistisk Folkeparti,Dansk Folkeparti,67,13979,6466.0,0.4625509693111095,bolig
+Socialistisk Folkeparti,Det Konservative Folkeparti,67,10579,5205.0,0.49201247754986294,bolig
+Socialistisk Folkeparti,Enhedslisten,67,2646,2161.0,0.8167044595616024,bolig
+Socialistisk Folkeparti,Kristendemokraterne,67,883,454.0,0.5141562853907135,bolig
+Socialistisk Folkeparti,Liberal Alliance,67,682,386.0,0.5659824046920822,bolig
+Socialistisk Folkeparti,Moderaterne,67,17,9.0,0.5294117647058824,bolig
+Socialistisk Folkeparti,Not able to assign,67,57,57.0,1.0,bolig
+Socialistisk Folkeparti,Radikale Venstre,67,4666,3787.0,0.8116159451350193,bolig
+Socialistisk Folkeparti,Sambandsflokkurin,67,10,6.0,0.6,bolig
+Socialistisk Folkeparti,Siumut,67,28,28.0,1.0,bolig
+Socialistisk Folkeparti,Socialdemokratiet,67,35679,33639.0,0.9428235096275119,bolig
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,12840,12784.0,0.9956386292834891,bolig
+Socialistisk Folkeparti,Uden for folketingsgrupperne,67,3199,1758.0,0.5495467333541731,bolig
+Socialistisk Folkeparti,Venstre,67,32731,15966.0,0.48779444563258073,bolig
+Uden for folketingsgrupperne,Danmarksdemokraterne,67,388,309.0,0.7963917525773195,bolig
+Uden for folketingsgrupperne,Dansk Folkeparti,67,2152,1800.0,0.8364312267657993,bolig
+Uden for folketingsgrupperne,Det Konservative Folkeparti,67,1529,1238.0,0.8096795291039895,bolig
+Uden for folketingsgrupperne,Enhedslisten,67,367,168.0,0.45776566757493187,bolig
+Uden for folketingsgrupperne,Kristendemokraterne,67,146,133.0,0.910958904109589,bolig
+Uden for folketingsgrupperne,Liberal Alliance,67,112,75.0,0.6696428571428571,bolig
+Uden for folketingsgrupperne,Moderaterne,67,1,1.0,1.0,bolig
+Uden for folketingsgrupperne,Not able to assign,67,9,4.0,0.4444444444444444,bolig
+Uden for folketingsgrupperne,Radikale Venstre,67,634,412.0,0.6498422712933754,bolig
+Uden for folketingsgrupperne,Sambandsflokkurin,67,1,0.0,0.0,bolig
+Uden for folketingsgrupperne,Socialdemokratiet,67,5128,3147.0,0.6136895475819033,bolig
+Uden for folketingsgrupperne,Socialistisk Folkeparti,67,1911,1096.0,0.5735217163788592,bolig
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,67,362,257.0,0.7099447513812155,bolig
+Uden for folketingsgrupperne,Venstre,67,4716,3811.0,0.8081000848176421,bolig
+Venstre,Danmarksdemokraterne,67,7098,6679.0,0.9409692871231333,bolig
+Venstre,Dansk Folkeparti,67,32870,30868.0,0.9390933982354731,bolig
+Venstre,Det Konservative Folkeparti,67,25049,25049.0,1.0,bolig
+Venstre,Enhedslisten,67,6250,2304.0,0.36864,bolig
+Venstre,Kristendemokraterne,67,2027,2004.0,0.9886531820424272,bolig
+Venstre,Liberal Alliance,67,1573,1216.0,0.7730451366815003,bolig
+Venstre,Moderaterne,67,37,37.0,1.0,bolig
+Venstre,Not able to assign,67,152,49.0,0.3223684210526316,bolig
+Venstre,Radikale Venstre,67,10843,6873.0,0.633865166466845,bolig
+Venstre,Sambandsflokkurin,67,21,21.0,1.0,bolig
+Venstre,Siumut,67,79,79.0,1.0,bolig
+Venstre,Socialdemokratiet,67,82765,46570.0,0.5626774602791035,bolig
+Venstre,Socialistisk Folkeparti,67,30997,15269.0,0.4925960576830016,bolig
+Venstre,Uden for folketingsgrupperne,67,7228,6408.0,0.8865522966242391,bolig
+Venstre,Venstre,67,71870,71870.0,1.0,bolig
+Alternativet,Det Konservative Folkeparti,68,48,31.0,0.6458333333333334,bolig
+Alternativet,Liberal Alliance,68,60,26.0,0.43333333333333335,bolig
+Alternativet,Radikale Venstre,68,88,82.0,0.9318181818181818,bolig
+Alternativet,Socialdemokratiet,68,33,26.0,0.7878787878787878,bolig
+Alternativet,Socialistisk Folkeparti,68,106,99.0,0.9339622641509434,bolig
+Alternativet,Venstre,68,10,8.0,0.8,bolig
+Danmarksdemokraterne,Alternativet,68,649,345.0,0.5315870570107858,bolig
+Danmarksdemokraterne,Danmarksdemokraterne,68,1992,1836.0,0.9216867469879518,bolig
+Danmarksdemokraterne,Dansk Folkeparti,68,4871,4685.0,0.9618148224183946,bolig
+Danmarksdemokraterne,Det Konservative Folkeparti,68,3283,2517.0,0.766676819981724,bolig
+Danmarksdemokraterne,Enhedslisten,68,5569,2533.0,0.45483928892081166,bolig
+Danmarksdemokraterne,Javnaðarflokkurin,68,14,2.0,0.14285714285714285,bolig
+Danmarksdemokraterne,Liberal Alliance,68,3677,2407.0,0.6546097361979875,bolig
+Danmarksdemokraterne,Moderaterne,68,208,164.0,0.7884615384615384,bolig
+Danmarksdemokraterne,Radikale Venstre,68,7382,4265.0,0.5777567054998646,bolig
+Danmarksdemokraterne,Sambandsflokkurin,68,8,8.0,1.0,bolig
+Danmarksdemokraterne,Socialdemokratiet,68,20165,11626.0,0.5765435159930573,bolig
+Danmarksdemokraterne,Socialistisk Folkeparti,68,5161,2786.0,0.5398178647548925,bolig
+Danmarksdemokraterne,Uden for folketingsgrupperne,68,1758,1524.0,0.8668941979522184,bolig
+Danmarksdemokraterne,Venstre,68,16159,11774.0,0.7286341976607463,bolig
+Dansk Folkeparti,Alternativet,68,932,506.0,0.5429184549356223,bolig
+Dansk Folkeparti,Danmarksdemokraterne,68,1790,1744.0,0.9743016759776536,bolig
+Dansk Folkeparti,Dansk Folkeparti,68,4276,4270.0,0.9985968194574368,bolig
+Dansk Folkeparti,Det Konservative Folkeparti,68,3583,2714.0,0.7574658107730952,bolig
+Dansk Folkeparti,Enhedslisten,68,5549,2549.0,0.45936204721571455,bolig
+Dansk Folkeparti,Javnaðarflokkurin,68,12,0.0,0.0,bolig
+Dansk Folkeparti,Liberal Alliance,68,3511,2386.0,0.6795784676730277,bolig
+Dansk Folkeparti,Moderaterne,68,118,83.0,0.7033898305084746,bolig
+Dansk Folkeparti,Radikale Venstre,68,6812,3891.0,0.5711978860833823,bolig
+Dansk Folkeparti,Sambandsflokkurin,68,2,2.0,1.0,bolig
+Dansk Folkeparti,Socialdemokratiet,68,19889,11414.0,0.5738850620946252,bolig
+Dansk Folkeparti,Socialistisk Folkeparti,68,5420,2991.0,0.5518450184501845,bolig
+Dansk Folkeparti,Uden for folketingsgrupperne,68,1633,1355.0,0.8297611757501531,bolig
+Dansk Folkeparti,Venstre,68,14900,10837.0,0.7273154362416108,bolig
+Det Konservative Folkeparti,Alternativet,68,610,405.0,0.6639344262295082,bolig
+Det Konservative Folkeparti,Danmarksdemokraterne,68,1457,1086.0,0.7453671928620453,bolig
+Det Konservative Folkeparti,Dansk Folkeparti,68,3210,2419.0,0.753582554517134,bolig
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,1952,1952.0,1.0,bolig
+Det Konservative Folkeparti,Enhedslisten,68,3912,1998.0,0.5107361963190185,bolig
+Det Konservative Folkeparti,Javnaðarflokkurin,68,4,4.0,1.0,bolig
+Det Konservative Folkeparti,Liberal Alliance,68,2359,1679.0,0.7117422636710471,bolig
+Det Konservative Folkeparti,Moderaterne,68,113,108.0,0.9557522123893806,bolig
+Det Konservative Folkeparti,Radikale Venstre,68,4814,3418.0,0.7100124636476942,bolig
+Det Konservative Folkeparti,Sambandsflokkurin,68,8,8.0,1.0,bolig
+Det Konservative Folkeparti,Socialdemokratiet,68,13414,9644.0,0.7189503503801998,bolig
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,3527,2373.0,0.6728097533314431,bolig
+Det Konservative Folkeparti,Uden for folketingsgrupperne,68,1127,807.0,0.7160603371783496,bolig
+Det Konservative Folkeparti,Venstre,68,10403,9325.0,0.8963760453715275,bolig
+Enhedslisten,Alternativet,68,1070,863.0,0.8065420560747664,bolig
+Enhedslisten,Danmarksdemokraterne,68,2200,934.0,0.42454545454545456,bolig
+Enhedslisten,Dansk Folkeparti,68,5581,2406.0,0.4311055366421788,bolig
+Enhedslisten,Det Konservative Folkeparti,68,3881,1965.0,0.5063128059778408,bolig
+Enhedslisten,Enhedslisten,68,5636,5564.0,0.9872249822569198,bolig
+Enhedslisten,Javnaðarflokkurin,68,14,14.0,1.0,bolig
+Enhedslisten,Liberal Alliance,68,4278,1659.0,0.38779803646563815,bolig
+Enhedslisten,Moderaterne,68,194,110.0,0.5670103092783505,bolig
+Enhedslisten,Radikale Venstre,68,8140,6165.0,0.7573710073710074,bolig
+Enhedslisten,Socialdemokratiet,68,22996,17203.0,0.748086623760654,bolig
+Enhedslisten,Socialistisk Folkeparti,68,6263,4902.0,0.7826920006386716,bolig
+Enhedslisten,Uden for folketingsgrupperne,68,2079,940.0,0.4521404521404521,bolig
+Enhedslisten,Venstre,68,17461,8752.0,0.5012313155031213,bolig
+Javnaðarflokkurin,Alternativet,68,2,2.0,1.0,bolig
+Javnaðarflokkurin,Danmarksdemokraterne,68,2,0.0,0.0,bolig
+Javnaðarflokkurin,Det Konservative Folkeparti,68,2,2.0,1.0,bolig
+Javnaðarflokkurin,Enhedslisten,68,2,2.0,1.0,bolig
+Javnaðarflokkurin,Liberal Alliance,68,2,0.0,0.0,bolig
+Javnaðarflokkurin,Radikale Venstre,68,4,4.0,1.0,bolig
+Javnaðarflokkurin,Socialdemokratiet,68,6,6.0,1.0,bolig
+Javnaðarflokkurin,Socialistisk Folkeparti,68,3,3.0,1.0,bolig
+Javnaðarflokkurin,Venstre,68,8,8.0,1.0,bolig
+Liberal Alliance,Alternativet,68,520,226.0,0.4346153846153846,bolig
+Liberal Alliance,Danmarksdemokraterne,68,602,384.0,0.6378737541528239,bolig
+Liberal Alliance,Dansk Folkeparti,68,2596,1656.0,0.637904468412943,bolig
+Liberal Alliance,Det Konservative Folkeparti,68,1918,1319.0,0.6876955161626694,bolig
+Liberal Alliance,Enhedslisten,68,2750,1024.0,0.37236363636363634,bolig
+Liberal Alliance,Javnaðarflokkurin,68,4,0.0,0.0,bolig
+Liberal Alliance,Liberal Alliance,68,1530,1527.0,0.9980392156862745,bolig
+Liberal Alliance,Moderaterne,68,21,15.0,0.7142857142857143,bolig
+Liberal Alliance,Radikale Venstre,68,3385,1697.0,0.5013293943870015,bolig
+Liberal Alliance,Sambandsflokkurin,68,1,0.0,0.0,bolig
+Liberal Alliance,Socialdemokratiet,68,10377,5246.0,0.505541100510745,bolig
+Liberal Alliance,Socialistisk Folkeparti,68,2779,1289.0,0.4638359121986326,bolig
+Liberal Alliance,Uden for folketingsgrupperne,68,794,623.0,0.7846347607052897,bolig
+Liberal Alliance,Venstre,68,6451,4564.0,0.7074872112850721,bolig
+Moderaterne,Alternativet,68,58,36.0,0.6206896551724138,bolig
+Moderaterne,Danmarksdemokraterne,68,119,89.0,0.7478991596638656,bolig
+Moderaterne,Dansk Folkeparti,68,332,255.0,0.7680722891566265,bolig
+Moderaterne,Det Konservative Folkeparti,68,213,208.0,0.9765258215962441,bolig
+Moderaterne,Enhedslisten,68,344,220.0,0.6395348837209303,bolig
+Moderaterne,Liberal Alliance,68,269,192.0,0.7137546468401487,bolig
+Moderaterne,Radikale Venstre,68,480,386.0,0.8041666666666667,bolig
+Moderaterne,Socialdemokratiet,68,1343,1089.0,0.8108711839166046,bolig
+Moderaterne,Socialistisk Folkeparti,68,280,201.0,0.7178571428571429,bolig
+Moderaterne,Uden for folketingsgrupperne,68,125,92.0,0.736,bolig
+Moderaterne,Venstre,68,877,876.0,0.9988597491448119,bolig
+Radikale Venstre,Alternativet,68,1198,1059.0,0.8839732888146912,bolig
+Radikale Venstre,Danmarksdemokraterne,68,2103,1197.0,0.5691868758915835,bolig
+Radikale Venstre,Dansk Folkeparti,68,6818,3856.0,0.5655617483132883,bolig
+Radikale Venstre,Det Konservative Folkeparti,68,4704,3462.0,0.735969387755102,bolig
+Radikale Venstre,Enhedslisten,68,7472,5604.0,0.75,bolig
+Radikale Venstre,Javnaðarflokkurin,68,16,16.0,1.0,bolig
+Radikale Venstre,Liberal Alliance,68,5195,2653.0,0.5106833493743984,bolig
+Radikale Venstre,Moderaterne,68,149,129.0,0.8657718120805369,bolig
+Radikale Venstre,Radikale Venstre,68,8686,8686.0,1.0,bolig
+Radikale Venstre,Sambandsflokkurin,68,6,6.0,1.0,bolig
+Radikale Venstre,Socialdemokratiet,68,27323,27315.0,0.9997072063829009,bolig
+Radikale Venstre,Socialistisk Folkeparti,68,7019,6691.0,0.9532696965379683,bolig
+Radikale Venstre,Uden for folketingsgrupperne,68,2253,1258.0,0.5583666222814025,bolig
+Radikale Venstre,Venstre,68,19058,14078.0,0.7386924126351139,bolig
+Sambandsflokkurin,Alternativet,68,4,3.0,0.75,bolig
+Sambandsflokkurin,Danmarksdemokraterne,68,16,16.0,1.0,bolig
+Sambandsflokkurin,Dansk Folkeparti,68,22,22.0,1.0,bolig
+Sambandsflokkurin,Det Konservative Folkeparti,68,11,11.0,1.0,bolig
+Sambandsflokkurin,Enhedslisten,68,32,23.0,0.71875,bolig
+Sambandsflokkurin,Liberal Alliance,68,18,9.0,0.5,bolig
+Sambandsflokkurin,Moderaterne,68,2,2.0,1.0,bolig
+Sambandsflokkurin,Radikale Venstre,68,34,34.0,1.0,bolig
+Sambandsflokkurin,Socialdemokratiet,68,101,101.0,1.0,bolig
+Sambandsflokkurin,Socialistisk Folkeparti,68,24,19.0,0.7916666666666666,bolig
+Sambandsflokkurin,Uden for folketingsgrupperne,68,10,9.0,0.9,bolig
+Sambandsflokkurin,Venstre,68,88,88.0,1.0,bolig
+Socialdemokratiet,Alternativet,68,3912,3476.0,0.8885480572597138,bolig
+Socialdemokratiet,Danmarksdemokraterne,68,8683,4934.0,0.5682367845214787,bolig
+Socialdemokratiet,Dansk Folkeparti,68,21340,11897.0,0.5574976569821931,bolig
+Socialdemokratiet,Det Konservative Folkeparti,68,15501,11260.0,0.7264047480807689,bolig
+Socialdemokratiet,Enhedslisten,68,24332,18184.0,0.7473286207463423,bolig
+Socialdemokratiet,Javnaðarflokkurin,68,51,51.0,1.0,bolig
+Socialdemokratiet,Liberal Alliance,68,15655,7825.0,0.4998403066113063,bolig
+Socialdemokratiet,Moderaterne,68,548,447.0,0.8156934306569343,bolig
+Socialdemokratiet,Radikale Venstre,68,30450,30447.0,0.9999014778325123,bolig
+Socialdemokratiet,Sambandsflokkurin,68,20,20.0,1.0,bolig
+Socialdemokratiet,Socialdemokratiet,68,85057,85027.0,0.9996472953431228,bolig
+Socialdemokratiet,Socialistisk Folkeparti,68,23524,22341.0,0.9497109335147084,bolig
+Socialdemokratiet,Uden for folketingsgrupperne,68,7350,4054.0,0.5515646258503402,bolig
+Socialdemokratiet,Venstre,68,65589,48044.0,0.7325008766713931,bolig
+Socialistisk Folkeparti,Alternativet,68,934,883.0,0.9453961456102784,bolig
+Socialistisk Folkeparti,Danmarksdemokraterne,68,2494,1326.0,0.5316760224538893,bolig
+Socialistisk Folkeparti,Dansk Folkeparti,68,5596,2898.0,0.5178699070764832,bolig
+Socialistisk Folkeparti,Det Konservative Folkeparti,68,4160,2784.0,0.6692307692307692,bolig
+Socialistisk Folkeparti,Enhedslisten,68,6310,5091.0,0.8068145800316957,bolig
+Socialistisk Folkeparti,Javnaðarflokkurin,68,12,12.0,1.0,bolig
+Socialistisk Folkeparti,Liberal Alliance,68,4158,1974.0,0.47474747474747475,bolig
+Socialistisk Folkeparti,Moderaterne,68,209,154.0,0.7368421052631579,bolig
+Socialistisk Folkeparti,Radikale Venstre,68,8417,8022.0,0.9530711654983961,bolig
+Socialistisk Folkeparti,Sambandsflokkurin,68,6,4.0,0.6666666666666666,bolig
+Socialistisk Folkeparti,Socialdemokratiet,68,23149,21924.0,0.9470819473843363,bolig
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,5559,5559.0,1.0,bolig
+Socialistisk Folkeparti,Uden for folketingsgrupperne,68,2002,1083.0,0.5409590409590409,bolig
+Socialistisk Folkeparti,Venstre,68,19074,12864.0,0.6744259201006606,bolig
+Uden for folketingsgrupperne,Alternativet,68,267,142.0,0.5318352059925093,bolig
+Uden for folketingsgrupperne,Danmarksdemokraterne,68,117,105.0,0.8974358974358975,bolig
+Uden for folketingsgrupperne,Dansk Folkeparti,68,1058,1048.0,0.9905482041587902,bolig
+Uden for folketingsgrupperne,Det Konservative Folkeparti,68,793,579.0,0.7301387137452712,bolig
+Uden for folketingsgrupperne,Enhedslisten,68,1053,491.0,0.466286799620133,bolig
+Uden for folketingsgrupperne,Javnaðarflokkurin,68,6,0.0,0.0,bolig
+Uden for folketingsgrupperne,Liberal Alliance,68,869,599.0,0.6892980437284235,bolig
+Uden for folketingsgrupperne,Radikale Venstre,68,1570,903.0,0.5751592356687898,bolig
+Uden for folketingsgrupperne,Socialdemokratiet,68,4205,2437.0,0.5795481569560047,bolig
+Uden for folketingsgrupperne,Socialistisk Folkeparti,68,1031,560.0,0.5431619786614937,bolig
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,68,260,198.0,0.7615384615384615,bolig
+Uden for folketingsgrupperne,Venstre,68,2394,1680.0,0.7017543859649122,bolig
+Venstre,Alternativet,68,3534,2385.0,0.6748726655348047,bolig
+Venstre,Danmarksdemokraterne,68,9905,7133.0,0.7201413427561838,bolig
+Venstre,Dansk Folkeparti,68,22496,15983.0,0.7104818634423897,bolig
+Venstre,Det Konservative Folkeparti,68,15733,14042.0,0.8925189092989259,bolig
+Venstre,Enhedslisten,68,25416,12981.0,0.5107412653446648,bolig
+Venstre,Javnaðarflokkurin,68,46,46.0,1.0,bolig
+Venstre,Liberal Alliance,68,17124,11945.0,0.6975589815463676,bolig
+Venstre,Moderaterne,68,837,830.0,0.991636798088411,bolig
+Venstre,Radikale Venstre,68,33364,24304.0,0.7284498261599328,bolig
+Venstre,Sambandsflokkurin,68,17,17.0,1.0,bolig
+Venstre,Socialdemokratiet,68,93378,68327.0,0.7317248174088115,bolig
+Venstre,Socialistisk Folkeparti,68,23246,15878.0,0.6830422438268949,bolig
+Venstre,Uden for folketingsgrupperne,68,8074,5581.0,0.6912311122120386,bolig
+Venstre,Venstre,68,69586,68986.0,0.9913775759491852,bolig
+Alternativet,Alternativet,69,2826,2789.0,0.9869072894550601,bolig
+Alternativet,Danmarksdemokraterne,69,2152,810.0,0.3763940520446097,bolig
+Alternativet,Dansk Folkeparti,69,7739,2875.0,0.3714950251970539,bolig
+Alternativet,Det Konservative Folkeparti,69,1335,568.0,0.4254681647940075,bolig
+Alternativet,Enhedslisten,69,4995,4090.0,0.8188188188188188,bolig
+Alternativet,Liberal Alliance,69,3371,1321.0,0.39187184811628595,bolig
+Alternativet,Moderaterne,69,383,164.0,0.4281984334203655,bolig
+Alternativet,Radikale Venstre,69,2362,1699.0,0.7193056731583404,bolig
+Alternativet,Socialdemokratiet,69,14303,7291.0,0.5097531986296581,bolig
+Alternativet,Socialistisk Folkeparti,69,2473,2057.0,0.831783259199353,bolig
+Alternativet,Uden for folketingsgrupperne,69,1602,688.0,0.42946317103620474,bolig
+Alternativet,Venstre,69,8357,3575.0,0.42778509034342466,bolig
+Danmarksdemokraterne,Alternativet,69,5394,2141.0,0.39692250648869115,bolig
+Danmarksdemokraterne,Danmarksdemokraterne,69,3757,3592.0,0.9560819803034336,bolig
+Danmarksdemokraterne,Dansk Folkeparti,69,14948,14548.0,0.9732405672999732,bolig
+Danmarksdemokraterne,Det Konservative Folkeparti,69,3235,2815.0,0.8701700154559505,bolig
+Danmarksdemokraterne,Enhedslisten,69,8695,2737.0,0.31477860839562966,bolig
+Danmarksdemokraterne,Liberal Alliance,69,6889,6035.0,0.8760342575119756,bolig
+Danmarksdemokraterne,Moderaterne,69,407,323.0,0.7936117936117936,bolig
+Danmarksdemokraterne,Radikale Venstre,69,4264,2299.0,0.5391651031894934,bolig
+Danmarksdemokraterne,Socialdemokratiet,69,26699,19983.0,0.7484549983145437,bolig
+Danmarksdemokraterne,Socialistisk Folkeparti,69,4351,2074.0,0.4766720294185245,bolig
+Danmarksdemokraterne,Uden for folketingsgrupperne,69,3783,3481.0,0.9201691779011366,bolig
+Danmarksdemokraterne,Venstre,69,14207,12495.0,0.8794960230872105,bolig
+Dansk Folkeparti,Alternativet,69,12584,4806.0,0.3819135410044501,bolig
+Dansk Folkeparti,Danmarksdemokraterne,69,7481,7308.0,0.9768747493650581,bolig
+Dansk Folkeparti,Dansk Folkeparti,69,28779,28763.0,0.9994440390562563,bolig
+Dansk Folkeparti,Det Konservative Folkeparti,69,5889,4948.0,0.8402105620648667,bolig
+Dansk Folkeparti,Enhedslisten,69,18327,5866.0,0.3200742074534839,bolig
+Dansk Folkeparti,Liberal Alliance,69,13202,11243.0,0.8516133919103166,bolig
+Dansk Folkeparti,Moderaterne,69,696,526.0,0.7557471264367817,bolig
+Dansk Folkeparti,Radikale Venstre,69,9079,4401.0,0.4847450159709219,bolig
+Dansk Folkeparti,Socialdemokratiet,69,55147,39023.0,0.7076178214590095,bolig
+Dansk Folkeparti,Socialistisk Folkeparti,69,9391,4511.0,0.48035352997550845,bolig
+Dansk Folkeparti,Uden for folketingsgrupperne,69,7427,6615.0,0.8906691800188501,bolig
+Dansk Folkeparti,Venstre,69,30119,25582.0,0.849364188718085,bolig
+Det Konservative Folkeparti,Alternativet,69,3912,1646.0,0.4207566462167689,bolig
+Det Konservative Folkeparti,Danmarksdemokraterne,69,2517,2180.0,0.8661104489471593,bolig
+Det Konservative Folkeparti,Dansk Folkeparti,69,9682,8049.0,0.8313365007229911,bolig
+Det Konservative Folkeparti,Det Konservative Folkeparti,69,1628,1620.0,0.995085995085995,bolig
+Det Konservative Folkeparti,Enhedslisten,69,5974,1692.0,0.28322731837964515,bolig
+Det Konservative Folkeparti,Liberal Alliance,69,3988,3925.0,0.9842026078234705,bolig
+Det Konservative Folkeparti,Moderaterne,69,462,449.0,0.9718614718614719,bolig
+Det Konservative Folkeparti,Radikale Venstre,69,2464,1551.0,0.6294642857142857,bolig
+Det Konservative Folkeparti,Socialdemokratiet,69,16356,13091.0,0.8003790657862558,bolig
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,2519,1175.0,0.4664549424374752,bolig
+Det Konservative Folkeparti,Uden for folketingsgrupperne,69,2007,1914.0,0.953662182361734,bolig
+Det Konservative Folkeparti,Venstre,69,9331,9239.0,0.9901403922409173,bolig
+Enhedslisten,Alternativet,69,6171,4976.0,0.806352292983309,bolig
+Enhedslisten,Danmarksdemokraterne,69,3786,1205.0,0.31827786582144746,bolig
+Enhedslisten,Dansk Folkeparti,69,15175,5095.0,0.3357495881383855,bolig
+Enhedslisten,Det Konservative Folkeparti,69,2579,758.0,0.29391236913532376,bolig
+Enhedslisten,Enhedslisten,69,8188,8188.0,1.0,bolig
+Enhedslisten,Liberal Alliance,69,6439,1776.0,0.2758192265879795,bolig
+Enhedslisten,Moderaterne,69,438,112.0,0.2557077625570776,bolig
+Enhedslisten,Radikale Venstre,69,4211,2396.0,0.5689859890762289,bolig
+Enhedslisten,Socialdemokratiet,69,26817,9683.0,0.36107692881381215,bolig
+Enhedslisten,Socialistisk Folkeparti,69,4770,3762.0,0.7886792452830189,bolig
+Enhedslisten,Uden for folketingsgrupperne,69,3170,960.0,0.3028391167192429,bolig
+Enhedslisten,Venstre,69,15197,4294.0,0.2825557675857077,bolig
+Inuit Ataqatigiit,Alternativet,69,19,0.0,0.0,bolig
+Inuit Ataqatigiit,Danmarksdemokraterne,69,18,0.0,0.0,bolig
+Inuit Ataqatigiit,Dansk Folkeparti,69,46,0.0,0.0,bolig
+Inuit Ataqatigiit,Det Konservative Folkeparti,69,17,0.0,0.0,bolig
+Inuit Ataqatigiit,Enhedslisten,69,27,0.0,0.0,bolig
+Inuit Ataqatigiit,Liberal Alliance,69,22,0.0,0.0,bolig
+Inuit Ataqatigiit,Moderaterne,69,2,0.0,0.0,bolig
+Inuit Ataqatigiit,Radikale Venstre,69,12,0.0,0.0,bolig
+Inuit Ataqatigiit,Socialdemokratiet,69,87,0.0,0.0,bolig
+Inuit Ataqatigiit,Socialistisk Folkeparti,69,14,0.0,0.0,bolig
+Inuit Ataqatigiit,Uden for folketingsgrupperne,69,4,0.0,0.0,bolig
+Inuit Ataqatigiit,Venstre,69,59,0.0,0.0,bolig
+Liberal Alliance,Alternativet,69,5290,2123.0,0.40132325141776937,bolig
+Liberal Alliance,Danmarksdemokraterne,69,2698,2382.0,0.882876204595997,bolig
+Liberal Alliance,Dansk Folkeparti,69,12582,10591.0,0.8417580670799555,bolig
+Liberal Alliance,Det Konservative Folkeparti,69,2605,2534.0,0.9727447216890595,bolig
+Liberal Alliance,Enhedslisten,69,7735,2110.0,0.2727860374919198,bolig
+Liberal Alliance,Liberal Alliance,69,4747,4736.0,0.9976827469981041,bolig
+Liberal Alliance,Moderaterne,69,273,265.0,0.9706959706959707,bolig
+Liberal Alliance,Radikale Venstre,69,3656,2271.0,0.6211706783369803,bolig
+Liberal Alliance,Socialdemokratiet,69,22323,17716.0,0.7936209290865923,bolig
+Liberal Alliance,Socialistisk Folkeparti,69,3456,1531.0,0.4429976851851852,bolig
+Liberal Alliance,Uden for folketingsgrupperne,69,3317,3152.0,0.9502562556526982,bolig
+Liberal Alliance,Venstre,69,11305,11101.0,0.9819548872180451,bolig
+Moderaterne,Alternativet,69,1019,459.0,0.450441609421001,bolig
+Moderaterne,Danmarksdemokraterne,69,1134,933.0,0.8227513227513228,bolig
+Moderaterne,Dansk Folkeparti,69,3545,2794.0,0.7881523272214387,bolig
+Moderaterne,Det Konservative Folkeparti,69,644,624.0,0.968944099378882,bolig
+Moderaterne,Enhedslisten,69,1885,552.0,0.2928381962864722,bolig
+Moderaterne,Liberal Alliance,69,1466,1449.0,0.9884038199181446,bolig
+Moderaterne,Moderaterne,69,68,65.0,0.9558823529411765,bolig
+Moderaterne,Radikale Venstre,69,893,581.0,0.6506159014557671,bolig
+Moderaterne,Socialdemokratiet,69,6225,5044.0,0.810281124497992,bolig
+Moderaterne,Socialistisk Folkeparti,69,1041,475.0,0.4562920268972142,bolig
+Moderaterne,Uden for folketingsgrupperne,69,726,671.0,0.9242424242424242,bolig
+Moderaterne,Venstre,69,3528,3452.0,0.9784580498866213,bolig
+Radikale Venstre,Alternativet,69,2855,2152.0,0.7537653239929948,bolig
+Radikale Venstre,Danmarksdemokraterne,69,1609,877.0,0.5450590428837787,bolig
+Radikale Venstre,Dansk Folkeparti,69,6644,3327.0,0.5007525586995786,bolig
+Radikale Venstre,Det Konservative Folkeparti,69,1529,1008.0,0.6592544146500982,bolig
+Radikale Venstre,Enhedslisten,69,4432,2712.0,0.6119133574007221,bolig
+Radikale Venstre,Liberal Alliance,69,2986,1804.0,0.6041527126590757,bolig
+Radikale Venstre,Moderaterne,69,195,118.0,0.6051282051282051,bolig
+Radikale Venstre,Radikale Venstre,69,1585,1567.0,0.9886435331230284,bolig
+Radikale Venstre,Socialdemokratiet,69,11941,8768.0,0.7342768612344025,bolig
+Radikale Venstre,Socialistisk Folkeparti,69,1658,1227.0,0.7400482509047045,bolig
+Radikale Venstre,Uden for folketingsgrupperne,69,1579,902.0,0.571247625079164,bolig
+Radikale Venstre,Venstre,69,6516,4120.0,0.6322897483118478,bolig
+Socialdemokratiet,Alternativet,69,22447,12239.0,0.5452398984274068,bolig
+Socialdemokratiet,Danmarksdemokraterne,69,14261,10439.0,0.731996353691887,bolig
+Socialdemokratiet,Dansk Folkeparti,69,55032,38308.0,0.6961040848960605,bolig
+Socialdemokratiet,Det Konservative Folkeparti,69,11830,9483.0,0.8016060862214708,bolig
+Socialdemokratiet,Enhedslisten,69,33736,13187.0,0.39088807208916293,bolig
+Socialdemokratiet,Liberal Alliance,69,24362,19354.0,0.7944339545193334,bolig
+Socialdemokratiet,Moderaterne,69,1464,1143.0,0.7807377049180327,bolig
+Socialdemokratiet,Radikale Venstre,69,16420,12051.0,0.7339220462850182,bolig
+Socialdemokratiet,Socialdemokratiet,69,96478,95248.0,0.9872509794979166,bolig
+Socialdemokratiet,Socialistisk Folkeparti,69,16237,9000.0,0.5542895855145655,bolig
+Socialdemokratiet,Uden for folketingsgrupperne,69,13798,10415.0,0.7548195390636324,bolig
+Socialdemokratiet,Venstre,69,53894,43453.0,0.8062678591308866,bolig
+Socialistisk Folkeparti,Alternativet,69,3025,2495.0,0.824793388429752,bolig
+Socialistisk Folkeparti,Danmarksdemokraterne,69,1853,870.0,0.4695089044792229,bolig
+Socialistisk Folkeparti,Dansk Folkeparti,69,7221,3430.0,0.4750034621243595,bolig
+Socialistisk Folkeparti,Det Konservative Folkeparti,69,1747,801.0,0.4585002862049227,bolig
+Socialistisk Folkeparti,Enhedslisten,69,4377,3445.0,0.7870687685629426,bolig
+Socialistisk Folkeparti,Liberal Alliance,69,3554,1568.0,0.44119302194710186,bolig
+Socialistisk Folkeparti,Moderaterne,69,133,48.0,0.3609022556390977,bolig
+Socialistisk Folkeparti,Radikale Venstre,69,2638,1922.0,0.7285822592873389,bolig
+Socialistisk Folkeparti,Socialdemokratiet,69,13861,7793.0,0.5622249476949716,bolig
+Socialistisk Folkeparti,Socialistisk Folkeparti,69,1803,1720.0,0.9539656128674432,bolig
+Socialistisk Folkeparti,Uden for folketingsgrupperne,69,2212,1003.0,0.4534358047016275,bolig
+Socialistisk Folkeparti,Venstre,69,7256,3312.0,0.4564498346196251,bolig
+Uden for folketingsgrupperne,Alternativet,69,2049,819.0,0.39970717423133234,bolig
+Uden for folketingsgrupperne,Danmarksdemokraterne,69,372,339.0,0.9112903225806451,bolig
+Uden for folketingsgrupperne,Dansk Folkeparti,69,3656,3432.0,0.9387308533916849,bolig
+Uden for folketingsgrupperne,Det Konservative Folkeparti,69,700,624.0,0.8914285714285715,bolig
+Uden for folketingsgrupperne,Enhedslisten,69,2953,848.0,0.2871655943108703,bolig
+Uden for folketingsgrupperne,Liberal Alliance,69,1359,1228.0,0.9036055923473142,bolig
 Uden for folketingsgrupperne,Moderaterne,69,1,1.0,1.0,bolig
-Uden for folketingsgrupperne,Radikale Venstre,69,463,220.0,0.47516198704103674,bolig
-Uden for folketingsgrupperne,Socialdemokratiet,69,1269,731.0,0.5760441292356187,bolig
-Uden for folketingsgrupperne,Socialistisk Folkeparti,69,20,9.0,0.45,bolig
-Uden for folketingsgrupperne,Uden for folketingsgrupperne,69,149,143.0,0.959731543624161,bolig
-Uden for folketingsgrupperne,Venstre,69,1021,892.0,0.8736532810969637,bolig
-Venstre,Alternativet,69,232,68.0,0.29310344827586204,bolig
-Venstre,Danmarksdemokraterne,69,1638,1411.0,0.8614163614163615,bolig
-Venstre,Dansk Folkeparti,69,3869,3294.0,0.8513827862496769,bolig
-Venstre,Det Konservative Folkeparti,69,196,196.0,1.0,bolig
-Venstre,Enhedslisten,69,3007,975.0,0.3242434319920186,bolig
-Venstre,Liberal Alliance,69,3621,3495.0,0.9652029826014913,bolig
-Venstre,Moderaterne,69,131,131.0,1.0,bolig
-Venstre,Radikale Venstre,69,3272,2087.0,0.6378361858190709,bolig
-Venstre,Socialdemokratiet,69,12346,9416.0,0.7626761704195691,bolig
-Venstre,Socialistisk Folkeparti,69,1431,625.0,0.43675751222921033,bolig
-Venstre,Uden for folketingsgrupperne,69,1985,1737.0,0.8750629722921914,bolig
-Venstre,Venstre,69,10479,10479.0,1.0,bolig
-Danmarksdemokraterne,Danmarksdemokraterne,66,368,356.0,0.967391304347826,bolig
-Danmarksdemokraterne,Dansk Folkeparti,66,1052,1026.0,0.9752851711026616,bolig
-Danmarksdemokraterne,Det Konservative Folkeparti,66,870,816.0,0.9379310344827586,bolig
-Danmarksdemokraterne,Enhedslisten,66,335,100.0,0.29850746268656714,bolig
-Danmarksdemokraterne,Liberal Alliance,66,158,152.0,0.9620253164556962,bolig
-Danmarksdemokraterne,Moderaterne,66,25,25.0,1.0,bolig
-Danmarksdemokraterne,Radikale Venstre,66,537,310.0,0.5772811918063314,bolig
-Danmarksdemokraterne,Socialdemokratiet,66,2370,1519.0,0.6409282700421941,bolig
-Danmarksdemokraterne,Socialistisk Folkeparti,66,560,244.0,0.4357142857142857,bolig
-Danmarksdemokraterne,Uden for folketingsgrupperne,66,494,392.0,0.7935222672064778,bolig
-Danmarksdemokraterne,Venstre,66,3307,3117.0,0.9425461143029936,bolig
-Dansk Folkeparti,Danmarksdemokraterne,66,414,413.0,0.9975845410628019,bolig
-Dansk Folkeparti,Dansk Folkeparti,66,989,983.0,0.993933265925177,bolig
-Dansk Folkeparti,Det Konservative Folkeparti,66,665,610.0,0.9172932330827067,bolig
-Dansk Folkeparti,Enhedslisten,66,430,117.0,0.27209302325581397,bolig
-Dansk Folkeparti,Liberal Alliance,66,151,143.0,0.9470198675496688,bolig
-Dansk Folkeparti,Moderaterne,66,32,32.0,1.0,bolig
-Dansk Folkeparti,Radikale Venstre,66,676,370.0,0.5473372781065089,bolig
-Dansk Folkeparti,Socialdemokratiet,66,2316,1434.0,0.6191709844559585,bolig
-Dansk Folkeparti,Socialistisk Folkeparti,66,805,345.0,0.42857142857142855,bolig
-Dansk Folkeparti,Uden for folketingsgrupperne,66,733,513.0,0.6998635743519782,bolig
-Dansk Folkeparti,Venstre,66,3286,3042.0,0.9257455873402313,bolig
-Det Konservative Folkeparti,Danmarksdemokraterne,66,643,608.0,0.9455676516329704,bolig
-Det Konservative Folkeparti,Dansk Folkeparti,66,1660,1540.0,0.927710843373494,bolig
-Det Konservative Folkeparti,Det Konservative Folkeparti,66,1020,1020.0,1.0,bolig
-Det Konservative Folkeparti,Enhedslisten,66,540,202.0,0.37407407407407406,bolig
-Det Konservative Folkeparti,Liberal Alliance,66,250,250.0,1.0,bolig
-Det Konservative Folkeparti,Moderaterne,66,44,44.0,1.0,bolig
-Det Konservative Folkeparti,Radikale Venstre,66,955,601.0,0.6293193717277487,bolig
-Det Konservative Folkeparti,Socialdemokratiet,66,3655,2562.0,0.7009575923392612,bolig
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,889,448.0,0.5039370078740157,bolig
-Det Konservative Folkeparti,Uden for folketingsgrupperne,66,793,648.0,0.8171500630517023,bolig
-Det Konservative Folkeparti,Venstre,66,4901,4899.0,0.9995919200163232,bolig
-Enhedslisten,Danmarksdemokraterne,66,201,71.0,0.35323383084577115,bolig
-Enhedslisten,Dansk Folkeparti,66,425,144.0,0.3388235294117647,bolig
-Enhedslisten,Det Konservative Folkeparti,66,334,132.0,0.39520958083832336,bolig
-Enhedslisten,Enhedslisten,66,101,101.0,1.0,bolig
-Enhedslisten,Liberal Alliance,66,69,30.0,0.43478260869565216,bolig
-Enhedslisten,Moderaterne,66,6,5.0,0.8333333333333334,bolig
-Enhedslisten,Radikale Venstre,66,197,135.0,0.6852791878172588,bolig
-Enhedslisten,Socialdemokratiet,66,897,622.0,0.693422519509476,bolig
-Enhedslisten,Socialistisk Folkeparti,66,291,243.0,0.8350515463917526,bolig
-Enhedslisten,Uden for folketingsgrupperne,66,252,133.0,0.5277777777777778,bolig
-Enhedslisten,Venstre,66,1328,498.0,0.375,bolig
-Liberal Alliance,Danmarksdemokraterne,66,68,64.0,0.9411764705882353,bolig
-Liberal Alliance,Dansk Folkeparti,66,207,198.0,0.9565217391304348,bolig
-Liberal Alliance,Det Konservative Folkeparti,66,119,119.0,1.0,bolig
-Liberal Alliance,Enhedslisten,66,69,22.0,0.3188405797101449,bolig
-Liberal Alliance,Radikale Venstre,66,172,117.0,0.6802325581395349,bolig
-Liberal Alliance,Socialdemokratiet,66,445,314.0,0.7056179775280899,bolig
-Liberal Alliance,Socialistisk Folkeparti,66,114,54.0,0.47368421052631576,bolig
-Liberal Alliance,Uden for folketingsgrupperne,66,121,94.0,0.7768595041322314,bolig
-Liberal Alliance,Venstre,66,444,444.0,1.0,bolig
-Moderaterne,Danmarksdemokraterne,66,19,19.0,1.0,bolig
-Moderaterne,Dansk Folkeparti,66,43,43.0,1.0,bolig
-Moderaterne,Det Konservative Folkeparti,66,21,21.0,1.0,bolig
-Moderaterne,Enhedslisten,66,18,7.0,0.3888888888888889,bolig
-Moderaterne,Liberal Alliance,66,13,13.0,1.0,bolig
-Moderaterne,Radikale Venstre,66,31,21.0,0.6774193548387096,bolig
-Moderaterne,Socialdemokratiet,66,97,69.0,0.711340206185567,bolig
-Moderaterne,Socialistisk Folkeparti,66,25,10.0,0.4,bolig
-Moderaterne,Uden for folketingsgrupperne,66,28,23.0,0.8214285714285714,bolig
-Moderaterne,Venstre,66,93,93.0,1.0,bolig
-Radikale Venstre,Danmarksdemokraterne,66,223,127.0,0.5695067264573991,bolig
-Radikale Venstre,Dansk Folkeparti,66,477,252.0,0.5283018867924528,bolig
-Radikale Venstre,Det Konservative Folkeparti,66,212,141.0,0.6650943396226415,bolig
-Radikale Venstre,Enhedslisten,66,221,141.0,0.6380090497737556,bolig
-Radikale Venstre,Radikale Venstre,66,217,215.0,0.9907834101382489,bolig
-Radikale Venstre,Socialdemokratiet,66,966,791.0,0.8188405797101449,bolig
-Radikale Venstre,Socialistisk Folkeparti,66,332,237.0,0.713855421686747,bolig
-Radikale Venstre,Uden for folketingsgrupperne,66,380,299.0,0.7868421052631579,bolig
-Radikale Venstre,Venstre,66,1397,852.0,0.6098783106657122,bolig
-Socialdemokratiet,Danmarksdemokraterne,66,1262,827.0,0.6553090332805072,bolig
-Socialdemokratiet,Dansk Folkeparti,66,3447,2140.0,0.6208297069915869,bolig
-Socialdemokratiet,Det Konservative Folkeparti,66,2121,1514.0,0.7138142385667138,bolig
-Socialdemokratiet,Enhedslisten,66,1185,764.0,0.6447257383966245,bolig
-Socialdemokratiet,Liberal Alliance,66,434,309.0,0.7119815668202765,bolig
-Socialdemokratiet,Moderaterne,66,82,48.0,0.5853658536585366,bolig
-Socialdemokratiet,Radikale Venstre,66,1836,1496.0,0.8148148148148148,bolig
-Socialdemokratiet,Socialdemokratiet,66,6636,6487.0,0.977546714888487,bolig
-Socialdemokratiet,Socialistisk Folkeparti,66,1991,1575.0,0.7910597689603215,bolig
-Socialdemokratiet,Uden for folketingsgrupperne,66,1788,1243.0,0.6951901565995525,bolig
-Socialdemokratiet,Venstre,66,9636,6674.0,0.6926110419261104,bolig
-Socialistisk Folkeparti,Danmarksdemokraterne,66,480,239.0,0.4979166666666667,bolig
-Socialistisk Folkeparti,Dansk Folkeparti,66,860,407.0,0.47325581395348837,bolig
-Socialistisk Folkeparti,Det Konservative Folkeparti,66,772,424.0,0.5492227979274611,bolig
-Socialistisk Folkeparti,Enhedslisten,66,326,267.0,0.8190184049079755,bolig
-Socialistisk Folkeparti,Liberal Alliance,66,152,79.0,0.5197368421052632,bolig
-Socialistisk Folkeparti,Moderaterne,66,35,20.0,0.5714285714285714,bolig
-Socialistisk Folkeparti,Radikale Venstre,66,449,337.0,0.7505567928730512,bolig
-Socialistisk Folkeparti,Socialdemokratiet,66,2047,1654.0,0.8080117244748413,bolig
-Socialistisk Folkeparti,Socialistisk Folkeparti,66,486,475.0,0.977366255144033,bolig
-Socialistisk Folkeparti,Uden for folketingsgrupperne,66,489,280.0,0.5725971370143149,bolig
-Socialistisk Folkeparti,Venstre,66,3301,1734.0,0.5252953650408967,bolig
-Uden for folketingsgrupperne,Danmarksdemokraterne,66,210,172.0,0.819047619047619,bolig
-Uden for folketingsgrupperne,Dansk Folkeparti,66,378,355.0,0.9391534391534392,bolig
-Uden for folketingsgrupperne,Det Konservative Folkeparti,66,316,280.0,0.8860759493670886,bolig
-Uden for folketingsgrupperne,Enhedslisten,66,155,56.0,0.36129032258064514,bolig
-Uden for folketingsgrupperne,Liberal Alliance,66,57,57.0,1.0,bolig
-Uden for folketingsgrupperne,Moderaterne,66,15,15.0,1.0,bolig
-Uden for folketingsgrupperne,Radikale Venstre,66,165,103.0,0.6242424242424243,bolig
-Uden for folketingsgrupperne,Socialdemokratiet,66,902,601.0,0.6662971175166297,bolig
-Uden for folketingsgrupperne,Socialistisk Folkeparti,66,314,164.0,0.5222929936305732,bolig
-Uden for folketingsgrupperne,Uden for folketingsgrupperne,66,203,144.0,0.7093596059113301,bolig
-Uden for folketingsgrupperne,Venstre,66,1522,1322.0,0.8685939553219448,bolig
-Venstre,Danmarksdemokraterne,66,2986,2844.0,0.9524447421299397,bolig
-Venstre,Dansk Folkeparti,66,6639,6192.0,0.9326705829191143,bolig
-Venstre,Det Konservative Folkeparti,66,5092,5082.0,0.9980361351139042,bolig
-Venstre,Enhedslisten,66,2323,820.0,0.35299182092122255,bolig
-Venstre,Liberal Alliance,66,1061,1059.0,0.998114985862394,bolig
-Venstre,Moderaterne,66,206,205.0,0.9951456310679612,bolig
-Venstre,Radikale Venstre,66,3525,2159.0,0.6124822695035461,bolig
-Venstre,Socialdemokratiet,66,14651,9999.0,0.6824790116715582,bolig
-Venstre,Socialistisk Folkeparti,66,3746,1815.0,0.4845168179391351,bolig
-Venstre,Uden for folketingsgrupperne,66,3191,2540.0,0.7959887182701347,bolig
-Venstre,Venstre,66,20317,20275.0,0.9979327656642221,bolig
-Danmarksdemokraterne,Danmarksdemokraterne,65,2,2.0,1.0,bolig
-Danmarksdemokraterne,Dansk Folkeparti,65,22,22.0,1.0,bolig
-Danmarksdemokraterne,Det Konservative Folkeparti,65,10,10.0,1.0,bolig
-Danmarksdemokraterne,Kristendemokraterne,65,2,2.0,1.0,bolig
-Danmarksdemokraterne,Liberal Alliance,65,4,4.0,1.0,bolig
-Danmarksdemokraterne,Radikale Venstre,65,4,2.0,0.5,bolig
-Danmarksdemokraterne,Socialdemokratiet,65,74,33.0,0.44594594594594594,bolig
-Danmarksdemokraterne,Socialistisk Folkeparti,65,10,4.0,0.4,bolig
-Danmarksdemokraterne,Uden for folketingsgrupperne,65,14,12.0,0.8571428571428571,bolig
-Danmarksdemokraterne,Venstre,65,55,55.0,1.0,bolig
-Dansk Folkeparti,Dansk Folkeparti,65,25,25.0,1.0,bolig
-Dansk Folkeparti,Det Konservative Folkeparti,65,2,2.0,1.0,bolig
-Dansk Folkeparti,Kristendemokraterne,65,2,2.0,1.0,bolig
-Dansk Folkeparti,Liberal Alliance,65,2,2.0,1.0,bolig
-Dansk Folkeparti,Radikale Venstre,65,4,2.0,0.5,bolig
-Dansk Folkeparti,Socialdemokratiet,65,54,24.0,0.4444444444444444,bolig
-Dansk Folkeparti,Socialistisk Folkeparti,65,11,3.0,0.2727272727272727,bolig
-Dansk Folkeparti,Uden for folketingsgrupperne,65,8,6.0,0.75,bolig
-Dansk Folkeparti,Venstre,65,60,60.0,1.0,bolig
-Det Konservative Folkeparti,Danmarksdemokraterne,65,6,6.0,1.0,bolig
-Det Konservative Folkeparti,Dansk Folkeparti,65,43,43.0,1.0,bolig
-Det Konservative Folkeparti,Det Konservative Folkeparti,65,13,13.0,1.0,bolig
-Det Konservative Folkeparti,Kristendemokraterne,65,3,3.0,1.0,bolig
-Det Konservative Folkeparti,Liberal Alliance,65,8,8.0,1.0,bolig
-Det Konservative Folkeparti,Radikale Venstre,65,8,5.0,0.625,bolig
-Det Konservative Folkeparti,Socialdemokratiet,65,135,78.0,0.5777777777777777,bolig
-Det Konservative Folkeparti,Socialistisk Folkeparti,65,18,10.0,0.5555555555555556,bolig
-Det Konservative Folkeparti,Uden for folketingsgrupperne,65,24,21.0,0.875,bolig
-Det Konservative Folkeparti,Venstre,65,109,109.0,1.0,bolig
-Kristendemokraterne,Dansk Folkeparti,65,3,3.0,1.0,bolig
-Kristendemokraterne,Radikale Venstre,65,1,0.0,0.0,bolig
-Kristendemokraterne,Socialdemokratiet,65,11,0.0,0.0,bolig
-Kristendemokraterne,Socialistisk Folkeparti,65,2,0.0,0.0,bolig
-Kristendemokraterne,Uden for folketingsgrupperne,65,2,1.0,0.5,bolig
-Kristendemokraterne,Venstre,65,5,5.0,1.0,bolig
-Liberal Alliance,Dansk Folkeparti,65,9,9.0,1.0,bolig
-Liberal Alliance,Kristendemokraterne,65,1,1.0,1.0,bolig
-Liberal Alliance,Radikale Venstre,65,2,1.0,0.5,bolig
-Liberal Alliance,Socialdemokratiet,65,26,11.0,0.4230769230769231,bolig
-Liberal Alliance,Socialistisk Folkeparti,65,4,2.0,0.5,bolig
-Liberal Alliance,Uden for folketingsgrupperne,65,4,3.0,0.75,bolig
-Liberal Alliance,Venstre,65,13,13.0,1.0,bolig
-Radikale Venstre,Dansk Folkeparti,65,7,4.0,0.5714285714285714,bolig
-Radikale Venstre,Socialdemokratiet,65,15,15.0,1.0,bolig
-Radikale Venstre,Socialistisk Folkeparti,65,2,2.0,1.0,bolig
-Radikale Venstre,Uden for folketingsgrupperne,65,2,1.0,0.5,bolig
-Radikale Venstre,Venstre,65,11,6.0,0.5454545454545454,bolig
-Socialdemokratiet,Danmarksdemokraterne,65,6,3.0,0.5,bolig
-Socialdemokratiet,Dansk Folkeparti,65,164,84.0,0.5121951219512195,bolig
-Socialdemokratiet,Det Konservative Folkeparti,65,21,12.0,0.5714285714285714,bolig
-Socialdemokratiet,Kristendemokraterne,65,11,0.0,0.0,bolig
-Socialdemokratiet,Liberal Alliance,65,14,7.0,0.5,bolig
-Socialdemokratiet,Radikale Venstre,65,25,25.0,1.0,bolig
-Socialdemokratiet,Socialdemokratiet,65,384,384.0,1.0,bolig
-Socialdemokratiet,Socialistisk Folkeparti,65,61,61.0,1.0,bolig
-Socialdemokratiet,Uden for folketingsgrupperne,65,70,39.0,0.5571428571428572,bolig
-Socialdemokratiet,Venstre,65,299,151.0,0.5050167224080268,bolig
-Socialistisk Folkeparti,Danmarksdemokraterne,65,4,2.0,0.5,bolig
-Socialistisk Folkeparti,Dansk Folkeparti,65,27,15.0,0.5555555555555556,bolig
-Socialistisk Folkeparti,Det Konservative Folkeparti,65,9,5.0,0.5555555555555556,bolig
-Socialistisk Folkeparti,Kristendemokraterne,65,2,0.0,0.0,bolig
-Socialistisk Folkeparti,Liberal Alliance,65,3,1.0,0.3333333333333333,bolig
-Socialistisk Folkeparti,Radikale Venstre,65,5,5.0,1.0,bolig
-Socialistisk Folkeparti,Socialdemokratiet,65,81,81.0,1.0,bolig
-Socialistisk Folkeparti,Socialistisk Folkeparti,65,9,9.0,1.0,bolig
-Socialistisk Folkeparti,Uden for folketingsgrupperne,65,15,9.0,0.6,bolig
-Socialistisk Folkeparti,Venstre,65,60,32.0,0.5333333333333333,bolig
-Uden for folketingsgrupperne,Dansk Folkeparti,65,30,27.0,0.9,bolig
-Uden for folketingsgrupperne,Det Konservative Folkeparti,65,3,3.0,1.0,bolig
-Uden for folketingsgrupperne,Kristendemokraterne,65,2,2.0,1.0,bolig
-Uden for folketingsgrupperne,Liberal Alliance,65,3,3.0,1.0,bolig
-Uden for folketingsgrupperne,Radikale Venstre,65,5,3.0,0.6,bolig
-Uden for folketingsgrupperne,Socialdemokratiet,65,72,37.0,0.5138888888888888,bolig
-Uden for folketingsgrupperne,Socialistisk Folkeparti,65,10,4.0,0.4,bolig
-Uden for folketingsgrupperne,Uden for folketingsgrupperne,65,9,6.0,0.6666666666666666,bolig
-Uden for folketingsgrupperne,Venstre,65,48,43.0,0.8958333333333334,bolig
-Venstre,Danmarksdemokraterne,65,15,15.0,1.0,bolig
-Venstre,Dansk Folkeparti,65,134,134.0,1.0,bolig
-Venstre,Det Konservative Folkeparti,65,34,34.0,1.0,bolig
-Venstre,Kristendemokraterne,65,11,11.0,1.0,bolig
-Venstre,Liberal Alliance,65,22,22.0,1.0,bolig
-Venstre,Radikale Venstre,65,24,13.0,0.5416666666666666,bolig
-Venstre,Socialdemokratiet,65,395,191.0,0.4835443037974684,bolig
-Venstre,Socialistisk Folkeparti,65,61,25.0,0.4098360655737705,bolig
-Venstre,Uden for folketingsgrupperne,65,73,62.0,0.8493150684931506,bolig
-Venstre,Venstre,65,291,291.0,1.0,bolig
-Alternativet,Radikale Venstre,70,14,8.0,0.5714285714285714,bolig
-Alternativet,Venstre,70,19,8.0,0.42105263157894735,bolig
-Danmarksdemokraterne,Alternativet,70,106,43.0,0.4056603773584906,bolig
-Danmarksdemokraterne,Danmarksdemokraterne,70,567,518.0,0.9135802469135802,bolig
-Danmarksdemokraterne,Dansk Folkeparti,70,383,358.0,0.9347258485639687,bolig
-Danmarksdemokraterne,Det Konservative Folkeparti,70,101,77.0,0.7623762376237624,bolig
-Danmarksdemokraterne,Enhedslisten,70,607,237.0,0.3904448105436573,bolig
-Danmarksdemokraterne,Liberal Alliance,70,223,162.0,0.726457399103139,bolig
-Danmarksdemokraterne,Radikale Venstre,70,723,418.0,0.5781466113416321,bolig
-Danmarksdemokraterne,Socialdemokratiet,70,2948,1938.0,0.6573948439620081,bolig
-Danmarksdemokraterne,Socialistisk Folkeparti,70,340,155.0,0.45588235294117646,bolig
-Danmarksdemokraterne,Uden for folketingsgrupperne,70,512,462.0,0.90234375,bolig
-Danmarksdemokraterne,Venstre,70,2520,1867.0,0.7408730158730159,bolig
-Dansk Folkeparti,Alternativet,70,50,21.0,0.42,bolig
-Dansk Folkeparti,Danmarksdemokraterne,70,154,154.0,1.0,bolig
-Dansk Folkeparti,Dansk Folkeparti,70,75,75.0,1.0,bolig
-Dansk Folkeparti,Det Konservative Folkeparti,70,10,8.0,0.8,bolig
-Dansk Folkeparti,Enhedslisten,70,270,95.0,0.35185185185185186,bolig
-Dansk Folkeparti,Liberal Alliance,70,84,62.0,0.7380952380952381,bolig
-Dansk Folkeparti,Radikale Venstre,70,220,128.0,0.5818181818181818,bolig
-Dansk Folkeparti,Socialdemokratiet,70,870,548.0,0.6298850574712643,bolig
-Dansk Folkeparti,Socialistisk Folkeparti,70,40,15.0,0.375,bolig
-Dansk Folkeparti,Uden for folketingsgrupperne,70,78,70.0,0.8974358974358975,bolig
-Dansk Folkeparti,Venstre,70,740,554.0,0.7486486486486487,bolig
-Det Konservative Folkeparti,Alternativet,70,5,2.0,0.4,bolig
-Det Konservative Folkeparti,Danmarksdemokraterne,70,17,14.0,0.8235294117647058,bolig
-Det Konservative Folkeparti,Dansk Folkeparti,70,33,28.0,0.8484848484848485,bolig
-Det Konservative Folkeparti,Det Konservative Folkeparti,70,5,5.0,1.0,bolig
-Det Konservative Folkeparti,Enhedslisten,70,49,16.0,0.32653061224489793,bolig
-Det Konservative Folkeparti,Liberal Alliance,70,15,10.0,0.6666666666666666,bolig
-Det Konservative Folkeparti,Radikale Venstre,70,42,25.0,0.5952380952380952,bolig
-Det Konservative Folkeparti,Socialdemokratiet,70,117,83.0,0.7094017094017094,bolig
-Det Konservative Folkeparti,Uden for folketingsgrupperne,70,20,17.0,0.85,bolig
-Det Konservative Folkeparti,Venstre,70,86,82.0,0.9534883720930233,bolig
-Enhedslisten,Alternativet,70,62,56.0,0.9032258064516129,bolig
-Enhedslisten,Danmarksdemokraterne,70,252,104.0,0.4126984126984127,bolig
-Enhedslisten,Dansk Folkeparti,70,119,42.0,0.35294117647058826,bolig
-Enhedslisten,Det Konservative Folkeparti,70,23,7.0,0.30434782608695654,bolig
-Enhedslisten,Enhedslisten,70,233,229.0,0.9828326180257511,bolig
-Enhedslisten,Liberal Alliance,70,60,28.0,0.4666666666666667,bolig
-Enhedslisten,Radikale Venstre,70,289,198.0,0.6851211072664359,bolig
-Enhedslisten,Socialdemokratiet,70,1138,739.0,0.6493848857644992,bolig
-Enhedslisten,Socialistisk Folkeparti,70,106,82.0,0.7735849056603774,bolig
-Enhedslisten,Uden for folketingsgrupperne,70,151,55.0,0.36423841059602646,bolig
-Enhedslisten,Venstre,70,1060,474.0,0.44716981132075473,bolig
-Liberal Alliance,Alternativet,70,23,11.0,0.4782608695652174,bolig
-Liberal Alliance,Danmarksdemokraterne,70,40,28.0,0.7,bolig
-Liberal Alliance,Dansk Folkeparti,70,30,17.0,0.5666666666666667,bolig
-Liberal Alliance,Det Konservative Folkeparti,70,7,4.0,0.5714285714285714,bolig
-Liberal Alliance,Enhedslisten,70,113,50.0,0.4424778761061947,bolig
-Liberal Alliance,Radikale Venstre,70,96,60.0,0.625,bolig
-Liberal Alliance,Socialdemokratiet,70,282,195.0,0.6914893617021277,bolig
-Liberal Alliance,Socialistisk Folkeparti,70,5,2.0,0.4,bolig
-Liberal Alliance,Uden for folketingsgrupperne,70,2,0.0,0.0,bolig
-Liberal Alliance,Venstre,70,237,185.0,0.7805907172995781,bolig
-Radikale Venstre,Alternativet,70,62,47.0,0.7580645161290323,bolig
-Radikale Venstre,Danmarksdemokraterne,70,181,91.0,0.5027624309392266,bolig
-Radikale Venstre,Dansk Folkeparti,70,171,89.0,0.52046783625731,bolig
-Radikale Venstre,Det Konservative Folkeparti,70,35,19.0,0.5428571428571428,bolig
-Radikale Venstre,Enhedslisten,70,319,239.0,0.7492163009404389,bolig
-Radikale Venstre,Liberal Alliance,70,86,54.0,0.627906976744186,bolig
-Radikale Venstre,Radikale Venstre,70,224,224.0,1.0,bolig
-Radikale Venstre,Socialdemokratiet,70,1076,935.0,0.8689591078066915,bolig
-Radikale Venstre,Socialistisk Folkeparti,70,56,50.0,0.8928571428571429,bolig
-Radikale Venstre,Uden for folketingsgrupperne,70,134,76.0,0.5671641791044776,bolig
-Radikale Venstre,Venstre,70,878,591.0,0.673120728929385,bolig
-Socialdemokratiet,Alternativet,70,389,217.0,0.5578406169665809,bolig
-Socialdemokratiet,Danmarksdemokraterne,70,1538,960.0,0.6241872561768531,bolig
-Socialdemokratiet,Dansk Folkeparti,70,1048,602.0,0.5744274809160306,bolig
-Socialdemokratiet,Det Konservative Folkeparti,70,219,137.0,0.6255707762557078,bolig
-Socialdemokratiet,Enhedslisten,70,1849,1191.0,0.644131963223364,bolig
-Socialdemokratiet,Liberal Alliance,70,620,426.0,0.6870967741935484,bolig
-Socialdemokratiet,Radikale Venstre,70,1994,1777.0,0.8911735205616851,bolig
-Socialdemokratiet,Socialdemokratiet,70,7313,7263.0,0.9931628606591002,bolig
-Socialdemokratiet,Socialistisk Folkeparti,70,732,584.0,0.7978142076502732,bolig
-Socialdemokratiet,Uden for folketingsgrupperne,70,1198,739.0,0.6168614357262103,bolig
-Socialdemokratiet,Venstre,70,6555,5264.0,0.8030511060259344,bolig
-Socialistisk Folkeparti,Alternativet,70,32,25.0,0.78125,bolig
-Socialistisk Folkeparti,Danmarksdemokraterne,70,52,24.0,0.46153846153846156,bolig
-Socialistisk Folkeparti,Dansk Folkeparti,70,131,57.0,0.4351145038167939,bolig
-Socialistisk Folkeparti,Det Konservative Folkeparti,70,24,8.0,0.3333333333333333,bolig
-Socialistisk Folkeparti,Enhedslisten,70,163,131.0,0.803680981595092,bolig
-Socialistisk Folkeparti,Liberal Alliance,70,74,45.0,0.6081081081081081,bolig
-Socialistisk Folkeparti,Radikale Venstre,70,228,194.0,0.8508771929824561,bolig
-Socialistisk Folkeparti,Socialdemokratiet,70,622,499.0,0.8022508038585209,bolig
-Socialistisk Folkeparti,Socialistisk Folkeparti,70,38,38.0,1.0,bolig
-Socialistisk Folkeparti,Uden for folketingsgrupperne,70,165,75.0,0.45454545454545453,bolig
-Socialistisk Folkeparti,Venstre,70,578,363.0,0.6280276816608996,bolig
-Uden for folketingsgrupperne,Alternativet,70,55,23.0,0.41818181818181815,bolig
-Uden for folketingsgrupperne,Danmarksdemokraterne,70,94,78.0,0.8297872340425532,bolig
-Uden for folketingsgrupperne,Dansk Folkeparti,70,201,188.0,0.9353233830845771,bolig
-Uden for folketingsgrupperne,Det Konservative Folkeparti,70,36,28.0,0.7777777777777778,bolig
-Uden for folketingsgrupperne,Enhedslisten,70,280,100.0,0.35714285714285715,bolig
-Uden for folketingsgrupperne,Liberal Alliance,70,127,86.0,0.6771653543307087,bolig
-Uden for folketingsgrupperne,Radikale Venstre,70,308,185.0,0.6006493506493507,bolig
-Uden for folketingsgrupperne,Socialdemokratiet,70,978,633.0,0.647239263803681,bolig
-Uden for folketingsgrupperne,Socialistisk Folkeparti,70,38,21.0,0.5526315789473685,bolig
-Uden for folketingsgrupperne,Uden for folketingsgrupperne,70,110,96.0,0.8727272727272727,bolig
-Uden for folketingsgrupperne,Venstre,70,756,554.0,0.7328042328042328,bolig
-Venstre,Alternativet,70,334,146.0,0.437125748502994,bolig
-Venstre,Danmarksdemokraterne,70,1443,1094.0,0.7581427581427581,bolig
-Venstre,Dansk Folkeparti,70,976,703.0,0.7202868852459017,bolig
-Venstre,Det Konservative Folkeparti,70,218,198.0,0.908256880733945,bolig
-Venstre,Enhedslisten,70,1583,688.0,0.43461781427668983,bolig
-Venstre,Liberal Alliance,70,565,438.0,0.7752212389380531,bolig
-Venstre,Radikale Venstre,70,1858,1329.0,0.7152852529601722,bolig
-Venstre,Socialdemokratiet,70,7163,5696.0,0.7951975429289404,bolig
-Venstre,Socialistisk Folkeparti,70,638,397.0,0.622257053291536,bolig
-Venstre,Uden for folketingsgrupperne,70,1167,867.0,0.7429305912596401,bolig
-Venstre,Venstre,70,5724,5724.0,1.0,bolig
-Alternativet,Enhedslisten,71,19,15.0,0.7894736842105263,bolig
-Alternativet,Radikale Venstre,71,16,11.0,0.6875,bolig
-Alternativet,Socialdemokratiet,71,11,7.0,0.6363636363636364,bolig
-Alternativet,Venstre,71,14,9.0,0.6428571428571429,bolig
-Danmarksdemokraterne,Alternativet,71,104,64.0,0.6153846153846154,bolig
-Danmarksdemokraterne,Danmarksdemokraterne,71,621,600.0,0.966183574879227,bolig
-Danmarksdemokraterne,Dansk Folkeparti,71,219,158.0,0.7214611872146118,bolig
-Danmarksdemokraterne,Det Konservative Folkeparti,71,472,370.0,0.7838983050847458,bolig
-Danmarksdemokraterne,Enhedslisten,71,798,501.0,0.6278195488721805,bolig
-Danmarksdemokraterne,Liberal Alliance,71,102,64.0,0.6274509803921569,bolig
-Danmarksdemokraterne,Moderaterne,71,29,13.0,0.4482758620689655,bolig
-Danmarksdemokraterne,Radikale Venstre,71,309,164.0,0.5307443365695793,bolig
-Danmarksdemokraterne,Socialdemokratiet,71,2342,1251.0,0.5341588385994877,bolig
-Danmarksdemokraterne,Socialistisk Folkeparti,71,279,187.0,0.6702508960573477,bolig
-Danmarksdemokraterne,Venstre,71,1487,744.0,0.5003362474781439,bolig
-Dansk Folkeparti,Alternativet,71,24,9.0,0.375,bolig
-Dansk Folkeparti,Danmarksdemokraterne,71,195,149.0,0.764102564102564,bolig
-Dansk Folkeparti,Dansk Folkeparti,71,37,36.0,0.972972972972973,bolig
-Dansk Folkeparti,Det Konservative Folkeparti,71,109,69.0,0.6330275229357798,bolig
-Dansk Folkeparti,Enhedslisten,71,209,126.0,0.6028708133971292,bolig
-Dansk Folkeparti,Liberal Alliance,71,28,21.0,0.75,bolig
-Dansk Folkeparti,Moderaterne,71,8,3.0,0.375,bolig
-Dansk Folkeparti,Radikale Venstre,71,71,37.0,0.5211267605633803,bolig
-Dansk Folkeparti,Socialdemokratiet,71,607,328.0,0.5403624382207578,bolig
-Dansk Folkeparti,Socialistisk Folkeparti,71,87,61.0,0.7011494252873564,bolig
-Dansk Folkeparti,Venstre,71,445,235.0,0.5280898876404494,bolig
-Det Konservative Folkeparti,Alternativet,71,48,28.0,0.5833333333333334,bolig
-Det Konservative Folkeparti,Danmarksdemokraterne,71,227,172.0,0.7577092511013216,bolig
-Det Konservative Folkeparti,Dansk Folkeparti,71,93,57.0,0.6129032258064516,bolig
-Det Konservative Folkeparti,Det Konservative Folkeparti,71,131,129.0,0.9847328244274809,bolig
-Det Konservative Folkeparti,Enhedslisten,71,358,213.0,0.5949720670391061,bolig
-Det Konservative Folkeparti,Liberal Alliance,71,40,27.0,0.675,bolig
-Det Konservative Folkeparti,Moderaterne,71,9,7.0,0.7777777777777778,bolig
-Det Konservative Folkeparti,Radikale Venstre,71,95,51.0,0.5368421052631579,bolig
-Det Konservative Folkeparti,Socialdemokratiet,71,792,545.0,0.6881313131313131,bolig
-Det Konservative Folkeparti,Socialistisk Folkeparti,71,71,61.0,0.8591549295774648,bolig
-Det Konservative Folkeparti,Venstre,71,608,414.0,0.680921052631579,bolig
-Enhedslisten,Alternativet,71,53,45.0,0.8490566037735849,bolig
-Enhedslisten,Danmarksdemokraterne,71,155,91.0,0.5870967741935483,bolig
-Enhedslisten,Dansk Folkeparti,71,67,46.0,0.6865671641791045,bolig
-Enhedslisten,Det Konservative Folkeparti,71,105,65.0,0.6190476190476191,bolig
-Enhedslisten,Enhedslisten,71,254,254.0,1.0,bolig
-Enhedslisten,Liberal Alliance,71,15,12.0,0.8,bolig
-Enhedslisten,Moderaterne,71,1,0.0,0.0,bolig
-Enhedslisten,Radikale Venstre,71,137,116.0,0.8467153284671532,bolig
-Enhedslisten,Socialdemokratiet,71,526,388.0,0.7376425855513308,bolig
-Enhedslisten,Socialistisk Folkeparti,71,50,42.0,0.84,bolig
-Enhedslisten,Venstre,71,407,275.0,0.6756756756756757,bolig
-Liberal Alliance,Alternativet,71,20,14.0,0.7,bolig
-Liberal Alliance,Danmarksdemokraterne,71,158,124.0,0.7848101265822784,bolig
-Liberal Alliance,Dansk Folkeparti,71,51,39.0,0.7647058823529411,bolig
-Liberal Alliance,Det Konservative Folkeparti,71,80,57.0,0.7125,bolig
-Liberal Alliance,Enhedslisten,71,162,116.0,0.7160493827160493,bolig
-Liberal Alliance,Liberal Alliance,71,12,12.0,1.0,bolig
-Liberal Alliance,Moderaterne,71,14,6.0,0.42857142857142855,bolig
-Liberal Alliance,Radikale Venstre,71,55,32.0,0.5818181818181818,bolig
-Liberal Alliance,Socialdemokratiet,71,428,237.0,0.5537383177570093,bolig
-Liberal Alliance,Socialistisk Folkeparti,71,56,43.0,0.7678571428571429,bolig
-Liberal Alliance,Venstre,71,342,188.0,0.5497076023391813,bolig
-Moderaterne,Alternativet,71,9,7.0,0.7777777777777778,bolig
-Moderaterne,Danmarksdemokraterne,71,64,29.0,0.453125,bolig
-Moderaterne,Dansk Folkeparti,71,21,8.0,0.38095238095238093,bolig
-Moderaterne,Det Konservative Folkeparti,71,36,16.0,0.4444444444444444,bolig
-Moderaterne,Enhedslisten,71,65,39.0,0.6,bolig
-Moderaterne,Liberal Alliance,71,8,4.0,0.5,bolig
-Moderaterne,Moderaterne,71,1,1.0,1.0,bolig
-Moderaterne,Radikale Venstre,71,30,24.0,0.8,bolig
-Moderaterne,Socialdemokratiet,71,204,204.0,1.0,bolig
-Moderaterne,Socialistisk Folkeparti,71,32,21.0,0.65625,bolig
-Moderaterne,Venstre,71,132,132.0,1.0,bolig
-Radikale Venstre,Alternativet,71,16,11.0,0.6875,bolig
-Radikale Venstre,Danmarksdemokraterne,71,80,48.0,0.6,bolig
-Radikale Venstre,Dansk Folkeparti,71,43,21.0,0.4883720930232558,bolig
-Radikale Venstre,Det Konservative Folkeparti,71,91,51.0,0.5604395604395604,bolig
-Radikale Venstre,Enhedslisten,71,128,100.0,0.78125,bolig
-Radikale Venstre,Liberal Alliance,71,20,13.0,0.65,bolig
-Radikale Venstre,Radikale Venstre,71,27,27.0,1.0,bolig
-Radikale Venstre,Socialdemokratiet,71,326,289.0,0.8865030674846626,bolig
-Radikale Venstre,Socialistisk Folkeparti,71,9,5.0,0.5555555555555556,bolig
-Radikale Venstre,Venstre,71,219,192.0,0.8767123287671232,bolig
-Socialdemokratiet,Alternativet,71,299,183.0,0.6120401337792643,bolig
-Socialdemokratiet,Danmarksdemokraterne,71,2093,1118.0,0.5341614906832298,bolig
-Socialdemokratiet,Dansk Folkeparti,71,684,346.0,0.5058479532163743,bolig
-Socialdemokratiet,Det Konservative Folkeparti,71,1387,836.0,0.6027397260273972,bolig
-Socialdemokratiet,Enhedslisten,71,2411,1628.0,0.6752384902530071,bolig
-Socialdemokratiet,Liberal Alliance,71,372,252.0,0.6774193548387096,bolig
-Socialdemokratiet,Moderaterne,71,83,83.0,1.0,bolig
-Socialdemokratiet,Radikale Venstre,71,869,748.0,0.8607594936708861,bolig
-Socialdemokratiet,Socialdemokratiet,71,6548,6548.0,1.0,bolig
-Socialdemokratiet,Socialistisk Folkeparti,71,885,740.0,0.8361581920903954,bolig
-Socialdemokratiet,Venstre,71,4801,4801.0,1.0,bolig
-Socialistisk Folkeparti,Alternativet,71,44,29.0,0.6590909090909091,bolig
-Socialistisk Folkeparti,Danmarksdemokraterne,71,412,257.0,0.6237864077669902,bolig
-Socialistisk Folkeparti,Dansk Folkeparti,71,116,81.0,0.6982758620689655,bolig
-Socialistisk Folkeparti,Det Konservative Folkeparti,71,264,183.0,0.6931818181818182,bolig
-Socialistisk Folkeparti,Enhedslisten,71,411,342.0,0.8321167883211679,bolig
-Socialistisk Folkeparti,Liberal Alliance,71,74,59.0,0.7972972972972973,bolig
-Socialistisk Folkeparti,Moderaterne,71,19,12.0,0.631578947368421,bolig
-Socialistisk Folkeparti,Radikale Venstre,71,179,150.0,0.8379888268156425,bolig
-Socialistisk Folkeparti,Socialdemokratiet,71,1255,1102.0,0.8780876494023905,bolig
-Socialistisk Folkeparti,Socialistisk Folkeparti,71,136,136.0,1.0,bolig
-Socialistisk Folkeparti,Venstre,71,935,813.0,0.8695187165775401,bolig
-Venstre,Alternativet,71,206,127.0,0.616504854368932,bolig
-Venstre,Danmarksdemokraterne,71,1508,770.0,0.5106100795755968,bolig
-Venstre,Dansk Folkeparti,71,423,196.0,0.46335697399527187,bolig
-Venstre,Det Konservative Folkeparti,71,879,511.0,0.5813424345847554,bolig
-Venstre,Enhedslisten,71,1610,1055.0,0.65527950310559,bolig
-Venstre,Liberal Alliance,71,214,145.0,0.677570093457944,bolig
-Venstre,Moderaterne,71,84,84.0,1.0,bolig
-Venstre,Radikale Venstre,71,614,519.0,0.8452768729641694,bolig
-Venstre,Socialdemokratiet,71,4588,4588.0,1.0,bolig
-Venstre,Socialistisk Folkeparti,71,552,462.0,0.8369565217391305,bolig
-Venstre,Venstre,71,3079,3079.0,1.0,bolig
+Uden for folketingsgrupperne,Radikale Venstre,69,1315,687.0,0.5224334600760456,bolig
+Uden for folketingsgrupperne,Socialdemokratiet,69,6231,4554.0,0.7308618199325951,bolig
+Uden for folketingsgrupperne,Socialistisk Folkeparti,69,815,368.0,0.45153374233128835,bolig
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,69,771,720.0,0.933852140077821,bolig
+Uden for folketingsgrupperne,Venstre,69,3281,3055.0,0.931118561414203,bolig
+Venstre,Alternativet,69,12880,5546.0,0.43059006211180123,bolig
+Venstre,Danmarksdemokraterne,69,9346,8287.0,0.8866894928311577,bolig
+Venstre,Dansk Folkeparti,69,33393,28472.0,0.8526337855239122,bolig
+Venstre,Det Konservative Folkeparti,69,6918,6866.0,0.9924833766984678,bolig
+Venstre,Enhedslisten,69,19710,5805.0,0.2945205479452055,bolig
+Venstre,Liberal Alliance,69,15619,15364.0,0.9836737307125937,bolig
+Venstre,Moderaterne,69,918,907.0,0.9880174291938998,bolig
+Venstre,Radikale Venstre,69,9854,6287.0,0.63801501928151,bolig
+Venstre,Socialdemokratiet,69,61393,50077.0,0.8156793119736778,bolig
+Venstre,Socialistisk Folkeparti,69,10129,4837.0,0.47753973738769867,bolig
+Venstre,Uden for folketingsgrupperne,69,8215,7811.0,0.9508216676810712,bolig
+Venstre,Venstre,69,31515,31515.0,1.0,bolig
+Alternativet,Alternativet,70,51,44.0,0.8627450980392157,bolig
+Alternativet,Danmarksdemokraterne,70,1,0.0,0.0,bolig
+Alternativet,Dansk Folkeparti,70,4,3.0,0.75,bolig
+Alternativet,Det Konservative Folkeparti,70,26,3.0,0.11538461538461539,bolig
+Alternativet,Enhedslisten,70,175,150.0,0.8571428571428571,bolig
+Alternativet,Frie Grønne,70,10,10.0,1.0,bolig
+Alternativet,Liberal Alliance,70,16,8.0,0.5,bolig
+Alternativet,Radikale Venstre,70,121,81.0,0.6694214876033058,bolig
+Alternativet,Socialdemokratiet,70,205,102.0,0.4975609756097561,bolig
+Alternativet,Socialistisk Folkeparti,70,99,85.0,0.8585858585858586,bolig
+Alternativet,Uden for folketingsgrupperne,70,18,9.0,0.5,bolig
+Alternativet,Venstre,70,278,111.0,0.39928057553956836,bolig
+Borgernes Parti,Alternativet,70,79,19.0,0.24050632911392406,bolig
+Borgernes Parti,Danmarksdemokraterne,70,105,72.0,0.6857142857142857,bolig
+Borgernes Parti,Dansk Folkeparti,70,155,115.0,0.7419354838709677,bolig
+Borgernes Parti,Det Konservative Folkeparti,70,312,217.0,0.6955128205128205,bolig
+Borgernes Parti,Enhedslisten,70,292,58.0,0.19863013698630136,bolig
+Borgernes Parti,Frie Grønne,70,76,17.0,0.2236842105263158,bolig
+Borgernes Parti,Liberal Alliance,70,84,68.0,0.8095238095238095,bolig
+Borgernes Parti,Radikale Venstre,70,311,71.0,0.2282958199356913,bolig
+Borgernes Parti,Socialdemokratiet,70,830,363.0,0.43734939759036146,bolig
+Borgernes Parti,Socialistisk Folkeparti,70,157,52.0,0.33121019108280253,bolig
+Borgernes Parti,Uden for folketingsgrupperne,70,156,101.0,0.6474358974358975,bolig
+Borgernes Parti,Venstre,70,706,427.0,0.6048158640226629,bolig
+Danmarksdemokraterne,Alternativet,70,1178,487.0,0.4134125636672326,bolig
+Danmarksdemokraterne,Borgernes Parti,70,293,190.0,0.6484641638225256,bolig
+Danmarksdemokraterne,Danmarksdemokraterne,70,2551,2343.0,0.9184633477067816,bolig
+Danmarksdemokraterne,Dansk Folkeparti,70,2065,1739.0,0.8421307506053268,bolig
+Danmarksdemokraterne,Det Konservative Folkeparti,70,4453,3405.0,0.7646530428924321,bolig
+Danmarksdemokraterne,Enhedslisten,70,4882,2180.0,0.44653830397378125,bolig
+Danmarksdemokraterne,Frie Grønne,70,1112,490.0,0.44064748201438847,bolig
+Danmarksdemokraterne,Liberal Alliance,70,1460,920.0,0.6301369863013698,bolig
+Danmarksdemokraterne,Radikale Venstre,70,6091,3190.0,0.5237235265145296,bolig
+Danmarksdemokraterne,Sambandsflokkurin,70,3,1.0,0.3333333333333333,bolig
+Danmarksdemokraterne,Socialdemokratiet,70,15630,10651.0,0.681445937300064,bolig
+Danmarksdemokraterne,Socialistisk Folkeparti,70,4001,1947.0,0.48662834291427143,bolig
+Danmarksdemokraterne,Uden for folketingsgrupperne,70,2580,2012.0,0.7798449612403101,bolig
+Danmarksdemokraterne,Venstre,70,12407,9623.0,0.7756105424357218,bolig
+Dansk Folkeparti,Alternativet,70,525,182.0,0.3466666666666667,bolig
+Dansk Folkeparti,Borgernes Parti,70,31,18.0,0.5806451612903226,bolig
+Dansk Folkeparti,Danmarksdemokraterne,70,616,564.0,0.9155844155844156,bolig
+Dansk Folkeparti,Dansk Folkeparti,70,477,399.0,0.8364779874213837,bolig
+Dansk Folkeparti,Det Konservative Folkeparti,70,1171,858.0,0.7327070879590094,bolig
+Dansk Folkeparti,Enhedslisten,70,1840,682.0,0.3706521739130435,bolig
+Dansk Folkeparti,Frie Grønne,70,569,212.0,0.37258347978910367,bolig
+Dansk Folkeparti,Liberal Alliance,70,527,361.0,0.6850094876660342,bolig
+Dansk Folkeparti,Radikale Venstre,70,1907,854.0,0.44782380702674357,bolig
+Dansk Folkeparti,Socialdemokratiet,70,4505,2466.0,0.5473917869034406,bolig
+Dansk Folkeparti,Socialistisk Folkeparti,70,1193,472.0,0.3956412405699916,bolig
+Dansk Folkeparti,Uden for folketingsgrupperne,70,583,426.0,0.7307032590051458,bolig
+Dansk Folkeparti,Venstre,70,3600,2640.0,0.7333333333333333,bolig
+Det Konservative Folkeparti,Alternativet,70,1262,584.0,0.46275752773375595,bolig
+Det Konservative Folkeparti,Borgernes Parti,70,154,103.0,0.6688311688311688,bolig
+Det Konservative Folkeparti,Danmarksdemokraterne,70,2120,1630.0,0.7688679245283019,bolig
+Det Konservative Folkeparti,Dansk Folkeparti,70,1984,1404.0,0.7076612903225806,bolig
+Det Konservative Folkeparti,Det Konservative Folkeparti,70,3357,3350.0,0.9979148048853143,bolig
+Det Konservative Folkeparti,Enhedslisten,70,5116,2413.0,0.47165754495699763,bolig
+Det Konservative Folkeparti,Frie Grønne,70,1377,606.0,0.4400871459694989,bolig
+Det Konservative Folkeparti,Liberal Alliance,70,1436,1066.0,0.7423398328690808,bolig
+Det Konservative Folkeparti,Radikale Venstre,70,5687,3324.0,0.584490944258836,bolig
+Det Konservative Folkeparti,Sambandsflokkurin,70,6,6.0,1.0,bolig
+Det Konservative Folkeparti,Socialdemokratiet,70,13524,9006.0,0.665927240461402,bolig
+Det Konservative Folkeparti,Socialistisk Folkeparti,70,3589,1871.0,0.5213151295625522,bolig
+Det Konservative Folkeparti,Uden for folketingsgrupperne,70,2156,1564.0,0.725417439703154,bolig
+Det Konservative Folkeparti,Venstre,70,11093,10383.0,0.9359956729469034,bolig
+Enhedslisten,Alternativet,70,1242,1053.0,0.8478260869565217,bolig
+Enhedslisten,Borgernes Parti,70,210,52.0,0.24761904761904763,bolig
+Enhedslisten,Danmarksdemokraterne,70,2254,919.0,0.4077196095829636,bolig
+Enhedslisten,Dansk Folkeparti,70,1544,590.0,0.38212435233160624,bolig
+Enhedslisten,Det Konservative Folkeparti,70,3182,1401.0,0.44028912633563794,bolig
+Enhedslisten,Enhedslisten,70,3872,3865.0,0.9981921487603306,bolig
+Enhedslisten,Frie Grønne,70,1125,959.0,0.8524444444444444,bolig
+Enhedslisten,Liberal Alliance,70,1080,368.0,0.34074074074074073,bolig
+Enhedslisten,Radikale Venstre,70,5248,4005.0,0.7631478658536586,bolig
+Enhedslisten,Socialdemokratiet,70,12642,8197.0,0.6483942414174972,bolig
+Enhedslisten,Socialistisk Folkeparti,70,3401,2887.0,0.8488679800058806,bolig
+Enhedslisten,Uden for folketingsgrupperne,70,1933,808.0,0.4180031039834454,bolig
+Enhedslisten,Venstre,70,10328,4516.0,0.4372579395817196,bolig
+Frie Grønne,Alternativet,70,210,183.0,0.8714285714285714,bolig
+Frie Grønne,Danmarksdemokraterne,70,74,23.0,0.3108108108108108,bolig
+Frie Grønne,Det Konservative Folkeparti,70,31,21.0,0.6774193548387096,bolig
+Frie Grønne,Enhedslisten,70,375,325.0,0.8666666666666667,bolig
+Frie Grønne,Frie Grønne,70,45,45.0,1.0,bolig
+Frie Grønne,Radikale Venstre,70,217,159.0,0.7327188940092166,bolig
+Frie Grønne,Socialdemokratiet,70,544,330.0,0.6066176470588235,bolig
+Frie Grønne,Socialistisk Folkeparti,70,204,165.0,0.8088235294117647,bolig
+Frie Grønne,Venstre,70,538,257.0,0.47769516728624534,bolig
+Liberal Alliance,Alternativet,70,448,169.0,0.37723214285714285,bolig
+Liberal Alliance,Borgernes Parti,70,73,48.0,0.6575342465753424,bolig
+Liberal Alliance,Danmarksdemokraterne,70,866,608.0,0.7020785219399538,bolig
+Liberal Alliance,Dansk Folkeparti,70,534,352.0,0.6591760299625468,bolig
+Liberal Alliance,Det Konservative Folkeparti,70,1166,936.0,0.8027444253859348,bolig
+Liberal Alliance,Enhedslisten,70,1751,597.0,0.3409480296973158,bolig
+Liberal Alliance,Frie Grønne,70,474,169.0,0.35654008438818563,bolig
+Liberal Alliance,Liberal Alliance,70,314,236.0,0.7515923566878981,bolig
+Liberal Alliance,Radikale Venstre,70,2025,1036.0,0.5116049382716049,bolig
+Liberal Alliance,Socialdemokratiet,70,5006,3227.0,0.6446264482620855,bolig
+Liberal Alliance,Socialistisk Folkeparti,70,1411,591.0,0.41885187810063784,bolig
+Liberal Alliance,Uden for folketingsgrupperne,70,756,518.0,0.6851851851851852,bolig
+Liberal Alliance,Venstre,70,3865,3005.0,0.777490297542044,bolig
+Radikale Venstre,Alternativet,70,1520,1259.0,0.8282894736842106,bolig
+Radikale Venstre,Borgernes Parti,70,242,63.0,0.2603305785123967,bolig
+Radikale Venstre,Danmarksdemokraterne,70,2045,1002.0,0.4899755501222494,bolig
+Radikale Venstre,Dansk Folkeparti,70,1944,817.0,0.4202674897119342,bolig
+Radikale Venstre,Det Konservative Folkeparti,70,3725,2190.0,0.5879194630872483,bolig
+Radikale Venstre,Enhedslisten,70,4896,3785.0,0.7730800653594772,bolig
+Radikale Venstre,Frie Grønne,70,1496,1128.0,0.7540106951871658,bolig
+Radikale Venstre,Liberal Alliance,70,1203,530.0,0.4405652535328346,bolig
+Radikale Venstre,Radikale Venstre,70,5159,5118.0,0.992052723396007,bolig
+Radikale Venstre,Sambandsflokkurin,70,6,4.0,0.6666666666666666,bolig
+Radikale Venstre,Socialdemokratiet,70,13334,10733.0,0.8049347532623369,bolig
+Radikale Venstre,Socialistisk Folkeparti,70,3489,2752.0,0.7887646890226426,bolig
+Radikale Venstre,Uden for folketingsgrupperne,70,2151,1052.0,0.48907484890748487,bolig
+Radikale Venstre,Venstre,70,11506,7161.0,0.6223709369024857,bolig
+Sambandsflokkurin,Alternativet,70,3,1.0,0.3333333333333333,bolig
+Sambandsflokkurin,Danmarksdemokraterne,70,16,6.0,0.375,bolig
+Sambandsflokkurin,Dansk Folkeparti,70,13,5.0,0.38461538461538464,bolig
+Sambandsflokkurin,Det Konservative Folkeparti,70,16,16.0,1.0,bolig
+Sambandsflokkurin,Enhedslisten,70,24,16.0,0.6666666666666666,bolig
+Sambandsflokkurin,Frie Grønne,70,4,1.0,0.25,bolig
+Sambandsflokkurin,Liberal Alliance,70,7,7.0,1.0,bolig
+Sambandsflokkurin,Radikale Venstre,70,21,14.0,0.6666666666666666,bolig
+Sambandsflokkurin,Socialdemokratiet,70,56,56.0,1.0,bolig
+Sambandsflokkurin,Socialistisk Folkeparti,70,15,10.0,0.6666666666666666,bolig
+Sambandsflokkurin,Uden for folketingsgrupperne,70,9,6.0,0.6666666666666666,bolig
+Sambandsflokkurin,Venstre,70,54,54.0,1.0,bolig
+Socialdemokratiet,Alternativet,70,5197,3515.0,0.676351741389263,bolig
+Socialdemokratiet,Borgernes Parti,70,1145,475.0,0.4148471615720524,bolig
+Socialdemokratiet,Danmarksdemokraterne,70,11421,7432.0,0.6507311093599509,bolig
+Socialdemokratiet,Dansk Folkeparti,70,8253,4407.0,0.5339876408578699,bolig
+Socialdemokratiet,Det Konservative Folkeparti,70,17786,11943.0,0.6714831890250759,bolig
+Socialdemokratiet,Enhedslisten,70,21101,13812.0,0.654566134306431,bolig
+Socialdemokratiet,Frie Grønne,70,5067,3115.0,0.6147621866982436,bolig
+Socialdemokratiet,Liberal Alliance,70,5810,3263.0,0.561617900172117,bolig
+Socialdemokratiet,Radikale Venstre,70,24979,20532.0,0.8219704551823531,bolig
+Socialdemokratiet,Sambandsflokkurin,70,24,24.0,1.0,bolig
+Socialdemokratiet,Socialdemokratiet,70,62027,61968.0,0.9990488013284538,bolig
+Socialdemokratiet,Socialistisk Folkeparti,70,17125,13475.0,0.7868613138686131,bolig
+Socialdemokratiet,Uden for folketingsgrupperne,70,9915,5520.0,0.556732223903177,bolig
+Socialdemokratiet,Venstre,70,52182,36086.0,0.6915411444559426,bolig
+Socialistisk Folkeparti,Alternativet,70,1540,1292.0,0.8389610389610389,bolig
+Socialistisk Folkeparti,Borgernes Parti,70,426,104.0,0.24413145539906103,bolig
+Socialistisk Folkeparti,Danmarksdemokraterne,70,4304,2034.0,0.4725836431226766,bolig
+Socialistisk Folkeparti,Dansk Folkeparti,70,2744,1046.0,0.3811953352769679,bolig
+Socialistisk Folkeparti,Det Konservative Folkeparti,70,6061,2896.0,0.4778089424187428,bolig
+Socialistisk Folkeparti,Enhedslisten,70,6970,5858.0,0.8404591104734577,bolig
+Socialistisk Folkeparti,Frie Grønne,70,1536,1207.0,0.7858072916666666,bolig
+Socialistisk Folkeparti,Liberal Alliance,70,1891,756.0,0.39978847170809095,bolig
+Socialistisk Folkeparti,Radikale Venstre,70,8307,6625.0,0.7975201637173468,bolig
+Socialistisk Folkeparti,Sambandsflokkurin,70,12,8.0,0.6666666666666666,bolig
+Socialistisk Folkeparti,Socialdemokratiet,70,22097,17348.0,0.7850839480472462,bolig
+Socialistisk Folkeparti,Socialistisk Folkeparti,70,5342,5301.0,0.992324971920629,bolig
+Socialistisk Folkeparti,Uden for folketingsgrupperne,70,3573,1618.0,0.4528407500699692,bolig
+Socialistisk Folkeparti,Venstre,70,18038,8786.0,0.4870828251469121,bolig
+Uden for folketingsgrupperne,Alternativet,70,608,260.0,0.4276315789473684,bolig
+Uden for folketingsgrupperne,Borgernes Parti,70,61,33.0,0.5409836065573771,bolig
+Uden for folketingsgrupperne,Danmarksdemokraterne,70,612,457.0,0.7467320261437909,bolig
+Uden for folketingsgrupperne,Dansk Folkeparti,70,916,703.0,0.767467248908297,bolig
+Uden for folketingsgrupperne,Det Konservative Folkeparti,70,1528,1141.0,0.7467277486910995,bolig
+Uden for folketingsgrupperne,Enhedslisten,70,2046,900.0,0.4398826979472141,bolig
+Uden for folketingsgrupperne,Frie Grønne,70,696,308.0,0.4425287356321839,bolig
+Uden for folketingsgrupperne,Liberal Alliance,70,528,327.0,0.6193181818181818,bolig
+Uden for folketingsgrupperne,Radikale Venstre,70,2381,1231.0,0.5170096598068039,bolig
+Uden for folketingsgrupperne,Socialdemokratiet,70,5085,3083.0,0.6062930186823993,bolig
+Uden for folketingsgrupperne,Socialistisk Folkeparti,70,1069,540.0,0.5051449953227315,bolig
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,70,711,471.0,0.6624472573839663,bolig
+Uden for folketingsgrupperne,Venstre,70,3919,2946.0,0.7517223781576933,bolig
+Venstre,Alternativet,70,4041,1781.0,0.4407324919574363,bolig
+Venstre,Borgernes Parti,70,862,526.0,0.6102088167053364,bolig
+Venstre,Danmarksdemokraterne,70,9184,7365.0,0.8019381533101045,bolig
+Venstre,Dansk Folkeparti,70,6567,4723.0,0.719202070960865,bolig
+Venstre,Det Konservative Folkeparti,70,13964,12985.0,0.9298911486680035,bolig
+Venstre,Enhedslisten,70,16690,7262.0,0.4351108448172558,bolig
+Venstre,Frie Grønne,70,3971,1784.0,0.44925711407705865,bolig
+Venstre,Liberal Alliance,70,4797,3559.0,0.7419220346049614,bolig
+Venstre,Radikale Venstre,70,19216,11398.0,0.5931515403830142,bolig
+Venstre,Sambandsflokkurin,70,10,10.0,1.0,bolig
+Venstre,Socialdemokratiet,70,50609,34358.0,0.678891106324962,bolig
+Venstre,Socialistisk Folkeparti,70,13372,6688.0,0.5001495662578522,bolig
+Venstre,Uden for folketingsgrupperne,70,8083,6149.0,0.7607324013361376,bolig
+Venstre,Venstre,70,39434,39354.0,0.9979712938073744,bolig
+Alternativet,Alternativet,71,492,437.0,0.8882113821138211,bolig
+Alternativet,Borgernes Parti,71,138,49.0,0.35507246376811596,bolig
+Alternativet,Danmarksdemokraterne,71,2030,1041.0,0.512807881773399,bolig
+Alternativet,Dansk Folkeparti,71,792,410.0,0.5176767676767676,bolig
+Alternativet,Det Konservative Folkeparti,71,1178,599.0,0.5084889643463497,bolig
+Alternativet,Enhedslisten,71,1422,1143.0,0.8037974683544303,bolig
+Alternativet,Liberal Alliance,71,1998,944.0,0.4724724724724725,bolig
+Alternativet,Moderaterne,71,1418,866.0,0.610719322990127,bolig
+Alternativet,Radikale Venstre,71,1069,790.0,0.7390084190832554,bolig
+Alternativet,Socialdemokratiet,71,6278,3897.0,0.6207390888818095,bolig
+Alternativet,Socialistisk Folkeparti,71,1951,1453.0,0.7447462839569452,bolig
+Alternativet,Uden for folketingsgrupperne,71,567,291.0,0.5132275132275133,bolig
+Alternativet,Venstre,71,3140,1927.0,0.6136942675159236,bolig
+Borgernes Parti,Alternativet,71,66,22.0,0.3333333333333333,bolig
+Borgernes Parti,Danmarksdemokraterne,71,220,124.0,0.5636363636363636,bolig
+Borgernes Parti,Dansk Folkeparti,71,193,123.0,0.6373056994818653,bolig
+Borgernes Parti,Det Konservative Folkeparti,71,246,131.0,0.532520325203252,bolig
+Borgernes Parti,Enhedslisten,71,257,93.0,0.36186770428015563,bolig
+Borgernes Parti,Liberal Alliance,71,345,214.0,0.6202898550724638,bolig
+Borgernes Parti,Moderaterne,71,279,117.0,0.41935483870967744,bolig
+Borgernes Parti,Radikale Venstre,71,183,68.0,0.37158469945355194,bolig
+Borgernes Parti,Socialdemokratiet,71,1035,425.0,0.4106280193236715,bolig
+Borgernes Parti,Socialistisk Folkeparti,71,307,89.0,0.2899022801302932,bolig
+Borgernes Parti,Uden for folketingsgrupperne,71,51,24.0,0.47058823529411764,bolig
+Borgernes Parti,Venstre,71,527,218.0,0.41366223908918404,bolig
+Danmarksdemokraterne,Alternativet,71,1855,869.0,0.46846361185983826,bolig
+Danmarksdemokraterne,Borgernes Parti,71,409,253.0,0.6185819070904646,bolig
+Danmarksdemokraterne,Danmarksdemokraterne,71,5117,4961.0,0.9695133867500488,bolig
+Danmarksdemokraterne,Dansk Folkeparti,71,2970,2409.0,0.8111111111111111,bolig
+Danmarksdemokraterne,Det Konservative Folkeparti,71,4064,3191.0,0.7851870078740157,bolig
+Danmarksdemokraterne,Enhedslisten,71,4346,1966.0,0.4523699953980672,bolig
+Danmarksdemokraterne,Liberal Alliance,71,5891,4529.0,0.7687998641996265,bolig
+Danmarksdemokraterne,Moderaterne,71,4731,3595.0,0.7598816317903192,bolig
+Danmarksdemokraterne,Radikale Venstre,71,3134,1743.0,0.5561582641991065,bolig
+Danmarksdemokraterne,Socialdemokratiet,71,19286,14382.0,0.7457222855957689,bolig
+Danmarksdemokraterne,Socialistisk Folkeparti,71,5700,3122.0,0.547719298245614,bolig
+Danmarksdemokraterne,Uden for folketingsgrupperne,71,1643,1078.0,0.6561168594035302,bolig
+Danmarksdemokraterne,Venstre,71,9409,6916.0,0.7350409182697417,bolig
+Dansk Folkeparti,Alternativet,71,729,328.0,0.4499314128943759,bolig
+Dansk Folkeparti,Borgernes Parti,71,53,39.0,0.7358490566037735,bolig
+Dansk Folkeparti,Danmarksdemokraterne,71,1481,1232.0,0.8318703578663066,bolig
+Dansk Folkeparti,Dansk Folkeparti,71,654,648.0,0.9908256880733946,bolig
+Dansk Folkeparti,Det Konservative Folkeparti,71,1085,766.0,0.7059907834101382,bolig
+Dansk Folkeparti,Enhedslisten,71,1671,750.0,0.4488330341113106,bolig
+Dansk Folkeparti,Liberal Alliance,71,2080,1417.0,0.68125,bolig
+Dansk Folkeparti,Moderaterne,71,1498,1007.0,0.6722296395193591,bolig
+Dansk Folkeparti,Radikale Venstre,71,1002,555.0,0.5538922155688623,bolig
+Dansk Folkeparti,Sambandsflokkurin,71,9,5.0,0.5555555555555556,bolig
+Dansk Folkeparti,Socialdemokratiet,71,6124,4124.0,0.6734160679294579,bolig
+Dansk Folkeparti,Socialistisk Folkeparti,71,1890,983.0,0.5201058201058201,bolig
+Dansk Folkeparti,Uden for folketingsgrupperne,71,402,221.0,0.5497512437810945,bolig
+Dansk Folkeparti,Venstre,71,2940,1952.0,0.6639455782312925,bolig
+Det Konservative Folkeparti,Alternativet,71,1170,531.0,0.45384615384615384,bolig
+Det Konservative Folkeparti,Borgernes Parti,71,144,85.0,0.5902777777777778,bolig
+Det Konservative Folkeparti,Danmarksdemokraterne,71,2802,2247.0,0.8019271948608137,bolig
+Det Konservative Folkeparti,Dansk Folkeparti,71,1613,1078.0,0.6683199008059516,bolig
+Det Konservative Folkeparti,Det Konservative Folkeparti,71,1738,1738.0,1.0,bolig
+Det Konservative Folkeparti,Enhedslisten,71,2640,1201.0,0.4549242424242424,bolig
+Det Konservative Folkeparti,Liberal Alliance,71,3494,3075.0,0.8800801373783629,bolig
+Det Konservative Folkeparti,Moderaterne,71,2806,2283.0,0.8136136849607983,bolig
+Det Konservative Folkeparti,Radikale Venstre,71,1797,1138.0,0.6332776850306066,bolig
+Det Konservative Folkeparti,Socialdemokratiet,71,10870,8752.0,0.8051517939282429,bolig
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,3218,1762.0,0.5475450590428838,bolig
+Det Konservative Folkeparti,Uden for folketingsgrupperne,71,915,601.0,0.6568306010928961,bolig
+Det Konservative Folkeparti,Venstre,71,5265,4278.0,0.8125356125356126,bolig
+Enhedslisten,Alternativet,71,518,408.0,0.7876447876447876,bolig
+Enhedslisten,Borgernes Parti,71,62,20.0,0.3225806451612903,bolig
+Enhedslisten,Danmarksdemokraterne,71,1332,577.0,0.43318318318318316,bolig
+Enhedslisten,Dansk Folkeparti,71,557,255.0,0.4578096947935368,bolig
+Enhedslisten,Det Konservative Folkeparti,71,802,414.0,0.516209476309227,bolig
+Enhedslisten,Enhedslisten,71,1142,1128.0,0.9877408056042032,bolig
+Enhedslisten,Liberal Alliance,71,1453,569.0,0.39160357880247765,bolig
+Enhedslisten,Moderaterne,71,968,509.0,0.5258264462809917,bolig
+Enhedslisten,Radikale Venstre,71,1002,657.0,0.655688622754491,bolig
+Enhedslisten,Socialdemokratiet,71,4948,2550.0,0.51535974130962,bolig
+Enhedslisten,Socialistisk Folkeparti,71,1588,1286.0,0.809823677581864,bolig
+Enhedslisten,Uden for folketingsgrupperne,71,377,188.0,0.4986737400530504,bolig
+Enhedslisten,Venstre,71,2361,1228.0,0.5201185938161795,bolig
+Liberal Alliance,Alternativet,71,1595,673.0,0.4219435736677116,bolig
+Liberal Alliance,Borgernes Parti,71,250,150.0,0.6,bolig
+Liberal Alliance,Danmarksdemokraterne,71,4632,3551.0,0.7666234887737479,bolig
+Liberal Alliance,Dansk Folkeparti,71,2053,1428.0,0.6955674622503654,bolig
+Liberal Alliance,Det Konservative Folkeparti,71,2887,2436.0,0.8437824731555248,bolig
+Liberal Alliance,Enhedslisten,71,3815,1508.0,0.39528178243774575,bolig
+Liberal Alliance,Liberal Alliance,71,4362,4302.0,0.9862448418156808,bolig
+Liberal Alliance,Moderaterne,71,3544,2923.0,0.8247742663656885,bolig
+Liberal Alliance,Radikale Venstre,71,2660,1663.0,0.6251879699248121,bolig
+Liberal Alliance,Sambandsflokkurin,71,4,4.0,1.0,bolig
+Liberal Alliance,Socialdemokratiet,71,15585,12698.0,0.8147577799165865,bolig
+Liberal Alliance,Socialistisk Folkeparti,71,4700,2479.0,0.5274468085106383,bolig
+Liberal Alliance,Uden for folketingsgrupperne,71,1303,886.0,0.6799693016116654,bolig
+Liberal Alliance,Venstre,71,7535,6085.0,0.807564698075647,bolig
+Moderaterne,Alternativet,71,1252,714.0,0.5702875399361023,bolig
+Moderaterne,Borgernes Parti,71,166,70.0,0.42168674698795183,bolig
+Moderaterne,Danmarksdemokraterne,71,3174,2370.0,0.7466918714555766,bolig
+Moderaterne,Dansk Folkeparti,71,1624,1088.0,0.6699507389162561,bolig
+Moderaterne,Det Konservative Folkeparti,71,1992,1627.0,0.8167670682730924,bolig
+Moderaterne,Enhedslisten,71,2983,1521.0,0.5098893731143145,bolig
+Moderaterne,Liberal Alliance,71,3815,3182.0,0.8340760157273919,bolig
+Moderaterne,Moderaterne,71,2430,2430.0,1.0,bolig
+Moderaterne,Radikale Venstre,71,2046,1534.0,0.7497556207233627,bolig
+Moderaterne,Socialdemokratiet,71,11341,11341.0,1.0,bolig
+Moderaterne,Socialistisk Folkeparti,71,3509,2438.0,0.694784838985466,bolig
+Moderaterne,Uden for folketingsgrupperne,71,954,707.0,0.7410901467505241,bolig
+Moderaterne,Venstre,71,5509,5503.0,0.9989108731167181,bolig
+Naleraq,Alternativet,71,3,3.0,1.0,bolig
+Naleraq,Borgernes Parti,71,1,0.0,0.0,bolig
+Naleraq,Danmarksdemokraterne,71,10,0.0,0.0,bolig
+Naleraq,Dansk Folkeparti,71,3,0.0,0.0,bolig
+Naleraq,Det Konservative Folkeparti,71,5,0.0,0.0,bolig
+Naleraq,Enhedslisten,71,5,5.0,1.0,bolig
+Naleraq,Liberal Alliance,71,8,0.0,0.0,bolig
+Naleraq,Moderaterne,71,6,0.0,0.0,bolig
+Naleraq,Radikale Venstre,71,4,4.0,1.0,bolig
+Naleraq,Socialdemokratiet,71,33,0.0,0.0,bolig
+Naleraq,Socialistisk Folkeparti,71,8,0.0,0.0,bolig
+Naleraq,Uden for folketingsgrupperne,71,4,2.0,0.5,bolig
+Naleraq,Venstre,71,16,0.0,0.0,bolig
+Radikale Venstre,Alternativet,71,352,258.0,0.7329545454545454,bolig
+Radikale Venstre,Borgernes Parti,71,56,21.0,0.375,bolig
+Radikale Venstre,Danmarksdemokraterne,71,1055,604.0,0.5725118483412323,bolig
+Radikale Venstre,Dansk Folkeparti,71,656,377.0,0.5746951219512195,bolig
+Radikale Venstre,Det Konservative Folkeparti,71,754,503.0,0.6671087533156499,bolig
+Radikale Venstre,Enhedslisten,71,1105,752.0,0.6805429864253394,bolig
+Radikale Venstre,Liberal Alliance,71,1249,767.0,0.6140912730184147,bolig
+Radikale Venstre,Moderaterne,71,915,675.0,0.7377049180327869,bolig
+Radikale Venstre,Radikale Venstre,71,584,584.0,1.0,bolig
+Radikale Venstre,Socialdemokratiet,71,3848,2842.0,0.7385654885654885,bolig
+Radikale Venstre,Socialistisk Folkeparti,71,1268,1003.0,0.7910094637223974,bolig
+Radikale Venstre,Uden for folketingsgrupperne,71,263,154.0,0.5855513307984791,bolig
+Radikale Venstre,Venstre,71,1895,1412.0,0.7451187335092349,bolig
+Sambandsflokkurin,Alternativet,71,35,29.0,0.8285714285714286,bolig
+Sambandsflokkurin,Danmarksdemokraterne,71,95,54.0,0.5684210526315789,bolig
+Sambandsflokkurin,Dansk Folkeparti,71,26,14.0,0.5384615384615384,bolig
+Sambandsflokkurin,Det Konservative Folkeparti,71,53,17.0,0.32075471698113206,bolig
+Sambandsflokkurin,Enhedslisten,71,45,31.0,0.6888888888888889,bolig
+Sambandsflokkurin,Liberal Alliance,71,81,42.0,0.5185185185185185,bolig
+Sambandsflokkurin,Moderaterne,71,58,58.0,1.0,bolig
+Sambandsflokkurin,Radikale Venstre,71,31,31.0,1.0,bolig
+Sambandsflokkurin,Socialdemokratiet,71,281,281.0,1.0,bolig
+Sambandsflokkurin,Socialistisk Folkeparti,71,81,72.0,0.8888888888888888,bolig
+Sambandsflokkurin,Uden for folketingsgrupperne,71,24,23.0,0.9583333333333334,bolig
+Sambandsflokkurin,Venstre,71,119,119.0,1.0,bolig
+Socialdemokratiet,Alternativet,71,6643,3839.0,0.5779015505042903,bolig
+Socialdemokratiet,Borgernes Parti,71,1108,462.0,0.41696750902527074,bolig
+Socialdemokratiet,Danmarksdemokraterne,71,18529,13981.0,0.7545469264396352,bolig
+Socialdemokratiet,Dansk Folkeparti,71,8736,5772.0,0.6607142857142857,bolig
+Socialdemokratiet,Det Konservative Folkeparti,71,12066,9676.0,0.8019227581634344,bolig
+Socialdemokratiet,Enhedslisten,71,14030,7217.0,0.5143977191732003,bolig
+Socialdemokratiet,Liberal Alliance,71,19537,15762.0,0.8067768848850898,bolig
+Socialdemokratiet,Moderaterne,71,15062,15062.0,1.0,bolig
+Socialdemokratiet,Radikale Venstre,71,10230,7585.0,0.7414467253176931,bolig
+Socialdemokratiet,Sambandsflokkurin,71,13,13.0,1.0,bolig
+Socialdemokratiet,Socialdemokratiet,71,61375,61375.0,1.0,bolig
+Socialdemokratiet,Socialistisk Folkeparti,71,18736,12773.0,0.6817356959863364,bolig
+Socialdemokratiet,Uden for folketingsgrupperne,71,5329,4018.0,0.7539876149371364,bolig
+Socialdemokratiet,Venstre,71,30717,30658.0,0.9980792395090666,bolig
+Socialistisk Folkeparti,Alternativet,71,1578,1143.0,0.7243346007604563,bolig
+Socialistisk Folkeparti,Borgernes Parti,71,278,91.0,0.3273381294964029,bolig
+Socialistisk Folkeparti,Danmarksdemokraterne,71,4661,2533.0,0.5434456125295001,bolig
+Socialistisk Folkeparti,Dansk Folkeparti,71,2180,1214.0,0.5568807339449541,bolig
+Socialistisk Folkeparti,Det Konservative Folkeparti,71,3067,1771.0,0.5774372350831432,bolig
+Socialistisk Folkeparti,Enhedslisten,71,3607,2770.0,0.767951205988356,bolig
+Socialistisk Folkeparti,Liberal Alliance,71,4925,2670.0,0.5421319796954315,bolig
+Socialistisk Folkeparti,Moderaterne,71,3738,2605.0,0.696896736222579,bolig
+Socialistisk Folkeparti,Radikale Venstre,71,2585,2007.0,0.7764023210831722,bolig
+Socialistisk Folkeparti,Socialdemokratiet,71,15879,11069.0,0.6970841992568801,bolig
+Socialistisk Folkeparti,Socialistisk Folkeparti,71,4224,4216.0,0.9981060606060606,bolig
+Socialistisk Folkeparti,Uden for folketingsgrupperne,71,1307,822.0,0.6289211935730681,bolig
+Socialistisk Folkeparti,Venstre,71,7995,5546.0,0.6936835522201376,bolig
+Uden for folketingsgrupperne,Alternativet,71,426,239.0,0.5610328638497653,bolig
+Uden for folketingsgrupperne,Borgernes Parti,71,103,49.0,0.47572815533980584,bolig
+Uden for folketingsgrupperne,Danmarksdemokraterne,71,1261,918.0,0.7279936558287073,bolig
+Uden for folketingsgrupperne,Dansk Folkeparti,71,732,471.0,0.6434426229508197,bolig
+Uden for folketingsgrupperne,Det Konservative Folkeparti,71,836,644.0,0.7703349282296651,bolig
+Uden for folketingsgrupperne,Enhedslisten,71,1083,535.0,0.4939981532779317,bolig
+Uden for folketingsgrupperne,Liberal Alliance,71,1371,1044.0,0.7614879649890591,bolig
+Uden for folketingsgrupperne,Moderaterne,71,1025,897.0,0.8751219512195122,bolig
+Uden for folketingsgrupperne,Radikale Venstre,71,806,511.0,0.6339950372208437,bolig
+Uden for folketingsgrupperne,Socialdemokratiet,71,4339,3764.0,0.8674809864023969,bolig
+Uden for folketingsgrupperne,Socialistisk Folkeparti,71,1331,853.0,0.6408715251690458,bolig
+Uden for folketingsgrupperne,Uden for folketingsgrupperne,71,257,169.0,0.6575875486381323,bolig
+Uden for folketingsgrupperne,Venstre,71,1987,1716.0,0.863613487669854,bolig
+Venstre,Alternativet,71,2863,1628.0,0.5686342996856444,bolig
+Venstre,Borgernes Parti,71,489,205.0,0.41922290388548056,bolig
+Venstre,Danmarksdemokraterne,71,8227,6223.0,0.7564118147562903,bolig
+Venstre,Dansk Folkeparti,71,3977,2625.0,0.6600452602464169,bolig
+Venstre,Det Konservative Folkeparti,71,5433,4390.0,0.8080250322105651,bolig
+Venstre,Enhedslisten,71,6478,3275.0,0.5055572707625811,bolig
+Venstre,Liberal Alliance,71,8827,7181.0,0.813526679506061,bolig
+Venstre,Moderaterne,71,6759,6719.0,0.9940819647876905,bolig
+Venstre,Radikale Venstre,71,4654,3405.0,0.7316287064890417,bolig
+Venstre,Socialdemokratiet,71,28243,28074.0,0.9940162164076054,bolig
+Venstre,Socialistisk Folkeparti,71,8136,5431.0,0.6675270403146509,bolig
+Venstre,Uden for folketingsgrupperne,71,2539,1897.0,0.7471445450964946,bolig
+Venstre,Venstre,71,12938,12832.0,0.9918070799196166,bolig
