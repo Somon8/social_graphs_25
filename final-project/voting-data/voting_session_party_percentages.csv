@@ -1,4 +1,4 @@
-voting_id,party,Period,vedtaget,Møde.dato,total_potential_votes,total_cast_votes,votes_type_1,votes_type_2,votes_type_3,votes_type_4,agree_percentage (of cast votes),disagree_percentage (of cast votes),abstain_percentage (of cast votes),absent_percentage (of all votes)
+voting_id,party,Period,vedtaget,Møde.dato,total_potential_votes,total_cast_votes,votes_type_1,votes_type_2,votes_type_3,votes_type_4,agree_percentage_of_cast_votes,disagree_percentage_of_cast_votes,abstain_percentage_of_cast_votes,absent_percentage_of_potential_votes
 1,Danmarksdemokraterne,68,True,2014-09-09 09:00:00,6,4.0,4.0,0.0,2.0,0.0,1.0,0.0,0.0,0.3333333333333333
 1,Dansk Folkeparti,68,True,2014-09-09 09:00:00,7,4.0,4.0,0.0,3.0,0.0,1.0,0.0,0.0,0.42857142857142855
 1,Det Konservative Folkeparti,68,True,2014-09-09 09:00:00,7,4.0,4.0,0.0,3.0,0.0,1.0,0.0,0.0,0.42857142857142855
