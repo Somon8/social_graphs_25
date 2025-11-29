@@ -1,350 +1,224 @@
-source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
+party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,358,351.0,0.9804469273743017,sundhed
-Danmarksdemokraterne,Dansk Folkeparti,65,4468,4422.0,0.9897045658012533,sundhed
-Danmarksdemokraterne,Det Konservative Folkeparti,65,1850,1812.0,0.9794594594594594,sundhed
-Danmarksdemokraterne,Enhedslisten,65,56,19.0,0.3392857142857143,sundhed
-Danmarksdemokraterne,Inuit Ataqatigiit,65,20,2.0,0.1,sundhed
-Danmarksdemokraterne,Kristeligt Folkeparti,65,491,225.0,0.45824847250509165,sundhed
-Danmarksdemokraterne,Kristendemokraterne,65,371,171.0,0.4609164420485175,sundhed
-Danmarksdemokraterne,Liberal Alliance,65,391,386.0,0.9872122762148338,sundhed
-Danmarksdemokraterne,Moderaterne,65,18,18.0,1.0,sundhed
-Danmarksdemokraterne,Not able to assign,65,1025,286.0,0.27902439024390246,sundhed
-Danmarksdemokraterne,Ny Alliance,65,108,104.0,0.9629629629629629,sundhed
-Danmarksdemokraterne,Radikale Venstre,65,1001,401.0,0.4005994005994006,sundhed
+Danmarksdemokraterne,Dansk Folkeparti,65,5965,5902.0,0.9894383906119028,sundhed
+Danmarksdemokraterne,Det Konservative Folkeparti,65,3447,3393.0,0.9843342036553525,sundhed
+Danmarksdemokraterne,Enhedslisten,65,67,22.0,0.3283582089552239,sundhed
+Danmarksdemokraterne,Inuit Ataqatigiit,65,28,3.0,0.10714285714285714,sundhed
+Danmarksdemokraterne,Kristeligt Folkeparti,65,509,238.0,0.4675834970530452,sundhed
+Danmarksdemokraterne,Kristendemokraterne,65,448,199.0,0.44419642857142855,sundhed
+Danmarksdemokraterne,Liberal Alliance,65,469,462.0,0.9850746268656716,sundhed
+Danmarksdemokraterne,Moderaterne,65,24,24.0,1.0,sundhed
+Danmarksdemokraterne,Not able to assign,65,1877,540.0,0.2876931273308471,sundhed
+Danmarksdemokraterne,Ny Alliance,65,226,221.0,0.9778761061946902,sundhed
+Danmarksdemokraterne,Radikale Venstre,65,1883,768.0,0.4078597981943707,sundhed
 Danmarksdemokraterne,Sambandsflokkurin,65,4,4.0,1.0,sundhed
-Danmarksdemokraterne,Socialdemokratiet,65,11182,3251.0,0.2907351099982114,sundhed
-Danmarksdemokraterne,Socialistisk Folkeparti,65,1786,485.0,0.2715565509518477,sundhed
-Danmarksdemokraterne,Tjóðveldi,65,9,0.0,0.0,sundhed
-Danmarksdemokraterne,Uden for folketingsgrupperne,65,1582,1345.0,0.850189633375474,sundhed
-Danmarksdemokraterne,Venstre,65,10467,10287.0,0.9828030954428203,sundhed
-Dansk Folkeparti,Danmarksdemokraterne,65,1497,1480.0,0.9886439545758183,sundhed
+Danmarksdemokraterne,Socialdemokratiet,65,15202,4512.0,0.2968030522299697,sundhed
+Danmarksdemokraterne,Socialistisk Folkeparti,65,2424,667.0,0.27516501650165015,sundhed
+Danmarksdemokraterne,Tjóðveldi,65,25,0.0,0.0,sundhed
+Danmarksdemokraterne,Uden for folketingsgrupperne,65,1806,1526.0,0.8449612403100775,sundhed
+Danmarksdemokraterne,Venstre,65,14945,14720.0,0.9849447975911676,sundhed
 Dansk Folkeparti,Dansk Folkeparti,65,14511,14489.0,0.9984839087588726,sundhed
-Dansk Folkeparti,Det Konservative Folkeparti,65,4622,4495.0,0.9725227174383384,sundhed
-Dansk Folkeparti,Enhedslisten,65,164,54.0,0.32926829268292684,sundhed
-Dansk Folkeparti,Inuit Ataqatigiit,65,64,6.0,0.09375,sundhed
-Dansk Folkeparti,Kristeligt Folkeparti,65,2214,991.0,0.44760614272809396,sundhed
-Dansk Folkeparti,Kristendemokraterne,65,1426,637.0,0.4467040673211781,sundhed
-Dansk Folkeparti,Liberal Alliance,65,1293,1261.0,0.9752513534416086,sundhed
-Dansk Folkeparti,Moderaterne,65,54,54.0,1.0,sundhed
-Dansk Folkeparti,Not able to assign,65,3391,883.0,0.2603951636685344,sundhed
-Dansk Folkeparti,Ny Alliance,65,404,390.0,0.9653465346534653,sundhed
-Dansk Folkeparti,Radikale Venstre,65,3312,1282.0,0.38707729468599034,sundhed
-Dansk Folkeparti,Sambandsflokkurin,65,14,14.0,1.0,sundhed
-Dansk Folkeparti,Socialdemokratiet,65,36520,9989.0,0.27352135815991235,sundhed
-Dansk Folkeparti,Socialistisk Folkeparti,65,7566,1872.0,0.24742268041237114,sundhed
-Dansk Folkeparti,Tjóðveldi,65,32,0.0,0.0,sundhed
-Dansk Folkeparti,Uden for folketingsgrupperne,65,4854,3939.0,0.811495673671199,sundhed
-Dansk Folkeparti,Venstre,65,37398,36503.0,0.976068238943259,sundhed
-Det Konservative Folkeparti,Danmarksdemokraterne,65,1597,1581.0,0.9899812147777082,sundhed
-Det Konservative Folkeparti,Dansk Folkeparti,65,13433,13103.0,0.9754336335889228,sundhed
+Dansk Folkeparti,Det Konservative Folkeparti,65,18055,17598.0,0.9746884519523678,sundhed
+Dansk Folkeparti,Enhedslisten,65,338,111.0,0.32840236686390534,sundhed
+Dansk Folkeparti,Inuit Ataqatigiit,65,122,12.0,0.09836065573770492,sundhed
+Dansk Folkeparti,Kristeligt Folkeparti,65,2685,1262.0,0.47001862197392924,sundhed
+Dansk Folkeparti,Kristendemokraterne,65,2333,1047.0,0.44877839691384486,sundhed
+Dansk Folkeparti,Liberal Alliance,65,2453,2393.0,0.9755401549123522,sundhed
+Dansk Folkeparti,Moderaterne,65,108,108.0,1.0,sundhed
+Dansk Folkeparti,Not able to assign,65,9830,2646.0,0.26917599186164803,sundhed
+Dansk Folkeparti,Ny Alliance,65,1378,1328.0,0.9637155297532656,sundhed
+Dansk Folkeparti,Radikale Venstre,65,9847,3815.0,0.3874276429369351,sundhed
+Dansk Folkeparti,Sambandsflokkurin,65,26,26.0,1.0,sundhed
+Dansk Folkeparti,Socialdemokratiet,65,79721,22281.0,0.27948721165063156,sundhed
+Dansk Folkeparti,Socialistisk Folkeparti,65,12688,3185.0,0.2510245901639344,sundhed
+Dansk Folkeparti,Tjóðveldi,65,110,0.0,0.0,sundhed
+Dansk Folkeparti,Uden for folketingsgrupperne,65,9493,7974.0,0.8399873591067102,sundhed
+Dansk Folkeparti,Venstre,65,78180,76259.0,0.9754284983371706,sundhed
 Det Konservative Folkeparti,Det Konservative Folkeparti,65,4526,4526.0,1.0,sundhed
-Det Konservative Folkeparti,Enhedslisten,65,221,76.0,0.3438914027149321,sundhed
-Det Konservative Folkeparti,Inuit Ataqatigiit,65,60,6.0,0.1,sundhed
-Det Konservative Folkeparti,Kristeligt Folkeparti,65,1400,671.0,0.47928571428571426,sundhed
+Det Konservative Folkeparti,Enhedslisten,65,245,89.0,0.363265306122449,sundhed
+Det Konservative Folkeparti,Inuit Ataqatigiit,65,70,7.0,0.1,sundhed
+Det Konservative Folkeparti,Kristeligt Folkeparti,65,1575,795.0,0.5047619047619047,sundhed
 Det Konservative Folkeparti,Kristendemokraterne,65,1308,623.0,0.47629969418960244,sundhed
-Det Konservative Folkeparti,Liberal Alliance,65,1393,1393.0,1.0,sundhed
-Det Konservative Folkeparti,Moderaterne,65,65,65.0,1.0,sundhed
-Det Konservative Folkeparti,Not able to assign,65,2575,794.0,0.3083495145631068,sundhed
-Det Konservative Folkeparti,Ny Alliance,65,566,566.0,1.0,sundhed
-Det Konservative Folkeparti,Radikale Venstre,65,4253,1806.0,0.4246414295791206,sundhed
+Det Konservative Folkeparti,Liberal Alliance,65,1405,1405.0,1.0,sundhed
+Det Konservative Folkeparti,Moderaterne,65,67,67.0,1.0,sundhed
+Det Konservative Folkeparti,Not able to assign,65,5610,1703.0,0.3035650623885918,sundhed
+Det Konservative Folkeparti,Ny Alliance,65,786,786.0,1.0,sundhed
+Det Konservative Folkeparti,Radikale Venstre,65,5633,2368.0,0.4203799041363394,sundhed
 Det Konservative Folkeparti,Sambandsflokkurin,65,17,17.0,1.0,sundhed
-Det Konservative Folkeparti,Socialdemokratiet,65,35589,11242.0,0.31588412149821576,sundhed
-Det Konservative Folkeparti,Socialistisk Folkeparti,65,5674,1639.0,0.28886147338738105,sundhed
-Det Konservative Folkeparti,Tjóðveldi,65,45,0.0,0.0,sundhed
-Det Konservative Folkeparti,Uden for folketingsgrupperne,65,4849,4044.0,0.8339863889461745,sundhed
-Det Konservative Folkeparti,Venstre,65,35049,35044.0,0.9998573425775343,sundhed
-Enhedslisten,Danmarksdemokraterne,65,11,3.0,0.2727272727272727,sundhed
-Enhedslisten,Dansk Folkeparti,65,174,57.0,0.3275862068965517,sundhed
-Enhedslisten,Det Konservative Folkeparti,65,24,13.0,0.5416666666666666,sundhed
+Det Konservative Folkeparti,Socialdemokratiet,65,45744,14456.0,0.3160195872682756,sundhed
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,7297,2083.0,0.2854597779909552,sundhed
+Det Konservative Folkeparti,Tjóðveldi,65,63,0.0,0.0,sundhed
+Det Konservative Folkeparti,Uden for folketingsgrupperne,65,5411,4603.0,0.8506745518388468,sundhed
+Det Konservative Folkeparti,Venstre,65,44920,44913.0,0.9998441674087266,sundhed
 Enhedslisten,Enhedslisten,65,2,2.0,1.0,sundhed
-Enhedslisten,Kristeligt Folkeparti,65,18,11.0,0.6111111111111112,sundhed
+Enhedslisten,Kristeligt Folkeparti,65,44,28.0,0.6363636363636364,sundhed
 Enhedslisten,Kristendemokraterne,65,12,6.0,0.5,sundhed
-Enhedslisten,Liberal Alliance,65,12,5.0,0.4166666666666667,sundhed
-Enhedslisten,Not able to assign,65,8,6.0,0.75,sundhed
-Enhedslisten,Radikale Venstre,65,40,25.0,0.625,sundhed
-Enhedslisten,Sambandsflokkurin,65,2,0.0,0.0,sundhed
-Enhedslisten,Socialdemokratiet,65,400,259.0,0.6475,sundhed
-Enhedslisten,Socialistisk Folkeparti,65,89,66.0,0.7415730337078652,sundhed
-Enhedslisten,Uden for folketingsgrupperne,65,51,18.0,0.35294117647058826,sundhed
-Enhedslisten,Venstre,65,335,130.0,0.3880597014925373,sundhed
-Inuit Ataqatigiit,Danmarksdemokraterne,65,8,1.0,0.125,sundhed
-Inuit Ataqatigiit,Dansk Folkeparti,65,58,6.0,0.10344827586206896,sundhed
-Inuit Ataqatigiit,Det Konservative Folkeparti,65,10,1.0,0.1,sundhed
+Enhedslisten,Liberal Alliance,65,25,10.0,0.4,sundhed
+Enhedslisten,Moderaterne,65,7,3.0,0.42857142857142855,sundhed
+Enhedslisten,Not able to assign,65,92,63.0,0.6847826086956522,sundhed
+Enhedslisten,Ny Alliance,65,23,8.0,0.34782608695652173,sundhed
+Enhedslisten,Radikale Venstre,65,103,69.0,0.6699029126213593,sundhed
+Enhedslisten,Sambandsflokkurin,65,3,0.0,0.0,sundhed
+Enhedslisten,Socialdemokratiet,65,840,545.0,0.6488095238095238,sundhed
+Enhedslisten,Socialistisk Folkeparti,65,150,112.0,0.7466666666666667,sundhed
+Enhedslisten,Uden for folketingsgrupperne,65,72,26.0,0.3611111111111111,sundhed
+Enhedslisten,Venstre,65,867,324.0,0.3737024221453287,sundhed
 Inuit Ataqatigiit,Kristeligt Folkeparti,65,10,7.0,0.7,sundhed
 Inuit Ataqatigiit,Kristendemokraterne,65,10,6.0,0.6,sundhed
 Inuit Ataqatigiit,Liberal Alliance,65,10,1.0,0.1,sundhed
-Inuit Ataqatigiit,Not able to assign,65,10,8.0,0.8,sundhed
-Inuit Ataqatigiit,Radikale Venstre,65,10,9.0,0.9,sundhed
-Inuit Ataqatigiit,Socialdemokratiet,65,168,136.0,0.8095238095238095,sundhed
-Inuit Ataqatigiit,Socialistisk Folkeparti,65,30,27.0,0.9,sundhed
-Inuit Ataqatigiit,Uden for folketingsgrupperne,65,20,10.0,0.5,sundhed
-Inuit Ataqatigiit,Venstre,65,119,12.0,0.10084033613445378,sundhed
-Kristeligt Folkeparti,Danmarksdemokraterne,65,18,13.0,0.7222222222222222,sundhed
-Kristeligt Folkeparti,Dansk Folkeparti,65,471,271.0,0.5753715498938429,sundhed
-Kristeligt Folkeparti,Det Konservative Folkeparti,65,175,124.0,0.7085714285714285,sundhed
-Kristeligt Folkeparti,Enhedslisten,65,26,17.0,0.6538461538461539,sundhed
+Inuit Ataqatigiit,Not able to assign,65,40,33.0,0.825,sundhed
+Inuit Ataqatigiit,Radikale Venstre,65,40,36.0,0.9,sundhed
+Inuit Ataqatigiit,Socialdemokratiet,65,317,256.0,0.807570977917981,sundhed
+Inuit Ataqatigiit,Socialistisk Folkeparti,65,50,45.0,0.9,sundhed
+Inuit Ataqatigiit,Tjóðveldi,65,5,5.0,1.0,sundhed
+Inuit Ataqatigiit,Uden for folketingsgrupperne,65,40,12.0,0.3,sundhed
+Inuit Ataqatigiit,Venstre,65,310,31.0,0.1,sundhed
 Kristeligt Folkeparti,Kristeligt Folkeparti,65,14,14.0,1.0,sundhed
-Kristeligt Folkeparti,Kristendemokraterne,65,3,3.0,1.0,sundhed
-Kristeligt Folkeparti,Liberal Alliance,65,24,17.0,0.7083333333333334,sundhed
-Kristeligt Folkeparti,Moderaterne,65,2,2.0,1.0,sundhed
-Kristeligt Folkeparti,Not able to assign,65,54,51.0,0.9444444444444444,sundhed
-Kristeligt Folkeparti,Ny Alliance,65,13,10.0,0.7692307692307693,sundhed
-Kristeligt Folkeparti,Radikale Venstre,65,70,63.0,0.9,sundhed
-Kristeligt Folkeparti,Sambandsflokkurin,65,2,0.0,0.0,sundhed
-Kristeligt Folkeparti,Socialdemokratiet,65,679,631.0,0.9293078055964654,sundhed
-Kristeligt Folkeparti,Socialistisk Folkeparti,65,307,195.0,0.6351791530944625,sundhed
-Kristeligt Folkeparti,Uden for folketingsgrupperne,65,82,59.0,0.7195121951219512,sundhed
-Kristeligt Folkeparti,Venstre,65,1245,752.0,0.6040160642570281,sundhed
-Kristendemokraterne,Danmarksdemokraterne,65,77,28.0,0.36363636363636365,sundhed
-Kristendemokraterne,Dansk Folkeparti,65,907,410.0,0.4520396912899669,sundhed
-Kristendemokraterne,Kristeligt Folkeparti,65,183,178.0,0.9726775956284153,sundhed
-Kristendemokraterne,Not able to assign,65,176,91.0,0.5170454545454546,sundhed
-Kristendemokraterne,Radikale Venstre,65,177,88.0,0.4971751412429379,sundhed
-Kristendemokraterne,Socialdemokratiet,65,2363,1255.0,0.5311045281421921,sundhed
-Kristendemokraterne,Socialistisk Folkeparti,65,554,300.0,0.5415162454873647,sundhed
-Kristendemokraterne,Uden for folketingsgrupperne,65,350,168.0,0.48,sundhed
-Kristendemokraterne,Venstre,65,1860,887.0,0.4768817204301075,sundhed
-Liberal Alliance,Danmarksdemokraterne,65,78,76.0,0.9743589743589743,sundhed
-Liberal Alliance,Dansk Folkeparti,65,1160,1132.0,0.9758620689655172,sundhed
-Liberal Alliance,Det Konservative Folkeparti,65,12,12.0,1.0,sundhed
-Liberal Alliance,Enhedslisten,65,13,5.0,0.38461538461538464,sundhed
-Liberal Alliance,Kristeligt Folkeparti,65,185,86.0,0.4648648648648649,sundhed
-Liberal Alliance,Kristendemokraterne,65,182,85.0,0.46703296703296704,sundhed
-Liberal Alliance,Not able to assign,65,179,46.0,0.2569832402234637,sundhed
-Liberal Alliance,Radikale Venstre,65,207,89.0,0.42995169082125606,sundhed
+Kristeligt Folkeparti,Kristendemokraterne,65,186,181.0,0.9731182795698925,sundhed
+Kristeligt Folkeparti,Liberal Alliance,65,209,103.0,0.49282296650717705,sundhed
+Kristeligt Folkeparti,Moderaterne,65,9,9.0,1.0,sundhed
+Kristeligt Folkeparti,Not able to assign,65,829,481.0,0.5802171290711701,sundhed
+Kristeligt Folkeparti,Ny Alliance,65,118,72.0,0.6101694915254238,sundhed
+Kristeligt Folkeparti,Radikale Venstre,65,835,463.0,0.5544910179640719,sundhed
+Kristeligt Folkeparti,Sambandsflokkurin,65,4,0.0,0.0,sundhed
+Kristeligt Folkeparti,Socialdemokratiet,65,6793,3984.0,0.5864860886206389,sundhed
+Kristeligt Folkeparti,Socialistisk Folkeparti,65,1085,629.0,0.5797235023041475,sundhed
+Kristeligt Folkeparti,Tjóðveldi,65,9,7.0,0.7777777777777778,sundhed
+Kristeligt Folkeparti,Uden for folketingsgrupperne,65,800,388.0,0.485,sundhed
+Kristeligt Folkeparti,Venstre,65,6681,3311.0,0.4955844933393205,sundhed
+Kristendemokraterne,Liberal Alliance,65,182,85.0,0.46703296703296704,sundhed
+Kristendemokraterne,Moderaterne,65,9,9.0,1.0,sundhed
+Kristendemokraterne,Not able to assign,65,737,401.0,0.5440976933514247,sundhed
+Kristendemokraterne,Ny Alliance,65,98,59.0,0.6020408163265306,sundhed
+Kristendemokraterne,Radikale Venstre,65,735,380.0,0.5170068027210885,sundhed
+Kristendemokraterne,Socialdemokratiet,65,5913,3192.0,0.5398274987316083,sundhed
+Kristendemokraterne,Socialistisk Folkeparti,65,938,509.0,0.5426439232409381,sundhed
+Kristendemokraterne,Tjóðveldi,65,9,7.0,0.7777777777777778,sundhed
+Kristendemokraterne,Uden for folketingsgrupperne,65,712,330.0,0.46348314606741575,sundhed
+Kristendemokraterne,Venstre,65,5783,2738.0,0.4734566833823275,sundhed
+Liberal Alliance,Moderaterne,65,7,7.0,1.0,sundhed
+Liberal Alliance,Not able to assign,65,765,221.0,0.28888888888888886,sundhed
+Liberal Alliance,Ny Alliance,65,105,105.0,1.0,sundhed
+Liberal Alliance,Radikale Venstre,65,769,314.0,0.4083224967490247,sundhed
 Liberal Alliance,Sambandsflokkurin,65,1,1.0,1.0,sundhed
-Liberal Alliance,Socialdemokratiet,65,3255,948.0,0.2912442396313364,sundhed
-Liberal Alliance,Socialistisk Folkeparti,65,600,173.0,0.28833333333333333,sundhed
-Liberal Alliance,Uden for folketingsgrupperne,65,385,274.0,0.7116883116883117,sundhed
-Liberal Alliance,Venstre,65,2155,2155.0,1.0,sundhed
-Moderaterne,Danmarksdemokraterne,65,6,6.0,1.0,sundhed
-Moderaterne,Dansk Folkeparti,65,54,54.0,1.0,sundhed
-Moderaterne,Det Konservative Folkeparti,65,2,2.0,1.0,sundhed
-Moderaterne,Enhedslisten,65,7,3.0,0.42857142857142855,sundhed
-Moderaterne,Kristeligt Folkeparti,65,7,7.0,1.0,sundhed
-Moderaterne,Kristendemokraterne,65,9,9.0,1.0,sundhed
-Moderaterne,Liberal Alliance,65,7,7.0,1.0,sundhed
-Moderaterne,Not able to assign,65,3,2.0,0.6666666666666666,sundhed
-Moderaterne,Radikale Venstre,65,15,12.0,0.8,sundhed
-Moderaterne,Socialdemokratiet,65,131,111.0,0.8473282442748091,sundhed
-Moderaterne,Socialistisk Folkeparti,65,36,28.0,0.7777777777777778,sundhed
-Moderaterne,Uden for folketingsgrupperne,65,17,17.0,1.0,sundhed
-Moderaterne,Venstre,65,107,107.0,1.0,sundhed
-Not able to assign,Danmarksdemokraterne,65,852,254.0,0.2981220657276995,sundhed
-Not able to assign,Dansk Folkeparti,65,6439,1763.0,0.2738002795465134,sundhed
-Not able to assign,Det Konservative Folkeparti,65,3035,909.0,0.299505766062603,sundhed
-Not able to assign,Enhedslisten,65,84,57.0,0.6785714285714286,sundhed
-Not able to assign,Inuit Ataqatigiit,65,30,25.0,0.8333333333333334,sundhed
-Not able to assign,Kristeligt Folkeparti,65,775,430.0,0.5548387096774193,sundhed
-Not able to assign,Kristendemokraterne,65,561,310.0,0.5525846702317291,sundhed
-Not able to assign,Liberal Alliance,65,586,175.0,0.2986348122866894,sundhed
-Not able to assign,Moderaterne,65,32,29.0,0.90625,sundhed
+Liberal Alliance,Socialdemokratiet,65,6209,1850.0,0.29795458205830244,sundhed
+Liberal Alliance,Socialistisk Folkeparti,65,979,272.0,0.27783452502553624,sundhed
+Liberal Alliance,Tjóðveldi,65,9,0.0,0.0,sundhed
+Liberal Alliance,Uden for folketingsgrupperne,65,741,627.0,0.8461538461538461,sundhed
+Liberal Alliance,Venstre,65,6102,6101.0,0.9998361193051458,sundhed
+Moderaterne,Not able to assign,65,35,31.0,0.8857142857142857,sundhed
+Moderaterne,Ny Alliance,65,9,9.0,1.0,sundhed
+Moderaterne,Radikale Venstre,65,34,29.0,0.8529411764705882,sundhed
+Moderaterne,Socialdemokratiet,65,267,237.0,0.8876404494382022,sundhed
+Moderaterne,Socialistisk Folkeparti,65,58,44.0,0.7586206896551724,sundhed
+Moderaterne,Uden for folketingsgrupperne,65,18,18.0,1.0,sundhed
+Moderaterne,Venstre,65,287,287.0,1.0,sundhed
 Not able to assign,Not able to assign,65,1153,1009.0,0.8751084128360798,sundhed
-Not able to assign,Ny Alliance,65,225,82.0,0.36444444444444446,sundhed
-Not able to assign,Radikale Venstre,65,1779,1164.0,0.654300168634064,sundhed
-Not able to assign,Sambandsflokkurin,65,6,0.0,0.0,sundhed
-Not able to assign,Socialdemokratiet,65,15976,14260.0,0.8925888833249875,sundhed
-Not able to assign,Socialistisk Folkeparti,65,2833,2367.0,0.8355100600070596,sundhed
-Not able to assign,Tjóðveldi,65,18,16.0,0.8888888888888888,sundhed
-Not able to assign,Uden for folketingsgrupperne,65,2082,761.0,0.3655139289145053,sundhed
-Not able to assign,Venstre,65,15663,4747.0,0.3030709314946051,sundhed
-Ny Alliance,Danmarksdemokraterne,65,118,117.0,0.9915254237288136,sundhed
-Ny Alliance,Dansk Folkeparti,65,974,938.0,0.9630390143737166,sundhed
-Ny Alliance,Det Konservative Folkeparti,65,220,220.0,1.0,sundhed
-Ny Alliance,Enhedslisten,65,23,8.0,0.34782608695652173,sundhed
-Ny Alliance,Kristeligt Folkeparti,65,105,62.0,0.5904761904761905,sundhed
-Ny Alliance,Kristendemokraterne,65,98,59.0,0.6020408163265306,sundhed
-Ny Alliance,Liberal Alliance,65,105,105.0,1.0,sundhed
-Ny Alliance,Moderaterne,65,9,9.0,1.0,sundhed
-Ny Alliance,Not able to assign,65,192,69.0,0.359375,sundhed
-Ny Alliance,Radikale Venstre,65,124,62.0,0.5,sundhed
+Not able to assign,Ny Alliance,65,417,151.0,0.36211031175059955,sundhed
+Not able to assign,Radikale Venstre,65,3078,1982.0,0.6439246263807668,sundhed
+Not able to assign,Sambandsflokkurin,65,7,0.0,0.0,sundhed
+Not able to assign,Socialdemokratiet,65,24901,23070.0,0.9264688165133931,sundhed
+Not able to assign,Socialistisk Folkeparti,65,3962,3196.0,0.8066633013629481,sundhed
+Not able to assign,Tjóðveldi,65,36,30.0,0.8333333333333334,sundhed
+Not able to assign,Uden for folketingsgrupperne,65,2969,1052.0,0.3543280565847087,sundhed
+Not able to assign,Venstre,65,24409,7298.0,0.2989880781678889,sundhed
+Ny Alliance,Radikale Venstre,65,422,191.0,0.45260663507109006,sundhed
 Ny Alliance,Sambandsflokkurin,65,1,1.0,1.0,sundhed
-Ny Alliance,Socialdemokratiet,65,2728,1018.0,0.37316715542521994,sundhed
-Ny Alliance,Socialistisk Folkeparti,65,443,136.0,0.30699774266365687,sundhed
-Ny Alliance,Uden for folketingsgrupperne,65,389,332.0,0.8534704370179949,sundhed
-Ny Alliance,Venstre,65,1870,1870.0,1.0,sundhed
-Radikale Venstre,Danmarksdemokraterne,65,882,367.0,0.41609977324263037,sundhed
-Radikale Venstre,Dansk Folkeparti,65,6535,2533.0,0.3876052027543994,sundhed
-Radikale Venstre,Det Konservative Folkeparti,65,1380,562.0,0.4072463768115942,sundhed
-Radikale Venstre,Enhedslisten,65,63,44.0,0.6984126984126984,sundhed
-Radikale Venstre,Inuit Ataqatigiit,65,30,27.0,0.9,sundhed
-Radikale Venstre,Kristeligt Folkeparti,65,765,400.0,0.5228758169934641,sundhed
-Radikale Venstre,Kristendemokraterne,65,558,292.0,0.5232974910394266,sundhed
-Radikale Venstre,Liberal Alliance,65,562,225.0,0.400355871886121,sundhed
-Radikale Venstre,Moderaterne,65,19,17.0,0.8947368421052632,sundhed
-Radikale Venstre,Not able to assign,65,1299,818.0,0.6297151655119323,sundhed
-Radikale Venstre,Ny Alliance,65,298,129.0,0.43288590604026844,sundhed
+Ny Alliance,Socialdemokratiet,65,3409,1298.0,0.3807568201818715,sundhed
+Ny Alliance,Socialistisk Folkeparti,65,552,168.0,0.30434782608695654,sundhed
+Ny Alliance,Uden for folketingsgrupperne,65,390,333.0,0.8538461538461538,sundhed
+Ny Alliance,Venstre,65,3350,3350.0,1.0,sundhed
 Radikale Venstre,Radikale Venstre,65,1160,1154.0,0.9948275862068966,sundhed
 Radikale Venstre,Sambandsflokkurin,65,7,0.0,0.0,sundhed
-Radikale Venstre,Socialdemokratiet,65,17592,11198.0,0.6365393360618463,sundhed
-Radikale Venstre,Socialistisk Folkeparti,65,2927,1948.0,0.6655278442090878,sundhed
-Radikale Venstre,Tjóðveldi,65,18,18.0,1.0,sundhed
-Radikale Venstre,Uden for folketingsgrupperne,65,2553,1422.0,0.5569917743830788,sundhed
-Radikale Venstre,Venstre,65,16457,6688.0,0.4063924166008385,sundhed
-Sambandsflokkurin,Dansk Folkeparti,65,12,12.0,1.0,sundhed
-Sambandsflokkurin,Enhedslisten,65,1,0.0,0.0,sundhed
-Sambandsflokkurin,Kristeligt Folkeparti,65,2,0.0,0.0,sundhed
-Sambandsflokkurin,Not able to assign,65,1,0.0,0.0,sundhed
-Sambandsflokkurin,Socialdemokratiet,65,29,0.0,0.0,sundhed
-Sambandsflokkurin,Socialistisk Folkeparti,65,4,0.0,0.0,sundhed
+Radikale Venstre,Socialdemokratiet,65,24932,15998.0,0.6416653296967753,sundhed
+Radikale Venstre,Socialistisk Folkeparti,65,3966,2636.0,0.6646495209278871,sundhed
+Radikale Venstre,Tjóðveldi,65,36,36.0,1.0,sundhed
+Radikale Venstre,Uden for folketingsgrupperne,65,2977,1607.0,0.539805172992946,sundhed
+Radikale Venstre,Venstre,65,24454,10152.0,0.4151468062484665,sundhed
+Sambandsflokkurin,Socialdemokratiet,65,58,0.0,0.0,sundhed
+Sambandsflokkurin,Socialistisk Folkeparti,65,12,0.0,0.0,sundhed
 Sambandsflokkurin,Uden for folketingsgrupperne,65,4,4.0,1.0,sundhed
-Sambandsflokkurin,Venstre,65,16,16.0,1.0,sundhed
-Socialdemokratiet,Danmarksdemokraterne,65,4020,1261.0,0.313681592039801,sundhed
-Socialdemokratiet,Dansk Folkeparti,65,43201,12292.0,0.28453045068401195,sundhed
-Socialdemokratiet,Det Konservative Folkeparti,65,10155,3214.0,0.31649433776464797,sundhed
-Socialdemokratiet,Enhedslisten,65,440,286.0,0.65,sundhed
-Socialdemokratiet,Inuit Ataqatigiit,65,149,120.0,0.8053691275167785,sundhed
-Socialdemokratiet,Kristeligt Folkeparti,65,6114,3353.0,0.5484134772652928,sundhed
-Socialdemokratiet,Kristendemokraterne,65,3550,1937.0,0.5456338028169014,sundhed
-Socialdemokratiet,Liberal Alliance,65,2954,902.0,0.3053486797562627,sundhed
-Socialdemokratiet,Moderaterne,65,136,126.0,0.9264705882352942,sundhed
-Socialdemokratiet,Not able to assign,65,8925,8810.0,0.9871148459383754,sundhed
-Socialdemokratiet,Ny Alliance,65,681,280.0,0.4111600587371512,sundhed
-Socialdemokratiet,Radikale Venstre,65,7340,4800.0,0.6539509536784741,sundhed
-Socialdemokratiet,Sambandsflokkurin,65,29,0.0,0.0,sundhed
+Sambandsflokkurin,Venstre,65,50,50.0,1.0,sundhed
 Socialdemokratiet,Socialdemokratiet,65,97816,94368.0,0.9647501431258689,sundhed
-Socialdemokratiet,Socialistisk Folkeparti,65,19270,14532.0,0.7541255838090296,sundhed
-Socialdemokratiet,Tjóðveldi,65,54,42.0,0.7777777777777778,sundhed
-Socialdemokratiet,Uden for folketingsgrupperne,65,14007,5220.0,0.37267080745341613,sundhed
-Socialdemokratiet,Venstre,65,93052,29203.0,0.31383527490005586,sundhed
-Socialistisk Folkeparti,Danmarksdemokraterne,65,638,182.0,0.2852664576802508,sundhed
-Socialistisk Folkeparti,Dansk Folkeparti,65,5122,1313.0,0.2563451776649746,sundhed
-Socialistisk Folkeparti,Det Konservative Folkeparti,65,1623,444.0,0.2735674676524954,sundhed
-Socialistisk Folkeparti,Enhedslisten,65,61,46.0,0.7540983606557377,sundhed
-Socialistisk Folkeparti,Inuit Ataqatigiit,65,20,18.0,0.9,sundhed
-Socialistisk Folkeparti,Kristeligt Folkeparti,65,778,434.0,0.5578406169665809,sundhed
-Socialistisk Folkeparti,Kristendemokraterne,65,384,209.0,0.5442708333333334,sundhed
-Socialistisk Folkeparti,Liberal Alliance,65,379,99.0,0.2612137203166227,sundhed
-Socialistisk Folkeparti,Moderaterne,65,22,16.0,0.7272727272727273,sundhed
-Socialistisk Folkeparti,Not able to assign,65,1129,829.0,0.7342781222320638,sundhed
-Socialistisk Folkeparti,Ny Alliance,65,109,32.0,0.29357798165137616,sundhed
-Socialistisk Folkeparti,Radikale Venstre,65,1039,688.0,0.6621751684311838,sundhed
-Socialistisk Folkeparti,Sambandsflokkurin,65,8,0.0,0.0,sundhed
-Socialistisk Folkeparti,Socialdemokratiet,65,12847,9746.0,0.7586206896551724,sundhed
+Socialdemokratiet,Socialistisk Folkeparti,65,32117,24278.0,0.7559236541395523,sundhed
+Socialdemokratiet,Tjóðveldi,65,287,228.0,0.794425087108014,sundhed
+Socialdemokratiet,Uden for folketingsgrupperne,65,24086,8731.0,0.3624927343685128,sundhed
+Socialdemokratiet,Venstre,65,197998,61106.0,0.308619278982616,sundhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,65,2078,2074.0,0.9980750721847931,sundhed
-Socialistisk Folkeparti,Tjóðveldi,65,9,9.0,1.0,sundhed
-Socialistisk Folkeparti,Uden for folketingsgrupperne,65,1730,642.0,0.37109826589595374,sundhed
-Socialistisk Folkeparti,Venstre,65,12731,3566.0,0.2801036839211374,sundhed
-Tjóðveldi,Danmarksdemokraterne,65,16,0.0,0.0,sundhed
-Tjóðveldi,Dansk Folkeparti,65,78,0.0,0.0,sundhed
-Tjóðveldi,Det Konservative Folkeparti,65,18,0.0,0.0,sundhed
-Tjóðveldi,Inuit Ataqatigiit,65,5,5.0,1.0,sundhed
-Tjóðveldi,Kristeligt Folkeparti,65,9,7.0,0.7777777777777778,sundhed
-Tjóðveldi,Kristendemokraterne,65,9,7.0,0.7777777777777778,sundhed
-Tjóðveldi,Liberal Alliance,65,9,0.0,0.0,sundhed
-Tjóðveldi,Not able to assign,65,18,14.0,0.7777777777777778,sundhed
-Tjóðveldi,Radikale Venstre,65,18,18.0,1.0,sundhed
-Tjóðveldi,Socialdemokratiet,65,233,186.0,0.7982832618025751,sundhed
-Tjóðveldi,Socialistisk Folkeparti,65,36,36.0,1.0,sundhed
+Socialistisk Folkeparti,Tjóðveldi,65,45,45.0,1.0,sundhed
+Socialistisk Folkeparti,Uden for folketingsgrupperne,65,3807,1289.0,0.33858681376411875,sundhed
+Socialistisk Folkeparti,Venstre,65,31528,8867.0,0.28124207054047196,sundhed
 Tjóðveldi,Uden for folketingsgrupperne,65,36,9.0,0.25,sundhed
-Tjóðveldi,Venstre,65,161,0.0,0.0,sundhed
-Uden for folketingsgrupperne,Danmarksdemokraterne,65,224,181.0,0.8080357142857143,sundhed
-Uden for folketingsgrupperne,Dansk Folkeparti,65,4639,4035.0,0.8697995257598621,sundhed
-Uden for folketingsgrupperne,Det Konservative Folkeparti,65,562,559.0,0.994661921708185,sundhed
-Uden for folketingsgrupperne,Enhedslisten,65,21,8.0,0.38095238095238093,sundhed
-Uden for folketingsgrupperne,Inuit Ataqatigiit,65,20,2.0,0.1,sundhed
-Uden for folketingsgrupperne,Kristeligt Folkeparti,65,718,329.0,0.4582172701949861,sundhed
-Uden for folketingsgrupperne,Kristendemokraterne,65,362,162.0,0.44751381215469616,sundhed
-Uden for folketingsgrupperne,Liberal Alliance,65,356,353.0,0.9915730337078652,sundhed
-Uden for folketingsgrupperne,Moderaterne,65,1,1.0,1.0,sundhed
-Uden for folketingsgrupperne,Not able to assign,65,887,291.0,0.32807215332581735,sundhed
-Uden for folketingsgrupperne,Ny Alliance,65,1,1.0,1.0,sundhed
-Uden for folketingsgrupperne,Radikale Venstre,65,424,185.0,0.4363207547169811,sundhed
-Uden for folketingsgrupperne,Socialdemokratiet,65,10079,3511.0,0.3483480504018256,sundhed
-Uden for folketingsgrupperne,Socialistisk Folkeparti,65,2077,647.0,0.31150698122291764,sundhed
+Tjóðveldi,Venstre,65,278,0.0,0.0,sundhed
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,65,1091,755.0,0.692025664527956,sundhed
-Uden for folketingsgrupperne,Venstre,65,8692,7541.0,0.8675793833410033,sundhed
-Venstre,Danmarksdemokraterne,65,4478,4433.0,0.9899508709245198,sundhed
-Venstre,Dansk Folkeparti,65,40782,39756.0,0.9748418419891128,sundhed
-Venstre,Det Konservative Folkeparti,65,9871,9869.0,0.9997973862830514,sundhed
-Venstre,Enhedslisten,65,532,194.0,0.36466165413533835,sundhed
-Venstre,Inuit Ataqatigiit,65,191,19.0,0.09947643979057591,sundhed
-Venstre,Kristeligt Folkeparti,65,5436,2559.0,0.4707505518763797,sundhed
-Venstre,Kristendemokraterne,65,3923,1851.0,0.47183278103492227,sundhed
-Venstre,Liberal Alliance,65,3947,3946.0,0.9997466430200151,sundhed
-Venstre,Moderaterne,65,180,180.0,1.0,sundhed
-Venstre,Not able to assign,65,8746,2551.0,0.29167619483192314,sundhed
-Venstre,Ny Alliance,65,1480,1480.0,1.0,sundhed
-Venstre,Radikale Venstre,65,7997,3464.0,0.43316243591346754,sundhed
-Venstre,Sambandsflokkurin,65,34,34.0,1.0,sundhed
-Venstre,Socialdemokratiet,65,104946,31903.0,0.3039944352333581,sundhed
-Venstre,Socialistisk Folkeparti,65,18797,5301.0,0.28201308719476514,sundhed
-Venstre,Tjóðveldi,65,117,0.0,0.0,sundhed
-Venstre,Uden for folketingsgrupperne,65,14850,12426.0,0.8367676767676767,sundhed
+Uden for folketingsgrupperne,Venstre,65,23542,19967.0,0.8481437430974429,sundhed
 Venstre,Venstre,65,94141,94110.0,0.9996707067058986,sundhed
 Danmarksdemokraterne,Danmarksdemokraterne,66,1429,1379.0,0.9650104968509448,sundhed
-Danmarksdemokraterne,Dansk Folkeparti,66,9112,8975.0,0.9849648814749781,sundhed
-Danmarksdemokraterne,Det Konservative Folkeparti,66,4966,4698.0,0.946033024567056,sundhed
-Danmarksdemokraterne,Enhedslisten,66,1851,404.0,0.2182603997839006,sundhed
-Danmarksdemokraterne,Inuit Ataqatigiit,66,3,0.0,0.0,sundhed
-Danmarksdemokraterne,Kristendemokraterne,66,753,724.0,0.9614873837981408,sundhed
-Danmarksdemokraterne,Liberal Alliance,66,671,642.0,0.9567809239940388,sundhed
-Danmarksdemokraterne,Moderaterne,66,205,200.0,0.975609756097561,sundhed
-Danmarksdemokraterne,Not able to assign,66,1821,982.0,0.5392641405820977,sundhed
-Danmarksdemokraterne,Ny Alliance,66,353,317.0,0.8980169971671388,sundhed
-Danmarksdemokraterne,Radikale Venstre,66,5076,2862.0,0.5638297872340425,sundhed
-Danmarksdemokraterne,Siumut,66,19,12.0,0.631578947368421,sundhed
-Danmarksdemokraterne,Socialdemokratiet,66,20202,10669.0,0.5281160281160281,sundhed
-Danmarksdemokraterne,Socialistisk Folkeparti,66,4120,1428.0,0.3466019417475728,sundhed
-Danmarksdemokraterne,Tjóðveldi,66,13,1.0,0.07692307692307693,sundhed
-Danmarksdemokraterne,Uden for folketingsgrupperne,66,2576,2126.0,0.8253105590062112,sundhed
-Danmarksdemokraterne,Venstre,66,20017,18913.0,0.9448468801518709,sundhed
-Dansk Folkeparti,Danmarksdemokraterne,66,3727,3692.0,0.9906090689562651,sundhed
+Danmarksdemokraterne,Dansk Folkeparti,66,12839,12667.0,0.9866033180154218,sundhed
+Danmarksdemokraterne,Det Konservative Folkeparti,66,10053,9415.0,0.9365363573062767,sundhed
+Danmarksdemokraterne,Enhedslisten,66,2693,612.0,0.227255848496101,sundhed
+Danmarksdemokraterne,Folkaflokkurin,66,2,2.0,1.0,sundhed
+Danmarksdemokraterne,Inuit Ataqatigiit,66,9,0.0,0.0,sundhed
+Danmarksdemokraterne,Kristendemokraterne,66,963,914.0,0.9491173416407062,sundhed
+Danmarksdemokraterne,Liberal Alliance,66,860,813.0,0.9453488372093023,sundhed
+Danmarksdemokraterne,Moderaterne,66,282,275.0,0.975177304964539,sundhed
+Danmarksdemokraterne,Not able to assign,66,2954,1618.0,0.5477318889641164,sundhed
+Danmarksdemokraterne,Ny Alliance,66,640,577.0,0.9015625,sundhed
+Danmarksdemokraterne,Radikale Venstre,66,8443,4847.0,0.5740850408622528,sundhed
+Danmarksdemokraterne,Siumut,66,30,16.0,0.5333333333333333,sundhed
+Danmarksdemokraterne,Socialdemokratiet,66,28182,15131.0,0.5369029877226599,sundhed
+Danmarksdemokraterne,Socialistisk Folkeparti,66,6698,2351.0,0.351000298596596,sundhed
+Danmarksdemokraterne,Tjóðveldi,66,33,2.0,0.06060606060606061,sundhed
+Danmarksdemokraterne,Uden for folketingsgrupperne,66,3402,2842.0,0.8353909465020576,sundhed
+Danmarksdemokraterne,Venstre,66,31892,29854.0,0.9360968267904176,sundhed
 Dansk Folkeparti,Dansk Folkeparti,66,21529,21529.0,1.0,sundhed
-Dansk Folkeparti,Det Konservative Folkeparti,66,9537,9044.0,0.948306595365419,sundhed
-Dansk Folkeparti,Enhedslisten,66,4302,947.0,0.2201301720130172,sundhed
-Dansk Folkeparti,Inuit Ataqatigiit,66,18,0.0,0.0,sundhed
-Dansk Folkeparti,Kristendemokraterne,66,2320,2215.0,0.9547413793103449,sundhed
-Dansk Folkeparti,Liberal Alliance,66,1349,1281.0,0.949592290585619,sundhed
-Dansk Folkeparti,Moderaterne,66,443,430.0,0.9706546275395034,sundhed
-Dansk Folkeparti,Not able to assign,66,4432,2481.0,0.5597924187725631,sundhed
-Dansk Folkeparti,Ny Alliance,66,430,391.0,0.9093023255813953,sundhed
-Dansk Folkeparti,Radikale Venstre,66,12002,6717.0,0.5596567238793534,sundhed
-Dansk Folkeparti,Siumut,66,51,28.0,0.5490196078431373,sundhed
-Dansk Folkeparti,Socialdemokratiet,66,47044,25375.0,0.5393886574270895,sundhed
-Dansk Folkeparti,Socialistisk Folkeparti,66,11145,3984.0,0.35746971736204575,sundhed
-Dansk Folkeparti,Tjóðveldi,66,24,1.0,0.041666666666666664,sundhed
-Dansk Folkeparti,Uden for folketingsgrupperne,66,6285,4919.0,0.7826571201272872,sundhed
-Dansk Folkeparti,Venstre,66,45808,43214.0,0.9433723367097451,sundhed
-Det Konservative Folkeparti,Danmarksdemokraterne,66,5087,4717.0,0.9272655789266758,sundhed
-Det Konservative Folkeparti,Dansk Folkeparti,66,26232,24617.0,0.9384339737724916,sundhed
+Dansk Folkeparti,Det Konservative Folkeparti,66,35769,33661.0,0.9410662864491599,sundhed
+Dansk Folkeparti,Enhedslisten,66,9533,2091.0,0.2193433336829959,sundhed
+Dansk Folkeparti,Folkaflokkurin,66,15,15.0,1.0,sundhed
+Dansk Folkeparti,Inuit Ataqatigiit,66,39,0.0,0.0,sundhed
+Dansk Folkeparti,Kristendemokraterne,66,3459,3306.0,0.955767562879445,sundhed
+Dansk Folkeparti,Liberal Alliance,66,3082,2928.0,0.9500324464633355,sundhed
+Dansk Folkeparti,Moderaterne,66,978,949.0,0.9703476482617587,sundhed
+Dansk Folkeparti,Not able to assign,66,10809,5815.0,0.5379776112498843,sundhed
+Dansk Folkeparti,Ny Alliance,66,2174,1970.0,0.906163753449862,sundhed
+Dansk Folkeparti,Radikale Venstre,66,29905,16466.0,0.5506102658418325,sundhed
+Dansk Folkeparti,Siumut,66,122,71.0,0.5819672131147541,sundhed
+Dansk Folkeparti,Socialdemokratiet,66,100836,53535.0,0.5309115791979055,sundhed
+Dansk Folkeparti,Socialistisk Folkeparti,66,24063,8379.0,0.3482109462660516,sundhed
+Dansk Folkeparti,Tjóðveldi,66,128,15.0,0.1171875,sundhed
+Dansk Folkeparti,Uden for folketingsgrupperne,66,12394,10338.0,0.8341132806196546,sundhed
+Dansk Folkeparti,Venstre,66,114457,107670.0,0.9407026219453594,sundhed
 Det Konservative Folkeparti,Det Konservative Folkeparti,66,12678,12534.0,0.9886417415996214,sundhed
-Det Konservative Folkeparti,Enhedslisten,66,5864,1316.0,0.22442019099590724,sundhed
-Det Konservative Folkeparti,Folkaflokkurin,66,1,1.0,1.0,sundhed
-Det Konservative Folkeparti,Inuit Ataqatigiit,66,24,0.0,0.0,sundhed
-Det Konservative Folkeparti,Kristendemokraterne,66,2378,2348.0,0.9873843566021867,sundhed
-Det Konservative Folkeparti,Liberal Alliance,66,1979,1965.0,0.9929257200606367,sundhed
-Det Konservative Folkeparti,Moderaterne,66,617,602.0,0.9756888168557536,sundhed
-Det Konservative Folkeparti,Not able to assign,66,5568,3278.0,0.5887212643678161,sundhed
-Det Konservative Folkeparti,Ny Alliance,66,1147,1117.0,0.97384481255449,sundhed
-Det Konservative Folkeparti,Radikale Venstre,66,15502,9402.0,0.6065023867888014,sundhed
-Det Konservative Folkeparti,Siumut,66,73,43.0,0.589041095890411,sundhed
-Det Konservative Folkeparti,Socialdemokratiet,66,59252,34523.0,0.582646999257409,sundhed
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,12541,4834.0,0.38545570528665973,sundhed
-Det Konservative Folkeparti,Tjóðveldi,66,62,9.0,0.14516129032258066,sundhed
-Det Konservative Folkeparti,Uden for folketingsgrupperne,66,7742,6481.0,0.8371221906484113,sundhed
-Det Konservative Folkeparti,Venstre,66,56621,55743.0,0.9844933858462408,sundhed
-Enhedslisten,Danmarksdemokraterne,66,842,208.0,0.24703087885985747,sundhed
-Enhedslisten,Dansk Folkeparti,66,5231,1144.0,0.2186962339896769,sundhed
-Enhedslisten,Det Konservative Folkeparti,66,1598,351.0,0.21964956195244056,sundhed
+Det Konservative Folkeparti,Enhedslisten,66,7462,1667.0,0.22339855266684536,sundhed
+Det Konservative Folkeparti,Folkaflokkurin,66,13,13.0,1.0,sundhed
+Det Konservative Folkeparti,Inuit Ataqatigiit,66,30,0.0,0.0,sundhed
+Det Konservative Folkeparti,Kristendemokraterne,66,2651,2619.0,0.987929083364768,sundhed
+Det Konservative Folkeparti,Liberal Alliance,66,2392,2376.0,0.9933110367892977,sundhed
+Det Konservative Folkeparti,Moderaterne,66,748,732.0,0.9786096256684492,sundhed
+Det Konservative Folkeparti,Not able to assign,66,8347,4900.0,0.5870372588954115,sundhed
+Det Konservative Folkeparti,Ny Alliance,66,1687,1642.0,0.973325429756965,sundhed
+Det Konservative Folkeparti,Radikale Venstre,66,23193,13987.0,0.6030698917776915,sundhed
+Det Konservative Folkeparti,Siumut,66,91,52.0,0.5714285714285714,sundhed
+Det Konservative Folkeparti,Socialdemokratiet,66,77934,45171.0,0.5796058203094927,sundhed
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,18614,7074.0,0.38003653164284945,sundhed
+Det Konservative Folkeparti,Tjóðveldi,66,94,13.0,0.13829787234042554,sundhed
+Det Konservative Folkeparti,Uden for folketingsgrupperne,66,9592,8154.0,0.8500834028356964,sundhed
+Det Konservative Folkeparti,Venstre,66,88599,87210.0,0.9843226221514916,sundhed
 Enhedslisten,Enhedslisten,66,676,676.0,1.0,sundhed
-Enhedslisten,Inuit Ataqatigiit,66,6,4.0,0.6666666666666666,sundhed
-Enhedslisten,Kristendemokraterne,66,611,135.0,0.220949263502455,sundhed
-Enhedslisten,Liberal Alliance,66,236,48.0,0.2033898305084746,sundhed
-Enhedslisten,Moderaterne,66,55,14.0,0.2545454545454545,sundhed
-Enhedslisten,Not able to assign,66,897,543.0,0.6053511705685619,sundhed
-Enhedslisten,Ny Alliance,66,97,18.0,0.18556701030927836,sundhed
-Enhedslisten,Radikale Venstre,66,2466,1421.0,0.5762368207623683,sundhed
-Enhedslisten,Siumut,66,10,7.0,0.7,sundhed
-Enhedslisten,Socialdemokratiet,66,10342,6295.0,0.6086830400309418,sundhed
-Enhedslisten,Socialistisk Folkeparti,66,2458,2021.0,0.822213181448332,sundhed
-Enhedslisten,Tjóðveldi,66,7,7.0,1.0,sundhed
-Enhedslisten,Uden for folketingsgrupperne,66,1571,587.0,0.3736473583704647,sundhed
-Enhedslisten,Venstre,66,9264,2088.0,0.22538860103626943,sundhed
-Folkaflokkurin,Danmarksdemokraterne,66,2,2.0,1.0,sundhed
-Folkaflokkurin,Dansk Folkeparti,66,15,15.0,1.0,sundhed
-Folkaflokkurin,Det Konservative Folkeparti,66,12,12.0,1.0,sundhed
-Folkaflokkurin,Enhedslisten,66,3,3.0,1.0,sundhed
+Enhedslisten,Folkaflokkurin,66,3,3.0,1.0,sundhed
+Enhedslisten,Inuit Ataqatigiit,66,9,6.0,0.6666666666666666,sundhed
+Enhedslisten,Kristendemokraterne,66,709,157.0,0.22143864598025387,sundhed
+Enhedslisten,Liberal Alliance,66,653,122.0,0.18683001531393567,sundhed
+Enhedslisten,Moderaterne,66,195,37.0,0.18974358974358974,sundhed
+Enhedslisten,Not able to assign,66,2250,1330.0,0.5911111111111111,sundhed
+Enhedslisten,Ny Alliance,66,484,96.0,0.19834710743801653,sundhed
+Enhedslisten,Radikale Venstre,66,6251,3541.0,0.5664693649016157,sundhed
+Enhedslisten,Siumut,66,23,18.0,0.782608695652174,sundhed
+Enhedslisten,Socialdemokratiet,66,20764,12653.0,0.6093719899826623,sundhed
+Enhedslisten,Socialistisk Folkeparti,66,4947,4070.0,0.822720840913685,sundhed
+Enhedslisten,Tjóðveldi,66,29,27.0,0.9310344827586207,sundhed
+Enhedslisten,Uden for folketingsgrupperne,66,2632,818.0,0.310790273556231,sundhed
+Enhedslisten,Venstre,66,23526,5500.0,0.23378389866530647,sundhed
 Folkaflokkurin,Kristendemokraterne,66,1,1.0,1.0,sundhed
 Folkaflokkurin,Liberal Alliance,66,1,1.0,1.0,sundhed
 Folkaflokkurin,Not able to assign,66,3,3.0,1.0,sundhed
@@ -356,671 +230,378 @@ Folkaflokkurin,Socialistisk Folkeparti,66,7,7.0,1.0,sundhed
 Folkaflokkurin,Tjóðveldi,66,1,1.0,1.0,sundhed
 Folkaflokkurin,Uden for folketingsgrupperne,66,4,4.0,1.0,sundhed
 Folkaflokkurin,Venstre,66,41,41.0,1.0,sundhed
-Inuit Ataqatigiit,Danmarksdemokraterne,66,6,0.0,0.0,sundhed
-Inuit Ataqatigiit,Dansk Folkeparti,66,21,0.0,0.0,sundhed
-Inuit Ataqatigiit,Det Konservative Folkeparti,66,6,0.0,0.0,sundhed
-Inuit Ataqatigiit,Enhedslisten,66,3,2.0,0.6666666666666666,sundhed
 Inuit Ataqatigiit,Kristendemokraterne,66,3,0.0,0.0,sundhed
 Inuit Ataqatigiit,Liberal Alliance,66,3,0.0,0.0,sundhed
-Inuit Ataqatigiit,Not able to assign,66,3,0.0,0.0,sundhed
-Inuit Ataqatigiit,Radikale Venstre,66,12,8.0,0.6666666666666666,sundhed
+Inuit Ataqatigiit,Not able to assign,66,12,0.0,0.0,sundhed
+Inuit Ataqatigiit,Radikale Venstre,66,21,14.0,0.6666666666666666,sundhed
 Inuit Ataqatigiit,Siumut,66,3,3.0,1.0,sundhed
-Inuit Ataqatigiit,Socialdemokratiet,66,37,2.0,0.05405405405405406,sundhed
-Inuit Ataqatigiit,Socialistisk Folkeparti,66,3,2.0,0.6666666666666666,sundhed
-Inuit Ataqatigiit,Uden for folketingsgrupperne,66,7,4.0,0.5714285714285714,sundhed
-Inuit Ataqatigiit,Venstre,66,32,0.0,0.0,sundhed
-Kristendemokraterne,Danmarksdemokraterne,66,210,190.0,0.9047619047619048,sundhed
-Kristendemokraterne,Dansk Folkeparti,66,1139,1091.0,0.9578577699736611,sundhed
-Kristendemokraterne,Det Konservative Folkeparti,66,273,271.0,0.9926739926739927,sundhed
-Kristendemokraterne,Enhedslisten,66,98,22.0,0.22448979591836735,sundhed
-Kristendemokraterne,Not able to assign,66,126,83.0,0.6587301587301587,sundhed
-Kristendemokraterne,Radikale Venstre,66,174,113.0,0.6494252873563219,sundhed
-Kristendemokraterne,Socialdemokratiet,66,1759,1014.0,0.5764638999431495,sundhed
-Kristendemokraterne,Socialistisk Folkeparti,66,686,266.0,0.3877551020408163,sundhed
-Kristendemokraterne,Uden for folketingsgrupperne,66,384,321.0,0.8359375,sundhed
-Kristendemokraterne,Venstre,66,2249,2215.0,0.9848821698532682,sundhed
-Liberal Alliance,Danmarksdemokraterne,66,189,171.0,0.9047619047619048,sundhed
-Liberal Alliance,Dansk Folkeparti,66,1733,1647.0,0.9503750721292556,sundhed
-Liberal Alliance,Det Konservative Folkeparti,66,413,411.0,0.9951573849878934,sundhed
-Liberal Alliance,Enhedslisten,66,417,74.0,0.1774580335731415,sundhed
-Liberal Alliance,Kristendemokraterne,66,232,230.0,0.9913793103448276,sundhed
-Liberal Alliance,Not able to assign,66,279,162.0,0.5806451612903226,sundhed
-Liberal Alliance,Radikale Venstre,66,1120,665.0,0.59375,sundhed
-Liberal Alliance,Socialdemokratiet,66,3735,2057.0,0.5507362784471218,sundhed
-Liberal Alliance,Socialistisk Folkeparti,66,743,256.0,0.3445491251682369,sundhed
-Liberal Alliance,Uden for folketingsgrupperne,66,565,450.0,0.7964601769911505,sundhed
-Liberal Alliance,Venstre,66,2430,2395.0,0.98559670781893,sundhed
-Moderaterne,Danmarksdemokraterne,66,77,75.0,0.974025974025974,sundhed
-Moderaterne,Dansk Folkeparti,66,535,519.0,0.9700934579439252,sundhed
-Moderaterne,Det Konservative Folkeparti,66,131,130.0,0.9923664122137404,sundhed
-Moderaterne,Enhedslisten,66,140,23.0,0.16428571428571428,sundhed
-Moderaterne,Kristendemokraterne,66,77,74.0,0.961038961038961,sundhed
-Moderaterne,Liberal Alliance,66,62,60.0,0.967741935483871,sundhed
-Moderaterne,Not able to assign,66,88,49.0,0.5568181818181818,sundhed
-Moderaterne,Radikale Venstre,66,390,256.0,0.6564102564102564,sundhed
-Moderaterne,Socialdemokratiet,66,1224,646.0,0.5277777777777778,sundhed
-Moderaterne,Socialistisk Folkeparti,66,241,90.0,0.37344398340248963,sundhed
-Moderaterne,Uden for folketingsgrupperne,66,199,163.0,0.8190954773869347,sundhed
-Moderaterne,Venstre,66,751,729.0,0.9707057256990679,sundhed
-Not able to assign,Danmarksdemokraterne,66,1133,636.0,0.5613415710503089,sundhed
-Not able to assign,Dansk Folkeparti,66,6377,3334.0,0.5228163713344833,sundhed
-Not able to assign,Det Konservative Folkeparti,66,2779,1622.0,0.5836631881971932,sundhed
-Not able to assign,Enhedslisten,66,1353,787.0,0.581670362158167,sundhed
-Not able to assign,Inuit Ataqatigiit,66,9,0.0,0.0,sundhed
-Not able to assign,Kristendemokraterne,66,677,378.0,0.5583456425406204,sundhed
-Not able to assign,Liberal Alliance,66,439,243.0,0.5535307517084282,sundhed
-Not able to assign,Moderaterne,66,136,68.0,0.5,sundhed
+Inuit Ataqatigiit,Socialdemokratiet,66,75,2.0,0.02666666666666667,sundhed
+Inuit Ataqatigiit,Socialistisk Folkeparti,66,15,10.0,0.6666666666666666,sundhed
+Inuit Ataqatigiit,Tjóðveldi,66,3,2.0,0.6666666666666666,sundhed
+Inuit Ataqatigiit,Uden for folketingsgrupperne,66,10,4.0,0.4,sundhed
+Inuit Ataqatigiit,Venstre,66,92,1.0,0.010869565217391304,sundhed
+Kristendemokraterne,Liberal Alliance,66,232,230.0,0.9913793103448276,sundhed
+Kristendemokraterne,Moderaterne,66,77,74.0,0.961038961038961,sundhed
+Kristendemokraterne,Not able to assign,66,803,461.0,0.5740971357409713,sundhed
+Kristendemokraterne,Ny Alliance,66,164,162.0,0.9878048780487805,sundhed
+Kristendemokraterne,Radikale Venstre,66,2222,1320.0,0.594059405940594,sundhed
+Kristendemokraterne,Siumut,66,9,5.0,0.5555555555555556,sundhed
+Kristendemokraterne,Socialdemokratiet,66,7488,4247.0,0.5671741452991453,sundhed
+Kristendemokraterne,Socialistisk Folkeparti,66,1795,652.0,0.36323119777158774,sundhed
+Kristendemokraterne,Tjóðveldi,66,10,1.0,0.1,sundhed
+Kristendemokraterne,Uden for folketingsgrupperne,66,930,802.0,0.8623655913978494,sundhed
+Kristendemokraterne,Venstre,66,8505,8360.0,0.9829512051734274,sundhed
+Liberal Alliance,Moderaterne,66,62,60.0,0.967741935483871,sundhed
+Liberal Alliance,Not able to assign,66,718,405.0,0.564066852367688,sundhed
+Liberal Alliance,Ny Alliance,66,159,156.0,0.9811320754716981,sundhed
+Liberal Alliance,Radikale Venstre,66,1997,1169.0,0.585378067100651,sundhed
+Liberal Alliance,Siumut,66,9,5.0,0.5555555555555556,sundhed
+Liberal Alliance,Socialdemokratiet,66,6665,3713.0,0.5570892723180795,sundhed
+Liberal Alliance,Socialistisk Folkeparti,66,1587,530.0,0.33396345305608066,sundhed
+Liberal Alliance,Tjóðveldi,66,10,1.0,0.1,sundhed
+Liberal Alliance,Uden for folketingsgrupperne,66,861,737.0,0.8559814169570267,sundhed
+Liberal Alliance,Venstre,66,7527,7430.0,0.9871130596519198,sundhed
+Moderaterne,Not able to assign,66,224,117.0,0.5223214285714286,sundhed
+Moderaterne,Ny Alliance,66,49,46.0,0.9387755102040817,sundhed
+Moderaterne,Radikale Venstre,66,652,410.0,0.6288343558282209,sundhed
+Moderaterne,Siumut,66,1,1.0,1.0,sundhed
+Moderaterne,Socialdemokratiet,66,2173,1144.0,0.5264611136677404,sundhed
+Moderaterne,Socialistisk Folkeparti,66,519,180.0,0.3468208092485549,sundhed
+Moderaterne,Tjóðveldi,66,1,0.0,0.0,sundhed
+Moderaterne,Uden for folketingsgrupperne,66,288,245.0,0.8506944444444444,sundhed
+Moderaterne,Venstre,66,2417,2344.0,0.9697972693421597,sundhed
 Not able to assign,Not able to assign,66,938,925.0,0.9861407249466951,sundhed
-Not able to assign,Ny Alliance,66,219,138.0,0.6301369863013698,sundhed
-Not able to assign,Radikale Venstre,66,3350,2685.0,0.8014925373134328,sundhed
-Not able to assign,Siumut,66,17,8.0,0.47058823529411764,sundhed
-Not able to assign,Socialdemokratiet,66,13928,13638.0,0.9791786329695578,sundhed
-Not able to assign,Socialistisk Folkeparti,66,3160,2426.0,0.7677215189873418,sundhed
-Not able to assign,Tjóðveldi,66,13,6.0,0.46153846153846156,sundhed
-Not able to assign,Uden for folketingsgrupperne,66,1895,1222.0,0.6448548812664908,sundhed
-Not able to assign,Venstre,66,12984,7510.0,0.5784041897720271,sundhed
-Ny Alliance,Danmarksdemokraterne,66,287,260.0,0.9059233449477352,sundhed
-Ny Alliance,Dansk Folkeparti,66,1744,1579.0,0.9053899082568807,sundhed
-Ny Alliance,Det Konservative Folkeparti,66,540,525.0,0.9722222222222222,sundhed
-Ny Alliance,Enhedslisten,66,387,78.0,0.20155038759689922,sundhed
-Ny Alliance,Kristendemokraterne,66,164,162.0,0.9878048780487805,sundhed
-Ny Alliance,Liberal Alliance,66,159,156.0,0.9811320754716981,sundhed
-Ny Alliance,Moderaterne,66,49,46.0,0.9387755102040817,sundhed
-Ny Alliance,Not able to assign,66,295,163.0,0.5525423728813559,sundhed
-Ny Alliance,Radikale Venstre,66,918,585.0,0.6372549019607843,sundhed
+Not able to assign,Ny Alliance,66,514,301.0,0.585603112840467,sundhed
+Not able to assign,Radikale Venstre,66,6935,5622.0,0.8106705118961788,sundhed
+Not able to assign,Siumut,66,26,14.0,0.5384615384615384,sundhed
+Not able to assign,Socialdemokratiet,66,23289,22879.0,0.9823951221606767,sundhed
+Not able to assign,Socialistisk Folkeparti,66,5580,4289.0,0.7686379928315412,sundhed
+Not able to assign,Tjóðveldi,66,32,16.0,0.5,sundhed
+Not able to assign,Uden for folketingsgrupperne,66,2914,1825.0,0.6262868908716541,sundhed
+Not able to assign,Venstre,66,26502,15468.0,0.5836540638442381,sundhed
+Ny Alliance,Radikale Venstre,66,1449,921.0,0.6356107660455487,sundhed
 Ny Alliance,Siumut,66,6,5.0,0.8333333333333334,sundhed
-Ny Alliance,Socialdemokratiet,66,3939,2221.0,0.5638486925615639,sundhed
-Ny Alliance,Socialistisk Folkeparti,66,715,235.0,0.32867132867132864,sundhed
-Ny Alliance,Uden for folketingsgrupperne,66,587,516.0,0.879045996592845,sundhed
-Ny Alliance,Venstre,66,3347,3275.0,0.9784881983866148,sundhed
-Radikale Venstre,Danmarksdemokraterne,66,3367,1985.0,0.5895455895455896,sundhed
-Radikale Venstre,Dansk Folkeparti,66,17903,9749.0,0.5445456068815282,sundhed
-Radikale Venstre,Det Konservative Folkeparti,66,7691,4585.0,0.5961513457287739,sundhed
-Radikale Venstre,Enhedslisten,66,3785,2120.0,0.560105680317041,sundhed
-Radikale Venstre,Inuit Ataqatigiit,66,9,6.0,0.6666666666666666,sundhed
-Radikale Venstre,Kristendemokraterne,66,2048,1207.0,0.58935546875,sundhed
-Radikale Venstre,Liberal Alliance,66,877,504.0,0.5746864310148233,sundhed
-Radikale Venstre,Moderaterne,66,262,154.0,0.5877862595419847,sundhed
-Radikale Venstre,Not able to assign,66,3585,2937.0,0.8192468619246862,sundhed
-Radikale Venstre,Ny Alliance,66,531,336.0,0.632768361581921,sundhed
+Ny Alliance,Socialdemokratiet,66,4685,2656.0,0.5669156883671291,sundhed
+Ny Alliance,Socialistisk Folkeparti,66,1108,367.0,0.3312274368231047,sundhed
+Ny Alliance,Tjóðveldi,66,6,1.0,0.16666666666666666,sundhed
+Ny Alliance,Uden for folketingsgrupperne,66,639,567.0,0.8873239436619719,sundhed
+Ny Alliance,Venstre,66,5208,5087.0,0.9767665130568356,sundhed
 Radikale Venstre,Radikale Venstre,66,8670,8613.0,0.9934256055363322,sundhed
-Radikale Venstre,Siumut,66,35,32.0,0.9142857142857143,sundhed
-Radikale Venstre,Socialdemokratiet,66,37658,30137.0,0.8002814806946731,sundhed
-Radikale Venstre,Socialistisk Folkeparti,66,8819,6516.0,0.7388592810976301,sundhed
-Radikale Venstre,Tjóðveldi,66,32,26.0,0.8125,sundhed
-Radikale Venstre,Uden for folketingsgrupperne,66,5301,3942.0,0.7436332767402377,sundhed
-Radikale Venstre,Venstre,66,37442,22100.0,0.5902462475295123,sundhed
-Siumut,Danmarksdemokraterne,66,11,4.0,0.36363636363636365,sundhed
-Siumut,Dansk Folkeparti,66,71,43.0,0.6056338028169014,sundhed
-Siumut,Det Konservative Folkeparti,66,18,9.0,0.5,sundhed
-Siumut,Enhedslisten,66,13,11.0,0.8461538461538461,sundhed
-Siumut,Kristendemokraterne,66,9,5.0,0.5555555555555556,sundhed
-Siumut,Liberal Alliance,66,9,5.0,0.5555555555555556,sundhed
-Siumut,Moderaterne,66,1,1.0,1.0,sundhed
-Siumut,Not able to assign,66,9,6.0,0.6666666666666666,sundhed
-Siumut,Radikale Venstre,66,43,39.0,0.9069767441860465,sundhed
-Siumut,Socialdemokratiet,66,134,98.0,0.7313432835820896,sundhed
-Siumut,Socialistisk Folkeparti,66,24,19.0,0.7916666666666666,sundhed
-Siumut,Uden for folketingsgrupperne,66,26,22.0,0.8461538461538461,sundhed
-Siumut,Venstre,66,93,52.0,0.5591397849462365,sundhed
-Socialdemokratiet,Danmarksdemokraterne,66,7980,4462.0,0.5591478696741855,sundhed
-Socialdemokratiet,Dansk Folkeparti,66,53792,28160.0,0.5234979179060083,sundhed
-Socialdemokratiet,Det Konservative Folkeparti,66,18682,10648.0,0.5699603896799058,sundhed
-Socialdemokratiet,Enhedslisten,66,10422,6358.0,0.6100556515064287,sundhed
-Socialdemokratiet,Inuit Ataqatigiit,66,38,0.0,0.0,sundhed
-Socialdemokratiet,Kristendemokraterne,66,5729,3233.0,0.5643218711817071,sundhed
-Socialdemokratiet,Liberal Alliance,66,2930,1656.0,0.5651877133105802,sundhed
-Socialdemokratiet,Moderaterne,66,949,498.0,0.5247629083245522,sundhed
-Socialdemokratiet,Not able to assign,66,9361,9241.0,0.9871808567460741,sundhed
-Socialdemokratiet,Ny Alliance,66,746,435.0,0.5831099195710456,sundhed
-Socialdemokratiet,Radikale Venstre,66,27533,22068.0,0.8015109141757164,sundhed
-Socialdemokratiet,Siumut,66,119,81.0,0.680672268907563,sundhed
+Radikale Venstre,Siumut,66,78,71.0,0.9102564102564102,sundhed
+Radikale Venstre,Socialdemokratiet,66,65191,52205.0,0.8008007240263226,sundhed
+Radikale Venstre,Socialistisk Folkeparti,66,15499,11376.0,0.733982837602426,sundhed
+Radikale Venstre,Tjóðveldi,66,84,70.0,0.8333333333333334,sundhed
+Radikale Venstre,Uden for folketingsgrupperne,66,7990,5492.0,0.6873591989987484,sundhed
+Radikale Venstre,Venstre,66,73856,44007.0,0.595848678509532,sundhed
+Siumut,Socialdemokratiet,66,253,179.0,0.7075098814229249,sundhed
+Siumut,Socialistisk Folkeparti,66,53,41.0,0.7735849056603774,sundhed
+Siumut,Tjóðveldi,66,5,4.0,0.8,sundhed
+Siumut,Uden for folketingsgrupperne,66,33,25.0,0.7575757575757576,sundhed
+Siumut,Venstre,66,290,167.0,0.5758620689655173,sundhed
 Socialdemokratiet,Socialdemokratiet,66,106195,104148.0,0.9807241395545929,sundhed
-Socialdemokratiet,Socialistisk Folkeparti,66,25185,19955.0,0.7923367083581497,sundhed
-Socialdemokratiet,Tjóðveldi,66,35,19.0,0.5428571428571428,sundhed
-Socialdemokratiet,Uden for folketingsgrupperne,66,15523,10220.0,0.6583778908716099,sundhed
-Socialdemokratiet,Venstre,66,101286,58157.0,0.5741859684457872,sundhed
-Socialistisk Folkeparti,Danmarksdemokraterne,66,2578,923.0,0.35802948021722264,sundhed
-Socialistisk Folkeparti,Dansk Folkeparti,66,12918,4395.0,0.3402229447282861,sundhed
-Socialistisk Folkeparti,Det Konservative Folkeparti,66,6073,2240.0,0.36884571052198256,sundhed
-Socialistisk Folkeparti,Enhedslisten,66,2489,2049.0,0.823222177581358,sundhed
-Socialistisk Folkeparti,Inuit Ataqatigiit,66,12,8.0,0.6666666666666666,sundhed
-Socialistisk Folkeparti,Kristendemokraterne,66,1109,386.0,0.3480613165013526,sundhed
-Socialistisk Folkeparti,Liberal Alliance,66,844,274.0,0.3246445497630332,sundhed
-Socialistisk Folkeparti,Moderaterne,66,278,90.0,0.3237410071942446,sundhed
-Socialistisk Folkeparti,Not able to assign,66,2420,1863.0,0.7698347107438016,sundhed
-Socialistisk Folkeparti,Ny Alliance,66,393,132.0,0.33587786259541985,sundhed
-Socialistisk Folkeparti,Radikale Venstre,66,6680,4860.0,0.7275449101796407,sundhed
-Socialistisk Folkeparti,Siumut,66,29,22.0,0.7586206896551724,sundhed
-Socialistisk Folkeparti,Socialdemokratiet,66,27051,21036.0,0.7776422313408007,sundhed
+Socialdemokratiet,Socialistisk Folkeparti,66,52236,40991.0,0.784727008193583,sundhed
+Socialdemokratiet,Tjóðveldi,66,272,173.0,0.6360294117647058,sundhed
+Socialdemokratiet,Uden for folketingsgrupperne,66,27016,16798.0,0.6217796861119337,sundhed
+Socialdemokratiet,Venstre,66,249120,143532.0,0.5761560693641619,sundhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,66,5414,5367.0,0.9913188031030661,sundhed
-Socialistisk Folkeparti,Tjóðveldi,66,21,20.0,0.9523809523809523,sundhed
-Socialistisk Folkeparti,Uden for folketingsgrupperne,66,3719,1827.0,0.4912610916913149,sundhed
-Socialistisk Folkeparti,Venstre,66,28073,10552.0,0.37587717735902826,sundhed
-Tjóðveldi,Danmarksdemokraterne,66,20,1.0,0.05,sundhed
-Tjóðveldi,Dansk Folkeparti,66,104,14.0,0.1346153846153846,sundhed
-Tjóðveldi,Det Konservative Folkeparti,66,32,4.0,0.125,sundhed
-Tjóðveldi,Enhedslisten,66,22,20.0,0.9090909090909091,sundhed
-Tjóðveldi,Inuit Ataqatigiit,66,3,2.0,0.6666666666666666,sundhed
-Tjóðveldi,Kristendemokraterne,66,10,1.0,0.1,sundhed
-Tjóðveldi,Liberal Alliance,66,10,1.0,0.1,sundhed
-Tjóðveldi,Moderaterne,66,1,0.0,0.0,sundhed
-Tjóðveldi,Not able to assign,66,19,10.0,0.5263157894736842,sundhed
-Tjóðveldi,Ny Alliance,66,6,1.0,0.16666666666666666,sundhed
-Tjóðveldi,Radikale Venstre,66,52,44.0,0.8461538461538461,sundhed
-Tjóðveldi,Siumut,66,5,4.0,0.8,sundhed
-Tjóðveldi,Socialdemokratiet,66,237,154.0,0.6497890295358649,sundhed
-Tjóðveldi,Socialistisk Folkeparti,66,40,34.0,0.85,sundhed
-Tjóðveldi,Uden for folketingsgrupperne,66,34,12.0,0.35294117647058826,sundhed
-Tjóðveldi,Venstre,66,213,26.0,0.12206572769953052,sundhed
-Uden for folketingsgrupperne,Danmarksdemokraterne,66,826,716.0,0.8668280871670703,sundhed
-Uden for folketingsgrupperne,Dansk Folkeparti,66,6109,5419.0,0.8870518906531347,sundhed
-Uden for folketingsgrupperne,Det Konservative Folkeparti,66,1850,1673.0,0.9043243243243243,sundhed
-Uden for folketingsgrupperne,Enhedslisten,66,1061,231.0,0.2177191328934967,sundhed
-Uden for folketingsgrupperne,Inuit Ataqatigiit,66,3,0.0,0.0,sundhed
-Uden for folketingsgrupperne,Kristendemokraterne,66,546,481.0,0.8809523809523809,sundhed
-Uden for folketingsgrupperne,Liberal Alliance,66,296,287.0,0.9695945945945946,sundhed
-Uden for folketingsgrupperne,Moderaterne,66,89,82.0,0.9213483146067416,sundhed
-Uden for folketingsgrupperne,Not able to assign,66,1019,603.0,0.591756624141315,sundhed
-Uden for folketingsgrupperne,Ny Alliance,66,52,51.0,0.9807692307692307,sundhed
-Uden for folketingsgrupperne,Radikale Venstre,66,2689,1550.0,0.5764224618817404,sundhed
-Uden for folketingsgrupperne,Siumut,66,7,3.0,0.42857142857142855,sundhed
-Uden for folketingsgrupperne,Socialdemokratiet,66,11493,6578.0,0.5723483859740712,sundhed
-Uden for folketingsgrupperne,Socialistisk Folkeparti,66,2651,1073.0,0.4047529234251226,sundhed
-Uden for folketingsgrupperne,Tjóðveldi,66,4,1.0,0.25,sundhed
+Socialistisk Folkeparti,Tjóðveldi,66,61,54.0,0.8852459016393442,sundhed
+Socialistisk Folkeparti,Uden for folketingsgrupperne,66,6370,2900.0,0.4552590266875981,sundhed
+Socialistisk Folkeparti,Venstre,66,59395,22811.0,0.38405589696102366,sundhed
+Tjóðveldi,Uden for folketingsgrupperne,66,38,13.0,0.34210526315789475,sundhed
+Tjóðveldi,Venstre,66,311,42.0,0.13504823151125403,sundhed
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,66,1394,1049.0,0.7525107604017217,sundhed
-Uden for folketingsgrupperne,Venstre,66,11040,9905.0,0.8971920289855072,sundhed
-Venstre,Danmarksdemokraterne,66,11875,10941.0,0.9213473684210526,sundhed
-Venstre,Dansk Folkeparti,66,68649,64456.0,0.9389211787498726,sundhed
-Venstre,Det Konservative Folkeparti,66,31978,31467.0,0.9840202639314529,sundhed
-Venstre,Enhedslisten,66,14262,3412.0,0.23923713364184546,sundhed
-Venstre,Inuit Ataqatigiit,66,60,1.0,0.016666666666666666,sundhed
-Venstre,Kristendemokraterne,66,6256,6145.0,0.9822570332480819,sundhed
-Venstre,Liberal Alliance,66,5097,5035.0,0.9878359819501668,sundhed
-Venstre,Moderaterne,66,1666,1615.0,0.9693877551020408,sundhed
-Venstre,Not able to assign,66,13518,7958.0,0.5886965527444888,sundhed
-Venstre,Ny Alliance,66,1861,1812.0,0.9736700698549167,sundhed
-Venstre,Radikale Venstre,66,36414,21907.0,0.6016092711594442,sundhed
-Venstre,Siumut,66,197,115.0,0.583756345177665,sundhed
-Venstre,Socialdemokratiet,66,147834,85375.0,0.5775058511573792,sundhed
-Venstre,Socialistisk Folkeparti,66,31322,12259.0,0.3913862460890109,sundhed
-Venstre,Tjóðveldi,66,98,16.0,0.16326530612244897,sundhed
-Venstre,Uden for folketingsgrupperne,66,19298,15836.0,0.8206031713130895,sundhed
+Uden for folketingsgrupperne,Venstre,66,30338,25741.0,0.8484738611642165,sundhed
 Venstre,Venstre,66,137547,135291.0,0.9835983336604942,sundhed
 Danmarksdemokraterne,Danmarksdemokraterne,67,2148,2112.0,0.9832402234636871,sundhed
-Danmarksdemokraterne,Dansk Folkeparti,67,11213,11116.0,0.9913493266743958,sundhed
-Danmarksdemokraterne,Det Konservative Folkeparti,67,8078,7622.0,0.943550383758356,sundhed
-Danmarksdemokraterne,Enhedslisten,67,1840,662.0,0.35978260869565215,sundhed
-Danmarksdemokraterne,Inuit Ataqatigiit,67,7,7.0,1.0,sundhed
-Danmarksdemokraterne,Kristendemokraterne,67,744,699.0,0.9395161290322581,sundhed
-Danmarksdemokraterne,Liberal Alliance,67,402,317.0,0.7885572139303483,sundhed
-Danmarksdemokraterne,Moderaterne,67,161,161.0,1.0,sundhed
-Danmarksdemokraterne,Not able to assign,67,51,23.0,0.45098039215686275,sundhed
-Danmarksdemokraterne,Radikale Venstre,67,3884,2061.0,0.530638516992791,sundhed
-Danmarksdemokraterne,Sambandsflokkurin,67,11,11.0,1.0,sundhed
-Danmarksdemokraterne,Siumut,67,13,10.0,0.7692307692307693,sundhed
-Danmarksdemokraterne,Socialdemokratiet,67,28067,14174.0,0.5050058787900381,sundhed
-Danmarksdemokraterne,Socialistisk Folkeparti,67,10064,4850.0,0.4819157392686804,sundhed
-Danmarksdemokraterne,Tjóðveldi,67,8,3.0,0.375,sundhed
-Danmarksdemokraterne,Uden for folketingsgrupperne,67,2309,2053.0,0.8891294932871373,sundhed
-Danmarksdemokraterne,Venstre,67,24332,23055.0,0.9475176722012165,sundhed
-Dansk Folkeparti,Danmarksdemokraterne,67,6792,6744.0,0.9929328621908127,sundhed
+Danmarksdemokraterne,Dansk Folkeparti,67,18005,17860.0,0.9919466814773674,sundhed
+Danmarksdemokraterne,Det Konservative Folkeparti,67,13314,12660.0,0.9508787742226228,sundhed
+Danmarksdemokraterne,Enhedslisten,67,2961,1013.0,0.34211415062478895,sundhed
+Danmarksdemokraterne,Inuit Ataqatigiit,67,11,11.0,1.0,sundhed
+Danmarksdemokraterne,Kristendemokraterne,67,876,825.0,0.9417808219178082,sundhed
+Danmarksdemokraterne,Liberal Alliance,67,1049,908.0,0.86558627264061,sundhed
+Danmarksdemokraterne,Moderaterne,67,316,316.0,1.0,sundhed
+Danmarksdemokraterne,Not able to assign,67,70,27.0,0.38571428571428573,sundhed
+Danmarksdemokraterne,Radikale Venstre,67,6275,3300.0,0.5258964143426295,sundhed
+Danmarksdemokraterne,Sambandsflokkurin,67,38,38.0,1.0,sundhed
+Danmarksdemokraterne,Siumut,67,25,19.0,0.76,sundhed
+Danmarksdemokraterne,Socialdemokratiet,67,41812,20865.0,0.4990194202621257,sundhed
+Danmarksdemokraterne,Socialistisk Folkeparti,67,16728,7976.0,0.476805356288857,sundhed
+Danmarksdemokraterne,Tjóðveldi,67,13,5.0,0.38461538461538464,sundhed
+Danmarksdemokraterne,Uden for folketingsgrupperne,67,3420,2972.0,0.8690058479532163,sundhed
+Danmarksdemokraterne,Venstre,67,40934,38935.0,0.9511652904675819,sundhed
 Dansk Folkeparti,Dansk Folkeparti,67,28310,28297.0,0.9995407983044861,sundhed
-Dansk Folkeparti,Det Konservative Folkeparti,67,21978,20717.0,0.9426244426244427,sundhed
-Dansk Folkeparti,Enhedslisten,67,5304,1900.0,0.35822021116138764,sundhed
-Dansk Folkeparti,Inuit Ataqatigiit,67,8,8.0,1.0,sundhed
-Dansk Folkeparti,Kristendemokraterne,67,2204,2055.0,0.9323956442831216,sundhed
-Dansk Folkeparti,Liberal Alliance,67,1355,1081.0,0.7977859778597786,sundhed
-Dansk Folkeparti,Moderaterne,67,647,647.0,1.0,sundhed
-Dansk Folkeparti,Not able to assign,67,143,63.0,0.4405594405594406,sundhed
-Dansk Folkeparti,Radikale Venstre,67,10296,5378.0,0.5223387723387724,sundhed
-Dansk Folkeparti,Sambandsflokkurin,67,20,20.0,1.0,sundhed
-Dansk Folkeparti,Siumut,67,32,27.0,0.84375,sundhed
-Dansk Folkeparti,Socialdemokratiet,67,77541,38293.0,0.49384196747527115,sundhed
-Dansk Folkeparti,Socialistisk Folkeparti,67,28361,13464.0,0.4747364338351962,sundhed
-Dansk Folkeparti,Tjóðveldi,67,12,4.0,0.3333333333333333,sundhed
-Dansk Folkeparti,Uden for folketingsgrupperne,67,6841,6097.0,0.8912439701797983,sundhed
-Dansk Folkeparti,Venstre,67,69064,65123.0,0.9429369859840149,sundhed
-Det Konservative Folkeparti,Danmarksdemokraterne,67,5236,5038.0,0.9621848739495799,sundhed
-Det Konservative Folkeparti,Dansk Folkeparti,67,22895,21535.0,0.9405983839266215,sundhed
+Dansk Folkeparti,Det Konservative Folkeparti,67,44873,42252.0,0.9415907115637465,sundhed
+Dansk Folkeparti,Enhedslisten,67,9944,3398.0,0.3417135961383749,sundhed
+Dansk Folkeparti,Inuit Ataqatigiit,67,23,23.0,1.0,sundhed
+Dansk Folkeparti,Kristendemokraterne,67,2919,2710.0,0.9284001370332305,sundhed
+Dansk Folkeparti,Liberal Alliance,67,3466,2999.0,0.865262550490479,sundhed
+Dansk Folkeparti,Moderaterne,67,1015,1015.0,1.0,sundhed
+Dansk Folkeparti,Not able to assign,67,193,79.0,0.40932642487046633,sundhed
+Dansk Folkeparti,Radikale Venstre,67,21044,10901.0,0.5180098840524615,sundhed
+Dansk Folkeparti,Sambandsflokkurin,67,115,115.0,1.0,sundhed
+Dansk Folkeparti,Siumut,67,57,47.0,0.8245614035087719,sundhed
+Dansk Folkeparti,Socialdemokratiet,67,140261,68734.0,0.49004356164578894,sundhed
+Dansk Folkeparti,Socialistisk Folkeparti,67,56263,26615.0,0.47304622931589146,sundhed
+Dansk Folkeparti,Tjóðveldi,67,39,13.0,0.3333333333333333,sundhed
+Dansk Folkeparti,Uden for folketingsgrupperne,67,11710,10125.0,0.8646456020495303,sundhed
+Dansk Folkeparti,Venstre,67,137426,129405.0,0.9416340430486225,sundhed
 Det Konservative Folkeparti,Det Konservative Folkeparti,67,14988,14979.0,0.9993995196156925,sundhed
-Det Konservative Folkeparti,Enhedslisten,67,4194,1578.0,0.37625178826895567,sundhed
-Det Konservative Folkeparti,Inuit Ataqatigiit,67,10,10.0,1.0,sundhed
-Det Konservative Folkeparti,Kristendemokraterne,67,1685,1658.0,0.9839762611275964,sundhed
-Det Konservative Folkeparti,Liberal Alliance,67,889,720.0,0.8098987626546682,sundhed
-Det Konservative Folkeparti,Moderaterne,67,510,510.0,1.0,sundhed
-Det Konservative Folkeparti,Not able to assign,67,105,58.0,0.5523809523809524,sundhed
-Det Konservative Folkeparti,Radikale Venstre,67,7942,4527.0,0.5700075547720977,sundhed
-Det Konservative Folkeparti,Sambandsflokkurin,67,19,19.0,1.0,sundhed
-Det Konservative Folkeparti,Siumut,67,31,31.0,1.0,sundhed
-Det Konservative Folkeparti,Socialdemokratiet,67,59170,31645.0,0.5348149400033801,sundhed
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,20866,10404.0,0.49861017923895334,sundhed
-Det Konservative Folkeparti,Tjóðveldi,67,16,5.0,0.3125,sundhed
-Det Konservative Folkeparti,Uden for folketingsgrupperne,67,5116,4577.0,0.8946442533229085,sundhed
-Det Konservative Folkeparti,Venstre,67,50159,50114.0,0.99910285292769,sundhed
-Enhedslisten,Danmarksdemokraterne,67,1121,351.0,0.31311329170383584,sundhed
-Enhedslisten,Dansk Folkeparti,67,4640,1498.0,0.3228448275862069,sundhed
-Enhedslisten,Det Konservative Folkeparti,67,3087,1105.0,0.3579527048914804,sundhed
+Det Konservative Folkeparti,Enhedslisten,67,7281,2683.0,0.3684933388270842,sundhed
+Det Konservative Folkeparti,Inuit Ataqatigiit,67,21,21.0,1.0,sundhed
+Det Konservative Folkeparti,Kristendemokraterne,67,2116,2078.0,0.9820415879017014,sundhed
+Det Konservative Folkeparti,Liberal Alliance,67,2515,2261.0,0.8990059642147117,sundhed
+Det Konservative Folkeparti,Moderaterne,67,695,695.0,1.0,sundhed
+Det Konservative Folkeparti,Not able to assign,67,158,75.0,0.47468354430379744,sundhed
+Det Konservative Folkeparti,Radikale Venstre,67,15576,8892.0,0.5708782742681048,sundhed
+Det Konservative Folkeparti,Sambandsflokkurin,67,84,84.0,1.0,sundhed
+Det Konservative Folkeparti,Siumut,67,47,47.0,1.0,sundhed
+Det Konservative Folkeparti,Socialdemokratiet,67,103251,56016.0,0.5425225905802366,sundhed
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,41531,20862.0,0.5023235655293636,sundhed
+Det Konservative Folkeparti,Tjóðveldi,67,31,9.0,0.2903225806451613,sundhed
+Det Konservative Folkeparti,Uden for folketingsgrupperne,67,8597,7448.0,0.866348726299872,sundhed
+Det Konservative Folkeparti,Venstre,67,101256,101197.0,0.9994173184798926,sundhed
 Enhedslisten,Enhedslisten,67,472,435.0,0.9216101694915254,sundhed
-Enhedslisten,Inuit Ataqatigiit,67,2,0.0,0.0,sundhed
-Enhedslisten,Kristendemokraterne,67,440,135.0,0.3068181818181818,sundhed
-Enhedslisten,Liberal Alliance,67,244,83.0,0.3401639344262295,sundhed
-Enhedslisten,Moderaterne,67,73,22.0,0.3013698630136986,sundhed
-Enhedslisten,Not able to assign,67,21,8.0,0.38095238095238093,sundhed
-Enhedslisten,Radikale Venstre,67,1505,1008.0,0.6697674418604651,sundhed
-Enhedslisten,Siumut,67,3,2.0,0.6666666666666666,sundhed
-Enhedslisten,Socialdemokratiet,67,11440,8582.0,0.7501748251748251,sundhed
-Enhedslisten,Socialistisk Folkeparti,67,4088,3317.0,0.8113992172211351,sundhed
-Enhedslisten,Tjóðveldi,67,2,1.0,0.5,sundhed
-Enhedslisten,Uden for folketingsgrupperne,67,1068,421.0,0.39419475655430714,sundhed
-Enhedslisten,Venstre,67,9903,3475.0,0.3509037665353933,sundhed
-Inuit Ataqatigiit,Danmarksdemokraterne,67,4,4.0,1.0,sundhed
-Inuit Ataqatigiit,Dansk Folkeparti,67,15,15.0,1.0,sundhed
-Inuit Ataqatigiit,Det Konservative Folkeparti,67,11,11.0,1.0,sundhed
-Inuit Ataqatigiit,Enhedslisten,67,2,0.0,0.0,sundhed
+Enhedslisten,Inuit Ataqatigiit,67,4,0.0,0.0,sundhed
+Enhedslisten,Kristendemokraterne,67,472,152.0,0.3220338983050847,sundhed
+Enhedslisten,Liberal Alliance,67,574,206.0,0.3588850174216028,sundhed
+Enhedslisten,Moderaterne,67,146,42.0,0.2876712328767123,sundhed
+Enhedslisten,Not able to assign,67,34,14.0,0.4117647058823529,sundhed
+Enhedslisten,Radikale Venstre,67,3465,2339.0,0.675036075036075,sundhed
+Enhedslisten,Sambandsflokkurin,67,18,3.0,0.16666666666666666,sundhed
+Enhedslisten,Siumut,67,9,5.0,0.5555555555555556,sundhed
+Enhedslisten,Socialdemokratiet,67,22736,17230.0,0.7578289936664321,sundhed
+Enhedslisten,Socialistisk Folkeparti,67,9213,7523.0,0.8165635515033105,sundhed
+Enhedslisten,Tjóðveldi,67,7,5.0,0.7142857142857143,sundhed
+Enhedslisten,Uden for folketingsgrupperne,67,1847,777.0,0.4206821873308067,sundhed
+Enhedslisten,Venstre,67,22353,8163.0,0.3651858810897866,sundhed
 Inuit Ataqatigiit,Kristendemokraterne,67,2,2.0,1.0,sundhed
-Inuit Ataqatigiit,Radikale Venstre,67,7,7.0,1.0,sundhed
+Inuit Ataqatigiit,Liberal Alliance,67,1,1.0,1.0,sundhed
+Inuit Ataqatigiit,Radikale Venstre,67,10,10.0,1.0,sundhed
+Inuit Ataqatigiit,Sambandsflokkurin,67,1,1.0,1.0,sundhed
 Inuit Ataqatigiit,Siumut,67,1,1.0,1.0,sundhed
-Inuit Ataqatigiit,Socialdemokratiet,67,41,41.0,1.0,sundhed
-Inuit Ataqatigiit,Socialistisk Folkeparti,67,16,9.0,0.5625,sundhed
+Inuit Ataqatigiit,Socialdemokratiet,67,61,59.0,0.9672131147540983,sundhed
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,27,14.0,0.5185185185185185,sundhed
+Inuit Ataqatigiit,Tjóðveldi,67,1,0.0,0.0,sundhed
 Inuit Ataqatigiit,Uden for folketingsgrupperne,67,3,3.0,1.0,sundhed
-Inuit Ataqatigiit,Venstre,67,33,33.0,1.0,sundhed
-Kristendemokraterne,Danmarksdemokraterne,67,132,126.0,0.9545454545454546,sundhed
-Kristendemokraterne,Dansk Folkeparti,67,715,655.0,0.916083916083916,sundhed
-Kristendemokraterne,Det Konservative Folkeparti,67,431,420.0,0.974477958236659,sundhed
-Kristendemokraterne,Enhedslisten,67,32,17.0,0.53125,sundhed
-Kristendemokraterne,Liberal Alliance,67,55,43.0,0.7818181818181819,sundhed
-Kristendemokraterne,Not able to assign,67,6,3.0,0.5,sundhed
-Kristendemokraterne,Socialdemokratiet,67,1239,602.0,0.4858757062146893,sundhed
-Kristendemokraterne,Socialistisk Folkeparti,67,596,275.0,0.46140939597315433,sundhed
-Kristendemokraterne,Uden for folketingsgrupperne,67,149,123.0,0.825503355704698,sundhed
-Kristendemokraterne,Venstre,67,1856,1825.0,0.9832974137931034,sundhed
-Liberal Alliance,Danmarksdemokraterne,67,647,591.0,0.9134466769706336,sundhed
-Liberal Alliance,Dansk Folkeparti,67,2111,1918.0,0.9085741354808148,sundhed
-Liberal Alliance,Det Konservative Folkeparti,67,1626,1541.0,0.9477244772447725,sundhed
-Liberal Alliance,Enhedslisten,67,330,123.0,0.37272727272727274,sundhed
-Liberal Alliance,Inuit Ataqatigiit,67,1,1.0,1.0,sundhed
-Liberal Alliance,Kristendemokraterne,67,126,124.0,0.9841269841269841,sundhed
+Inuit Ataqatigiit,Venstre,67,57,57.0,1.0,sundhed
+Kristendemokraterne,Liberal Alliance,67,181,167.0,0.9226519337016574,sundhed
+Kristendemokraterne,Moderaterne,67,74,73.0,0.9864864864864865,sundhed
+Kristendemokraterne,Not able to assign,67,16,7.0,0.4375,sundhed
+Kristendemokraterne,Radikale Venstre,67,1002,538.0,0.5369261477045908,sundhed
+Kristendemokraterne,Sambandsflokkurin,67,3,3.0,1.0,sundhed
+Kristendemokraterne,Siumut,67,3,3.0,1.0,sundhed
+Kristendemokraterne,Socialdemokratiet,67,6786,3236.0,0.4768641320365458,sundhed
+Kristendemokraterne,Socialistisk Folkeparti,67,2682,1199.0,0.4470544369873229,sundhed
+Kristendemokraterne,Tjóðveldi,67,2,1.0,0.5,sundhed
+Kristendemokraterne,Uden for folketingsgrupperne,67,549,469.0,0.8542805100182149,sundhed
+Kristendemokraterne,Venstre,67,6733,6635.0,0.9854448240011882,sundhed
 Liberal Alliance,Moderaterne,67,73,72.0,0.9863013698630136,sundhed
 Liberal Alliance,Not able to assign,67,15,8.0,0.5333333333333333,sundhed
-Liberal Alliance,Radikale Venstre,67,702,374.0,0.5327635327635327,sundhed
-Liberal Alliance,Sambandsflokkurin,67,3,3.0,1.0,sundhed
-Liberal Alliance,Siumut,67,2,2.0,1.0,sundhed
-Liberal Alliance,Socialdemokratiet,67,4930,2254.0,0.45720081135902635,sundhed
-Liberal Alliance,Socialistisk Folkeparti,67,1886,880.0,0.46659597030752914,sundhed
+Liberal Alliance,Radikale Venstre,67,1191,660.0,0.5541561712846348,sundhed
+Liberal Alliance,Sambandsflokkurin,67,8,8.0,1.0,sundhed
+Liberal Alliance,Siumut,67,5,5.0,1.0,sundhed
+Liberal Alliance,Socialdemokratiet,67,7943,4065.0,0.5117713710185069,sundhed
+Liberal Alliance,Socialistisk Folkeparti,67,3171,1577.0,0.49731945758435825,sundhed
 Liberal Alliance,Tjóðveldi,67,2,1.0,0.5,sundhed
-Liberal Alliance,Uden for folketingsgrupperne,67,385,327.0,0.8493506493506493,sundhed
-Liberal Alliance,Venstre,67,4675,4479.0,0.9580748663101605,sundhed
-Moderaterne,Danmarksdemokraterne,67,155,155.0,1.0,sundhed
-Moderaterne,Dansk Folkeparti,67,368,368.0,1.0,sundhed
-Moderaterne,Det Konservative Folkeparti,67,185,185.0,1.0,sundhed
-Moderaterne,Enhedslisten,67,73,20.0,0.273972602739726,sundhed
-Moderaterne,Kristendemokraterne,67,74,73.0,0.9864864864864865,sundhed
-Moderaterne,Not able to assign,67,2,1.0,0.5,sundhed
-Moderaterne,Radikale Venstre,67,152,67.0,0.4407894736842105,sundhed
-Moderaterne,Socialdemokratiet,67,1181,449.0,0.38018628281117695,sundhed
-Moderaterne,Socialistisk Folkeparti,67,227,86.0,0.3788546255506608,sundhed
-Moderaterne,Uden for folketingsgrupperne,67,75,67.0,0.8933333333333333,sundhed
-Moderaterne,Venstre,67,919,917.0,0.9978237214363439,sundhed
-Not able to assign,Danmarksdemokraterne,67,19,4.0,0.21052631578947367,sundhed
-Not able to assign,Dansk Folkeparti,67,50,16.0,0.32,sundhed
-Not able to assign,Det Konservative Folkeparti,67,53,17.0,0.32075471698113206,sundhed
-Not able to assign,Enhedslisten,67,13,6.0,0.46153846153846156,sundhed
-Not able to assign,Kristendemokraterne,67,10,4.0,0.4,sundhed
-Not able to assign,Moderaterne,67,1,0.0,0.0,sundhed
+Liberal Alliance,Uden for folketingsgrupperne,67,621,501.0,0.8067632850241546,sundhed
+Liberal Alliance,Venstre,67,7742,6978.0,0.9013174890209248,sundhed
+Moderaterne,Not able to assign,67,3,1.0,0.3333333333333333,sundhed
+Moderaterne,Radikale Venstre,67,296,129.0,0.4358108108108108,sundhed
+Moderaterne,Sambandsflokkurin,67,1,1.0,1.0,sundhed
+Moderaterne,Socialdemokratiet,67,2355,893.0,0.37919320594479833,sundhed
+Moderaterne,Socialistisk Folkeparti,67,748,281.0,0.37566844919786097,sundhed
+Moderaterne,Uden for folketingsgrupperne,67,220,200.0,0.9090909090909091,sundhed
+Moderaterne,Venstre,67,2255,2253.0,0.9991130820399113,sundhed
 Not able to assign,Not able to assign,67,12,11.0,0.9166666666666666,sundhed
-Not able to assign,Radikale Venstre,67,23,16.0,0.6956521739130435,sundhed
-Not able to assign,Socialdemokratiet,67,164,162.0,0.9878048780487805,sundhed
-Not able to assign,Socialistisk Folkeparti,67,76,72.0,0.9473684210526315,sundhed
-Not able to assign,Uden for folketingsgrupperne,67,10,5.0,0.5,sundhed
-Not able to assign,Venstre,67,172,65.0,0.37790697674418605,sundhed
-Radikale Venstre,Danmarksdemokraterne,67,2391,1239.0,0.5181932245922208,sundhed
-Radikale Venstre,Dansk Folkeparti,67,10748,5523.0,0.5138630442873092,sundhed
-Radikale Venstre,Det Konservative Folkeparti,67,7634,4365.0,0.5717841236573225,sundhed
-Radikale Venstre,Enhedslisten,67,1960,1331.0,0.6790816326530612,sundhed
-Radikale Venstre,Inuit Ataqatigiit,67,3,3.0,1.0,sundhed
-Radikale Venstre,Kristendemokraterne,67,1002,538.0,0.5369261477045908,sundhed
-Radikale Venstre,Liberal Alliance,67,489,286.0,0.5848670756646217,sundhed
-Radikale Venstre,Moderaterne,67,144,62.0,0.4305555555555556,sundhed
-Radikale Venstre,Not able to assign,67,47,37.0,0.7872340425531915,sundhed
+Not able to assign,Radikale Venstre,67,70,53.0,0.7571428571428571,sundhed
+Not able to assign,Socialdemokratiet,67,470,438.0,0.9319148936170213,sundhed
+Not able to assign,Socialistisk Folkeparti,67,207,169.0,0.8164251207729468,sundhed
+Not able to assign,Uden for folketingsgrupperne,67,31,18.0,0.5806451612903226,sundhed
+Not able to assign,Venstre,67,514,242.0,0.4708171206225681,sundhed
 Radikale Venstre,Radikale Venstre,67,2929,2871.0,0.9801980198019802,sundhed
-Radikale Venstre,Sambandsflokkurin,67,9,8.0,0.8888888888888888,sundhed
-Radikale Venstre,Siumut,67,9,9.0,1.0,sundhed
-Radikale Venstre,Socialdemokratiet,67,27042,21644.0,0.8003845869388359,sundhed
-Radikale Venstre,Socialistisk Folkeparti,67,10042,8133.0,0.8098984266082454,sundhed
-Radikale Venstre,Tjóðveldi,67,2,0.0,0.0,sundhed
-Radikale Venstre,Uden for folketingsgrupperne,67,2437,1460.0,0.599097250718096,sundhed
-Radikale Venstre,Venstre,67,24672,13992.0,0.5671206225680934,sundhed
-Sambandsflokkurin,Danmarksdemokraterne,67,27,27.0,1.0,sundhed
-Sambandsflokkurin,Dansk Folkeparti,67,95,95.0,1.0,sundhed
-Sambandsflokkurin,Det Konservative Folkeparti,67,65,65.0,1.0,sundhed
-Sambandsflokkurin,Enhedslisten,67,18,3.0,0.16666666666666666,sundhed
-Sambandsflokkurin,Inuit Ataqatigiit,67,1,1.0,1.0,sundhed
-Sambandsflokkurin,Kristendemokraterne,67,3,3.0,1.0,sundhed
-Sambandsflokkurin,Liberal Alliance,67,5,5.0,1.0,sundhed
-Sambandsflokkurin,Moderaterne,67,1,1.0,1.0,sundhed
-Sambandsflokkurin,Radikale Venstre,67,29,26.0,0.896551724137931,sundhed
-Sambandsflokkurin,Socialdemokratiet,67,239,183.0,0.7656903765690377,sundhed
-Sambandsflokkurin,Socialistisk Folkeparti,67,102,60.0,0.5882352941176471,sundhed
+Radikale Venstre,Sambandsflokkurin,67,38,34.0,0.8947368421052632,sundhed
+Radikale Venstre,Siumut,67,21,21.0,1.0,sundhed
+Radikale Venstre,Socialdemokratiet,67,48356,38688.0,0.8000661758623542,sundhed
+Radikale Venstre,Socialistisk Folkeparti,67,19600,15608.0,0.7963265306122449,sundhed
+Radikale Venstre,Tjóðveldi,67,16,6.0,0.375,sundhed
+Radikale Venstre,Uden for folketingsgrupperne,67,3937,2273.0,0.5773431546863094,sundhed
+Radikale Venstre,Venstre,67,47453,27056.0,0.5701641624344088,sundhed
+Sambandsflokkurin,Socialdemokratiet,67,269,205.0,0.7620817843866171,sundhed
+Sambandsflokkurin,Socialistisk Folkeparti,67,111,65.0,0.5855855855855856,sundhed
 Sambandsflokkurin,Tjóðveldi,67,2,0.0,0.0,sundhed
-Sambandsflokkurin,Uden for folketingsgrupperne,67,20,20.0,1.0,sundhed
-Sambandsflokkurin,Venstre,67,226,226.0,1.0,sundhed
-Siumut,Danmarksdemokraterne,67,12,9.0,0.75,sundhed
-Siumut,Dansk Folkeparti,67,25,20.0,0.8,sundhed
-Siumut,Det Konservative Folkeparti,67,16,16.0,1.0,sundhed
-Siumut,Enhedslisten,67,6,3.0,0.5,sundhed
-Siumut,Kristendemokraterne,67,3,3.0,1.0,sundhed
-Siumut,Liberal Alliance,67,3,3.0,1.0,sundhed
-Siumut,Radikale Venstre,67,12,12.0,1.0,sundhed
-Siumut,Socialdemokratiet,67,79,79.0,1.0,sundhed
-Siumut,Socialistisk Folkeparti,67,18,14.0,0.7777777777777778,sundhed
-Siumut,Uden for folketingsgrupperne,67,10,9.0,0.9,sundhed
-Siumut,Venstre,67,55,55.0,1.0,sundhed
-Socialdemokratiet,Danmarksdemokraterne,67,13745,6691.0,0.4867951982539105,sundhed
-Socialdemokratiet,Dansk Folkeparti,67,62720,30441.0,0.4853475765306122,sundhed
-Socialdemokratiet,Det Konservative Folkeparti,67,44081,24371.0,0.5528685828361426,sundhed
-Socialdemokratiet,Enhedslisten,67,11296,8648.0,0.7655807365439093,sundhed
-Socialdemokratiet,Inuit Ataqatigiit,67,20,18.0,0.9,sundhed
-Socialdemokratiet,Kristendemokraterne,67,5547,2634.0,0.4748512709572742,sundhed
-Socialdemokratiet,Liberal Alliance,67,3013,1811.0,0.6010620643876535,sundhed
-Socialdemokratiet,Moderaterne,67,1174,444.0,0.3781942078364566,sundhed
-Socialdemokratiet,Not able to assign,67,306,276.0,0.9019607843137255,sundhed
-Socialdemokratiet,Radikale Venstre,67,21314,17044.0,0.7996621938631885,sundhed
-Socialdemokratiet,Sambandsflokkurin,67,30,22.0,0.7333333333333333,sundhed
-Socialdemokratiet,Siumut,67,72,70.0,0.9722222222222222,sundhed
+Sambandsflokkurin,Uden for folketingsgrupperne,67,22,21.0,0.9545454545454546,sundhed
+Sambandsflokkurin,Venstre,67,254,254.0,1.0,sundhed
+Siumut,Socialdemokratiet,67,151,149.0,0.9867549668874173,sundhed
+Siumut,Socialistisk Folkeparti,67,59,46.0,0.7796610169491526,sundhed
+Siumut,Uden for folketingsgrupperne,67,12,11.0,0.9166666666666666,sundhed
+Siumut,Venstre,67,148,148.0,1.0,sundhed
 Socialdemokratiet,Socialdemokratiet,67,156352,153540.0,0.9820149406467458,sundhed
-Socialdemokratiet,Socialistisk Folkeparti,67,56739,51378.0,0.9055147253212076,sundhed
-Socialdemokratiet,Tjóðveldi,67,14,4.0,0.2857142857142857,sundhed
-Socialdemokratiet,Uden for folketingsgrupperne,67,14829,8321.0,0.5611302178164408,sundhed
-Socialdemokratiet,Venstre,67,142708,75876.0,0.5316870813128907,sundhed
-Socialistisk Folkeparti,Danmarksdemokraterne,67,6664,3126.0,0.4690876350540216,sundhed
-Socialistisk Folkeparti,Dansk Folkeparti,67,27902,13151.0,0.47132822019926884,sundhed
-Socialistisk Folkeparti,Det Konservative Folkeparti,67,20665,10458.0,0.5060730704089039,sundhed
-Socialistisk Folkeparti,Enhedslisten,67,5125,4206.0,0.8206829268292682,sundhed
-Socialistisk Folkeparti,Inuit Ataqatigiit,67,11,5.0,0.45454545454545453,sundhed
-Socialistisk Folkeparti,Kristendemokraterne,67,2086,924.0,0.4429530201342282,sundhed
-Socialistisk Folkeparti,Liberal Alliance,67,1285,697.0,0.5424124513618677,sundhed
-Socialistisk Folkeparti,Moderaterne,67,521,195.0,0.3742802303262956,sundhed
-Socialistisk Folkeparti,Not able to assign,67,131,97.0,0.7404580152671756,sundhed
-Socialistisk Folkeparti,Radikale Venstre,67,9558,7475.0,0.7820673781125759,sundhed
-Socialistisk Folkeparti,Sambandsflokkurin,67,9,5.0,0.5555555555555556,sundhed
-Socialistisk Folkeparti,Siumut,67,41,32.0,0.7804878048780488,sundhed
-Socialistisk Folkeparti,Socialdemokratiet,67,72555,64539.0,0.8895182964647509,sundhed
+Socialdemokratiet,Socialistisk Folkeparti,67,129294,115917.0,0.8965381224186737,sundhed
+Socialdemokratiet,Tjóðveldi,67,88,28.0,0.3181818181818182,sundhed
+Socialdemokratiet,Uden for folketingsgrupperne,67,26903,14838.0,0.5515370033081812,sundhed
+Socialdemokratiet,Venstre,67,316491,169823.0,0.5365808190438275,sundhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,67,24451,24442.0,0.9996319168950145,sundhed
-Socialistisk Folkeparti,Tjóðveldi,67,12,5.0,0.4166666666666667,sundhed
-Socialistisk Folkeparti,Uden for folketingsgrupperne,67,6659,3499.0,0.5254542724132752,sundhed
-Socialistisk Folkeparti,Venstre,67,65622,32464.0,0.4947121392216025,sundhed
-Tjóðveldi,Danmarksdemokraterne,67,5,2.0,0.4,sundhed
-Tjóðveldi,Dansk Folkeparti,67,27,9.0,0.3333333333333333,sundhed
-Tjóðveldi,Det Konservative Folkeparti,67,15,4.0,0.26666666666666666,sundhed
-Tjóðveldi,Enhedslisten,67,5,4.0,0.8,sundhed
-Tjóðveldi,Inuit Ataqatigiit,67,1,0.0,0.0,sundhed
-Tjóðveldi,Kristendemokraterne,67,2,1.0,0.5,sundhed
-Tjóðveldi,Radikale Venstre,67,14,6.0,0.42857142857142855,sundhed
-Tjóðveldi,Socialdemokratiet,67,74,24.0,0.32432432432432434,sundhed
-Tjóðveldi,Socialistisk Folkeparti,67,29,9.0,0.3103448275862069,sundhed
-Tjóðveldi,Uden for folketingsgrupperne,67,6,2.0,0.3333333333333333,sundhed
-Tjóðveldi,Venstre,67,57,17.0,0.2982456140350877,sundhed
-Uden for folketingsgrupperne,Danmarksdemokraterne,67,1111,919.0,0.8271827182718272,sundhed
-Uden for folketingsgrupperne,Dansk Folkeparti,67,4869,4028.0,0.8272745943725611,sundhed
-Uden for folketingsgrupperne,Det Konservative Folkeparti,67,3481,2871.0,0.8247629991381786,sundhed
-Uden for folketingsgrupperne,Enhedslisten,67,779,356.0,0.45699614890885754,sundhed
-Uden for folketingsgrupperne,Kristendemokraterne,67,400,346.0,0.865,sundhed
-Uden for folketingsgrupperne,Liberal Alliance,67,236,174.0,0.7372881355932204,sundhed
-Uden for folketingsgrupperne,Moderaterne,67,145,133.0,0.9172413793103448,sundhed
-Uden for folketingsgrupperne,Not able to assign,67,21,13.0,0.6190476190476191,sundhed
-Uden for folketingsgrupperne,Radikale Venstre,67,1500,813.0,0.542,sundhed
-Uden for folketingsgrupperne,Sambandsflokkurin,67,2,1.0,0.5,sundhed
-Uden for folketingsgrupperne,Siumut,67,2,2.0,1.0,sundhed
-Uden for folketingsgrupperne,Socialdemokratiet,67,12074,6517.0,0.5397548451217492,sundhed
-Uden for folketingsgrupperne,Socialistisk Folkeparti,67,4035,2183.0,0.5410161090458488,sundhed
-Uden for folketingsgrupperne,Tjóðveldi,67,1,1.0,1.0,sundhed
+Socialistisk Folkeparti,Tjóðveldi,67,41,14.0,0.34146341463414637,sundhed
+Socialistisk Folkeparti,Uden for folketingsgrupperne,67,10694,5682.0,0.5313259771834674,sundhed
+Socialistisk Folkeparti,Venstre,67,127079,63332.0,0.4983671574374995,sundhed
+Tjóðveldi,Uden for folketingsgrupperne,67,7,3.0,0.42857142857142855,sundhed
+Tjóðveldi,Venstre,67,88,27.0,0.3068181818181818,sundhed
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,67,820,632.0,0.7707317073170732,sundhed
-Uden for folketingsgrupperne,Venstre,67,10853,8936.0,0.8233668110199944,sundhed
-Venstre,Danmarksdemokraterne,67,16602,15880.0,0.9565112637031683,sundhed
-Venstre,Dansk Folkeparti,67,68362,64282.0,0.9403177203709663,sundhed
-Venstre,Det Konservative Folkeparti,67,51097,51083.0,0.9997260113118187,sundhed
-Venstre,Enhedslisten,67,12450,4688.0,0.37654618473895585,sundhed
-Venstre,Inuit Ataqatigiit,67,24,24.0,1.0,sundhed
-Venstre,Kristendemokraterne,67,4877,4810.0,0.9862620463399631,sundhed
-Venstre,Liberal Alliance,67,3067,2499.0,0.8148027388327356,sundhed
-Venstre,Moderaterne,67,1336,1336.0,1.0,sundhed
-Venstre,Not able to assign,67,342,177.0,0.5175438596491229,sundhed
-Venstre,Radikale Venstre,67,22781,13064.0,0.5734603397568149,sundhed
-Venstre,Sambandsflokkurin,67,28,28.0,1.0,sundhed
-Venstre,Siumut,67,93,93.0,1.0,sundhed
-Venstre,Socialdemokratiet,67,173783,93947.0,0.5405994832636104,sundhed
-Venstre,Socialistisk Folkeparti,67,61457,30868.0,0.5022698797533235,sundhed
-Venstre,Tjóðveldi,67,31,10.0,0.3225806451612903,sundhed
-Venstre,Uden for folketingsgrupperne,67,15445,13891.0,0.899384914211719,sundhed
+Uden for folketingsgrupperne,Venstre,67,26298,22827.0,0.8680127766370066,sundhed
 Venstre,Venstre,67,150581,150489.0,0.9993890331449519,sundhed
-Alternativet,Det Konservative Folkeparti,68,68,49.0,0.7205882352941176,sundhed
-Alternativet,Liberal Alliance,68,99,56.0,0.5656565656565656,sundhed
-Alternativet,Radikale Venstre,68,132,124.0,0.9393939393939394,sundhed
-Alternativet,Socialdemokratiet,68,44,30.0,0.6818181818181818,sundhed
-Alternativet,Socialistisk Folkeparti,68,153,141.0,0.9215686274509803,sundhed
-Alternativet,Venstre,68,16,15.0,0.9375,sundhed
-Danmarksdemokraterne,Alternativet,68,902,537.0,0.5953436807095344,sundhed
+Alternativet,Danmarksdemokraterne,68,902,537.0,0.5953436807095344,sundhed
+Alternativet,Dansk Folkeparti,68,1356,824.0,0.6076696165191741,sundhed
+Alternativet,Det Konservative Folkeparti,68,958,676.0,0.7056367432150313,sundhed
+Alternativet,Enhedslisten,68,1554,1159.0,0.7458172458172458,sundhed
+Alternativet,Liberal Alliance,68,861,510.0,0.5923344947735192,sundhed
+Alternativet,Moderaterne,68,76,47.0,0.618421052631579,sundhed
+Alternativet,Radikale Venstre,68,1834,1651.0,0.9002181025081788,sundhed
+Alternativet,Sambandsflokkurin,68,3,3.0,1.0,sundhed
+Alternativet,Socialdemokratiet,68,5659,5129.0,0.9063438770100725,sundhed
+Alternativet,Socialistisk Folkeparti,68,1508,1408.0,0.9336870026525199,sundhed
+Alternativet,Uden for folketingsgrupperne,68,339,197.0,0.5811209439528023,sundhed
+Alternativet,Venstre,68,5151,3916.0,0.7602407299553485,sundhed
 Danmarksdemokraterne,Danmarksdemokraterne,68,5558,5174.0,0.9309103994242534,sundhed
-Danmarksdemokraterne,Dansk Folkeparti,68,13264,12801.0,0.9650934861278649,sundhed
-Danmarksdemokraterne,Det Konservative Folkeparti,68,8691,5804.0,0.6678172822460016,sundhed
-Danmarksdemokraterne,Enhedslisten,68,14912,6531.0,0.43796942060085836,sundhed
-Danmarksdemokraterne,Liberal Alliance,68,10139,5584.0,0.5507446493737055,sundhed
-Danmarksdemokraterne,Moderaterne,68,982,662.0,0.6741344195519349,sundhed
-Danmarksdemokraterne,Radikale Venstre,68,20714,11444.0,0.5524765858839432,sundhed
-Danmarksdemokraterne,Sambandsflokkurin,68,6,6.0,1.0,sundhed
-Danmarksdemokraterne,Socialdemokratiet,68,55167,30999.0,0.561912012616238,sundhed
-Danmarksdemokraterne,Socialistisk Folkeparti,68,14518,7804.0,0.537539606006337,sundhed
-Danmarksdemokraterne,Uden for folketingsgrupperne,68,4945,4432.0,0.8962588473205257,sundhed
-Danmarksdemokraterne,Venstre,68,42958,29796.0,0.6936077098561385,sundhed
-Dansk Folkeparti,Alternativet,68,1356,824.0,0.6076696165191741,sundhed
-Dansk Folkeparti,Danmarksdemokraterne,68,4602,4518.0,0.9817470664928292,sundhed
+Danmarksdemokraterne,Dansk Folkeparti,68,17866,17319.0,0.9693831859397739,sundhed
+Danmarksdemokraterne,Det Konservative Folkeparti,68,12835,8389.0,0.6536034281262174,sundhed
+Danmarksdemokraterne,Enhedslisten,68,21602,9516.0,0.4405147671511897,sundhed
+Danmarksdemokraterne,Liberal Alliance,68,12328,6520.0,0.5288773523685918,sundhed
+Danmarksdemokraterne,Moderaterne,68,1424,952.0,0.6685393258426966,sundhed
+Danmarksdemokraterne,Radikale Venstre,68,26985,14817.0,0.549082823790995,sundhed
+Danmarksdemokraterne,Sambandsflokkurin,68,17,17.0,1.0,sundhed
+Danmarksdemokraterne,Socialdemokratiet,68,80534,44914.0,0.5577023369011846,sundhed
+Danmarksdemokraterne,Socialistisk Folkeparti,68,21120,11378.0,0.5387310606060606,sundhed
+Danmarksdemokraterne,Uden for folketingsgrupperne,68,5394,4868.0,0.9024842417500927,sundhed
+Danmarksdemokraterne,Venstre,68,72245,50075.0,0.6931275520797286,sundhed
 Dansk Folkeparti,Dansk Folkeparti,68,11424,11402.0,0.9980742296918768,sundhed
-Dansk Folkeparti,Det Konservative Folkeparti,68,9466,6076.0,0.6418761884639763,sundhed
-Dansk Folkeparti,Enhedslisten,68,14847,6310.0,0.42500168384185355,sundhed
-Dansk Folkeparti,Liberal Alliance,68,9448,5428.0,0.5745131244707875,sundhed
-Dansk Folkeparti,Moderaterne,68,541,340.0,0.6284658040665434,sundhed
-Dansk Folkeparti,Radikale Venstre,68,18502,10358.0,0.5598313695816668,sundhed
-Dansk Folkeparti,Sambandsflokkurin,68,5,5.0,1.0,sundhed
-Dansk Folkeparti,Socialdemokratiet,68,53135,29875.0,0.5622471064270255,sundhed
-Dansk Folkeparti,Socialistisk Folkeparti,68,14886,7748.0,0.5204890501142012,sundhed
-Dansk Folkeparti,Uden for folketingsgrupperne,68,4155,3605.0,0.8676293622141997,sundhed
-Dansk Folkeparti,Venstre,68,39168,26623.0,0.6797130310457516,sundhed
-Det Konservative Folkeparti,Alternativet,68,890,627.0,0.7044943820224719,sundhed
-Det Konservative Folkeparti,Danmarksdemokraterne,68,4144,2585.0,0.6237934362934363,sundhed
-Det Konservative Folkeparti,Dansk Folkeparti,68,8761,5467.0,0.6240155233420842,sundhed
+Dansk Folkeparti,Det Konservative Folkeparti,68,18227,11543.0,0.6332912711910902,sundhed
+Dansk Folkeparti,Enhedslisten,68,30282,12684.0,0.4188626907073509,sundhed
+Dansk Folkeparti,Liberal Alliance,68,17211,9418.0,0.5472081808145953,sundhed
+Dansk Folkeparti,Moderaterne,68,1904,1201.0,0.6307773109243697,sundhed
+Dansk Folkeparti,Radikale Venstre,68,37698,20732.0,0.5499495994482466,sundhed
+Dansk Folkeparti,Sambandsflokkurin,68,19,19.0,1.0,sundhed
+Dansk Folkeparti,Socialdemokratiet,68,112165,62704.0,0.5590335666206036,sundhed
+Dansk Folkeparti,Socialistisk Folkeparti,68,29859,15653.0,0.524230550252855,sundhed
+Dansk Folkeparti,Uden for folketingsgrupperne,68,7577,7022.0,0.9267520126699221,sundhed
+Dansk Folkeparti,Venstre,68,101179,68048.0,0.6725506280947627,sundhed
 Det Konservative Folkeparti,Det Konservative Folkeparti,68,5159,5136.0,0.9955417716611746,sundhed
-Det Konservative Folkeparti,Enhedslisten,68,10747,4147.0,0.3858751279426817,sundhed
-Det Konservative Folkeparti,Liberal Alliance,68,6415,4303.0,0.670771628994544,sundhed
-Det Konservative Folkeparti,Moderaterne,68,489,359.0,0.7341513292433538,sundhed
-Det Konservative Folkeparti,Radikale Venstre,68,13273,9113.0,0.6865817825661117,sundhed
-Det Konservative Folkeparti,Sambandsflokkurin,68,4,2.0,0.5,sundhed
-Det Konservative Folkeparti,Socialdemokratiet,68,37031,25520.0,0.6891523318300883,sundhed
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,9759,5917.0,0.6063121221436623,sundhed
-Det Konservative Folkeparti,Uden for folketingsgrupperne,68,2860,1807.0,0.6318181818181818,sundhed
-Det Konservative Folkeparti,Venstre,68,28520,23516.0,0.8245441795231416,sundhed
-Enhedslisten,Alternativet,68,1554,1159.0,0.7458172458172458,sundhed
-Enhedslisten,Danmarksdemokraterne,68,6690,2985.0,0.4461883408071749,sundhed
-Enhedslisten,Dansk Folkeparti,68,15435,6374.0,0.4129575639779721,sundhed
-Enhedslisten,Det Konservative Folkeparti,68,10576,4008.0,0.3789712556732224,sundhed
+Det Konservative Folkeparti,Enhedslisten,68,21323,8155.0,0.3824508746424049,sundhed
+Det Konservative Folkeparti,Liberal Alliance,68,12075,7900.0,0.6542443064182195,sundhed
+Det Konservative Folkeparti,Moderaterne,68,1365,1040.0,0.7619047619047619,sundhed
+Det Konservative Folkeparti,Radikale Venstre,68,26447,17859.0,0.6752750784588044,sundhed
+Det Konservative Folkeparti,Sambandsflokkurin,68,15,10.0,0.6666666666666666,sundhed
+Det Konservative Folkeparti,Socialdemokratiet,68,78947,53917.0,0.6829518537753176,sundhed
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,20826,12883.0,0.6186017478152309,sundhed
+Det Konservative Folkeparti,Uden for folketingsgrupperne,68,5413,3305.0,0.6105671531498245,sundhed
+Det Konservative Folkeparti,Venstre,68,70989,58671.0,0.8264801588978574,sundhed
 Enhedslisten,Enhedslisten,68,15683,15301.0,0.9756424153542052,sundhed
-Enhedslisten,Liberal Alliance,68,11941,4227.0,0.35399045306088267,sundhed
-Enhedslisten,Moderaterne,68,1095,502.0,0.45844748858447487,sundhed
-Enhedslisten,Radikale Venstre,68,23226,15907.0,0.6848790148970981,sundhed
-Enhedslisten,Sambandsflokkurin,68,1,0.0,0.0,sundhed
-Enhedslisten,Socialdemokratiet,68,64796,43437.0,0.6703654546576949,sundhed
-Enhedslisten,Socialistisk Folkeparti,68,17957,13134.0,0.7314139332850699,sundhed
-Enhedslisten,Uden for folketingsgrupperne,68,5520,2235.0,0.4048913043478261,sundhed
-Enhedslisten,Venstre,68,48548,20785.0,0.42813298179121695,sundhed
-Liberal Alliance,Alternativet,68,762,454.0,0.5958005249343832,sundhed
-Liberal Alliance,Danmarksdemokraterne,68,2189,936.0,0.42759250799451803,sundhed
-Liberal Alliance,Dansk Folkeparti,68,7763,3990.0,0.5139765554553652,sundhed
-Liberal Alliance,Det Konservative Folkeparti,68,5660,3597.0,0.6355123674911661,sundhed
-Liberal Alliance,Enhedslisten,68,8319,2893.0,0.3477581440076932,sundhed
+Enhedslisten,Liberal Alliance,68,20260,7120.0,0.351431391905232,sundhed
+Enhedslisten,Moderaterne,68,2332,1038.0,0.4451114922813036,sundhed
+Enhedslisten,Radikale Venstre,68,44200,29979.0,0.6782579185520362,sundhed
+Enhedslisten,Sambandsflokkurin,68,23,16.0,0.6956521739130435,sundhed
+Enhedslisten,Socialdemokratiet,68,132070,89225.0,0.6755887029605512,sundhed
+Enhedslisten,Socialistisk Folkeparti,68,34798,25228.0,0.7249841944939365,sundhed
+Enhedslisten,Uden for folketingsgrupperne,68,8969,3742.0,0.4172148511539748,sundhed
+Enhedslisten,Venstre,68,118627,52427.0,0.44194829170424943,sundhed
 Liberal Alliance,Liberal Alliance,68,4588,4570.0,0.9960767218831735,sundhed
-Liberal Alliance,Moderaterne,68,179,78.0,0.43575418994413406,sundhed
-Liberal Alliance,Radikale Venstre,68,10384,5729.0,0.5517141756548536,sundhed
-Liberal Alliance,Socialdemokratiet,68,31618,17682.0,0.5592384085014865,sundhed
-Liberal Alliance,Socialistisk Folkeparti,68,8540,4354.0,0.5098360655737705,sundhed
-Liberal Alliance,Uden for folketingsgrupperne,68,2213,1413.0,0.6384997740623588,sundhed
-Liberal Alliance,Venstre,68,19230,11621.0,0.6043161726469058,sundhed
-Moderaterne,Alternativet,68,76,47.0,0.618421052631579,sundhed
-Moderaterne,Danmarksdemokraterne,68,442,290.0,0.6561085972850679,sundhed
-Moderaterne,Dansk Folkeparti,68,1363,861.0,0.6316947909024211,sundhed
-Moderaterne,Det Konservative Folkeparti,68,876,681.0,0.7773972602739726,sundhed
-Moderaterne,Enhedslisten,68,1237,536.0,0.4333063864187551,sundhed
-Moderaterne,Liberal Alliance,68,1162,665.0,0.572289156626506,sundhed
+Liberal Alliance,Moderaterne,68,1341,743.0,0.5540641312453393,sundhed
+Liberal Alliance,Radikale Venstre,68,25208,13838.0,0.5489527134243097,sundhed
+Liberal Alliance,Sambandsflokkurin,68,12,8.0,0.6666666666666666,sundhed
+Liberal Alliance,Socialdemokratiet,68,75207,41615.0,0.5533394497852594,sundhed
+Liberal Alliance,Socialistisk Folkeparti,68,19848,10447.0,0.5263502619911327,sundhed
+Liberal Alliance,Uden for folketingsgrupperne,68,4974,2812.0,0.5653397667872939,sundhed
+Liberal Alliance,Venstre,68,67642,42374.0,0.6264451080689513,sundhed
 Moderaterne,Moderaterne,68,5,5.0,1.0,sundhed
-Moderaterne,Radikale Venstre,68,2166,1537.0,0.7096029547553093,sundhed
-Moderaterne,Socialdemokratiet,68,5483,3967.0,0.7235090279044318,sundhed
-Moderaterne,Socialistisk Folkeparti,68,1428,863.0,0.6043417366946778,sundhed
-Moderaterne,Uden for folketingsgrupperne,68,530,337.0,0.6358490566037736,sundhed
-Moderaterne,Venstre,68,3228,3227.0,0.9996902106567535,sundhed
-Radikale Venstre,Alternativet,68,1702,1527.0,0.8971797884841363,sundhed
-Radikale Venstre,Danmarksdemokraterne,68,6271,3373.0,0.5378727475681709,sundhed
-Radikale Venstre,Dansk Folkeparti,68,19196,10374.0,0.5404250885601167,sundhed
-Radikale Venstre,Det Konservative Folkeparti,68,13174,8746.0,0.6638834067101868,sundhed
-Radikale Venstre,Enhedslisten,68,20974,14072.0,0.6709259082673786,sundhed
-Radikale Venstre,Liberal Alliance,68,14824,8109.0,0.5470183486238532,sundhed
-Radikale Venstre,Moderaterne,68,679,476.0,0.7010309278350515,sundhed
+Moderaterne,Radikale Venstre,68,2845,2013.0,0.7075571177504394,sundhed
+Moderaterne,Socialdemokratiet,68,8519,6107.0,0.7168681770160817,sundhed
+Moderaterne,Socialistisk Folkeparti,68,2203,1364.0,0.6191556967771221,sundhed
+Moderaterne,Uden for folketingsgrupperne,68,623,390.0,0.6260032102728732,sundhed
+Moderaterne,Venstre,68,7570,7547.0,0.9969616908850727,sundhed
 Radikale Venstre,Radikale Venstre,68,25157,25157.0,1.0,sundhed
-Radikale Venstre,Sambandsflokkurin,68,4,4.0,1.0,sundhed
-Radikale Venstre,Socialdemokratiet,68,78354,78342.0,0.999846848916456,sundhed
-Radikale Venstre,Socialistisk Folkeparti,68,20269,19233.0,0.9488874636143865,sundhed
-Radikale Venstre,Uden for folketingsgrupperne,68,5927,3356.0,0.5662223721950397,sundhed
-Radikale Venstre,Venstre,68,53368,39831.0,0.7463461250187379,sundhed
-Sambandsflokkurin,Alternativet,68,3,3.0,1.0,sundhed
-Sambandsflokkurin,Danmarksdemokraterne,68,11,11.0,1.0,sundhed
-Sambandsflokkurin,Dansk Folkeparti,68,14,14.0,1.0,sundhed
-Sambandsflokkurin,Det Konservative Folkeparti,68,11,8.0,0.7272727272727273,sundhed
-Sambandsflokkurin,Enhedslisten,68,22,16.0,0.7272727272727273,sundhed
-Sambandsflokkurin,Liberal Alliance,68,12,8.0,0.6666666666666666,sundhed
-Sambandsflokkurin,Radikale Venstre,68,25,25.0,1.0,sundhed
-Sambandsflokkurin,Socialdemokratiet,68,76,76.0,1.0,sundhed
-Sambandsflokkurin,Socialistisk Folkeparti,68,21,21.0,1.0,sundhed
+Radikale Venstre,Sambandsflokkurin,68,29,29.0,1.0,sundhed
+Radikale Venstre,Socialdemokratiet,68,164366,164327.0,0.9997627246510835,sundhed
+Radikale Venstre,Socialistisk Folkeparti,68,43449,41108.0,0.9461207392575203,sundhed
+Radikale Venstre,Uden for folketingsgrupperne,68,11142,6147.0,0.5516962843295639,sundhed
+Radikale Venstre,Venstre,68,147820,110432.0,0.747070761737248,sundhed
+Sambandsflokkurin,Socialdemokratiet,68,92,92.0,1.0,sundhed
+Sambandsflokkurin,Socialistisk Folkeparti,68,25,25.0,1.0,sundhed
 Sambandsflokkurin,Uden for folketingsgrupperne,68,8,7.0,0.875,sundhed
-Sambandsflokkurin,Venstre,68,72,72.0,1.0,sundhed
-Socialdemokratiet,Alternativet,68,5615,5099.0,0.9081032947462155,sundhed
-Socialdemokratiet,Danmarksdemokraterne,68,25367,13915.0,0.5485473252651082,sundhed
-Socialdemokratiet,Dansk Folkeparti,68,59030,32829.0,0.5561409452820599,sundhed
-Socialdemokratiet,Det Konservative Folkeparti,68,41916,28397.0,0.6774739956102681,sundhed
-Socialdemokratiet,Enhedslisten,68,67274,45788.0,0.6806195558462408,sundhed
-Socialdemokratiet,Liberal Alliance,68,43589,23933.0,0.5490605427974948,sundhed
-Socialdemokratiet,Moderaterne,68,3036,2140.0,0.7048748353096179,sundhed
-Socialdemokratiet,Radikale Venstre,68,86012,85985.0,0.9996860903129796,sundhed
-Socialdemokratiet,Sambandsflokkurin,68,16,16.0,1.0,sundhed
+Sambandsflokkurin,Venstre,68,82,82.0,1.0,sundhed
 Socialdemokratiet,Socialdemokratiet,68,237568,237450.0,0.9995033001077587,sundhed
-Socialdemokratiet,Socialistisk Folkeparti,68,67062,63430.0,0.9458411619098744,sundhed
-Socialdemokratiet,Uden for folketingsgrupperne,68,19842,11228.0,0.5658703759701643,sundhed
-Socialdemokratiet,Venstre,68,180530,134552.0,0.7453165678834542,sundhed
-Socialistisk Folkeparti,Alternativet,68,1355,1267.0,0.9350553505535055,sundhed
-Socialistisk Folkeparti,Danmarksdemokraterne,68,6602,3574.0,0.5413511057255377,sundhed
-Socialistisk Folkeparti,Dansk Folkeparti,68,14973,7905.0,0.5279503105590062,sundhed
-Socialistisk Folkeparti,Det Konservative Folkeparti,68,11067,6966.0,0.6294388723231228,sundhed
-Socialistisk Folkeparti,Enhedslisten,68,16841,12094.0,0.7181283771747521,sundhed
-Socialistisk Folkeparti,Liberal Alliance,68,11308,6093.0,0.5388220728687655,sundhed
-Socialistisk Folkeparti,Moderaterne,68,775,501.0,0.6464516129032258,sundhed
-Socialistisk Folkeparti,Radikale Venstre,68,23180,21875.0,0.9437014667817084,sundhed
-Socialistisk Folkeparti,Sambandsflokkurin,68,4,4.0,1.0,sundhed
-Socialistisk Folkeparti,Socialdemokratiet,68,62208,58515.0,0.9406346450617284,sundhed
+Socialdemokratiet,Socialistisk Folkeparti,68,129270,121945.0,0.9433356540573993,sundhed
+Socialdemokratiet,Uden for folketingsgrupperne,68,33158,18541.0,0.5591712407262199,sundhed
+Socialdemokratiet,Venstre,68,441040,331113.0,0.750755033557047,sundhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,68,15214,15185.0,0.9980938609175759,sundhed
-Socialistisk Folkeparti,Uden for folketingsgrupperne,68,5499,2959.0,0.5380978359701764,sundhed
-Socialistisk Folkeparti,Venstre,68,50233,35313.0,0.7029840941213943,sundhed
-Uden for folketingsgrupperne,Alternativet,68,339,197.0,0.5811209439528023,sundhed
-Uden for folketingsgrupperne,Danmarksdemokraterne,68,449,436.0,0.9710467706013363,sundhed
-Uden for folketingsgrupperne,Dansk Folkeparti,68,3422,3417.0,0.9985388661601403,sundhed
-Uden for folketingsgrupperne,Det Konservative Folkeparti,68,2553,1498.0,0.5867606737171954,sundhed
-Uden for folketingsgrupperne,Enhedslisten,68,3449,1507.0,0.43693824296897654,sundhed
-Uden for folketingsgrupperne,Liberal Alliance,68,2761,1399.0,0.5067004708438971,sundhed
-Uden for folketingsgrupperne,Moderaterne,68,93,53.0,0.5698924731182796,sundhed
-Uden for folketingsgrupperne,Radikale Venstre,68,5215,2791.0,0.5351869606903163,sundhed
-Uden for folketingsgrupperne,Socialdemokratiet,68,13316,7313.0,0.5491889456293181,sundhed
-Uden for folketingsgrupperne,Socialistisk Folkeparti,68,3246,1710.0,0.5268022181146026,sundhed
+Socialistisk Folkeparti,Uden for folketingsgrupperne,68,8745,4669.0,0.5339050886220698,sundhed
+Socialistisk Folkeparti,Venstre,68,116569,81230.0,0.6968404979025299,sundhed
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,68,781,625.0,0.8002560819462228,sundhed
-Uden for folketingsgrupperne,Venstre,68,7560,4798.0,0.6346560846560847,sundhed
-Venstre,Alternativet,68,5135,3901.0,0.7596884128529698,sundhed
-Venstre,Danmarksdemokraterne,68,29287,20279.0,0.6924232594666576,sundhed
-Venstre,Dansk Folkeparti,68,62011,41425.0,0.6680266404347616,sundhed
-Venstre,Det Konservative Folkeparti,68,42469,35155.0,0.8277802632508418,sundhed
-Venstre,Enhedslisten,68,70079,31642.0,0.45151899998573036,sundhed
-Venstre,Liberal Alliance,68,48412,30753.0,0.6352350656861935,sundhed
-Venstre,Moderaterne,68,4342,4320.0,0.9949332105020727,sundhed
-Venstre,Radikale Venstre,68,94452,70601.0,0.7474802015838733,sundhed
-Venstre,Sambandsflokkurin,68,10,10.0,1.0,sundhed
-Venstre,Socialdemokratiet,68,260510,196561.0,0.754523818663391,sundhed
-Venstre,Socialistisk Folkeparti,68,66336,45917.0,0.6921882537385432,sundhed
-Venstre,Uden for folketingsgrupperne,68,22055,14528.0,0.6587168442530038,sundhed
+Uden for folketingsgrupperne,Venstre,68,29615,19326.0,0.6525747087624515,sundhed
 Venstre,Venstre,68,191663,190572.0,0.9943077171911114,sundhed
 Alternativet,Alternativet,69,5869,5795.0,0.9873913784290339,sundhed
-Alternativet,Danmarksdemokraterne,69,4446,2371.0,0.5332883490778227,sundhed
-Alternativet,Dansk Folkeparti,69,15374,7881.0,0.5126187069077663,sundhed
-Alternativet,Det Konservative Folkeparti,69,2581,1248.0,0.4835335141418055,sundhed
-Alternativet,Enhedslisten,69,9902,7670.0,0.7745909917188447,sundhed
-Alternativet,Liberal Alliance,69,6820,3362.0,0.4929618768328446,sundhed
-Alternativet,Moderaterne,69,770,332.0,0.43116883116883115,sundhed
-Alternativet,Radikale Venstre,69,4918,3784.0,0.7694184627897519,sundhed
-Alternativet,Socialdemokratiet,69,28935,17722.0,0.612476239847935,sundhed
-Alternativet,Socialistisk Folkeparti,69,4949,4280.0,0.8648211759951505,sundhed
-Alternativet,Tjóðveldi,69,34,3.0,0.08823529411764706,sundhed
-Alternativet,Uden for folketingsgrupperne,69,3094,1593.0,0.5148674854557207,sundhed
-Alternativet,Venstre,69,16832,8471.0,0.5032675855513308,sundhed
-Danmarksdemokraterne,Alternativet,69,11159,5938.0,0.53212653463572,sundhed
+Alternativet,Danmarksdemokraterne,69,15605,8309.0,0.5324575456584428,sundhed
+Alternativet,Dansk Folkeparti,69,41228,20996.0,0.5092655476860386,sundhed
+Alternativet,Det Konservative Folkeparti,69,10352,5180.0,0.500386398763524,sundhed
+Alternativet,Enhedslisten,69,22908,17818.0,0.7778068796926838,sundhed
+Alternativet,Inuit Ataqatigiit,69,72,25.0,0.3472222222222222,sundhed
+Alternativet,Liberal Alliance,69,17877,8995.0,0.5031604855400794,sundhed
+Alternativet,Moderaterne,69,2799,1285.0,0.45909253304751696,sundhed
+Alternativet,Nunatta Qitornai,69,6,6.0,1.0,sundhed
+Alternativet,Radikale Venstre,69,10535,8135.0,0.77218794494542,sundhed
+Alternativet,Socialdemokratiet,69,74867,46399.0,0.6197523608532465,sundhed
+Alternativet,Socialistisk Folkeparti,69,11045,9479.0,0.8582163875056587,sundhed
+Alternativet,Tjóðveldi,69,62,5.0,0.08064516129032258,sundhed
+Alternativet,Uden for folketingsgrupperne,69,7140,3691.0,0.5169467787114846,sundhed
+Alternativet,Venstre,69,43615,22278.0,0.5107875730826551,sundhed
 Danmarksdemokraterne,Danmarksdemokraterne,69,7860,7572.0,0.9633587786259542,sundhed
-Danmarksdemokraterne,Dansk Folkeparti,69,30542,29958.0,0.9808787898631393,sundhed
-Danmarksdemokraterne,Det Konservative Folkeparti,69,6296,5322.0,0.8452986022871665,sundhed
-Danmarksdemokraterne,Enhedslisten,69,17456,7179.0,0.41126260311640694,sundhed
-Danmarksdemokraterne,Liberal Alliance,69,14276,12126.0,0.8493975903614458,sundhed
-Danmarksdemokraterne,Moderaterne,69,762,639.0,0.8385826771653543,sundhed
-Danmarksdemokraterne,Radikale Venstre,69,8923,5638.0,0.6318502745713325,sundhed
-Danmarksdemokraterne,Socialdemokratiet,69,54573,39976.0,0.7325234090117824,sundhed
-Danmarksdemokraterne,Socialistisk Folkeparti,69,8806,4783.0,0.5431523960935726,sundhed
-Danmarksdemokraterne,Tjóðveldi,69,64,5.0,0.078125,sundhed
-Danmarksdemokraterne,Uden for folketingsgrupperne,69,7544,6967.0,0.9235153764581124,sundhed
-Danmarksdemokraterne,Venstre,69,28965,24753.0,0.8545831175556706,sundhed
-Dansk Folkeparti,Alternativet,69,25854,13115.0,0.5072716020731801,sundhed
-Dansk Folkeparti,Danmarksdemokraterne,69,15062,14708.0,0.9764971451334484,sundhed
+Danmarksdemokraterne,Dansk Folkeparti,69,45604,44666.0,0.9794316288044909,sundhed
+Danmarksdemokraterne,Det Konservative Folkeparti,69,11288,9548.0,0.8458540042523033,sundhed
+Danmarksdemokraterne,Enhedslisten,69,25701,10711.0,0.4167542118983697,sundhed
+Danmarksdemokraterne,Inuit Ataqatigiit,69,80,24.0,0.3,sundhed
+Danmarksdemokraterne,Liberal Alliance,69,20004,17069.0,0.8532793441311738,sundhed
+Danmarksdemokraterne,Moderaterne,69,2998,2496.0,0.8325550366911274,sundhed
+Danmarksdemokraterne,Nunatta Qitornai,69,5,1.0,0.2,sundhed
+Danmarksdemokraterne,Radikale Venstre,69,11886,7604.0,0.6397442369173818,sundhed
+Danmarksdemokraterne,Socialdemokratiet,69,83714,61044.0,0.7291970279762047,sundhed
+Danmarksdemokraterne,Socialistisk Folkeparti,69,12521,6795.0,0.5426882836834118,sundhed
+Danmarksdemokraterne,Tjóðveldi,69,76,6.0,0.07894736842105263,sundhed
+Danmarksdemokraterne,Uden for folketingsgrupperne,69,8273,7678.0,0.9280792940892059,sundhed
+Danmarksdemokraterne,Venstre,69,48506,41560.0,0.856801220467571,sundhed
 Dansk Folkeparti,Dansk Folkeparti,69,57198,57168.0,0.9994755061365782,sundhed
-Dansk Folkeparti,Det Konservative Folkeparti,69,11644,9524.0,0.8179319821367228,sundhed
-Dansk Folkeparti,Enhedslisten,69,35700,14627.0,0.40971988795518205,sundhed
-Dansk Folkeparti,Liberal Alliance,69,26474,21817.0,0.8240915615320692,sundhed
-Dansk Folkeparti,Moderaterne,69,1263,1046.0,0.8281868566904196,sundhed
-Dansk Folkeparti,Radikale Venstre,69,18493,11190.0,0.6050938192829719,sundhed
-Dansk Folkeparti,Socialdemokratiet,69,110196,76330.0,0.6926748702312243,sundhed
-Dansk Folkeparti,Socialistisk Folkeparti,69,18530,9853.0,0.5317323259579061,sundhed
-Dansk Folkeparti,Tjóðveldi,69,76,6.0,0.07894736842105263,sundhed
-Dansk Folkeparti,Uden for folketingsgrupperne,69,14132,12843.0,0.9087885649589584,sundhed
-Dansk Folkeparti,Venstre,69,60459,50114.0,0.8288923071833805,sundhed
-Det Konservative Folkeparti,Alternativet,69,7771,3932.0,0.5059837858705444,sundhed
-Det Konservative Folkeparti,Danmarksdemokraterne,69,4992,4226.0,0.8465544871794872,sundhed
-Det Konservative Folkeparti,Dansk Folkeparti,69,18410,15019.0,0.8158066268332428,sundhed
+Dansk Folkeparti,Det Konservative Folkeparti,69,30054,24543.0,0.8166300658814134,sundhed
+Dansk Folkeparti,Enhedslisten,69,67369,28018.0,0.4158886134572281,sundhed
+Dansk Folkeparti,Inuit Ataqatigiit,69,186,48.0,0.25806451612903225,sundhed
+Dansk Folkeparti,Liberal Alliance,69,52450,43218.0,0.8239847473784556,sundhed
+Dansk Folkeparti,Moderaterne,69,8168,6613.0,0.8096229187071499,sundhed
+Dansk Folkeparti,Nunatta Qitornai,69,18,0.0,0.0,sundhed
+Dansk Folkeparti,Radikale Venstre,69,31117,19089.0,0.6134588809975254,sundhed
+Dansk Folkeparti,Socialdemokratiet,69,220213,152577.0,0.6928610027564222,sundhed
+Dansk Folkeparti,Socialistisk Folkeparti,69,32839,17355.0,0.5284874691677578,sundhed
+Dansk Folkeparti,Tjóðveldi,69,178,15.0,0.08426966292134831,sundhed
+Dansk Folkeparti,Uden for folketingsgrupperne,69,21255,19579.0,0.9211479651846625,sundhed
+Dansk Folkeparti,Venstre,69,128068,106102.0,0.828481744073461,sundhed
 Det Konservative Folkeparti,Det Konservative Folkeparti,69,3018,2966.0,0.9827700463883366,sundhed
-Det Konservative Folkeparti,Enhedslisten,69,11377,4174.0,0.3668805484749934,sundhed
-Det Konservative Folkeparti,Liberal Alliance,69,7682,7488.0,0.9747461598542047,sundhed
-Det Konservative Folkeparti,Moderaterne,69,880,858.0,0.975,sundhed
-Det Konservative Folkeparti,Radikale Venstre,69,4895,3423.0,0.6992849846782431,sundhed
-Det Konservative Folkeparti,Socialdemokratiet,69,31712,26522.0,0.8363395560040363,sundhed
-Det Konservative Folkeparti,Socialistisk Folkeparti,69,4778,2619.0,0.5481372959397237,sundhed
-Det Konservative Folkeparti,Tjóðveldi,69,22,2.0,0.09090909090909091,sundhed
-Det Konservative Folkeparti,Uden for folketingsgrupperne,69,3632,3370.0,0.927863436123348,sundhed
-Det Konservative Folkeparti,Venstre,69,18218,17818.0,0.9780436930508288,sundhed
-Enhedslisten,Alternativet,69,13006,10148.0,0.7802552667999385,sundhed
-Enhedslisten,Danmarksdemokraterne,69,8245,3532.0,0.4283808368708308,sundhed
-Enhedslisten,Dansk Folkeparti,69,31669,13391.0,0.42284252739271844,sundhed
-Enhedslisten,Det Konservative Folkeparti,69,5347,1874.0,0.3504769029362259,sundhed
+Det Konservative Folkeparti,Enhedslisten,69,16724,6048.0,0.3616359722554413,sundhed
+Det Konservative Folkeparti,Inuit Ataqatigiit,69,60,17.0,0.2833333333333333,sundhed
+Det Konservative Folkeparti,Liberal Alliance,69,13031,12652.0,0.9709155091704397,sundhed
+Det Konservative Folkeparti,Moderaterne,69,2034,1981.0,0.9739429695181907,sundhed
+Det Konservative Folkeparti,Nunatta Qitornai,69,5,5.0,1.0,sundhed
+Det Konservative Folkeparti,Radikale Venstre,69,7668,5368.0,0.7000521648408973,sundhed
+Det Konservative Folkeparti,Socialdemokratiet,69,54685,45473.0,0.8315442991679619,sundhed
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,8118,4319.0,0.5320275930032028,sundhed
+Det Konservative Folkeparti,Tjóðveldi,69,45,4.0,0.08888888888888889,sundhed
+Det Konservative Folkeparti,Uden for folketingsgrupperne,69,5052,4562.0,0.9030087094220111,sundhed
+Det Konservative Folkeparti,Venstre,69,31805,31165.0,0.9798773777707908,sundhed
 Enhedslisten,Enhedslisten,69,16670,16654.0,0.9990401919616076,sundhed
-Enhedslisten,Liberal Alliance,69,13595,4966.0,0.3652813534387643,sundhed
-Enhedslisten,Moderaterne,69,898,273.0,0.3040089086859688,sundhed
-Enhedslisten,Radikale Venstre,69,9037,5644.0,0.6245435432112427,sundhed
-Enhedslisten,Socialdemokratiet,69,56155,26559.0,0.4729587748196955,sundhed
-Enhedslisten,Socialistisk Folkeparti,69,9886,7733.0,0.7822172769573134,sundhed
-Enhedslisten,Tjóðveldi,69,60,0.0,0.0,sundhed
-Enhedslisten,Uden for folketingsgrupperne,69,6339,2519.0,0.39738129042435716,sundhed
-Enhedslisten,Venstre,69,31920,11064.0,0.34661654135338343,sundhed
-Inuit Ataqatigiit,Alternativet,69,72,25.0,0.3472222222222222,sundhed
-Inuit Ataqatigiit,Danmarksdemokraterne,69,80,24.0,0.3,sundhed
-Inuit Ataqatigiit,Dansk Folkeparti,69,186,48.0,0.25806451612903225,sundhed
-Inuit Ataqatigiit,Det Konservative Folkeparti,69,60,17.0,0.2833333333333333,sundhed
-Inuit Ataqatigiit,Enhedslisten,69,105,33.0,0.3142857142857143,sundhed
+Enhedslisten,Inuit Ataqatigiit,69,105,33.0,0.3142857142857143,sundhed
+Enhedslisten,Liberal Alliance,69,29189,10758.0,0.36856349994861076,sundhed
+Enhedslisten,Moderaterne,69,4527,1427.0,0.3152197923569693,sundhed
+Enhedslisten,Nunatta Qitornai,69,8,8.0,1.0,sundhed
+Enhedslisten,Radikale Venstre,69,17298,10891.0,0.6296103595791421,sundhed
+Enhedslisten,Socialdemokratiet,69,122501,59070.0,0.48220014530493627,sundhed
+Enhedslisten,Socialistisk Folkeparti,69,18273,14295.0,0.7823017566901986,sundhed
+Enhedslisten,Tjóðveldi,69,108,0.0,0.0,sundhed
+Enhedslisten,Uden for folketingsgrupperne,69,11880,4686.0,0.39444444444444443,sundhed
+Enhedslisten,Venstre,69,71241,25482.0,0.35768728681517664,sundhed
 Inuit Ataqatigiit,Liberal Alliance,69,83,27.0,0.3253012048192771,sundhed
 Inuit Ataqatigiit,Moderaterne,69,10,4.0,0.4,sundhed
 Inuit Ataqatigiit,Nunatta Qitornai,69,1,1.0,1.0,sundhed
@@ -1030,583 +611,316 @@ Inuit Ataqatigiit,Socialistisk Folkeparti,69,53,23.0,0.4339622641509434,sundhed
 Inuit Ataqatigiit,Tjóðveldi,69,2,2.0,1.0,sundhed
 Inuit Ataqatigiit,Uden for folketingsgrupperne,69,23,9.0,0.391304347826087,sundhed
 Inuit Ataqatigiit,Venstre,69,227,69.0,0.3039647577092511,sundhed
-Liberal Alliance,Alternativet,69,11057,5633.0,0.5094510264990504,sundhed
-Liberal Alliance,Danmarksdemokraterne,69,5728,4943.0,0.8629539106145251,sundhed
-Liberal Alliance,Dansk Folkeparti,69,25976,21401.0,0.8238758854327071,sundhed
-Liberal Alliance,Det Konservative Folkeparti,69,5349,5164.0,0.9654140960927277,sundhed
-Liberal Alliance,Enhedslisten,69,15594,5792.0,0.3714249070155188,sundhed
 Liberal Alliance,Liberal Alliance,69,9845,9781.0,0.9934992381919756,sundhed
-Liberal Alliance,Moderaterne,69,571,563.0,0.9859894921190894,sundhed
-Liberal Alliance,Radikale Venstre,69,7762,5266.0,0.6784333934552951,sundhed
-Liberal Alliance,Socialdemokratiet,69,46016,38116.0,0.8283205841446454,sundhed
-Liberal Alliance,Socialistisk Folkeparti,69,7059,3753.0,0.5316617084572886,sundhed
-Liberal Alliance,Tjóðveldi,69,49,4.0,0.08163265306122448,sundhed
-Liberal Alliance,Uden for folketingsgrupperne,69,6613,6151.0,0.9301376077423257,sundhed
-Liberal Alliance,Venstre,69,23519,22639.0,0.9625834431736043,sundhed
-Moderaterne,Alternativet,69,2029,953.0,0.4696895022178413,sundhed
-Moderaterne,Danmarksdemokraterne,69,2236,1857.0,0.8305008944543828,sundhed
-Moderaterne,Dansk Folkeparti,69,6905,5567.0,0.8062273714699493,sundhed
-Moderaterne,Det Konservative Folkeparti,69,1154,1123.0,0.9731369150779896,sundhed
-Moderaterne,Enhedslisten,69,3629,1154.0,0.3179939377238909,sundhed
-Moderaterne,Liberal Alliance,69,2886,2851.0,0.9878724878724878,sundhed
+Liberal Alliance,Moderaterne,69,3457,3414.0,0.98756146948221,sundhed
+Liberal Alliance,Nunatta Qitornai,69,7,7.0,1.0,sundhed
+Liberal Alliance,Radikale Venstre,69,13457,9212.0,0.6845507914096752,sundhed
+Liberal Alliance,Socialdemokratiet,69,95358,79104.0,0.8295475995721386,sundhed
+Liberal Alliance,Socialistisk Folkeparti,69,14219,7463.0,0.5248611013432731,sundhed
+Liberal Alliance,Tjóðveldi,69,83,7.0,0.08433734939759036,sundhed
+Liberal Alliance,Uden for folketingsgrupperne,69,9166,8354.0,0.9114117390355663,sundhed
+Liberal Alliance,Venstre,69,55395,53634.0,0.968210127267804,sundhed
 Moderaterne,Moderaterne,69,128,127.0,0.9921875,sundhed
-Moderaterne,Radikale Venstre,69,1795,1212.0,0.675208913649025,sundhed
-Moderaterne,Socialdemokratiet,69,12008,9955.0,0.8290306462358428,sundhed
-Moderaterne,Socialistisk Folkeparti,69,1987,1015.0,0.5108203321590338,sundhed
+Moderaterne,Radikale Venstre,69,2109,1436.0,0.680891417733523,sundhed
+Moderaterne,Socialdemokratiet,69,14806,12212.0,0.8248007564500878,sundhed
+Moderaterne,Socialistisk Folkeparti,69,2222,1136.0,0.5112511251125113,sundhed
 Moderaterne,Tjóðveldi,69,20,2.0,0.1,sundhed
-Moderaterne,Uden for folketingsgrupperne,69,1403,1268.0,0.9037776193870278,sundhed
-Moderaterne,Venstre,69,6759,6615.0,0.9786950732356857,sundhed
-Nunatta Qitornai,Alternativet,69,6,6.0,1.0,sundhed
-Nunatta Qitornai,Danmarksdemokraterne,69,5,1.0,0.2,sundhed
-Nunatta Qitornai,Dansk Folkeparti,69,18,0.0,0.0,sundhed
-Nunatta Qitornai,Det Konservative Folkeparti,69,5,5.0,1.0,sundhed
-Nunatta Qitornai,Enhedslisten,69,8,8.0,1.0,sundhed
-Nunatta Qitornai,Liberal Alliance,69,7,7.0,1.0,sundhed
+Moderaterne,Uden for folketingsgrupperne,69,1407,1272.0,0.9040511727078892,sundhed
+Moderaterne,Venstre,69,8684,8521.0,0.9812298479963151,sundhed
 Nunatta Qitornai,Radikale Venstre,69,4,4.0,1.0,sundhed
 Nunatta Qitornai,Socialdemokratiet,69,29,29.0,1.0,sundhed
 Nunatta Qitornai,Socialistisk Folkeparti,69,4,4.0,1.0,sundhed
 Nunatta Qitornai,Uden for folketingsgrupperne,69,3,2.0,0.6666666666666666,sundhed
 Nunatta Qitornai,Venstre,69,18,18.0,1.0,sundhed
-Radikale Venstre,Alternativet,69,5617,4351.0,0.7746127826241767,sundhed
-Radikale Venstre,Danmarksdemokraterne,69,2963,1966.0,0.6635167060411745,sundhed
-Radikale Venstre,Dansk Folkeparti,69,12624,7899.0,0.625712927756654,sundhed
-Radikale Venstre,Det Konservative Folkeparti,69,2773,1945.0,0.7014064190407501,sundhed
-Radikale Venstre,Enhedslisten,69,8261,5247.0,0.6351531291611185,sundhed
-Radikale Venstre,Liberal Alliance,69,5695,3946.0,0.6928884986830554,sundhed
-Radikale Venstre,Moderaterne,69,314,224.0,0.7133757961783439,sundhed
 Radikale Venstre,Radikale Venstre,69,3116,3102.0,0.9955070603337612,sundhed
-Radikale Venstre,Socialdemokratiet,69,22706,17767.0,0.78248040165595,sundhed
-Radikale Venstre,Socialistisk Folkeparti,69,3153,2482.0,0.7871868062163019,sundhed
-Radikale Venstre,Tjóðveldi,69,24,2.0,0.08333333333333333,sundhed
-Radikale Venstre,Uden for folketingsgrupperne,69,2968,2061.0,0.6944070080862533,sundhed
-Radikale Venstre,Venstre,69,12533,9053.0,0.7223330407723609,sundhed
-Socialdemokratiet,Alternativet,69,45932,28677.0,0.6243359749194461,sundhed
-Socialdemokratiet,Danmarksdemokraterne,69,29141,21068.0,0.7229676400947119,sundhed
-Socialdemokratiet,Dansk Folkeparti,69,110017,76247.0,0.6930474381231991,sundhed
-Socialdemokratiet,Det Konservative Folkeparti,69,22973,18951.0,0.8249249118530448,sundhed
-Socialdemokratiet,Enhedslisten,69,66346,32511.0,0.4900220058481295,sundhed
-Socialdemokratiet,Liberal Alliance,69,49342,40988.0,0.830691905476065,sundhed
-Socialdemokratiet,Moderaterne,69,2798,2257.0,0.8066476054324517,sundhed
-Socialdemokratiet,Radikale Venstre,69,33679,26415.0,0.7843166364797055,sundhed
+Radikale Venstre,Socialdemokratiet,69,56385,44182.0,0.78357719251574,sundhed
+Radikale Venstre,Socialistisk Folkeparti,69,8464,6559.0,0.7749291115311909,sundhed
+Radikale Venstre,Tjóðveldi,69,48,4.0,0.08333333333333333,sundhed
+Radikale Venstre,Uden for folketingsgrupperne,69,5511,3659.0,0.6639448375975322,sundhed
+Radikale Venstre,Venstre,69,32861,23394.0,0.7119077325705243,sundhed
 Socialdemokratiet,Socialdemokratiet,69,193672,191851.0,0.9905975050601016,sundhed
-Socialdemokratiet,Socialistisk Folkeparti,69,32108,21399.0,0.6664694157219384,sundhed
-Socialdemokratiet,Tjóðveldi,69,226,19.0,0.084070796460177,sundhed
-Socialdemokratiet,Uden for folketingsgrupperne,69,26679,20692.0,0.7755912890288241,sundhed
-Socialdemokratiet,Venstre,69,108818,92885.0,0.8535812089911595,sundhed
-Socialistisk Folkeparti,Alternativet,69,6096,5199.0,0.8528543307086615,sundhed
-Socialistisk Folkeparti,Danmarksdemokraterne,69,3715,2012.0,0.5415881561238224,sundhed
-Socialistisk Folkeparti,Dansk Folkeparti,69,14309,7502.0,0.5242854147739185,sundhed
-Socialistisk Folkeparti,Det Konservative Folkeparti,69,3340,1700.0,0.5089820359281437,sundhed
-Socialistisk Folkeparti,Enhedslisten,69,8387,6562.0,0.7824013354000239,sundhed
-Socialistisk Folkeparti,Liberal Alliance,69,7160,3710.0,0.5181564245810056,sundhed
-Socialistisk Folkeparti,Moderaterne,69,235,121.0,0.5148936170212766,sundhed
-Socialistisk Folkeparti,Radikale Venstre,69,5311,4077.0,0.7676520429297684,sundhed
-Socialistisk Folkeparti,Socialdemokratiet,69,27557,17731.0,0.6434299814929056,sundhed
+Socialdemokratiet,Socialistisk Folkeparti,69,59665,39130.0,0.6558283750942764,sundhed
+Socialdemokratiet,Tjóðveldi,69,358,30.0,0.08379888268156424,sundhed
+Socialdemokratiet,Uden for folketingsgrupperne,69,38751,29623.0,0.7644447885215866,sundhed
+Socialdemokratiet,Venstre,69,233424,199605.0,0.8551177256837343,sundhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,69,3526,3373.0,0.9566080544526375,sundhed
-Socialistisk Folkeparti,Tjóðveldi,69,36,3.0,0.08333333333333333,sundhed
-Socialistisk Folkeparti,Uden for folketingsgrupperne,69,4203,2253.0,0.53604568165596,sundhed
-Socialistisk Folkeparti,Venstre,69,14415,7545.0,0.5234131113423517,sundhed
-Tjóðveldi,Alternativet,69,28,2.0,0.07142857142857142,sundhed
-Tjóðveldi,Danmarksdemokraterne,69,12,1.0,0.08333333333333333,sundhed
-Tjóðveldi,Dansk Folkeparti,69,102,9.0,0.08823529411764706,sundhed
-Tjóðveldi,Det Konservative Folkeparti,69,23,2.0,0.08695652173913043,sundhed
-Tjóðveldi,Enhedslisten,69,48,0.0,0.0,sundhed
-Tjóðveldi,Liberal Alliance,69,34,3.0,0.08823529411764706,sundhed
-Tjóðveldi,Radikale Venstre,69,24,2.0,0.08333333333333333,sundhed
-Tjóðveldi,Socialdemokratiet,69,132,11.0,0.08333333333333333,sundhed
-Tjóðveldi,Socialistisk Folkeparti,69,12,1.0,0.08333333333333333,sundhed
-Tjóðveldi,Uden for folketingsgrupperne,69,26,2.0,0.07692307692307693,sundhed
-Tjóðveldi,Venstre,69,57,5.0,0.08771929824561403,sundhed
-Uden for folketingsgrupperne,Alternativet,69,4046,2098.0,0.518536826495304,sundhed
-Uden for folketingsgrupperne,Danmarksdemokraterne,69,729,711.0,0.9753086419753086,sundhed
-Uden for folketingsgrupperne,Dansk Folkeparti,69,7123,6736.0,0.9456689597079883,sundhed
-Uden for folketingsgrupperne,Det Konservative Folkeparti,69,1420,1192.0,0.8394366197183099,sundhed
-Uden for folketingsgrupperne,Enhedslisten,69,5541,2167.0,0.3910846417614149,sundhed
-Uden for folketingsgrupperne,Liberal Alliance,69,2553,2203.0,0.8629063846455151,sundhed
-Uden for folketingsgrupperne,Moderaterne,69,4,4.0,1.0,sundhed
-Uden for folketingsgrupperne,Radikale Venstre,69,2543,1598.0,0.6283916633896972,sundhed
-Uden for folketingsgrupperne,Socialdemokratiet,69,12072,8931.0,0.7398111332007953,sundhed
-Uden for folketingsgrupperne,Socialistisk Folkeparti,69,1625,854.0,0.5255384615384615,sundhed
-Uden for folketingsgrupperne,Tjóðveldi,69,10,1.0,0.1,sundhed
+Socialistisk Folkeparti,Tjóðveldi,69,48,4.0,0.08333333333333333,sundhed
+Socialistisk Folkeparti,Uden for folketingsgrupperne,69,5828,3107.0,0.5331159917638985,sundhed
+Socialistisk Folkeparti,Venstre,69,34753,18460.0,0.5311771645613328,sundhed
+Tjóðveldi,Uden for folketingsgrupperne,69,36,3.0,0.08333333333333333,sundhed
+Tjóðveldi,Venstre,69,207,17.0,0.0821256038647343,sundhed
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,69,1445,1311.0,0.9072664359861592,sundhed
-Uden for folketingsgrupperne,Venstre,69,6554,5879.0,0.897009459871834,sundhed
-Venstre,Alternativet,69,26783,13807.0,0.5155135720419669,sundhed
-Venstre,Danmarksdemokraterne,69,19541,16807.0,0.8600890435494601,sundhed
-Venstre,Dansk Folkeparti,69,67609,55988.0,0.828114600127202,sundhed
-Venstre,Det Konservative Folkeparti,69,13587,13347.0,0.9823360565246191,sundhed
-Venstre,Enhedslisten,69,39321,14418.0,0.366674296177615,sundhed
-Venstre,Liberal Alliance,69,31876,30995.0,0.9723616513991717,sundhed
-Venstre,Moderaterne,69,1925,1906.0,0.9901298701298701,sundhed
-Venstre,Radikale Venstre,69,20328,14341.0,0.7054801259346714,sundhed
-Venstre,Socialdemokratiet,69,124606,106720.0,0.8564595605348057,sundhed
-Venstre,Socialistisk Folkeparti,69,20338,10915.0,0.5366801062051333,sundhed
-Venstre,Tjóðveldi,69,150,12.0,0.08,sundhed
-Venstre,Uden for folketingsgrupperne,69,15902,14558.0,0.9154823292667589,sundhed
+Uden for folketingsgrupperne,Venstre,69,22456,20437.0,0.910090844317777,sundhed
 Venstre,Venstre,69,64411,64397.0,0.9997826458213659,sundhed
 Alternativet,Alternativet,70,143,129.0,0.9020979020979021,sundhed
-Alternativet,Danmarksdemokraterne,70,5,5.0,1.0,sundhed
-Alternativet,Dansk Folkeparti,70,5,5.0,1.0,sundhed
-Alternativet,Det Konservative Folkeparti,70,9,9.0,1.0,sundhed
-Alternativet,Enhedslisten,70,352,305.0,0.8664772727272727,sundhed
-Alternativet,Frie Grønne,70,5,5.0,1.0,sundhed
-Alternativet,Liberal Alliance,70,5,3.0,0.6,sundhed
-Alternativet,Radikale Venstre,70,321,259.0,0.8068535825545171,sundhed
-Alternativet,Socialdemokratiet,70,371,254.0,0.6846361185983828,sundhed
-Alternativet,Socialistisk Folkeparti,70,175,138.0,0.7885714285714286,sundhed
-Alternativet,Uden for folketingsgrupperne,70,4,3.0,0.75,sundhed
-Alternativet,Venstre,70,560,332.0,0.5928571428571429,sundhed
-Borgernes Parti,Alternativet,70,318,161.0,0.5062893081761006,sundhed
-Borgernes Parti,Danmarksdemokraterne,70,345,267.0,0.7739130434782608,sundhed
-Borgernes Parti,Dansk Folkeparti,70,474,389.0,0.820675105485232,sundhed
-Borgernes Parti,Det Konservative Folkeparti,70,937,578.0,0.6168623265741728,sundhed
-Borgernes Parti,Enhedslisten,70,855,388.0,0.45380116959064326,sundhed
+Alternativet,Borgernes Parti,70,318,161.0,0.5062893081761006,sundhed
+Alternativet,Danmarksdemokraterne,70,2701,1644.0,0.6086634579785265,sundhed
+Alternativet,Dansk Folkeparti,70,1377,819.0,0.5947712418300654,sundhed
+Alternativet,Det Konservative Folkeparti,70,3180,1751.0,0.5506289308176101,sundhed
+Alternativet,Enhedslisten,70,3514,3112.0,0.8856004553215708,sundhed
+Alternativet,Frie Grønne,70,523,471.0,0.9005736137667304,sundhed
+Alternativet,Liberal Alliance,70,1125,598.0,0.5315555555555556,sundhed
+Alternativet,Moderaterne,70,4,0.0,0.0,sundhed
+Alternativet,Naleraq,70,2,1.0,0.5,sundhed
+Alternativet,Radikale Venstre,70,3889,3054.0,0.7852918488043199,sundhed
+Alternativet,Sambandsflokkurin,70,17,13.0,0.7647058823529411,sundhed
+Alternativet,Socialdemokratiet,70,13803,9099.0,0.6592045207563573,sundhed
+Alternativet,Socialistisk Folkeparti,70,4067,3247.0,0.7983771821981804,sundhed
+Alternativet,Uden for folketingsgrupperne,70,1528,905.0,0.5922774869109948,sundhed
+Alternativet,Venstre,70,10981,6132.0,0.5584190875147983,sundhed
+Borgernes Parti,Danmarksdemokraterne,70,1192,898.0,0.7533557046979866,sundhed
+Borgernes Parti,Dansk Folkeparti,70,597,472.0,0.7906197654941374,sundhed
+Borgernes Parti,Det Konservative Folkeparti,70,1415,885.0,0.6254416961130742,sundhed
+Borgernes Parti,Enhedslisten,70,1563,720.0,0.46065259117082535,sundhed
 Borgernes Parti,Frie Grønne,70,227,106.0,0.4669603524229075,sundhed
-Borgernes Parti,Liberal Alliance,70,263,196.0,0.7452471482889734,sundhed
+Borgernes Parti,Liberal Alliance,70,501,350.0,0.6986027944111777,sundhed
 Borgernes Parti,Moderaterne,70,1,1.0,1.0,sundhed
-Borgernes Parti,Radikale Venstre,70,1051,478.0,0.4548049476688868,sundhed
-Borgernes Parti,Socialdemokratiet,70,2634,1290.0,0.489749430523918,sundhed
-Borgernes Parti,Socialistisk Folkeparti,70,462,197.0,0.4264069264069264,sundhed
-Borgernes Parti,Uden for folketingsgrupperne,70,514,392.0,0.7626459143968871,sundhed
-Borgernes Parti,Venstre,70,2176,1417.0,0.6511948529411765,sundhed
-Danmarksdemokraterne,Alternativet,70,2696,1639.0,0.6079376854599406,sundhed
-Danmarksdemokraterne,Borgernes Parti,70,847,631.0,0.7449822904368358,sundhed
+Borgernes Parti,Naleraq,70,1,1.0,1.0,sundhed
+Borgernes Parti,Radikale Venstre,70,1731,757.0,0.43731946851530906,sundhed
+Borgernes Parti,Sambandsflokkurin,70,5,3.0,0.6,sundhed
+Borgernes Parti,Socialdemokratiet,70,6221,3042.0,0.4889889085356052,sundhed
+Borgernes Parti,Socialistisk Folkeparti,70,1819,773.0,0.42495876855415066,sundhed
+Borgernes Parti,Uden for folketingsgrupperne,70,655,482.0,0.7358778625954199,sundhed
+Borgernes Parti,Venstre,70,4961,3241.0,0.6532957065107842,sundhed
 Danmarksdemokraterne,Danmarksdemokraterne,70,5555,5200.0,0.9360936093609361,sundhed
-Danmarksdemokraterne,Dansk Folkeparti,70,4666,4173.0,0.8943420488641235,sundhed
-Danmarksdemokraterne,Det Konservative Folkeparti,70,10243,7859.0,0.7672556868105047,sundhed
-Danmarksdemokraterne,Enhedslisten,70,11214,6048.0,0.5393258426966292,sundhed
-Danmarksdemokraterne,Frie Grønne,70,2536,1507.0,0.5942429022082019,sundhed
-Danmarksdemokraterne,Liberal Alliance,70,3251,2367.0,0.7280836665641341,sundhed
-Danmarksdemokraterne,Moderaterne,70,19,12.0,0.631578947368421,sundhed
-Danmarksdemokraterne,Radikale Venstre,70,13629,7803.0,0.5725291657495047,sundhed
-Danmarksdemokraterne,Sambandsflokkurin,70,18,14.0,0.7777777777777778,sundhed
-Danmarksdemokraterne,Socialdemokratiet,70,36708,22712.0,0.6187207148305547,sundhed
-Danmarksdemokraterne,Socialistisk Folkeparti,70,9262,5175.0,0.558734614554092,sundhed
-Danmarksdemokraterne,Uden for folketingsgrupperne,70,5788,5000.0,0.8638562543192813,sundhed
-Danmarksdemokraterne,Venstre,70,28758,22966.0,0.7985951735169344,sundhed
-Dansk Folkeparti,Alternativet,70,1372,814.0,0.5932944606413995,sundhed
-Dansk Folkeparti,Borgernes Parti,70,123,83.0,0.6747967479674797,sundhed
-Dansk Folkeparti,Danmarksdemokraterne,70,1681,1580.0,0.9399167162403331,sundhed
+Danmarksdemokraterne,Dansk Folkeparti,70,6347,5753.0,0.9064124783362218,sundhed
+Danmarksdemokraterne,Det Konservative Folkeparti,70,15280,11767.0,0.7700916230366492,sundhed
+Danmarksdemokraterne,Enhedslisten,70,16506,8943.0,0.5418029807342785,sundhed
+Danmarksdemokraterne,Frie Grønne,70,2676,1590.0,0.594170403587444,sundhed
+Danmarksdemokraterne,Liberal Alliance,70,5231,3788.0,0.7241445230357484,sundhed
+Danmarksdemokraterne,Moderaterne,70,28,16.0,0.5714285714285714,sundhed
+Danmarksdemokraterne,Naleraq,70,13,6.0,0.46153846153846156,sundhed
+Danmarksdemokraterne,Radikale Venstre,70,18244,10387.0,0.5693378645033984,sundhed
+Danmarksdemokraterne,Sambandsflokkurin,70,71,54.0,0.7605633802816901,sundhed
+Danmarksdemokraterne,Socialdemokratiet,70,64457,40125.0,0.6225080286082194,sundhed
+Danmarksdemokraterne,Socialistisk Folkeparti,70,19191,10997.0,0.5730290240216769,sundhed
+Danmarksdemokraterne,Uden for folketingsgrupperne,70,7204,6161.0,0.8552193225985564,sundhed
+Danmarksdemokraterne,Venstre,70,50561,40645.0,0.8038804612250549,sundhed
 Dansk Folkeparti,Dansk Folkeparti,70,1260,1099.0,0.8722222222222222,sundhed
-Dansk Folkeparti,Det Konservative Folkeparti,70,3230,2323.0,0.7191950464396285,sundhed
-Dansk Folkeparti,Enhedslisten,70,4798,2550.0,0.531471446436015,sundhed
-Dansk Folkeparti,Frie Grønne,70,1347,805.0,0.5976243504083147,sundhed
-Dansk Folkeparti,Liberal Alliance,70,1381,1001.0,0.724837074583635,sundhed
-Dansk Folkeparti,Moderaterne,70,4,2.0,0.5,sundhed
-Dansk Folkeparti,Radikale Venstre,70,4901,2675.0,0.5458069781677208,sundhed
-Dansk Folkeparti,Sambandsflokkurin,70,2,2.0,1.0,sundhed
-Dansk Folkeparti,Socialdemokratiet,70,12562,7204.0,0.5734755612163668,sundhed
-Dansk Folkeparti,Socialistisk Folkeparti,70,3366,1782.0,0.5294117647058824,sundhed
-Dansk Folkeparti,Uden for folketingsgrupperne,70,1478,1172.0,0.7929634641407307,sundhed
-Dansk Folkeparti,Venstre,70,9879,7433.0,0.7524040894827412,sundhed
-Det Konservative Folkeparti,Alternativet,70,3171,1742.0,0.5493535162409334,sundhed
-Det Konservative Folkeparti,Borgernes Parti,70,478,307.0,0.6422594142259415,sundhed
-Det Konservative Folkeparti,Danmarksdemokraterne,70,5037,3908.0,0.775858646019456,sundhed
-Det Konservative Folkeparti,Dansk Folkeparti,70,4606,3388.0,0.7355623100303952,sundhed
+Dansk Folkeparti,Det Konservative Folkeparti,70,7836,5711.0,0.7288157223072996,sundhed
+Dansk Folkeparti,Enhedslisten,70,8441,4480.0,0.5307428029854283,sundhed
+Dansk Folkeparti,Frie Grønne,70,1349,807.0,0.5982209043736101,sundhed
+Dansk Folkeparti,Liberal Alliance,70,2654,1914.0,0.7211755840241145,sundhed
+Dansk Folkeparti,Moderaterne,70,19,11.0,0.5789473684210527,sundhed
+Dansk Folkeparti,Naleraq,70,5,2.0,0.4,sundhed
+Dansk Folkeparti,Radikale Venstre,70,9475,5141.0,0.5425857519788918,sundhed
+Dansk Folkeparti,Sambandsflokkurin,70,47,36.0,0.7659574468085106,sundhed
+Dansk Folkeparti,Socialdemokratiet,70,32903,19267.0,0.5855697048901316,sundhed
+Dansk Folkeparti,Socialistisk Folkeparti,70,9819,5266.0,0.5363071595885528,sundhed
+Dansk Folkeparti,Uden for folketingsgrupperne,70,3576,2993.0,0.8369686800894854,sundhed
+Dansk Folkeparti,Venstre,70,25914,19492.0,0.7521802886470633,sundhed
 Det Konservative Folkeparti,Det Konservative Folkeparti,70,7997,7970.0,0.9966237339002125,sundhed
-Det Konservative Folkeparti,Enhedslisten,70,12170,6734.0,0.5533278553820871,sundhed
-Det Konservative Folkeparti,Frie Grønne,70,3081,1857.0,0.6027263875365141,sundhed
-Det Konservative Folkeparti,Liberal Alliance,70,3371,2563.0,0.7603085137941263,sundhed
-Det Konservative Folkeparti,Moderaterne,70,10,4.0,0.4,sundhed
-Det Konservative Folkeparti,Radikale Venstre,70,13281,9208.0,0.6933212860477374,sundhed
-Det Konservative Folkeparti,Sambandsflokkurin,70,28,28.0,1.0,sundhed
-Det Konservative Folkeparti,Socialdemokratiet,70,32997,24760.0,0.7503712458708367,sundhed
-Det Konservative Folkeparti,Socialistisk Folkeparti,70,8801,5511.0,0.6261788433132599,sundhed
-Det Konservative Folkeparti,Uden for folketingsgrupperne,70,4792,3758.0,0.7842237061769616,sundhed
-Det Konservative Folkeparti,Venstre,70,26782,24734.0,0.9235307295945038,sundhed
-Enhedslisten,Alternativet,70,3162,2807.0,0.8877292852624921,sundhed
-Enhedslisten,Borgernes Parti,70,708,332.0,0.4689265536723164,sundhed
-Enhedslisten,Danmarksdemokraterne,70,5292,2895.0,0.5470521541950113,sundhed
-Enhedslisten,Dansk Folkeparti,70,3643,1930.0,0.5297831457589899,sundhed
-Enhedslisten,Det Konservative Folkeparti,70,7611,4114.0,0.5405334384443569,sundhed
+Det Konservative Folkeparti,Enhedslisten,70,19781,10848.0,0.5484050351347253,sundhed
+Det Konservative Folkeparti,Frie Grønne,70,3158,1907.0,0.603863204559848,sundhed
+Det Konservative Folkeparti,Liberal Alliance,70,6250,4823.0,0.77168,sundhed
+Det Konservative Folkeparti,Moderaterne,70,35,14.0,0.4,sundhed
+Det Konservative Folkeparti,Naleraq,70,14,7.0,0.5,sundhed
+Det Konservative Folkeparti,Radikale Venstre,70,21998,15175.0,0.6898354395854168,sundhed
+Det Konservative Folkeparti,Sambandsflokkurin,70,84,84.0,1.0,sundhed
+Det Konservative Folkeparti,Socialdemokratiet,70,77132,57869.0,0.7502592957527355,sundhed
+Det Konservative Folkeparti,Socialistisk Folkeparti,70,23000,14412.0,0.6266086956521739,sundhed
+Det Konservative Folkeparti,Uden for folketingsgrupperne,70,8501,6578.0,0.7737913186683919,sundhed
+Det Konservative Folkeparti,Venstre,70,60493,55665.0,0.9201891127899096,sundhed
 Enhedslisten,Enhedslisten,70,9241,9197.0,0.9952386105399849,sundhed
-Enhedslisten,Frie Grønne,70,2532,2144.0,0.8467614533965245,sundhed
-Enhedslisten,Liberal Alliance,70,2575,1265.0,0.4912621359223301,sundhed
-Enhedslisten,Moderaterne,70,15,4.0,0.26666666666666666,sundhed
-Enhedslisten,Radikale Venstre,70,12528,10078.0,0.8044380587484036,sundhed
-Enhedslisten,Sambandsflokkurin,70,6,4.0,0.6666666666666666,sundhed
-Enhedslisten,Socialdemokratiet,70,31433,22019.0,0.7005058378137626,sundhed
-Enhedslisten,Socialistisk Folkeparti,70,8396,6917.0,0.8238446879466412,sundhed
-Enhedslisten,Uden for folketingsgrupperne,70,4505,2355.0,0.5227524972253053,sundhed
-Enhedslisten,Venstre,70,25397,13903.0,0.5474268614403276,sundhed
-Frie Grønne,Alternativet,70,518,466.0,0.8996138996138996,sundhed
-Frie Grønne,Danmarksdemokraterne,70,140,83.0,0.5928571428571429,sundhed
-Frie Grønne,Dansk Folkeparti,70,2,2.0,1.0,sundhed
-Frie Grønne,Det Konservative Folkeparti,70,77,50.0,0.6493506493506493,sundhed
-Frie Grønne,Enhedslisten,70,876,738.0,0.8424657534246576,sundhed
+Enhedslisten,Frie Grønne,70,3408,2882.0,0.8456572769953051,sundhed
+Enhedslisten,Liberal Alliance,70,6754,3405.0,0.5041456914421084,sundhed
+Enhedslisten,Moderaterne,70,36,7.0,0.19444444444444445,sundhed
+Enhedslisten,Naleraq,70,15,15.0,1.0,sundhed
+Enhedslisten,Radikale Venstre,70,23712,19040.0,0.8029689608636977,sundhed
+Enhedslisten,Sambandsflokkurin,70,96,80.0,0.8333333333333334,sundhed
+Enhedslisten,Socialdemokratiet,70,83345,58918.0,0.7069170316155738,sundhed
+Enhedslisten,Socialistisk Folkeparti,70,24817,20587.0,0.8295523230043922,sundhed
+Enhedslisten,Uden for folketingsgrupperne,70,9246,4934.0,0.5336361669911313,sundhed
+Enhedslisten,Venstre,70,65571,35693.0,0.5443412484177457,sundhed
 Frie Grønne,Frie Grønne,70,96,96.0,1.0,sundhed
-Frie Grønne,Radikale Venstre,70,509,389.0,0.7642436149312377,sundhed
-Frie Grønne,Socialdemokratiet,70,1262,824.0,0.652931854199683,sundhed
-Frie Grønne,Socialistisk Folkeparti,70,442,353.0,0.7986425339366516,sundhed
-Frie Grønne,Uden for folketingsgrupperne,70,14,8.0,0.5714285714285714,sundhed
-Frie Grønne,Venstre,70,1220,740.0,0.6065573770491803,sundhed
-Liberal Alliance,Alternativet,70,1120,595.0,0.53125,sundhed
-Liberal Alliance,Borgernes Parti,70,238,154.0,0.6470588235294118,sundhed
-Liberal Alliance,Danmarksdemokraterne,70,1980,1421.0,0.7176767676767677,sundhed
-Liberal Alliance,Dansk Folkeparti,70,1273,913.0,0.7172034564021995,sundhed
-Liberal Alliance,Det Konservative Folkeparti,70,2879,2260.0,0.7849947898575894,sundhed
-Liberal Alliance,Enhedslisten,70,4179,2140.0,0.5120842306771956,sundhed
-Liberal Alliance,Frie Grønne,70,1101,573.0,0.5204359673024523,sundhed
+Frie Grønne,Liberal Alliance,70,1101,573.0,0.5204359673024523,sundhed
+Frie Grønne,Moderaterne,70,9,6.0,0.6666666666666666,sundhed
+Frie Grønne,Naleraq,70,3,1.0,0.3333333333333333,sundhed
+Frie Grønne,Radikale Venstre,70,3788,2914.0,0.7692713833157339,sundhed
+Frie Grønne,Sambandsflokkurin,70,17,15.0,0.8823529411764706,sundhed
+Frie Grønne,Socialdemokratiet,70,13179,8921.0,0.6769102359814857,sundhed
+Frie Grønne,Socialistisk Folkeparti,70,3960,3115.0,0.7866161616161617,sundhed
+Frie Grønne,Uden for folketingsgrupperne,70,1508,904.0,0.5994694960212201,sundhed
+Frie Grønne,Venstre,70,10414,6209.0,0.5962166314576531,sundhed
 Liberal Alliance,Liberal Alliance,70,721,629.0,0.8723994452149791,sundhed
-Liberal Alliance,Moderaterne,70,7,3.0,0.42857142857142855,sundhed
-Liberal Alliance,Radikale Venstre,70,4834,3113.0,0.6439801406702523,sundhed
-Liberal Alliance,Sambandsflokkurin,70,1,1.0,1.0,sundhed
-Liberal Alliance,Socialdemokratiet,70,12673,8981.0,0.7086719797995739,sundhed
-Liberal Alliance,Socialistisk Folkeparti,70,3467,1930.0,0.5566772425728296,sundhed
-Liberal Alliance,Uden for folketingsgrupperne,70,1661,1224.0,0.7369054786273329,sundhed
-Liberal Alliance,Venstre,70,9257,7634.0,0.8246732202657449,sundhed
-Moderaterne,Alternativet,70,4,0.0,0.0,sundhed
-Moderaterne,Danmarksdemokraterne,70,9,4.0,0.4444444444444444,sundhed
-Moderaterne,Dansk Folkeparti,70,15,9.0,0.6,sundhed
-Moderaterne,Det Konservative Folkeparti,70,25,10.0,0.4,sundhed
-Moderaterne,Enhedslisten,70,21,3.0,0.14285714285714285,sundhed
-Moderaterne,Frie Grønne,70,9,6.0,0.6666666666666666,sundhed
-Moderaterne,Liberal Alliance,70,6,3.0,0.5,sundhed
-Moderaterne,Radikale Venstre,70,26,6.0,0.23076923076923078,sundhed
-Moderaterne,Socialdemokratiet,70,51,11.0,0.21568627450980393,sundhed
-Moderaterne,Socialistisk Folkeparti,70,11,2.0,0.18181818181818182,sundhed
-Moderaterne,Uden for folketingsgrupperne,70,10,7.0,0.7,sundhed
-Moderaterne,Venstre,70,47,17.0,0.3617021276595745,sundhed
-Naleraq,Alternativet,70,2,1.0,0.5,sundhed
-Naleraq,Borgernes Parti,70,1,1.0,1.0,sundhed
-Naleraq,Danmarksdemokraterne,70,13,6.0,0.46153846153846156,sundhed
-Naleraq,Dansk Folkeparti,70,5,2.0,0.4,sundhed
-Naleraq,Det Konservative Folkeparti,70,14,7.0,0.5,sundhed
-Naleraq,Enhedslisten,70,15,15.0,1.0,sundhed
-Naleraq,Frie Grønne,70,3,1.0,0.3333333333333333,sundhed
-Naleraq,Liberal Alliance,70,5,3.0,0.6,sundhed
+Liberal Alliance,Moderaterne,70,13,6.0,0.46153846153846156,sundhed
+Liberal Alliance,Naleraq,70,5,3.0,0.6,sundhed
+Liberal Alliance,Radikale Venstre,70,7505,4731.0,0.6303797468354431,sundhed
+Liberal Alliance,Sambandsflokkurin,70,29,29.0,1.0,sundhed
+Liberal Alliance,Socialdemokratiet,70,26636,18326.0,0.6880162186514491,sundhed
+Liberal Alliance,Socialistisk Folkeparti,70,7867,4408.0,0.5603152408796237,sundhed
+Liberal Alliance,Uden for folketingsgrupperne,70,2919,2150.0,0.7365536142514559,sundhed
+Liberal Alliance,Venstre,70,20907,16859.0,0.8063806380638063,sundhed
+Moderaterne,Radikale Venstre,70,41,9.0,0.21951219512195122,sundhed
+Moderaterne,Sambandsflokkurin,70,1,0.0,0.0,sundhed
+Moderaterne,Socialdemokratiet,70,138,27.0,0.1956521739130435,sundhed
+Moderaterne,Socialistisk Folkeparti,70,41,8.0,0.1951219512195122,sundhed
+Moderaterne,Uden for folketingsgrupperne,70,15,9.0,0.6,sundhed
+Moderaterne,Venstre,70,105,41.0,0.3904761904761905,sundhed
 Naleraq,Radikale Venstre,70,17,17.0,1.0,sundhed
 Naleraq,Socialdemokratiet,70,57,57.0,1.0,sundhed
 Naleraq,Socialistisk Folkeparti,70,17,17.0,1.0,sundhed
 Naleraq,Uden for folketingsgrupperne,70,8,3.0,0.375,sundhed
 Naleraq,Venstre,70,47,22.0,0.46808510638297873,sundhed
-Radikale Venstre,Alternativet,70,3568,2795.0,0.7833520179372198,sundhed
-Radikale Venstre,Borgernes Parti,70,680,279.0,0.4102941176470588,sundhed
-Radikale Venstre,Danmarksdemokraterne,70,4615,2584.0,0.5599133261105093,sundhed
-Radikale Venstre,Dansk Folkeparti,70,4574,2466.0,0.5391342369916922,sundhed
-Radikale Venstre,Det Konservative Folkeparti,70,8717,5967.0,0.6845244923712286,sundhed
-Radikale Venstre,Enhedslisten,70,11184,8962.0,0.8013233190271817,sundhed
-Radikale Venstre,Frie Grønne,70,3279,2525.0,0.7700518450747179,sundhed
-Radikale Venstre,Liberal Alliance,70,2671,1618.0,0.605765630849869,sundhed
-Radikale Venstre,Moderaterne,70,15,3.0,0.2,sundhed
 Radikale Venstre,Radikale Venstre,70,11706,11689.0,0.9985477532889117,sundhed
-Radikale Venstre,Sambandsflokkurin,70,22,19.0,0.8636363636363636,sundhed
-Radikale Venstre,Socialdemokratiet,70,31222,26684.0,0.8546537697777208,sundhed
-Radikale Venstre,Socialistisk Folkeparti,70,8004,6791.0,0.8484507746126937,sundhed
-Radikale Venstre,Uden for folketingsgrupperne,70,4782,2736.0,0.5721455457967378,sundhed
-Radikale Venstre,Venstre,70,26450,18436.0,0.6970132325141777,sundhed
-Sambandsflokkurin,Alternativet,70,17,13.0,0.7647058823529411,sundhed
-Sambandsflokkurin,Borgernes Parti,70,5,3.0,0.6,sundhed
-Sambandsflokkurin,Danmarksdemokraterne,70,53,40.0,0.7547169811320755,sundhed
-Sambandsflokkurin,Dansk Folkeparti,70,45,34.0,0.7555555555555555,sundhed
-Sambandsflokkurin,Det Konservative Folkeparti,70,56,56.0,1.0,sundhed
-Sambandsflokkurin,Enhedslisten,70,90,76.0,0.8444444444444444,sundhed
-Sambandsflokkurin,Frie Grønne,70,17,15.0,0.8823529411764706,sundhed
-Sambandsflokkurin,Liberal Alliance,70,28,28.0,1.0,sundhed
-Sambandsflokkurin,Moderaterne,70,1,0.0,0.0,sundhed
-Sambandsflokkurin,Radikale Venstre,70,81,66.0,0.8148148148148148,sundhed
-Sambandsflokkurin,Socialdemokratiet,70,223,188.0,0.8430493273542601,sundhed
-Sambandsflokkurin,Socialistisk Folkeparti,70,63,52.0,0.8253968253968254,sundhed
+Radikale Venstre,Sambandsflokkurin,70,103,85.0,0.8252427184466019,sundhed
+Radikale Venstre,Socialdemokratiet,70,92397,79234.0,0.85753866467526,sundhed
+Radikale Venstre,Socialistisk Folkeparti,70,27560,23363.0,0.8477140783744558,sundhed
+Radikale Venstre,Uden for folketingsgrupperne,70,10229,5987.0,0.5852967054453025,sundhed
+Radikale Venstre,Venstre,70,72781,50836.0,0.6984789986397549,sundhed
+Sambandsflokkurin,Socialdemokratiet,70,330,274.0,0.8303030303030303,sundhed
+Sambandsflokkurin,Socialistisk Folkeparti,70,107,90.0,0.8411214953271028,sundhed
 Sambandsflokkurin,Uden for folketingsgrupperne,70,27,23.0,0.8518518518518519,sundhed
-Sambandsflokkurin,Venstre,70,190,190.0,1.0,sundhed
-Socialdemokratiet,Alternativet,70,13432,8845.0,0.6585020845741513,sundhed
-Socialdemokratiet,Borgernes Parti,70,3587,1752.0,0.48843044326735435,sundhed
-Socialdemokratiet,Danmarksdemokraterne,70,27749,17413.0,0.627518108760676,sundhed
-Socialdemokratiet,Dansk Folkeparti,70,20341,12063.0,0.5930386903298757,sundhed
-Socialdemokratiet,Det Konservative Folkeparti,70,44135,33109.0,0.750175597598278,sundhed
-Socialdemokratiet,Enhedslisten,70,51912,36899.0,0.7107990445369086,sundhed
-Socialdemokratiet,Frie Grønne,70,11917,8097.0,0.6794495258873877,sundhed
-Socialdemokratiet,Liberal Alliance,70,13963,9345.0,0.6692687817804197,sundhed
-Socialdemokratiet,Moderaterne,70,87,16.0,0.1839080459770115,sundhed
-Socialdemokratiet,Radikale Venstre,70,61175,52550.0,0.8590110339190846,sundhed
-Socialdemokratiet,Sambandsflokkurin,70,107,86.0,0.8037383177570093,sundhed
+Sambandsflokkurin,Venstre,70,257,257.0,1.0,sundhed
 Socialdemokratiet,Socialdemokratiet,70,157955,157812.0,0.9990946788642335,sundhed
-Socialdemokratiet,Socialistisk Folkeparti,70,43047,34856.0,0.8097196087996841,sundhed
-Socialdemokratiet,Uden for folketingsgrupperne,70,23729,14838.0,0.6253108011294197,sundhed
-Socialdemokratiet,Venstre,70,130399,99111.0,0.7600595096588164,sundhed
-Socialistisk Folkeparti,Alternativet,70,3892,3109.0,0.7988180883864338,sundhed
-Socialistisk Folkeparti,Borgernes Parti,70,1357,576.0,0.42446573323507736,sundhed
-Socialistisk Folkeparti,Danmarksdemokraterne,70,9929,5822.0,0.5863631785678316,sundhed
-Socialistisk Folkeparti,Dansk Folkeparti,70,6453,3484.0,0.5399039206570587,sundhed
-Socialistisk Folkeparti,Det Konservative Folkeparti,70,14199,8901.0,0.6268751320515529,sundhed
-Socialistisk Folkeparti,Enhedslisten,70,16421,13670.0,0.8324706168930028,sundhed
-Socialistisk Folkeparti,Frie Grønne,70,3518,2762.0,0.7851051733939739,sundhed
-Socialistisk Folkeparti,Liberal Alliance,70,4400,2478.0,0.5631818181818182,sundhed
-Socialistisk Folkeparti,Moderaterne,70,30,6.0,0.2,sundhed
-Socialistisk Folkeparti,Radikale Venstre,70,19556,16572.0,0.8474125588054817,sundhed
-Socialistisk Folkeparti,Sambandsflokkurin,70,44,38.0,0.8636363636363636,sundhed
-Socialistisk Folkeparti,Socialdemokratiet,70,53856,43864.0,0.8144682115270351,sundhed
+Socialdemokratiet,Socialistisk Folkeparti,70,96903,78720.0,0.8123587505030804,sundhed
+Socialdemokratiet,Uden for folketingsgrupperne,70,36091,22520.0,0.6239782771328032,sundhed
+Socialdemokratiet,Venstre,70,257293,195312.0,0.759103434605683,sundhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,70,12743,12692.0,0.9959978027152162,sundhed
-Socialistisk Folkeparti,Uden for folketingsgrupperne,70,8192,4578.0,0.558837890625,sundhed
-Socialistisk Folkeparti,Venstre,70,43537,27904.0,0.6409261088269748,sundhed
-Uden for folketingsgrupperne,Alternativet,70,1524,902.0,0.5918635170603674,sundhed
-Uden for folketingsgrupperne,Borgernes Parti,70,141,90.0,0.6382978723404256,sundhed
-Uden for folketingsgrupperne,Danmarksdemokraterne,70,1416,1161.0,0.8199152542372882,sundhed
-Uden for folketingsgrupperne,Dansk Folkeparti,70,2098,1821.0,0.8679694947569113,sundhed
-Uden for folketingsgrupperne,Det Konservative Folkeparti,70,3709,2820.0,0.7603127527635481,sundhed
-Uden for folketingsgrupperne,Enhedslisten,70,4741,2579.0,0.5439780636996414,sundhed
-Uden for folketingsgrupperne,Frie Grønne,70,1494,896.0,0.5997322623828648,sundhed
-Uden for folketingsgrupperne,Liberal Alliance,70,1258,926.0,0.7360890302066773,sundhed
-Uden for folketingsgrupperne,Moderaterne,70,5,2.0,0.4,sundhed
-Uden for folketingsgrupperne,Radikale Venstre,70,5447,3251.0,0.5968422985129429,sundhed
-Uden for folketingsgrupperne,Socialdemokratiet,70,12362,7682.0,0.6214204821226339,sundhed
-Uden for folketingsgrupperne,Socialistisk Folkeparti,70,2585,1458.0,0.5640232108317215,sundhed
+Socialistisk Folkeparti,Uden for folketingsgrupperne,70,10777,6036.0,0.5600816553771921,sundhed
+Socialistisk Folkeparti,Venstre,70,76232,48696.0,0.6387868611606674,sundhed
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,70,1608,1267.0,0.7879353233830846,sundhed
-Uden for folketingsgrupperne,Venstre,70,9281,7272.0,0.7835362568688718,sundhed
-Venstre,Alternativet,70,10421,5800.0,0.5565684675175128,sundhed
-Venstre,Borgernes Parti,70,2785,1824.0,0.6549371633752245,sundhed
-Venstre,Danmarksdemokraterne,70,21803,17679.0,0.8108517176535339,sundhed
-Venstre,Dansk Folkeparti,70,16035,12059.0,0.7520424072341753,sundhed
-Venstre,Det Konservative Folkeparti,70,33711,30931.0,0.9175343359734212,sundhed
-Venstre,Enhedslisten,70,40174,21790.0,0.5423906008861452,sundhed
-Venstre,Frie Grønne,70,9194,5469.0,0.5948444637807265,sundhed
-Venstre,Liberal Alliance,70,11650,9225.0,0.7918454935622318,sundhed
-Venstre,Moderaterne,70,58,24.0,0.41379310344827586,sundhed
-Venstre,Radikale Venstre,70,46331,32400.0,0.6993157928816559,sundhed
-Venstre,Sambandsflokkurin,70,67,67.0,1.0,sundhed
-Venstre,Socialdemokratiet,70,126894,96201.0,0.7581209513452173,sundhed
-Venstre,Socialistisk Folkeparti,70,32695,20792.0,0.6359382168527298,sundhed
-Venstre,Uden for folketingsgrupperne,70,19049,15309.0,0.8036642343430102,sundhed
+Uden for folketingsgrupperne,Venstre,70,28330,22581.0,0.7970702435580657,sundhed
 Venstre,Venstre,70,97009,96862.0,0.9984846766794834,sundhed
 Alternativet,Alternativet,71,1037,885.0,0.8534233365477338,sundhed
-Alternativet,Borgernes Parti,71,308,163.0,0.5292207792207793,sundhed
-Alternativet,Danmarksdemokraterne,71,4347,2831.0,0.65125373821026,sundhed
-Alternativet,Dansk Folkeparti,71,1774,1158.0,0.6527621195039459,sundhed
-Alternativet,Det Konservative Folkeparti,71,2684,1698.0,0.6326378539493294,sundhed
-Alternativet,Enhedslisten,71,3206,2335.0,0.7283218964441672,sundhed
-Alternativet,Javnaðarflokkurin,71,2,0.0,0.0,sundhed
-Alternativet,Liberal Alliance,71,4329,2966.0,0.6851466851466852,sundhed
-Alternativet,Moderaterne,71,3239,1901.0,0.5869095399814758,sundhed
-Alternativet,Radikale Venstre,71,2381,1623.0,0.6816463670726586,sundhed
-Alternativet,Siumut,71,2,0.0,0.0,sundhed
-Alternativet,Socialdemokratiet,71,14242,8476.0,0.5951411318635024,sundhed
-Alternativet,Socialistisk Folkeparti,71,4162,3106.0,0.7462758289283998,sundhed
-Alternativet,Uden for folketingsgrupperne,71,1268,742.0,0.5851735015772871,sundhed
-Alternativet,Venstre,71,6978,4143.0,0.5937231298366294,sundhed
-Borgernes Parti,Alternativet,71,149,75.0,0.5033557046979866,sundhed
-Borgernes Parti,Danmarksdemokraterne,71,471,326.0,0.692144373673036,sundhed
-Borgernes Parti,Dansk Folkeparti,71,436,311.0,0.713302752293578,sundhed
-Borgernes Parti,Det Konservative Folkeparti,71,525,328.0,0.6247619047619047,sundhed
-Borgernes Parti,Enhedslisten,71,595,302.0,0.507563025210084,sundhed
-Borgernes Parti,Liberal Alliance,71,761,503.0,0.6609724047306176,sundhed
-Borgernes Parti,Moderaterne,71,574,242.0,0.42160278745644597,sundhed
-Borgernes Parti,Radikale Venstre,71,406,192.0,0.4729064039408867,sundhed
+Alternativet,Borgernes Parti,71,457,238.0,0.5207877461706784,sundhed
+Alternativet,Danmarksdemokraterne,71,8370,5596.0,0.6685782556750298,sundhed
+Alternativet,Dansk Folkeparti,71,3301,2181.0,0.6607088760981521,sundhed
+Alternativet,Det Konservative Folkeparti,71,5147,3266.0,0.6345443947930833,sundhed
+Alternativet,Enhedslisten,71,4206,3106.0,0.7384688540180694,sundhed
+Alternativet,Javnaðarflokkurin,71,3,0.0,0.0,sundhed
+Alternativet,Liberal Alliance,71,7849,5378.0,0.6851828258376863,sundhed
+Alternativet,Moderaterne,71,6018,3505.0,0.5824194084413427,sundhed
+Alternativet,Naleraq,71,3,3.0,1.0,sundhed
+Alternativet,Radikale Venstre,71,3117,2133.0,0.6843118383060636,sundhed
+Alternativet,Sambandsflokkurin,71,79,16.0,0.20253164556962025,sundhed
+Alternativet,Siumut,71,3,0.0,0.0,sundhed
+Alternativet,Socialdemokratiet,71,28512,16708.0,0.5859988776655444,sundhed
+Alternativet,Socialistisk Folkeparti,71,7679,5775.0,0.7520510483135825,sundhed
+Alternativet,Uden for folketingsgrupperne,71,2143,1278.0,0.5963602426504899,sundhed
+Alternativet,Venstre,71,13227,7846.0,0.5931806154078778,sundhed
+Borgernes Parti,Danmarksdemokraterne,71,1391,978.0,0.7030913012221424,sundhed
+Borgernes Parti,Dansk Folkeparti,71,535,383.0,0.7158878504672898,sundhed
+Borgernes Parti,Det Konservative Folkeparti,71,852,546.0,0.6408450704225352,sundhed
+Borgernes Parti,Enhedslisten,71,707,358.0,0.5063649222065064,sundhed
+Borgernes Parti,Liberal Alliance,71,1302,863.0,0.662826420890937,sundhed
+Borgernes Parti,Moderaterne,71,978,426.0,0.43558282208588955,sundhed
+Borgernes Parti,Naleraq,71,1,1.0,1.0,sundhed
+Borgernes Parti,Radikale Venstre,71,527,251.0,0.476280834914611,sundhed
+Borgernes Parti,Sambandsflokkurin,71,5,2.0,0.4,sundhed
 Borgernes Parti,Siumut,71,1,0.0,0.0,sundhed
-Borgernes Parti,Socialdemokratiet,71,2312,1036.0,0.44809688581314877,sundhed
-Borgernes Parti,Socialistisk Folkeparti,71,664,320.0,0.4819277108433735,sundhed
-Borgernes Parti,Uden for folketingsgrupperne,71,122,71.0,0.5819672131147541,sundhed
-Borgernes Parti,Venstre,71,1156,508.0,0.43944636678200694,sundhed
-Danmarksdemokraterne,Alternativet,71,4023,2765.0,0.6872980362913249,sundhed
-Danmarksdemokraterne,Borgernes Parti,71,920,652.0,0.7086956521739131,sundhed
+Borgernes Parti,Socialdemokratiet,71,4714,2120.0,0.44972422571064913,sundhed
+Borgernes Parti,Socialistisk Folkeparti,71,1285,621.0,0.4832684824902724,sundhed
+Borgernes Parti,Uden for folketingsgrupperne,71,351,182.0,0.5185185185185185,sundhed
+Borgernes Parti,Venstre,71,2214,995.0,0.44941282746160793,sundhed
 Danmarksdemokraterne,Danmarksdemokraterne,71,11082,10767.0,0.9715755278830536,sundhed
-Danmarksdemokraterne,Dansk Folkeparti,71,6593,5471.0,0.8298195055361748,sundhed
-Danmarksdemokraterne,Det Konservative Folkeparti,71,9012,7076.0,0.7851753217931646,sundhed
-Danmarksdemokraterne,Enhedslisten,71,9906,5524.0,0.5576418332323844,sundhed
-Danmarksdemokraterne,Javnaðarflokkurin,71,9,0.0,0.0,sundhed
-Danmarksdemokraterne,Liberal Alliance,71,13103,10610.0,0.8097382278867435,sundhed
-Danmarksdemokraterne,Moderaterne,71,10685,6818.0,0.6380907814693496,sundhed
-Danmarksdemokraterne,Radikale Venstre,71,7050,4621.0,0.6554609929078015,sundhed
-Danmarksdemokraterne,Siumut,71,8,1.0,0.125,sundhed
-Danmarksdemokraterne,Socialdemokratiet,71,44188,28201.0,0.6382049425183308,sundhed
-Danmarksdemokraterne,Socialistisk Folkeparti,71,12603,7783.0,0.6175513766563516,sundhed
-Danmarksdemokraterne,Uden for folketingsgrupperne,71,3770,2311.0,0.6129973474801061,sundhed
-Danmarksdemokraterne,Venstre,71,21110,13444.0,0.636854571293226,sundhed
-Dansk Folkeparti,Alternativet,71,1527,1023.0,0.6699410609037328,sundhed
-Dansk Folkeparti,Borgernes Parti,71,99,72.0,0.7272727272727273,sundhed
-Dansk Folkeparti,Danmarksdemokraterne,71,3100,2618.0,0.844516129032258,sundhed
+Danmarksdemokraterne,Dansk Folkeparti,71,9693,8089.0,0.8345197565253275,sundhed
+Danmarksdemokraterne,Det Konservative Folkeparti,71,15120,12118.0,0.8014550264550264,sundhed
+Danmarksdemokraterne,Enhedslisten,71,12381,6958.0,0.5619901461917454,sundhed
+Danmarksdemokraterne,Javnaðarflokkurin,71,10,0.0,0.0,sundhed
+Danmarksdemokraterne,Liberal Alliance,71,23093,18603.0,0.8055687870783355,sundhed
+Danmarksdemokraterne,Moderaterne,71,17785,11360.0,0.6387405116671352,sundhed
+Danmarksdemokraterne,Naleraq,71,10,10.0,1.0,sundhed
+Danmarksdemokraterne,Radikale Venstre,71,9159,6056.0,0.6612075554099792,sundhed
+Danmarksdemokraterne,Sambandsflokkurin,71,249,59.0,0.23694779116465864,sundhed
+Danmarksdemokraterne,Siumut,71,10,1.0,0.1,sundhed
+Danmarksdemokraterne,Socialdemokratiet,71,83758,54186.0,0.6469352181284176,sundhed
+Danmarksdemokraterne,Socialistisk Folkeparti,71,22591,14043.0,0.6216192288964631,sundhed
+Danmarksdemokraterne,Uden for folketingsgrupperne,71,6326,4097.0,0.6476446411634524,sundhed
+Danmarksdemokraterne,Venstre,71,38940,25248.0,0.648382126348228,sundhed
 Dansk Folkeparti,Dansk Folkeparti,71,1445,1426.0,0.9868512110726644,sundhed
-Dansk Folkeparti,Det Konservative Folkeparti,71,2360,1747.0,0.7402542372881356,sundhed
-Dansk Folkeparti,Enhedslisten,71,3771,2093.0,0.5550251922566959,sundhed
+Dansk Folkeparti,Det Konservative Folkeparti,71,5972,4467.0,0.7479906229068989,sundhed
+Dansk Folkeparti,Enhedslisten,71,4891,2745.0,0.561234921283991,sundhed
 Dansk Folkeparti,Javnaðarflokkurin,71,4,0.0,0.0,sundhed
-Dansk Folkeparti,Liberal Alliance,71,4594,3639.0,0.7921201567261645,sundhed
-Dansk Folkeparti,Moderaterne,71,3374,1974.0,0.5850622406639004,sundhed
-Dansk Folkeparti,Radikale Venstre,71,2167,1269.0,0.5856022150438394,sundhed
-Dansk Folkeparti,Sambandsflokkurin,71,20,6.0,0.3,sundhed
-Dansk Folkeparti,Socialdemokratiet,71,13500,7869.0,0.5828888888888889,sundhed
-Dansk Folkeparti,Socialistisk Folkeparti,71,3950,2435.0,0.6164556962025316,sundhed
-Dansk Folkeparti,Uden for folketingsgrupperne,71,923,510.0,0.5525460455037919,sundhed
-Dansk Folkeparti,Venstre,71,6533,3778.0,0.5782948109597429,sundhed
-Det Konservative Folkeparti,Alternativet,71,2463,1568.0,0.6366220056841251,sundhed
-Det Konservative Folkeparti,Borgernes Parti,71,327,218.0,0.6666666666666666,sundhed
-Det Konservative Folkeparti,Danmarksdemokraterne,71,6108,5042.0,0.8254747871643746,sundhed
-Det Konservative Folkeparti,Dansk Folkeparti,71,3612,2720.0,0.7530454042081949,sundhed
+Dansk Folkeparti,Liberal Alliance,71,9144,7140.0,0.7808398950131233,sundhed
+Dansk Folkeparti,Moderaterne,71,7058,4039.0,0.5722584301501842,sundhed
+Dansk Folkeparti,Naleraq,71,4,4.0,1.0,sundhed
+Dansk Folkeparti,Radikale Venstre,71,3628,2165.0,0.5967475192943771,sundhed
+Dansk Folkeparti,Sambandsflokkurin,71,98,23.0,0.23469387755102042,sundhed
+Dansk Folkeparti,Siumut,71,4,0.0,0.0,sundhed
+Dansk Folkeparti,Socialdemokratiet,71,33104,19190.0,0.5796882551957467,sundhed
+Dansk Folkeparti,Socialistisk Folkeparti,71,8921,5426.0,0.6082277771550275,sundhed
+Dansk Folkeparti,Uden for folketingsgrupperne,71,2485,1466.0,0.5899396378269618,sundhed
+Dansk Folkeparti,Venstre,71,15375,8956.0,0.5825040650406504,sundhed
 Det Konservative Folkeparti,Det Konservative Folkeparti,71,3892,3882.0,0.9974306269270298,sundhed
-Det Konservative Folkeparti,Enhedslisten,71,5971,3785.0,0.6338971696533244,sundhed
+Det Konservative Folkeparti,Enhedslisten,71,7624,4918.0,0.6450682056663168,sundhed
 Det Konservative Folkeparti,Javnaðarflokkurin,71,6,0.0,0.0,sundhed
-Det Konservative Folkeparti,Liberal Alliance,71,7679,6114.0,0.7961974215392629,sundhed
-Det Konservative Folkeparti,Moderaterne,71,6294,4709.0,0.7481728630441691,sundhed
-Det Konservative Folkeparti,Radikale Venstre,71,4010,3139.0,0.7827930174563591,sundhed
-Det Konservative Folkeparti,Siumut,71,2,0.0,0.0,sundhed
-Det Konservative Folkeparti,Socialdemokratiet,71,24775,18695.0,0.7545913218970737,sundhed
-Det Konservative Folkeparti,Socialistisk Folkeparti,71,6964,5110.0,0.7337736932797243,sundhed
-Det Konservative Folkeparti,Uden for folketingsgrupperne,71,2112,1396.0,0.6609848484848485,sundhed
-Det Konservative Folkeparti,Venstre,71,11756,8819.0,0.7501701258931609,sundhed
-Enhedslisten,Alternativet,71,1000,771.0,0.771,sundhed
-Enhedslisten,Borgernes Parti,71,112,56.0,0.5,sundhed
-Enhedslisten,Danmarksdemokraterne,71,2475,1434.0,0.5793939393939394,sundhed
-Enhedslisten,Dansk Folkeparti,71,1120,652.0,0.5821428571428572,sundhed
-Enhedslisten,Det Konservative Folkeparti,71,1653,1133.0,0.6854204476709014,sundhed
+Det Konservative Folkeparti,Liberal Alliance,71,14228,11202.0,0.7873207759347765,sundhed
+Det Konservative Folkeparti,Moderaterne,71,10953,8218.0,0.750296722359171,sundhed
+Det Konservative Folkeparti,Naleraq,71,6,6.0,1.0,sundhed
+Det Konservative Folkeparti,Radikale Venstre,71,5643,4432.0,0.785397838029417,sundhed
+Det Konservative Folkeparti,Sambandsflokkurin,71,150,108.0,0.72,sundhed
+Det Konservative Folkeparti,Siumut,71,6,0.0,0.0,sundhed
+Det Konservative Folkeparti,Socialdemokratiet,71,51599,38838.0,0.7526890056008837,sundhed
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,13915,10191.0,0.7323751347466763,sundhed
+Det Konservative Folkeparti,Uden for folketingsgrupperne,71,3888,2777.0,0.7142489711934157,sundhed
+Det Konservative Folkeparti,Venstre,71,23970,18024.0,0.7519399249061327,sundhed
 Enhedslisten,Enhedslisten,71,2522,2496.0,0.9896907216494846,sundhed
-Enhedslisten,Javnaðarflokkurin,71,3,0.0,0.0,sundhed
-Enhedslisten,Liberal Alliance,71,2940,1843.0,0.6268707482993198,sundhed
-Enhedslisten,Moderaterne,71,1978,1096.0,0.5540950455005056,sundhed
-Enhedslisten,Radikale Venstre,71,2132,1531.0,0.7181050656660413,sundhed
-Enhedslisten,Siumut,71,1,0.0,0.0,sundhed
-Enhedslisten,Socialdemokratiet,71,9948,5390.0,0.5418174507438681,sundhed
-Enhedslisten,Socialistisk Folkeparti,71,3152,2609.0,0.8277284263959391,sundhed
-Enhedslisten,Uden for folketingsgrupperne,71,779,410.0,0.5263157894736842,sundhed
-Enhedslisten,Venstre,71,4717,2565.0,0.5437778248887004,sundhed
-Javnaðarflokkurin,Alternativet,71,1,0.0,0.0,sundhed
-Javnaðarflokkurin,Danmarksdemokraterne,71,1,0.0,0.0,sundhed
-Javnaðarflokkurin,Enhedslisten,71,2,0.0,0.0,sundhed
-Javnaðarflokkurin,Liberal Alliance,71,2,0.0,0.0,sundhed
-Javnaðarflokkurin,Radikale Venstre,71,1,0.0,0.0,sundhed
-Javnaðarflokkurin,Socialdemokratiet,71,6,6.0,1.0,sundhed
-Javnaðarflokkurin,Socialistisk Folkeparti,71,2,0.0,0.0,sundhed
-Javnaðarflokkurin,Venstre,71,3,3.0,1.0,sundhed
-Liberal Alliance,Alternativet,71,3520,2412.0,0.6852272727272727,sundhed
-Liberal Alliance,Borgernes Parti,71,541,360.0,0.6654343807763401,sundhed
-Liberal Alliance,Danmarksdemokraterne,71,9990,7993.0,0.8001001001001001,sundhed
-Liberal Alliance,Dansk Folkeparti,71,4550,3501.0,0.7694505494505495,sundhed
-Liberal Alliance,Det Konservative Folkeparti,71,6549,5088.0,0.7769125057260651,sundhed
-Liberal Alliance,Enhedslisten,71,8709,5177.0,0.5944425307153519,sundhed
-Liberal Alliance,Javnaðarflokkurin,71,7,0.0,0.0,sundhed
+Enhedslisten,Javnaðarflokkurin,71,5,0.0,0.0,sundhed
+Enhedslisten,Liberal Alliance,71,11649,7020.0,0.6026268349214525,sundhed
+Enhedslisten,Moderaterne,71,8942,4810.0,0.5379109818832476,sundhed
+Enhedslisten,Naleraq,71,5,5.0,1.0,sundhed
+Enhedslisten,Radikale Venstre,71,4618,3297.0,0.7139454309224773,sundhed
+Enhedslisten,Sambandsflokkurin,71,126,90.0,0.7142857142857143,sundhed
+Enhedslisten,Siumut,71,6,0.0,0.0,sundhed
+Enhedslisten,Socialdemokratiet,71,42265,22313.0,0.5279309121022122,sundhed
+Enhedslisten,Socialistisk Folkeparti,71,11383,9189.0,0.8072564350347009,sundhed
+Enhedslisten,Uden for folketingsgrupperne,71,3210,1715.0,0.5342679127725857,sundhed
+Enhedslisten,Venstre,71,19626,10418.0,0.5308264547029451,sundhed
+Javnaðarflokkurin,Liberal Alliance,71,9,0.0,0.0,sundhed
+Javnaðarflokkurin,Moderaterne,71,7,7.0,1.0,sundhed
+Javnaðarflokkurin,Radikale Venstre,71,4,0.0,0.0,sundhed
+Javnaðarflokkurin,Socialdemokratiet,71,34,34.0,1.0,sundhed
+Javnaðarflokkurin,Socialistisk Folkeparti,71,9,0.0,0.0,sundhed
+Javnaðarflokkurin,Uden for folketingsgrupperne,71,3,2.0,0.6666666666666666,sundhed
+Javnaðarflokkurin,Venstre,71,15,15.0,1.0,sundhed
 Liberal Alliance,Liberal Alliance,71,9736,9630.0,0.9891125718981101,sundhed
-Liberal Alliance,Moderaterne,71,8167,5082.0,0.6222603159054733,sundhed
-Liberal Alliance,Radikale Venstre,71,5892,3965.0,0.6729463679565513,sundhed
-Liberal Alliance,Sambandsflokkurin,71,24,5.0,0.20833333333333334,sundhed
-Liberal Alliance,Siumut,71,6,0.0,0.0,sundhed
-Liberal Alliance,Socialdemokratiet,71,35843,22387.0,0.6245849956755852,sundhed
-Liberal Alliance,Socialistisk Folkeparti,71,10363,6760.0,0.6523207565376822,sundhed
-Liberal Alliance,Uden for folketingsgrupperne,71,3042,1848.0,0.6074950690335306,sundhed
-Liberal Alliance,Venstre,71,17041,10739.0,0.6301860219470689,sundhed
-Moderaterne,Alternativet,71,2779,1604.0,0.577186038143217,sundhed
-Moderaterne,Borgernes Parti,71,404,184.0,0.45544554455445546,sundhed
-Moderaterne,Danmarksdemokraterne,71,7100,4542.0,0.6397183098591549,sundhed
-Moderaterne,Dansk Folkeparti,71,3684,2065.0,0.5605320304017373,sundhed
-Moderaterne,Det Konservative Folkeparti,71,4659,3509.0,0.7531659154324962,sundhed
-Moderaterne,Enhedslisten,71,6964,3714.0,0.5333141872487076,sundhed
-Moderaterne,Javnaðarflokkurin,71,7,7.0,1.0,sundhed
-Moderaterne,Liberal Alliance,71,8605,5420.0,0.6298663567693201,sundhed
+Liberal Alliance,Moderaterne,71,16772,10502.0,0.6261626520391128,sundhed
+Liberal Alliance,Naleraq,71,9,9.0,1.0,sundhed
+Liberal Alliance,Radikale Venstre,71,8619,5856.0,0.679429168116951,sundhed
+Liberal Alliance,Sambandsflokkurin,71,226,43.0,0.1902654867256637,sundhed
+Liberal Alliance,Siumut,71,10,0.0,0.0,sundhed
+Liberal Alliance,Socialdemokratiet,71,78878,49604.0,0.6288699003524431,sundhed
+Liberal Alliance,Socialistisk Folkeparti,71,21252,13905.0,0.6542913608130999,sundhed
+Liberal Alliance,Uden for folketingsgrupperne,71,5927,3816.0,0.6438333052134301,sundhed
+Liberal Alliance,Venstre,71,36638,23187.0,0.6328675146023255,sundhed
 Moderaterne,Moderaterne,71,5654,5646.0,0.9985850725150336,sundhed
-Moderaterne,Radikale Venstre,71,4638,3755.0,0.8096162138852954,sundhed
-Moderaterne,Sambandsflokkurin,71,1,1.0,1.0,sundhed
-Moderaterne,Siumut,71,3,3.0,1.0,sundhed
-Moderaterne,Socialdemokratiet,71,26581,26567.0,0.9994733080019563,sundhed
-Moderaterne,Socialistisk Folkeparti,71,7843,5506.0,0.7020272854774958,sundhed
-Moderaterne,Uden for folketingsgrupperne,71,2273,1560.0,0.6863176418829741,sundhed
-Moderaterne,Venstre,71,12835,12802.0,0.9974289053369693,sundhed
-Naleraq,Alternativet,71,3,3.0,1.0,sundhed
-Naleraq,Borgernes Parti,71,1,1.0,1.0,sundhed
-Naleraq,Danmarksdemokraterne,71,10,10.0,1.0,sundhed
-Naleraq,Dansk Folkeparti,71,4,4.0,1.0,sundhed
-Naleraq,Det Konservative Folkeparti,71,6,6.0,1.0,sundhed
-Naleraq,Enhedslisten,71,5,5.0,1.0,sundhed
-Naleraq,Liberal Alliance,71,9,9.0,1.0,sundhed
-Naleraq,Moderaterne,71,7,7.0,1.0,sundhed
+Moderaterne,Naleraq,71,7,7.0,1.0,sundhed
+Moderaterne,Radikale Venstre,71,6648,5359.0,0.806107099879663,sundhed
+Moderaterne,Sambandsflokkurin,71,190,190.0,1.0,sundhed
+Moderaterne,Siumut,71,7,7.0,1.0,sundhed
+Moderaterne,Socialdemokratiet,71,60582,60518.0,0.9989435806014988,sundhed
+Moderaterne,Socialistisk Folkeparti,71,16351,11578.0,0.7080912482416978,sundhed
+Moderaterne,Uden for folketingsgrupperne,71,4483,3566.0,0.7954494757974571,sundhed
+Moderaterne,Venstre,71,28089,27916.0,0.9938410053757699,sundhed
 Naleraq,Radikale Venstre,71,4,4.0,1.0,sundhed
 Naleraq,Socialdemokratiet,71,31,31.0,1.0,sundhed
 Naleraq,Socialistisk Folkeparti,71,9,9.0,1.0,sundhed
 Naleraq,Uden for folketingsgrupperne,71,3,3.0,1.0,sundhed
 Naleraq,Venstre,71,15,15.0,1.0,sundhed
-Radikale Venstre,Alternativet,71,736,510.0,0.6929347826086957,sundhed
-Radikale Venstre,Borgernes Parti,71,121,59.0,0.48760330578512395,sundhed
-Radikale Venstre,Danmarksdemokraterne,71,2109,1435.0,0.6804172593646278,sundhed
-Radikale Venstre,Dansk Folkeparti,71,1461,896.0,0.6132785763175906,sundhed
-Radikale Venstre,Det Konservative Folkeparti,71,1633,1293.0,0.7917942437232088,sundhed
-Radikale Venstre,Enhedslisten,71,2486,1766.0,0.7103781174577635,sundhed
-Radikale Venstre,Javnaðarflokkurin,71,3,0.0,0.0,sundhed
-Radikale Venstre,Liberal Alliance,71,2727,1891.0,0.6934360102676934,sundhed
-Radikale Venstre,Moderaterne,71,2010,1604.0,0.7980099502487562,sundhed
 Radikale Venstre,Radikale Venstre,71,1279,1273.0,0.9953088350273651,sundhed
-Radikale Venstre,Siumut,71,2,0.0,0.0,sundhed
-Radikale Venstre,Socialdemokratiet,71,8521,6775.0,0.7950944724797558,sundhed
-Radikale Venstre,Socialistisk Folkeparti,71,2675,2223.0,0.8310280373831775,sundhed
-Radikale Venstre,Uden for folketingsgrupperne,71,588,326.0,0.5544217687074829,sundhed
-Radikale Venstre,Venstre,71,4080,3267.0,0.8007352941176471,sundhed
-Sambandsflokkurin,Alternativet,71,79,16.0,0.20253164556962025,sundhed
-Sambandsflokkurin,Borgernes Parti,71,5,2.0,0.4,sundhed
-Sambandsflokkurin,Danmarksdemokraterne,71,249,59.0,0.23694779116465864,sundhed
-Sambandsflokkurin,Dansk Folkeparti,71,78,17.0,0.21794871794871795,sundhed
-Sambandsflokkurin,Det Konservative Folkeparti,71,150,108.0,0.72,sundhed
-Sambandsflokkurin,Enhedslisten,71,126,90.0,0.7142857142857143,sundhed
-Sambandsflokkurin,Liberal Alliance,71,202,38.0,0.18811881188118812,sundhed
-Sambandsflokkurin,Moderaterne,71,189,189.0,1.0,sundhed
-Sambandsflokkurin,Radikale Venstre,71,97,75.0,0.7731958762886598,sundhed
+Radikale Venstre,Sambandsflokkurin,71,97,75.0,0.7731958762886598,sundhed
+Radikale Venstre,Siumut,71,4,0.0,0.0,sundhed
+Radikale Venstre,Socialdemokratiet,71,31282,25104.0,0.8025062336167764,sundhed
+Radikale Venstre,Socialistisk Folkeparti,71,8438,7003.0,0.8299360037923679,sundhed
+Radikale Venstre,Uden for folketingsgrupperne,71,2363,1672.0,0.7075751163774863,sundhed
+Radikale Venstre,Venstre,71,14494,11659.0,0.8044018214433559,sundhed
 Sambandsflokkurin,Siumut,71,1,1.0,1.0,sundhed
-Sambandsflokkurin,Socialdemokratiet,71,785,785.0,1.0,sundhed
+Sambandsflokkurin,Socialdemokratiet,71,830,830.0,1.0,sundhed
 Sambandsflokkurin,Socialistisk Folkeparti,71,222,169.0,0.7612612612612613,sundhed
 Sambandsflokkurin,Uden for folketingsgrupperne,71,68,47.0,0.6911764705882353,sundhed
 Sambandsflokkurin,Venstre,71,348,347.0,0.9971264367816092,sundhed
-Siumut,Alternativet,71,1,0.0,0.0,sundhed
-Siumut,Danmarksdemokraterne,71,2,0.0,0.0,sundhed
-Siumut,Dansk Folkeparti,71,4,0.0,0.0,sundhed
-Siumut,Det Konservative Folkeparti,71,4,0.0,0.0,sundhed
-Siumut,Enhedslisten,71,5,0.0,0.0,sundhed
-Siumut,Liberal Alliance,71,4,0.0,0.0,sundhed
-Siumut,Moderaterne,71,4,4.0,1.0,sundhed
-Siumut,Radikale Venstre,71,2,0.0,0.0,sundhed
-Siumut,Socialdemokratiet,71,13,13.0,1.0,sundhed
-Siumut,Socialistisk Folkeparti,71,5,0.0,0.0,sundhed
-Siumut,Uden for folketingsgrupperne,71,1,1.0,1.0,sundhed
-Siumut,Venstre,71,5,5.0,1.0,sundhed
-Socialdemokratiet,Alternativet,71,14270,8232.0,0.5768745620182201,sundhed
-Socialdemokratiet,Borgernes Parti,71,2402,1084.0,0.45129059117402165,sundhed
-Socialdemokratiet,Danmarksdemokraterne,71,39570,25985.0,0.6566843568359868,sundhed
-Socialdemokratiet,Dansk Folkeparti,71,19604,11321.0,0.5774841869006325,sundhed
-Socialdemokratiet,Det Konservative Folkeparti,71,26824,20143.0,0.7509320011929616,sundhed
-Socialdemokratiet,Enhedslisten,71,32317,16923.0,0.523656279976483,sundhed
-Socialdemokratiet,Javnaðarflokkurin,71,28,28.0,1.0,sundhed
-Socialdemokratiet,Liberal Alliance,71,43035,27217.0,0.632438712675729,sundhed
-Socialdemokratiet,Moderaterne,71,34001,33951.0,0.998529455016029,sundhed
-Socialdemokratiet,Radikale Venstre,71,22761,18329.0,0.8052809630508325,sundhed
-Socialdemokratiet,Sambandsflokkurin,71,45,45.0,1.0,sundhed
-Socialdemokratiet,Siumut,71,19,19.0,1.0,sundhed
+Siumut,Socialdemokratiet,71,32,32.0,1.0,sundhed
+Siumut,Socialistisk Folkeparti,71,9,0.0,0.0,sundhed
+Siumut,Uden for folketingsgrupperne,71,3,3.0,1.0,sundhed
+Siumut,Venstre,71,13,13.0,1.0,sundhed
 Socialdemokratiet,Socialdemokratiet,71,139022,139022.0,1.0,sundhed
-Socialdemokratiet,Socialistisk Folkeparti,71,40709,28400.0,0.6976344297329828,sundhed
-Socialdemokratiet,Uden for folketingsgrupperne,71,11910,8548.0,0.7177162048698572,sundhed
-Socialdemokratiet,Venstre,71,68761,68605.0,0.9977312720873751,sundhed
-Socialistisk Folkeparti,Alternativet,71,3517,2669.0,0.7588854137048621,sundhed
-Socialistisk Folkeparti,Borgernes Parti,71,621,301.0,0.48470209339774556,sundhed
-Socialistisk Folkeparti,Danmarksdemokraterne,71,9988,6260.0,0.6267521025230276,sundhed
-Socialistisk Folkeparti,Dansk Folkeparti,71,4971,2991.0,0.6016898008449004,sundhed
-Socialistisk Folkeparti,Det Konservative Folkeparti,71,6951,5081.0,0.7309739605812113,sundhed
-Socialistisk Folkeparti,Enhedslisten,71,8231,6580.0,0.7994168387802211,sundhed
-Socialistisk Folkeparti,Javnaðarflokkurin,71,7,0.0,0.0,sundhed
-Socialistisk Folkeparti,Liberal Alliance,71,10889,7145.0,0.6561667738084306,sundhed
-Socialistisk Folkeparti,Moderaterne,71,8508,6072.0,0.7136812411847673,sundhed
-Socialistisk Folkeparti,Radikale Venstre,71,5763,4780.0,0.8294291167794552,sundhed
-Socialistisk Folkeparti,Siumut,71,4,0.0,0.0,sundhed
-Socialistisk Folkeparti,Socialdemokratiet,71,36437,26022.0,0.7141641737794001,sundhed
+Socialdemokratiet,Socialistisk Folkeparti,71,77146,54422.0,0.7054416301558085,sundhed
+Socialdemokratiet,Uden for folketingsgrupperne,71,21646,17255.0,0.7971449690473991,sundhed
+Socialdemokratiet,Venstre,71,132950,132247.0,0.994712297856337,sundhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,71,9272,9237.0,0.9962251941328731,sundhed
-Socialistisk Folkeparti,Uden for folketingsgrupperne,71,2968,1835.0,0.6182614555256065,sundhed
-Socialistisk Folkeparti,Venstre,71,18035,12948.0,0.7179373440532298,sundhed
-Uden for folketingsgrupperne,Alternativet,71,875,536.0,0.6125714285714285,sundhed
-Uden for folketingsgrupperne,Borgernes Parti,71,229,111.0,0.4847161572052402,sundhed
-Uden for folketingsgrupperne,Danmarksdemokraterne,71,2556,1786.0,0.6987480438184663,sundhed
-Uden for folketingsgrupperne,Dansk Folkeparti,71,1562,956.0,0.6120358514724712,sundhed
-Uden for folketingsgrupperne,Det Konservative Folkeparti,71,1776,1381.0,0.7775900900900901,sundhed
-Uden for folketingsgrupperne,Enhedslisten,71,2431,1305.0,0.5368161250514192,sundhed
-Uden for folketingsgrupperne,Javnaðarflokkurin,71,3,2.0,0.6666666666666666,sundhed
-Uden for folketingsgrupperne,Liberal Alliance,71,2885,1968.0,0.6821490467937609,sundhed
-Uden for folketingsgrupperne,Moderaterne,71,2210,2006.0,0.9076923076923077,sundhed
-Uden for folketingsgrupperne,Radikale Venstre,71,1775,1346.0,0.7583098591549295,sundhed
-Uden for folketingsgrupperne,Siumut,71,2,2.0,1.0,sundhed
-Uden for folketingsgrupperne,Socialdemokratiet,71,9736,8707.0,0.8943097781429745,sundhed
-Uden for folketingsgrupperne,Socialistisk Folkeparti,71,2857,2004.0,0.7014350717535877,sundhed
+Socialistisk Folkeparti,Uden for folketingsgrupperne,71,5825,3839.0,0.6590557939914163,sundhed
+Socialistisk Folkeparti,Venstre,71,35823,25281.0,0.7057197889623985,sundhed
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,71,583,362.0,0.6209262435677531,sundhed
-Uden for folketingsgrupperne,Venstre,71,4291,3862.0,0.9000233045910044,sundhed
-Venstre,Alternativet,71,6249,3703.0,0.5925748119699152,sundhed
-Venstre,Borgernes Parti,71,1058,487.0,0.4603024574669187,sundhed
-Venstre,Danmarksdemokraterne,71,17830,11804.0,0.6620302860347729,sundhed
-Venstre,Dansk Folkeparti,71,8842,5178.0,0.5856141144537435,sundhed
-Venstre,Det Konservative Folkeparti,71,12214,9205.0,0.7536433600785983,sundhed
-Venstre,Enhedslisten,71,14909,7853.0,0.5267288215172043,sundhed
-Venstre,Javnaðarflokkurin,71,12,12.0,1.0,sundhed
-Venstre,Liberal Alliance,71,19597,12448.0,0.6351992651936521,sundhed
-Venstre,Moderaterne,71,15254,15114.0,0.9908220794545692,sundhed
-Venstre,Radikale Venstre,71,10414,8392.0,0.8058382946034185,sundhed
-Venstre,Siumut,71,8,8.0,1.0,sundhed
-Venstre,Socialdemokratiet,71,64189,63642.0,0.9914782906728568,sundhed
-Venstre,Socialistisk Folkeparti,71,17788,12333.0,0.6933325837643355,sundhed
-Venstre,Uden for folketingsgrupperne,71,5764,4119.0,0.7146079111727967,sundhed
+Uden for folketingsgrupperne,Venstre,71,10055,7981.0,0.7937344604674291,sundhed
 Venstre,Venstre,71,29076,28748.0,0.9887192185995323,sundhed

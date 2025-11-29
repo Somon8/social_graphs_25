@@ -1,281 +1,185 @@
-source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
+party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,8,5.0,0.625,immigration
-Danmarksdemokraterne,Dansk Folkeparti,65,91,73.0,0.8021978021978022,immigration
-Danmarksdemokraterne,Det Konservative Folkeparti,65,41,24.0,0.5853658536585366,immigration
-Danmarksdemokraterne,Enhedslisten,65,6,5.0,0.8333333333333334,immigration
-Danmarksdemokraterne,Kristeligt Folkeparti,65,10,7.0,0.7,immigration
-Danmarksdemokraterne,Kristendemokraterne,65,6,4.0,0.6666666666666666,immigration
-Danmarksdemokraterne,Liberal Alliance,65,8,6.0,0.75,immigration
-Danmarksdemokraterne,Moderaterne,65,2,2.0,1.0,immigration
-Danmarksdemokraterne,Not able to assign,65,18,12.0,0.6666666666666666,immigration
-Danmarksdemokraterne,Ny Alliance,65,4,2.0,0.5,immigration
-Danmarksdemokraterne,Radikale Venstre,65,22,16.0,0.7272727272727273,immigration
-Danmarksdemokraterne,Socialdemokratiet,65,219,152.0,0.6940639269406392,immigration
-Danmarksdemokraterne,Socialistisk Folkeparti,65,36,27.0,0.75,immigration
-Danmarksdemokraterne,Uden for folketingsgrupperne,65,18,14.0,0.7777777777777778,immigration
-Danmarksdemokraterne,Venstre,65,225,150.0,0.6666666666666666,immigration
-Dansk Folkeparti,Danmarksdemokraterne,65,31,24.0,0.7741935483870968,immigration
+Danmarksdemokraterne,Dansk Folkeparti,65,122,97.0,0.7950819672131147,immigration
+Danmarksdemokraterne,Det Konservative Folkeparti,65,83,57.0,0.6867469879518072,immigration
+Danmarksdemokraterne,Enhedslisten,65,8,6.0,0.75,immigration
+Danmarksdemokraterne,Kristeligt Folkeparti,65,12,9.0,0.75,immigration
+Danmarksdemokraterne,Kristendemokraterne,65,8,5.0,0.625,immigration
+Danmarksdemokraterne,Liberal Alliance,65,10,7.0,0.7,immigration
+Danmarksdemokraterne,Moderaterne,65,3,3.0,1.0,immigration
+Danmarksdemokraterne,Not able to assign,65,39,28.0,0.717948717948718,immigration
+Danmarksdemokraterne,Ny Alliance,65,10,7.0,0.7,immigration
+Danmarksdemokraterne,Radikale Venstre,65,37,28.0,0.7567567567567568,immigration
+Danmarksdemokraterne,Socialdemokratiet,65,317,216.0,0.6813880126182965,immigration
+Danmarksdemokraterne,Socialistisk Folkeparti,65,50,37.0,0.74,immigration
+Danmarksdemokraterne,Uden for folketingsgrupperne,65,21,16.0,0.7619047619047619,immigration
+Danmarksdemokraterne,Venstre,65,324,228.0,0.7037037037037037,immigration
 Dansk Folkeparti,Dansk Folkeparti,65,276,276.0,1.0,immigration
-Dansk Folkeparti,Det Konservative Folkeparti,65,101,36.0,0.3564356435643564,immigration
-Dansk Folkeparti,Enhedslisten,65,17,12.0,0.7058823529411765,immigration
-Dansk Folkeparti,Kristeligt Folkeparti,65,29,15.0,0.5172413793103449,immigration
-Dansk Folkeparti,Kristendemokraterne,65,22,6.0,0.2727272727272727,immigration
-Dansk Folkeparti,Liberal Alliance,65,26,12.0,0.46153846153846156,immigration
-Dansk Folkeparti,Moderaterne,65,5,5.0,1.0,immigration
-Dansk Folkeparti,Not able to assign,65,56,24.0,0.42857142857142855,immigration
-Dansk Folkeparti,Ny Alliance,65,12,5.0,0.4166666666666667,immigration
-Dansk Folkeparti,Radikale Venstre,65,68,36.0,0.5294117647058824,immigration
-Dansk Folkeparti,Socialdemokratiet,65,703,304.0,0.43243243243243246,immigration
-Dansk Folkeparti,Socialistisk Folkeparti,65,146,74.0,0.5068493150684932,immigration
-Dansk Folkeparti,Uden for folketingsgrupperne,65,56,44.0,0.7857142857142857,immigration
-Dansk Folkeparti,Venstre,65,728,336.0,0.46153846153846156,immigration
-Det Konservative Folkeparti,Danmarksdemokraterne,65,42,33.0,0.7857142857142857,immigration
-Det Konservative Folkeparti,Dansk Folkeparti,65,303,156.0,0.5148514851485149,immigration
+Dansk Folkeparti,Det Konservative Folkeparti,65,404,192.0,0.4752475247524752,immigration
+Dansk Folkeparti,Enhedslisten,65,36,24.0,0.6666666666666666,immigration
+Dansk Folkeparti,Kristeligt Folkeparti,65,61,36.0,0.5901639344262295,immigration
+Dansk Folkeparti,Kristendemokraterne,65,37,12.0,0.32432432432432434,immigration
+Dansk Folkeparti,Liberal Alliance,65,49,24.0,0.4897959183673469,immigration
+Dansk Folkeparti,Moderaterne,65,12,12.0,1.0,immigration
+Dansk Folkeparti,Not able to assign,65,197,96.0,0.4873096446700508,immigration
+Dansk Folkeparti,Ny Alliance,65,49,24.0,0.4897959183673469,immigration
+Dansk Folkeparti,Radikale Venstre,65,183,108.0,0.5901639344262295,immigration
+Dansk Folkeparti,Socialdemokratiet,65,1557,720.0,0.4624277456647399,immigration
+Dansk Folkeparti,Socialistisk Folkeparti,65,245,132.0,0.5387755102040817,immigration
+Dansk Folkeparti,Uden for folketingsgrupperne,65,110,85.0,0.7727272727272727,immigration
+Dansk Folkeparti,Venstre,65,1594,780.0,0.4893350062735257,immigration
 Det Konservative Folkeparti,Det Konservative Folkeparti,65,120,120.0,1.0,immigration
-Det Konservative Folkeparti,Enhedslisten,65,23,23.0,1.0,immigration
-Det Konservative Folkeparti,Kristeligt Folkeparti,65,24,24.0,1.0,immigration
+Det Konservative Folkeparti,Enhedslisten,65,25,25.0,1.0,immigration
+Det Konservative Folkeparti,Kristeligt Folkeparti,65,41,41.0,1.0,immigration
 Det Konservative Folkeparti,Kristendemokraterne,65,25,25.0,1.0,immigration
-Det Konservative Folkeparti,Liberal Alliance,65,30,30.0,1.0,immigration
+Det Konservative Folkeparti,Liberal Alliance,65,33,33.0,1.0,immigration
 Det Konservative Folkeparti,Moderaterne,65,8,8.0,1.0,immigration
-Det Konservative Folkeparti,Not able to assign,65,56,56.0,1.0,immigration
-Det Konservative Folkeparti,Ny Alliance,65,24,24.0,1.0,immigration
-Det Konservative Folkeparti,Radikale Venstre,65,99,99.0,1.0,immigration
-Det Konservative Folkeparti,Socialdemokratiet,65,822,822.0,1.0,immigration
-Det Konservative Folkeparti,Socialistisk Folkeparti,65,127,127.0,1.0,immigration
-Det Konservative Folkeparti,Uden for folketingsgrupperne,65,68,51.0,0.75,immigration
-Det Konservative Folkeparti,Venstre,65,796,796.0,1.0,immigration
-Enhedslisten,Danmarksdemokraterne,65,2,1.0,0.5,immigration
-Enhedslisten,Dansk Folkeparti,65,19,12.0,0.631578947368421,immigration
-Enhedslisten,Det Konservative Folkeparti,65,2,2.0,1.0,immigration
-Enhedslisten,Kristeligt Folkeparti,65,2,2.0,1.0,immigration
+Det Konservative Folkeparti,Not able to assign,65,131,131.0,1.0,immigration
+Det Konservative Folkeparti,Ny Alliance,65,33,33.0,1.0,immigration
+Det Konservative Folkeparti,Radikale Venstre,65,123,123.0,1.0,immigration
+Det Konservative Folkeparti,Socialdemokratiet,65,1050,1050.0,1.0,immigration
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,164,164.0,1.0,immigration
+Det Konservative Folkeparti,Uden for folketingsgrupperne,65,74,57.0,0.7702702702702703,immigration
+Det Konservative Folkeparti,Venstre,65,1071,1071.0,1.0,immigration
+Enhedslisten,Kristeligt Folkeparti,65,4,4.0,1.0,immigration
 Enhedslisten,Kristendemokraterne,65,2,2.0,1.0,immigration
-Enhedslisten,Liberal Alliance,65,1,1.0,1.0,immigration
-Enhedslisten,Not able to assign,65,1,1.0,1.0,immigration
-Enhedslisten,Radikale Venstre,65,5,5.0,1.0,immigration
-Enhedslisten,Socialdemokratiet,65,46,46.0,1.0,immigration
-Enhedslisten,Socialistisk Folkeparti,65,8,8.0,1.0,immigration
-Enhedslisten,Uden for folketingsgrupperne,65,5,4.0,0.8,immigration
-Enhedslisten,Venstre,65,37,37.0,1.0,immigration
-Kristeligt Folkeparti,Danmarksdemokraterne,65,2,2.0,1.0,immigration
-Kristeligt Folkeparti,Dansk Folkeparti,65,32,21.0,0.65625,immigration
-Kristeligt Folkeparti,Det Konservative Folkeparti,65,17,17.0,1.0,immigration
-Kristeligt Folkeparti,Enhedslisten,65,2,2.0,1.0,immigration
+Enhedslisten,Liberal Alliance,65,3,3.0,1.0,immigration
+Enhedslisten,Moderaterne,65,1,1.0,1.0,immigration
+Enhedslisten,Not able to assign,65,11,11.0,1.0,immigration
+Enhedslisten,Ny Alliance,65,3,3.0,1.0,immigration
+Enhedslisten,Radikale Venstre,65,12,12.0,1.0,immigration
+Enhedslisten,Socialdemokratiet,65,94,94.0,1.0,immigration
+Enhedslisten,Socialistisk Folkeparti,65,15,15.0,1.0,immigration
+Enhedslisten,Uden for folketingsgrupperne,65,7,6.0,0.8571428571428571,immigration
+Enhedslisten,Venstre,65,96,96.0,1.0,immigration
 Kristeligt Folkeparti,Kristeligt Folkeparti,65,1,1.0,1.0,immigration
-Kristeligt Folkeparti,Kristendemokraterne,65,1,1.0,1.0,immigration
-Kristeligt Folkeparti,Liberal Alliance,65,3,3.0,1.0,immigration
-Kristeligt Folkeparti,Not able to assign,65,9,9.0,1.0,immigration
-Kristeligt Folkeparti,Ny Alliance,65,2,2.0,1.0,immigration
-Kristeligt Folkeparti,Radikale Venstre,65,11,11.0,1.0,immigration
-Kristeligt Folkeparti,Socialdemokratiet,65,80,80.0,1.0,immigration
-Kristeligt Folkeparti,Socialistisk Folkeparti,65,14,14.0,1.0,immigration
-Kristeligt Folkeparti,Uden for folketingsgrupperne,65,10,9.0,0.9,immigration
-Kristeligt Folkeparti,Venstre,65,84,84.0,1.0,immigration
-Kristendemokraterne,Danmarksdemokraterne,65,2,1.0,0.5,immigration
-Kristendemokraterne,Dansk Folkeparti,65,15,6.0,0.4,immigration
-Kristendemokraterne,Kristeligt Folkeparti,65,2,2.0,1.0,immigration
-Kristendemokraterne,Not able to assign,65,1,1.0,1.0,immigration
-Kristendemokraterne,Radikale Venstre,65,1,1.0,1.0,immigration
-Kristendemokraterne,Socialdemokratiet,65,30,30.0,1.0,immigration
-Kristendemokraterne,Socialistisk Folkeparti,65,8,8.0,1.0,immigration
-Kristendemokraterne,Uden for folketingsgrupperne,65,1,1.0,1.0,immigration
-Kristendemokraterne,Venstre,65,33,33.0,1.0,immigration
-Liberal Alliance,Danmarksdemokraterne,65,2,1.0,0.5,immigration
-Liberal Alliance,Dansk Folkeparti,65,23,12.0,0.5217391304347826,immigration
-Liberal Alliance,Det Konservative Folkeparti,65,3,3.0,1.0,immigration
-Liberal Alliance,Enhedslisten,65,2,2.0,1.0,immigration
-Liberal Alliance,Kristeligt Folkeparti,65,2,2.0,1.0,immigration
-Liberal Alliance,Kristendemokraterne,65,3,3.0,1.0,immigration
-Liberal Alliance,Not able to assign,65,2,2.0,1.0,immigration
-Liberal Alliance,Radikale Venstre,65,7,7.0,1.0,immigration
-Liberal Alliance,Socialdemokratiet,65,62,62.0,1.0,immigration
-Liberal Alliance,Socialistisk Folkeparti,65,13,13.0,1.0,immigration
-Liberal Alliance,Uden for folketingsgrupperne,65,6,4.0,0.6666666666666666,immigration
-Liberal Alliance,Venstre,65,45,45.0,1.0,immigration
-Moderaterne,Danmarksdemokraterne,65,1,1.0,1.0,immigration
-Moderaterne,Dansk Folkeparti,65,7,7.0,1.0,immigration
-Moderaterne,Enhedslisten,65,1,1.0,1.0,immigration
-Moderaterne,Kristeligt Folkeparti,65,1,1.0,1.0,immigration
-Moderaterne,Kristendemokraterne,65,1,1.0,1.0,immigration
-Moderaterne,Liberal Alliance,65,1,1.0,1.0,immigration
-Moderaterne,Radikale Venstre,65,1,1.0,1.0,immigration
-Moderaterne,Socialdemokratiet,65,13,13.0,1.0,immigration
-Moderaterne,Socialistisk Folkeparti,65,4,4.0,1.0,immigration
+Kristeligt Folkeparti,Kristendemokraterne,65,3,3.0,1.0,immigration
+Kristeligt Folkeparti,Liberal Alliance,65,5,5.0,1.0,immigration
+Kristeligt Folkeparti,Moderaterne,65,1,1.0,1.0,immigration
+Kristeligt Folkeparti,Not able to assign,65,20,20.0,1.0,immigration
+Kristeligt Folkeparti,Ny Alliance,65,5,5.0,1.0,immigration
+Kristeligt Folkeparti,Radikale Venstre,65,20,20.0,1.0,immigration
+Kristeligt Folkeparti,Socialdemokratiet,65,158,158.0,1.0,immigration
+Kristeligt Folkeparti,Socialistisk Folkeparti,65,25,25.0,1.0,immigration
+Kristeligt Folkeparti,Uden for folketingsgrupperne,65,13,11.0,0.8461538461538461,immigration
+Kristeligt Folkeparti,Venstre,65,162,162.0,1.0,immigration
+Kristendemokraterne,Liberal Alliance,65,3,3.0,1.0,immigration
+Kristendemokraterne,Moderaterne,65,1,1.0,1.0,immigration
+Kristendemokraterne,Not able to assign,65,12,12.0,1.0,immigration
+Kristendemokraterne,Ny Alliance,65,3,3.0,1.0,immigration
+Kristendemokraterne,Radikale Venstre,65,10,10.0,1.0,immigration
+Kristendemokraterne,Socialdemokratiet,65,96,96.0,1.0,immigration
+Kristendemokraterne,Socialistisk Folkeparti,65,15,15.0,1.0,immigration
+Kristendemokraterne,Uden for folketingsgrupperne,65,5,3.0,0.6,immigration
+Kristendemokraterne,Venstre,65,98,98.0,1.0,immigration
+Liberal Alliance,Moderaterne,65,1,1.0,1.0,immigration
+Liberal Alliance,Not able to assign,65,16,16.0,1.0,immigration
+Liberal Alliance,Ny Alliance,65,4,4.0,1.0,immigration
+Liberal Alliance,Radikale Venstre,65,15,15.0,1.0,immigration
+Liberal Alliance,Socialdemokratiet,65,127,127.0,1.0,immigration
+Liberal Alliance,Socialistisk Folkeparti,65,20,20.0,1.0,immigration
+Liberal Alliance,Uden for folketingsgrupperne,65,9,7.0,0.7777777777777778,immigration
+Liberal Alliance,Venstre,65,130,130.0,1.0,immigration
+Moderaterne,Not able to assign,65,4,4.0,1.0,immigration
+Moderaterne,Ny Alliance,65,1,1.0,1.0,immigration
+Moderaterne,Radikale Venstre,65,4,4.0,1.0,immigration
+Moderaterne,Socialdemokratiet,65,29,29.0,1.0,immigration
+Moderaterne,Socialistisk Folkeparti,65,6,6.0,1.0,immigration
 Moderaterne,Uden for folketingsgrupperne,65,1,1.0,1.0,immigration
-Moderaterne,Venstre,65,13,13.0,1.0,immigration
-Not able to assign,Danmarksdemokraterne,65,21,16.0,0.7619047619047619,immigration
-Not able to assign,Dansk Folkeparti,65,141,72.0,0.5106382978723404,immigration
-Not able to assign,Det Konservative Folkeparti,65,75,75.0,1.0,immigration
-Not able to assign,Enhedslisten,65,10,10.0,1.0,immigration
-Not able to assign,Kristeligt Folkeparti,65,11,11.0,1.0,immigration
-Not able to assign,Kristendemokraterne,65,11,11.0,1.0,immigration
-Not able to assign,Liberal Alliance,65,14,14.0,1.0,immigration
-Not able to assign,Moderaterne,65,4,4.0,1.0,immigration
+Moderaterne,Venstre,65,33,33.0,1.0,immigration
 Not able to assign,Not able to assign,65,25,25.0,1.0,immigration
-Not able to assign,Ny Alliance,65,10,10.0,1.0,immigration
-Not able to assign,Radikale Venstre,65,42,42.0,1.0,immigration
-Not able to assign,Socialdemokratiet,65,372,372.0,1.0,immigration
-Not able to assign,Socialistisk Folkeparti,65,63,63.0,1.0,immigration
-Not able to assign,Uden for folketingsgrupperne,65,28,21.0,0.75,immigration
-Not able to assign,Venstre,65,369,369.0,1.0,immigration
-Ny Alliance,Danmarksdemokraterne,65,6,5.0,0.8333333333333334,immigration
-Ny Alliance,Dansk Folkeparti,65,37,19.0,0.5135135135135135,immigration
-Ny Alliance,Det Konservative Folkeparti,65,9,9.0,1.0,immigration
-Ny Alliance,Enhedslisten,65,3,3.0,1.0,immigration
-Ny Alliance,Kristeligt Folkeparti,65,3,3.0,1.0,immigration
-Ny Alliance,Kristendemokraterne,65,3,3.0,1.0,immigration
-Ny Alliance,Liberal Alliance,65,4,4.0,1.0,immigration
-Ny Alliance,Moderaterne,65,1,1.0,1.0,immigration
-Ny Alliance,Not able to assign,65,6,6.0,1.0,immigration
-Ny Alliance,Radikale Venstre,65,7,7.0,1.0,immigration
-Ny Alliance,Socialdemokratiet,65,97,97.0,1.0,immigration
-Ny Alliance,Socialistisk Folkeparti,65,16,16.0,1.0,immigration
+Not able to assign,Ny Alliance,65,16,16.0,1.0,immigration
+Not able to assign,Radikale Venstre,65,60,60.0,1.0,immigration
+Not able to assign,Socialdemokratiet,65,507,507.0,1.0,immigration
+Not able to assign,Socialistisk Folkeparti,65,81,81.0,1.0,immigration
+Not able to assign,Uden for folketingsgrupperne,65,36,28.0,0.7777777777777778,immigration
+Not able to assign,Venstre,65,523,523.0,1.0,immigration
+Ny Alliance,Radikale Venstre,65,15,15.0,1.0,immigration
+Ny Alliance,Socialdemokratiet,65,127,127.0,1.0,immigration
+Ny Alliance,Socialistisk Folkeparti,65,20,20.0,1.0,immigration
 Ny Alliance,Uden for folketingsgrupperne,65,9,7.0,0.7777777777777778,immigration
-Ny Alliance,Venstre,65,74,74.0,1.0,immigration
-Radikale Venstre,Danmarksdemokraterne,65,15,12.0,0.8,immigration
-Radikale Venstre,Dansk Folkeparti,65,115,72.0,0.6260869565217392,immigration
-Radikale Venstre,Det Konservative Folkeparti,65,24,24.0,1.0,immigration
-Radikale Venstre,Enhedslisten,65,7,7.0,1.0,immigration
-Radikale Venstre,Kristeligt Folkeparti,65,9,9.0,1.0,immigration
-Radikale Venstre,Kristendemokraterne,65,9,9.0,1.0,immigration
-Radikale Venstre,Liberal Alliance,65,8,8.0,1.0,immigration
-Radikale Venstre,Moderaterne,65,3,3.0,1.0,immigration
-Radikale Venstre,Not able to assign,65,18,18.0,1.0,immigration
-Radikale Venstre,Ny Alliance,65,8,8.0,1.0,immigration
+Ny Alliance,Venstre,65,130,130.0,1.0,immigration
 Radikale Venstre,Radikale Venstre,65,22,22.0,1.0,immigration
-Radikale Venstre,Socialdemokratiet,65,289,289.0,1.0,immigration
-Radikale Venstre,Socialistisk Folkeparti,65,50,50.0,1.0,immigration
-Radikale Venstre,Uden for folketingsgrupperne,65,22,19.0,0.8636363636363636,immigration
-Radikale Venstre,Venstre,65,266,266.0,1.0,immigration
-Socialdemokratiet,Danmarksdemokraterne,65,98,64.0,0.6530612244897959,immigration
-Socialdemokratiet,Dansk Folkeparti,65,854,416.0,0.48711943793911006,immigration
-Socialdemokratiet,Det Konservative Folkeparti,65,228,228.0,1.0,immigration
-Socialdemokratiet,Enhedslisten,65,48,48.0,1.0,immigration
-Socialdemokratiet,Kristeligt Folkeparti,65,78,78.0,1.0,immigration
-Socialdemokratiet,Kristendemokraterne,65,66,66.0,1.0,immigration
-Socialdemokratiet,Liberal Alliance,65,65,65.0,1.0,immigration
-Socialdemokratiet,Moderaterne,65,16,16.0,1.0,immigration
-Socialdemokratiet,Not able to assign,65,135,135.0,1.0,immigration
-Socialdemokratiet,Ny Alliance,65,30,30.0,1.0,immigration
-Socialdemokratiet,Radikale Venstre,65,183,183.0,1.0,immigration
+Radikale Venstre,Socialdemokratiet,65,472,472.0,1.0,immigration
+Radikale Venstre,Socialistisk Folkeparti,65,76,76.0,1.0,immigration
+Radikale Venstre,Uden for folketingsgrupperne,65,36,30.0,0.8333333333333334,immigration
+Radikale Venstre,Venstre,65,487,487.0,1.0,immigration
 Socialdemokratiet,Socialdemokratiet,65,1960,1960.0,1.0,immigration
-Socialdemokratiet,Socialistisk Folkeparti,65,375,375.0,1.0,immigration
-Socialdemokratiet,Uden for folketingsgrupperne,65,160,120.0,0.75,immigration
-Socialdemokratiet,Venstre,65,1987,1987.0,1.0,immigration
-Socialistisk Folkeparti,Danmarksdemokraterne,65,14,10.0,0.7142857142857143,immigration
-Socialistisk Folkeparti,Dansk Folkeparti,65,99,58.0,0.5858585858585859,immigration
-Socialistisk Folkeparti,Det Konservative Folkeparti,65,37,37.0,1.0,immigration
-Socialistisk Folkeparti,Enhedslisten,65,7,7.0,1.0,immigration
-Socialistisk Folkeparti,Kristeligt Folkeparti,65,11,11.0,1.0,immigration
-Socialistisk Folkeparti,Kristendemokraterne,65,7,7.0,1.0,immigration
-Socialistisk Folkeparti,Liberal Alliance,65,7,7.0,1.0,immigration
-Socialistisk Folkeparti,Moderaterne,65,2,2.0,1.0,immigration
-Socialistisk Folkeparti,Not able to assign,65,18,18.0,1.0,immigration
-Socialistisk Folkeparti,Ny Alliance,65,4,4.0,1.0,immigration
-Socialistisk Folkeparti,Radikale Venstre,65,26,26.0,1.0,immigration
-Socialistisk Folkeparti,Socialdemokratiet,65,255,255.0,1.0,immigration
+Socialdemokratiet,Socialistisk Folkeparti,65,630,630.0,1.0,immigration
+Socialdemokratiet,Uden for folketingsgrupperne,65,287,220.0,0.7665505226480837,immigration
+Socialdemokratiet,Venstre,65,4125,4125.0,1.0,immigration
 Socialistisk Folkeparti,Socialistisk Folkeparti,65,41,41.0,1.0,immigration
-Socialistisk Folkeparti,Uden for folketingsgrupperne,65,21,17.0,0.8095238095238095,immigration
-Socialistisk Folkeparti,Venstre,65,263,263.0,1.0,immigration
-Uden for folketingsgrupperne,Danmarksdemokraterne,65,3,2.0,0.6666666666666666,immigration
-Uden for folketingsgrupperne,Dansk Folkeparti,65,54,41.0,0.7592592592592593,immigration
-Uden for folketingsgrupperne,Det Konservative Folkeparti,65,6,6.0,1.0,immigration
-Uden for folketingsgrupperne,Enhedslisten,65,2,2.0,1.0,immigration
-Uden for folketingsgrupperne,Kristeligt Folkeparti,65,3,2.0,0.6666666666666666,immigration
-Uden for folketingsgrupperne,Kristendemokraterne,65,4,2.0,0.5,immigration
-Uden for folketingsgrupperne,Liberal Alliance,65,3,3.0,1.0,immigration
-Uden for folketingsgrupperne,Not able to assign,65,8,7.0,0.875,immigration
-Uden for folketingsgrupperne,Radikale Venstre,65,14,11.0,0.7857142857142857,immigration
-Uden for folketingsgrupperne,Socialdemokratiet,65,127,100.0,0.7874015748031497,immigration
-Uden for folketingsgrupperne,Socialistisk Folkeparti,65,23,18.0,0.782608695652174,immigration
+Socialistisk Folkeparti,Uden for folketingsgrupperne,65,44,35.0,0.7954545454545454,immigration
+Socialistisk Folkeparti,Venstre,65,652,652.0,1.0,immigration
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,65,8,6.0,0.75,immigration
-Uden for folketingsgrupperne,Venstre,65,104,82.0,0.7884615384615384,immigration
-Venstre,Danmarksdemokraterne,65,99,78.0,0.7878787878787878,immigration
-Venstre,Dansk Folkeparti,65,866,444.0,0.5127020785219399,immigration
-Venstre,Det Konservative Folkeparti,65,275,275.0,1.0,immigration
-Venstre,Enhedslisten,65,59,59.0,1.0,immigration
-Venstre,Kristeligt Folkeparti,65,78,78.0,1.0,immigration
-Venstre,Kristendemokraterne,65,65,65.0,1.0,immigration
-Venstre,Liberal Alliance,65,85,85.0,1.0,immigration
-Venstre,Moderaterne,65,20,20.0,1.0,immigration
-Venstre,Not able to assign,65,154,154.0,1.0,immigration
-Venstre,Ny Alliance,65,56,56.0,1.0,immigration
-Venstre,Radikale Venstre,65,221,221.0,1.0,immigration
-Venstre,Socialdemokratiet,65,2138,2138.0,1.0,immigration
-Venstre,Socialistisk Folkeparti,65,389,389.0,1.0,immigration
-Venstre,Uden for folketingsgrupperne,65,187,144.0,0.7700534759358288,immigration
+Uden for folketingsgrupperne,Venstre,65,291,226.0,0.7766323024054983,immigration
 Venstre,Venstre,65,2050,2050.0,1.0,immigration
 Danmarksdemokraterne,Danmarksdemokraterne,66,371,352.0,0.9487870619946092,immigration
-Danmarksdemokraterne,Dansk Folkeparti,66,2407,2353.0,0.9775654341503947,immigration
-Danmarksdemokraterne,Det Konservative Folkeparti,66,1320,1190.0,0.9015151515151515,immigration
-Danmarksdemokraterne,Enhedslisten,66,492,108.0,0.21951219512195122,immigration
-Danmarksdemokraterne,Inuit Ataqatigiit,66,3,0.0,0.0,immigration
-Danmarksdemokraterne,Kristendemokraterne,66,189,175.0,0.9259259259259259,immigration
-Danmarksdemokraterne,Liberal Alliance,66,159,145.0,0.9119496855345912,immigration
-Danmarksdemokraterne,Moderaterne,66,15,13.0,0.8666666666666667,immigration
-Danmarksdemokraterne,Not able to assign,66,547,307.0,0.5612431444241316,immigration
-Danmarksdemokraterne,Ny Alliance,66,57,46.0,0.8070175438596491,immigration
-Danmarksdemokraterne,Radikale Venstre,66,1287,492.0,0.3822843822843823,immigration
-Danmarksdemokraterne,Siumut,66,4,0.0,0.0,immigration
-Danmarksdemokraterne,Socialdemokratiet,66,5110,2814.0,0.5506849315068493,immigration
-Danmarksdemokraterne,Socialistisk Folkeparti,66,1139,328.0,0.28797190517998245,immigration
-Danmarksdemokraterne,Tjóðveldi,66,5,0.0,0.0,immigration
-Danmarksdemokraterne,Uden for folketingsgrupperne,66,557,417.0,0.748653500897666,immigration
-Danmarksdemokraterne,Venstre,66,5288,4825.0,0.9124432677760969,immigration
-Dansk Folkeparti,Danmarksdemokraterne,66,1156,1139.0,0.9852941176470589,immigration
+Danmarksdemokraterne,Dansk Folkeparti,66,3563,3492.0,0.980072972214426,immigration
+Danmarksdemokraterne,Det Konservative Folkeparti,66,2743,2471.0,0.9008384979948961,immigration
+Danmarksdemokraterne,Enhedslisten,66,740,161.0,0.21756756756756757,immigration
+Danmarksdemokraterne,Folkaflokkurin,66,4,4.0,1.0,immigration
+Danmarksdemokraterne,Inuit Ataqatigiit,66,4,0.0,0.0,immigration
+Danmarksdemokraterne,Kristendemokraterne,66,259,235.0,0.9073359073359073,immigration
+Danmarksdemokraterne,Liberal Alliance,66,224,200.0,0.8928571428571429,immigration
+Danmarksdemokraterne,Moderaterne,66,26,22.0,0.8461538461538461,immigration
+Danmarksdemokraterne,Not able to assign,66,883,484.0,0.5481313703284258,immigration
+Danmarksdemokraterne,Ny Alliance,66,117,99.0,0.8461538461538461,immigration
+Danmarksdemokraterne,Radikale Venstre,66,2271,838.0,0.36900044033465434,immigration
+Danmarksdemokraterne,Siumut,66,5,0.0,0.0,immigration
+Danmarksdemokraterne,Socialdemokratiet,66,7594,4116.0,0.5420068475111931,immigration
+Danmarksdemokraterne,Socialistisk Folkeparti,66,1883,509.0,0.2703133297928837,immigration
+Danmarksdemokraterne,Tjóðveldi,66,9,0.0,0.0,immigration
+Danmarksdemokraterne,Uden for folketingsgrupperne,66,756,566.0,0.7486772486772487,immigration
+Danmarksdemokraterne,Venstre,66,8930,8111.0,0.9082866741321388,immigration
 Dansk Folkeparti,Dansk Folkeparti,66,6437,6437.0,1.0,immigration
-Dansk Folkeparti,Det Konservative Folkeparti,66,2838,2566.0,0.9041578576462297,immigration
-Dansk Folkeparti,Enhedslisten,66,1406,249.0,0.1770981507823613,immigration
-Dansk Folkeparti,Inuit Ataqatigiit,66,6,0.0,0.0,immigration
-Dansk Folkeparti,Kristendemokraterne,66,699,641.0,0.9170243204577968,immigration
-Dansk Folkeparti,Liberal Alliance,66,403,363.0,0.9007444168734491,immigration
-Dansk Folkeparti,Moderaterne,66,57,44.0,0.7719298245614035,immigration
-Dansk Folkeparti,Not able to assign,66,1530,837.0,0.5470588235294118,immigration
-Dansk Folkeparti,Ny Alliance,66,74,61.0,0.8243243243243243,immigration
-Dansk Folkeparti,Radikale Venstre,66,3625,1235.0,0.3406896551724138,immigration
-Dansk Folkeparti,Siumut,66,5,0.0,0.0,immigration
-Dansk Folkeparti,Socialdemokratiet,66,14002,7258.0,0.5183545207827454,immigration
-Dansk Folkeparti,Socialistisk Folkeparti,66,3669,940.0,0.2562005996184246,immigration
-Dansk Folkeparti,Tjóðveldi,66,4,0.0,0.0,immigration
-Dansk Folkeparti,Uden for folketingsgrupperne,66,1626,1119.0,0.6881918819188192,immigration
-Dansk Folkeparti,Venstre,66,13867,12675.0,0.9140405278719261,immigration
-Det Konservative Folkeparti,Danmarksdemokraterne,66,1423,1281.0,0.9002108222066058,immigration
-Det Konservative Folkeparti,Dansk Folkeparti,66,7585,6890.0,0.9083717864205669,immigration
+Dansk Folkeparti,Det Konservative Folkeparti,66,10423,9456.0,0.9072244075602034,immigration
+Dansk Folkeparti,Enhedslisten,66,2856,553.0,0.19362745098039216,immigration
+Dansk Folkeparti,Folkaflokkurin,66,13,13.0,1.0,immigration
+Dansk Folkeparti,Inuit Ataqatigiit,66,13,0.0,0.0,immigration
+Dansk Folkeparti,Kristendemokraterne,66,1010,927.0,0.9178217821782179,immigration
+Dansk Folkeparti,Liberal Alliance,66,887,802.0,0.9041713641488163,immigration
+Dansk Folkeparti,Moderaterne,66,122,97.0,0.7950819672131147,immigration
+Dansk Folkeparti,Not able to assign,66,3387,1775.0,0.5240625922645409,immigration
+Dansk Folkeparti,Ny Alliance,66,389,330.0,0.8483290488431876,immigration
+Dansk Folkeparti,Radikale Venstre,66,8676,2853.0,0.3288381742738589,immigration
+Dansk Folkeparti,Siumut,66,12,0.0,0.0,immigration
+Dansk Folkeparti,Socialdemokratiet,66,29242,14902.0,0.5096094658368101,immigration
+Dansk Folkeparti,Socialistisk Folkeparti,66,7328,1791.0,0.24440502183406113,immigration
+Dansk Folkeparti,Tjóðveldi,66,25,0.0,0.0,immigration
+Dansk Folkeparti,Uden for folketingsgrupperne,66,2841,2119.0,0.7458641323477648,immigration
+Dansk Folkeparti,Venstre,66,34564,31595.0,0.9141013771554218,immigration
 Det Konservative Folkeparti,Det Konservative Folkeparti,66,3587,3587.0,1.0,immigration
-Det Konservative Folkeparti,Enhedslisten,66,1740,336.0,0.19310344827586207,immigration
-Det Konservative Folkeparti,Folkaflokkurin,66,1,1.0,1.0,immigration
-Det Konservative Folkeparti,Inuit Ataqatigiit,66,9,0.0,0.0,immigration
-Det Konservative Folkeparti,Kristendemokraterne,66,677,677.0,1.0,immigration
-Det Konservative Folkeparti,Liberal Alliance,66,558,558.0,1.0,immigration
-Det Konservative Folkeparti,Moderaterne,66,70,70.0,1.0,immigration
-Det Konservative Folkeparti,Not able to assign,66,1775,1115.0,0.6281690140845071,immigration
-Det Konservative Folkeparti,Ny Alliance,66,209,209.0,1.0,immigration
-Det Konservative Folkeparti,Radikale Venstre,66,4314,1884.0,0.43671766342141866,immigration
-Det Konservative Folkeparti,Siumut,66,6,0.0,0.0,immigration
-Det Konservative Folkeparti,Socialdemokratiet,66,16675,10382.0,0.6226086956521739,immigration
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,3882,1301.0,0.3351365275631118,immigration
-Det Konservative Folkeparti,Tjóðveldi,66,13,0.0,0.0,immigration
-Det Konservative Folkeparti,Uden for folketingsgrupperne,66,1807,1422.0,0.7869396790260099,immigration
-Det Konservative Folkeparti,Venstre,66,16481,16474.0,0.9995752684909897,immigration
-Enhedslisten,Danmarksdemokraterne,66,248,53.0,0.21370967741935484,immigration
-Enhedslisten,Dansk Folkeparti,66,1450,304.0,0.2096551724137931,immigration
-Enhedslisten,Det Konservative Folkeparti,66,428,101.0,0.23598130841121495,immigration
+Det Konservative Folkeparti,Enhedslisten,66,2168,437.0,0.20156826568265682,immigration
+Det Konservative Folkeparti,Folkaflokkurin,66,11,11.0,1.0,immigration
+Det Konservative Folkeparti,Inuit Ataqatigiit,66,11,0.0,0.0,immigration
+Det Konservative Folkeparti,Kristendemokraterne,66,755,755.0,1.0,immigration
+Det Konservative Folkeparti,Liberal Alliance,66,668,668.0,1.0,immigration
+Det Konservative Folkeparti,Moderaterne,66,84,84.0,1.0,immigration
+Det Konservative Folkeparti,Not able to assign,66,2554,1600.0,0.6264682850430697,immigration
+Det Konservative Folkeparti,Ny Alliance,66,297,297.0,1.0,immigration
+Det Konservative Folkeparti,Radikale Venstre,66,6533,2857.0,0.4373182305219654,immigration
+Det Konservative Folkeparti,Siumut,66,9,0.0,0.0,immigration
+Det Konservative Folkeparti,Socialdemokratiet,66,22017,13736.0,0.6238815460780306,immigration
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,5502,1869.0,0.33969465648854963,immigration
+Det Konservative Folkeparti,Tjóðveldi,66,20,0.0,0.0,immigration
+Det Konservative Folkeparti,Uden for folketingsgrupperne,66,2198,1757.0,0.7993630573248408,immigration
+Det Konservative Folkeparti,Venstre,66,26047,26020.0,0.9989634122931623,immigration
 Enhedslisten,Enhedslisten,66,195,195.0,1.0,immigration
-Enhedslisten,Inuit Ataqatigiit,66,2,0.0,0.0,immigration
-Enhedslisten,Kristendemokraterne,66,164,34.0,0.2073170731707317,immigration
-Enhedslisten,Liberal Alliance,66,75,15.0,0.2,immigration
-Enhedslisten,Moderaterne,66,7,1.0,0.14285714285714285,immigration
-Enhedslisten,Not able to assign,66,267,120.0,0.449438202247191,immigration
-Enhedslisten,Ny Alliance,66,16,4.0,0.25,immigration
-Enhedslisten,Radikale Venstre,66,613,401.0,0.6541598694942904,immigration
-Enhedslisten,Socialdemokratiet,66,2778,1391.0,0.5007199424046076,immigration
-Enhedslisten,Socialistisk Folkeparti,66,760,622.0,0.8184210526315789,immigration
-Enhedslisten,Tjóðveldi,66,1,0.0,0.0,immigration
-Enhedslisten,Uden for folketingsgrupperne,66,381,154.0,0.4041994750656168,immigration
-Enhedslisten,Venstre,66,2555,547.0,0.21409001956947163,immigration
-Folkaflokkurin,Danmarksdemokraterne,66,4,4.0,1.0,immigration
-Folkaflokkurin,Dansk Folkeparti,66,13,13.0,1.0,immigration
-Folkaflokkurin,Det Konservative Folkeparti,66,10,10.0,1.0,immigration
-Folkaflokkurin,Enhedslisten,66,3,0.0,0.0,immigration
+Enhedslisten,Folkaflokkurin,66,3,0.0,0.0,immigration
+Enhedslisten,Inuit Ataqatigiit,66,3,0.0,0.0,immigration
+Enhedslisten,Kristendemokraterne,66,209,39.0,0.18660287081339713,immigration
+Enhedslisten,Liberal Alliance,66,185,32.0,0.17297297297297298,immigration
+Enhedslisten,Moderaterne,66,23,5.0,0.21739130434782608,immigration
+Enhedslisten,Not able to assign,66,704,344.0,0.48863636363636365,immigration
+Enhedslisten,Ny Alliance,66,85,14.0,0.16470588235294117,immigration
+Enhedslisten,Radikale Venstre,66,1809,1290.0,0.7131011608623549,immigration
+Enhedslisten,Siumut,66,3,3.0,1.0,immigration
+Enhedslisten,Socialdemokratiet,66,6014,2985.0,0.49634186897239774,immigration
+Enhedslisten,Socialistisk Folkeparti,66,1505,1231.0,0.8179401993355482,immigration
+Enhedslisten,Tjóðveldi,66,6,3.0,0.5,immigration
+Enhedslisten,Uden for folketingsgrupperne,66,596,224.0,0.37583892617449666,immigration
+Enhedslisten,Venstre,66,7119,1381.0,0.19398791965163648,immigration
 Folkaflokkurin,Inuit Ataqatigiit,66,1,0.0,0.0,immigration
 Folkaflokkurin,Kristendemokraterne,66,1,1.0,1.0,immigration
 Folkaflokkurin,Liberal Alliance,66,1,1.0,1.0,immigration
@@ -288,634 +192,358 @@ Folkaflokkurin,Socialistisk Folkeparti,66,6,6.0,1.0,immigration
 Folkaflokkurin,Tjóðveldi,66,1,0.0,0.0,immigration
 Folkaflokkurin,Uden for folketingsgrupperne,66,4,4.0,1.0,immigration
 Folkaflokkurin,Venstre,66,27,27.0,1.0,immigration
-Inuit Ataqatigiit,Danmarksdemokraterne,66,1,0.0,0.0,immigration
-Inuit Ataqatigiit,Dansk Folkeparti,66,7,0.0,0.0,immigration
-Inuit Ataqatigiit,Det Konservative Folkeparti,66,2,0.0,0.0,immigration
-Inuit Ataqatigiit,Enhedslisten,66,1,0.0,0.0,immigration
 Inuit Ataqatigiit,Kristendemokraterne,66,1,0.0,0.0,immigration
 Inuit Ataqatigiit,Liberal Alliance,66,1,0.0,0.0,immigration
 Inuit Ataqatigiit,Moderaterne,66,1,0.0,0.0,immigration
-Inuit Ataqatigiit,Not able to assign,66,2,0.0,0.0,immigration
-Inuit Ataqatigiit,Radikale Venstre,66,5,0.0,0.0,immigration
-Inuit Ataqatigiit,Socialdemokratiet,66,16,0.0,0.0,immigration
-Inuit Ataqatigiit,Socialistisk Folkeparti,66,3,0.0,0.0,immigration
-Inuit Ataqatigiit,Uden for folketingsgrupperne,66,3,0.0,0.0,immigration
-Inuit Ataqatigiit,Venstre,66,9,0.0,0.0,immigration
-Kristendemokraterne,Danmarksdemokraterne,66,70,60.0,0.8571428571428571,immigration
-Kristendemokraterne,Dansk Folkeparti,66,311,286.0,0.9196141479099679,immigration
-Kristendemokraterne,Det Konservative Folkeparti,66,78,78.0,1.0,immigration
-Kristendemokraterne,Enhedslisten,66,45,5.0,0.1111111111111111,immigration
-Kristendemokraterne,Not able to assign,66,51,33.0,0.6470588235294118,immigration
-Kristendemokraterne,Radikale Venstre,66,63,27.0,0.42857142857142855,immigration
-Kristendemokraterne,Socialdemokratiet,66,505,299.0,0.592079207920792,immigration
-Kristendemokraterne,Socialistisk Folkeparti,66,230,71.0,0.30869565217391304,immigration
-Kristendemokraterne,Uden for folketingsgrupperne,66,103,80.0,0.7766990291262136,immigration
-Kristendemokraterne,Venstre,66,651,651.0,1.0,immigration
-Liberal Alliance,Danmarksdemokraterne,66,65,55.0,0.8461538461538461,immigration
-Liberal Alliance,Dansk Folkeparti,66,484,439.0,0.9070247933884298,immigration
-Liberal Alliance,Det Konservative Folkeparti,66,110,110.0,1.0,immigration
-Liberal Alliance,Enhedslisten,66,110,17.0,0.15454545454545454,immigration
-Liberal Alliance,Kristendemokraterne,66,65,65.0,1.0,immigration
-Liberal Alliance,Not able to assign,66,94,57.0,0.6063829787234043,immigration
-Liberal Alliance,Radikale Venstre,66,315,123.0,0.3904761904761905,immigration
-Liberal Alliance,Socialdemokratiet,66,1035,599.0,0.578743961352657,immigration
-Liberal Alliance,Socialistisk Folkeparti,66,236,66.0,0.2796610169491525,immigration
-Liberal Alliance,Uden for folketingsgrupperne,66,148,109.0,0.7364864864864865,immigration
-Liberal Alliance,Venstre,66,687,687.0,1.0,immigration
-Moderaterne,Danmarksdemokraterne,66,11,9.0,0.8181818181818182,immigration
-Moderaterne,Dansk Folkeparti,66,65,53.0,0.8153846153846154,immigration
-Moderaterne,Det Konservative Folkeparti,66,14,14.0,1.0,immigration
-Moderaterne,Enhedslisten,66,16,4.0,0.25,immigration
-Moderaterne,Kristendemokraterne,66,9,9.0,1.0,immigration
-Moderaterne,Liberal Alliance,66,8,8.0,1.0,immigration
-Moderaterne,Not able to assign,66,15,12.0,0.8,immigration
-Moderaterne,Radikale Venstre,66,37,28.0,0.7567567567567568,immigration
-Moderaterne,Socialdemokratiet,66,141,110.0,0.7801418439716312,immigration
-Moderaterne,Socialistisk Folkeparti,66,36,16.0,0.4444444444444444,immigration
-Moderaterne,Uden for folketingsgrupperne,66,21,16.0,0.7619047619047619,immigration
-Moderaterne,Venstre,66,93,93.0,1.0,immigration
-Not able to assign,Danmarksdemokraterne,66,336,177.0,0.5267857142857143,immigration
-Not able to assign,Dansk Folkeparti,66,1857,938.0,0.5051157781367798,immigration
-Not able to assign,Det Konservative Folkeparti,66,779,485.0,0.6225930680359435,immigration
-Not able to assign,Enhedslisten,66,437,224.0,0.5125858123569794,immigration
-Not able to assign,Inuit Ataqatigiit,66,2,0.0,0.0,immigration
-Not able to assign,Kristendemokraterne,66,194,112.0,0.5773195876288659,immigration
-Not able to assign,Liberal Alliance,66,124,70.0,0.5645161290322581,immigration
-Not able to assign,Moderaterne,66,16,12.0,0.75,immigration
+Inuit Ataqatigiit,Not able to assign,66,4,0.0,0.0,immigration
+Inuit Ataqatigiit,Ny Alliance,66,1,0.0,0.0,immigration
+Inuit Ataqatigiit,Radikale Venstre,66,7,0.0,0.0,immigration
+Inuit Ataqatigiit,Socialdemokratiet,66,26,0.0,0.0,immigration
+Inuit Ataqatigiit,Socialistisk Folkeparti,66,6,0.0,0.0,immigration
+Inuit Ataqatigiit,Tjóðveldi,66,1,1.0,1.0,immigration
+Inuit Ataqatigiit,Uden for folketingsgrupperne,66,4,0.0,0.0,immigration
+Inuit Ataqatigiit,Venstre,66,27,0.0,0.0,immigration
+Kristendemokraterne,Liberal Alliance,66,65,65.0,1.0,immigration
+Kristendemokraterne,Moderaterne,66,9,9.0,1.0,immigration
+Kristendemokraterne,Not able to assign,66,245,145.0,0.5918367346938775,immigration
+Kristendemokraterne,Ny Alliance,66,27,27.0,1.0,immigration
+Kristendemokraterne,Radikale Venstre,66,636,260.0,0.4088050314465409,immigration
+Kristendemokraterne,Siumut,66,1,0.0,0.0,immigration
+Kristendemokraterne,Socialdemokratiet,66,2114,1232.0,0.5827814569536424,immigration
+Kristendemokraterne,Socialistisk Folkeparti,66,531,168.0,0.3163841807909605,immigration
+Kristendemokraterne,Tjóðveldi,66,2,0.0,0.0,immigration
+Kristendemokraterne,Uden for folketingsgrupperne,66,198,159.0,0.803030303030303,immigration
+Kristendemokraterne,Venstre,66,2516,2513.0,0.9988076311605724,immigration
+Liberal Alliance,Moderaterne,66,8,8.0,1.0,immigration
+Liberal Alliance,Not able to assign,66,218,127.0,0.5825688073394495,immigration
+Liberal Alliance,Ny Alliance,66,26,26.0,1.0,immigration
+Liberal Alliance,Radikale Venstre,66,555,216.0,0.3891891891891892,immigration
+Liberal Alliance,Siumut,66,1,0.0,0.0,immigration
+Liberal Alliance,Socialdemokratiet,66,1857,1078.0,0.5805061927840603,immigration
+Liberal Alliance,Socialistisk Folkeparti,66,467,134.0,0.28693790149892934,immigration
+Liberal Alliance,Tjóðveldi,66,2,0.0,0.0,immigration
+Liberal Alliance,Uden for folketingsgrupperne,66,185,144.0,0.7783783783783784,immigration
+Liberal Alliance,Venstre,66,2183,2180.0,0.9986257443884563,immigration
+Moderaterne,Not able to assign,66,31,24.0,0.7741935483870968,immigration
+Moderaterne,Ny Alliance,66,1,1.0,1.0,immigration
+Moderaterne,Radikale Venstre,66,67,52.0,0.7761194029850746,immigration
+Moderaterne,Socialdemokratiet,66,243,190.0,0.7818930041152263,immigration
+Moderaterne,Socialistisk Folkeparti,66,60,27.0,0.45,immigration
+Moderaterne,Tjóðveldi,66,1,0.0,0.0,immigration
+Moderaterne,Uden for folketingsgrupperne,66,26,20.0,0.7692307692307693,immigration
+Moderaterne,Venstre,66,290,290.0,1.0,immigration
 Not able to assign,Not able to assign,66,328,328.0,1.0,immigration
-Not able to assign,Ny Alliance,66,38,18.0,0.47368421052631576,immigration
-Not able to assign,Radikale Venstre,66,961,693.0,0.7211238293444329,immigration
-Not able to assign,Siumut,66,1,1.0,1.0,immigration
-Not able to assign,Socialdemokratiet,66,3929,3891.0,0.9903283278187834,immigration
-Not able to assign,Socialistisk Folkeparti,66,1011,653.0,0.645895153313551,immigration
-Not able to assign,Tjóðveldi,66,3,1.0,0.3333333333333333,immigration
-Not able to assign,Uden for folketingsgrupperne,66,470,312.0,0.6638297872340425,immigration
-Not able to assign,Venstre,66,3769,2289.0,0.6073228973202441,immigration
-Ny Alliance,Danmarksdemokraterne,66,60,53.0,0.8833333333333333,immigration
-Ny Alliance,Dansk Folkeparti,66,315,269.0,0.8539682539682539,immigration
-Ny Alliance,Det Konservative Folkeparti,66,88,88.0,1.0,immigration
-Ny Alliance,Enhedslisten,66,69,10.0,0.14492753623188406,immigration
-Ny Alliance,Inuit Ataqatigiit,66,1,0.0,0.0,immigration
-Ny Alliance,Kristendemokraterne,66,27,27.0,1.0,immigration
-Ny Alliance,Liberal Alliance,66,26,26.0,1.0,immigration
-Ny Alliance,Moderaterne,66,1,1.0,1.0,immigration
-Ny Alliance,Not able to assign,66,59,28.0,0.4745762711864407,immigration
-Ny Alliance,Radikale Venstre,66,152,56.0,0.3684210526315789,immigration
+Not able to assign,Ny Alliance,66,97,46.0,0.4742268041237113,immigration
+Not able to assign,Radikale Venstre,66,2125,1513.0,0.712,immigration
+Not able to assign,Siumut,66,2,2.0,1.0,immigration
+Not able to assign,Socialdemokratiet,66,7096,7047.0,0.9930947012401353,immigration
+Not able to assign,Socialistisk Folkeparti,66,1787,1153.0,0.6452154448796866,immigration
+Not able to assign,Tjóðveldi,66,6,2.0,0.3333333333333333,immigration
+Not able to assign,Uden for folketingsgrupperne,66,711,462.0,0.6497890295358649,immigration
+Not able to assign,Venstre,66,8367,5126.0,0.6126449145452373,immigration
+Ny Alliance,Radikale Venstre,66,244,89.0,0.36475409836065575,immigration
 Ny Alliance,Siumut,66,1,0.0,0.0,immigration
-Ny Alliance,Socialdemokratiet,66,700,325.0,0.4642857142857143,immigration
-Ny Alliance,Socialistisk Folkeparti,66,133,35.0,0.2631578947368421,immigration
-Ny Alliance,Uden for folketingsgrupperne,66,100,75.0,0.75,immigration
-Ny Alliance,Venstre,66,573,573.0,1.0,immigration
-Radikale Venstre,Danmarksdemokraterne,66,984,346.0,0.3516260162601626,immigration
-Radikale Venstre,Dansk Folkeparti,66,5051,1618.0,0.32033260740447433,immigration
-Radikale Venstre,Det Konservative Folkeparti,66,2219,973.0,0.4384858044164038,immigration
-Radikale Venstre,Enhedslisten,66,1196,889.0,0.7433110367892977,immigration
-Radikale Venstre,Inuit Ataqatigiit,66,2,0.0,0.0,immigration
-Radikale Venstre,Kristendemokraterne,66,573,233.0,0.40663176265270506,immigration
-Radikale Venstre,Liberal Alliance,66,240,93.0,0.3875,immigration
-Radikale Venstre,Moderaterne,66,30,24.0,0.8,immigration
-Radikale Venstre,Not able to assign,66,1164,820.0,0.7044673539518901,immigration
-Radikale Venstre,Ny Alliance,66,92,33.0,0.358695652173913,immigration
+Ny Alliance,Socialdemokratiet,66,832,384.0,0.46153846153846156,immigration
+Ny Alliance,Socialistisk Folkeparti,66,198,56.0,0.2828282828282828,immigration
+Ny Alliance,Tjóðveldi,66,2,0.0,0.0,immigration
+Ny Alliance,Uden for folketingsgrupperne,66,102,76.0,0.7450980392156863,immigration
+Ny Alliance,Venstre,66,934,934.0,1.0,immigration
 Radikale Venstre,Radikale Venstre,66,2420,2413.0,0.9971074380165289,immigration
-Radikale Venstre,Siumut,66,4,4.0,1.0,immigration
-Radikale Venstre,Socialdemokratiet,66,10401,7555.0,0.726372464186136,immigration
-Radikale Venstre,Socialistisk Folkeparti,66,2748,2346.0,0.8537117903930131,immigration
-Radikale Venstre,Tjóðveldi,66,5,3.0,0.6,immigration
-Radikale Venstre,Uden for folketingsgrupperne,66,1268,848.0,0.668769716088328,immigration
-Radikale Venstre,Venstre,66,10862,4636.0,0.42680905910513717,immigration
-Siumut,Danmarksdemokraterne,66,1,0.0,0.0,immigration
-Siumut,Dansk Folkeparti,66,7,0.0,0.0,immigration
-Siumut,Det Konservative Folkeparti,66,3,0.0,0.0,immigration
-Siumut,Enhedslisten,66,3,3.0,1.0,immigration
-Siumut,Kristendemokraterne,66,1,0.0,0.0,immigration
-Siumut,Liberal Alliance,66,1,0.0,0.0,immigration
-Siumut,Not able to assign,66,1,1.0,1.0,immigration
-Siumut,Radikale Venstre,66,5,5.0,1.0,immigration
-Siumut,Socialdemokratiet,66,16,16.0,1.0,immigration
-Siumut,Socialistisk Folkeparti,66,4,4.0,1.0,immigration
-Siumut,Uden for folketingsgrupperne,66,2,1.0,0.5,immigration
-Siumut,Venstre,66,12,0.0,0.0,immigration
-Socialdemokratiet,Danmarksdemokraterne,66,2484,1302.0,0.5241545893719807,immigration
-Socialdemokratiet,Dansk Folkeparti,66,15240,7644.0,0.5015748031496063,immigration
-Socialdemokratiet,Det Konservative Folkeparti,66,5342,3354.0,0.6278547360539124,immigration
-Socialdemokratiet,Enhedslisten,66,3236,1594.0,0.4925834363411619,immigration
-Socialdemokratiet,Inuit Ataqatigiit,66,10,0.0,0.0,immigration
-Socialdemokratiet,Kristendemokraterne,66,1609,933.0,0.5798632691112492,immigration
-Socialdemokratiet,Liberal Alliance,66,822,479.0,0.5827250608272506,immigration
-Socialdemokratiet,Moderaterne,66,102,80.0,0.7843137254901961,immigration
-Socialdemokratiet,Not able to assign,66,3167,3156.0,0.9965266814019577,immigration
-Socialdemokratiet,Ny Alliance,66,132,59.0,0.44696969696969696,immigration
-Socialdemokratiet,Radikale Venstre,66,7843,5743.0,0.7322453142930001,immigration
-Socialdemokratiet,Siumut,66,10,10.0,1.0,immigration
+Radikale Venstre,Siumut,66,9,9.0,1.0,immigration
+Radikale Venstre,Socialdemokratiet,66,18244,13298.0,0.7288971716728787,immigration
+Radikale Venstre,Socialistisk Folkeparti,66,4576,3930.0,0.8588286713286714,immigration
+Radikale Venstre,Tjóðveldi,66,16,9.0,0.5625,immigration
+Radikale Venstre,Uden for folketingsgrupperne,66,1765,1096.0,0.6209631728045326,immigration
+Radikale Venstre,Venstre,66,21600,9172.0,0.42462962962962963,immigration
+Siumut,Socialdemokratiet,66,26,26.0,1.0,immigration
+Siumut,Socialistisk Folkeparti,66,7,7.0,1.0,immigration
+Siumut,Tjóðveldi,66,1,1.0,1.0,immigration
+Siumut,Uden for folketingsgrupperne,66,3,1.0,0.3333333333333333,immigration
+Siumut,Venstre,66,32,0.0,0.0,immigration
 Socialdemokratiet,Socialdemokratiet,66,29778,29330.0,0.9849553361542078,immigration
-Socialdemokratiet,Socialistisk Folkeparti,66,7954,5076.0,0.6381694744782499,immigration
-Socialdemokratiet,Tjóðveldi,66,5,3.0,0.6,immigration
-Socialdemokratiet,Uden for folketingsgrupperne,66,3782,2569.0,0.6792702273929138,immigration
-Socialdemokratiet,Venstre,66,29266,17854.0,0.6100594546572815,immigration
-Socialistisk Folkeparti,Danmarksdemokraterne,66,744,181.0,0.24327956989247312,immigration
-Socialistisk Folkeparti,Dansk Folkeparti,66,3659,851.0,0.23257720688712763,immigration
-Socialistisk Folkeparti,Det Konservative Folkeparti,66,1620,568.0,0.3506172839506173,immigration
-Socialistisk Folkeparti,Enhedslisten,66,745,609.0,0.8174496644295302,immigration
-Socialistisk Folkeparti,Inuit Ataqatigiit,66,3,0.0,0.0,immigration
-Socialistisk Folkeparti,Kristendemokraterne,66,301,97.0,0.3222591362126246,immigration
-Socialistisk Folkeparti,Liberal Alliance,66,231,68.0,0.2943722943722944,immigration
-Socialistisk Folkeparti,Moderaterne,66,24,11.0,0.4583333333333333,immigration
-Socialistisk Folkeparti,Not able to assign,66,776,500.0,0.6443298969072165,immigration
-Socialistisk Folkeparti,Ny Alliance,66,65,21.0,0.3230769230769231,immigration
-Socialistisk Folkeparti,Radikale Venstre,66,1828,1584.0,0.8665207877461707,immigration
-Socialistisk Folkeparti,Siumut,66,3,3.0,1.0,immigration
-Socialistisk Folkeparti,Socialdemokratiet,66,7478,5085.0,0.6799946509761968,immigration
+Socialdemokratiet,Socialistisk Folkeparti,66,15432,10161.0,0.6584370139968896,immigration
+Socialdemokratiet,Tjóðveldi,66,52,26.0,0.5,immigration
+Socialdemokratiet,Uden for folketingsgrupperne,66,6038,3919.0,0.6490559788009275,immigration
+Socialdemokratiet,Venstre,66,72913,44325.0,0.6079162837902706,immigration
 Socialistisk Folkeparti,Socialistisk Folkeparti,66,1689,1686.0,0.9982238010657194,immigration
-Socialistisk Folkeparti,Tjóðveldi,66,4,1.0,0.25,immigration
-Socialistisk Folkeparti,Uden for folketingsgrupperne,66,841,469.0,0.5576694411414982,immigration
-Socialistisk Folkeparti,Venstre,66,7924,2643.0,0.3335436648157496,immigration
-Tjóðveldi,Danmarksdemokraterne,66,4,0.0,0.0,immigration
-Tjóðveldi,Dansk Folkeparti,66,21,0.0,0.0,immigration
-Tjóðveldi,Det Konservative Folkeparti,66,7,0.0,0.0,immigration
-Tjóðveldi,Enhedslisten,66,5,3.0,0.6,immigration
-Tjóðveldi,Inuit Ataqatigiit,66,1,1.0,1.0,immigration
-Tjóðveldi,Kristendemokraterne,66,2,0.0,0.0,immigration
-Tjóðveldi,Liberal Alliance,66,2,0.0,0.0,immigration
-Tjóðveldi,Moderaterne,66,1,0.0,0.0,immigration
-Tjóðveldi,Not able to assign,66,3,1.0,0.3333333333333333,immigration
-Tjóðveldi,Ny Alliance,66,2,0.0,0.0,immigration
-Tjóðveldi,Radikale Venstre,66,11,6.0,0.5454545454545454,immigration
-Tjóðveldi,Siumut,66,1,1.0,1.0,immigration
-Tjóðveldi,Socialdemokratiet,66,47,23.0,0.48936170212765956,immigration
-Tjóðveldi,Socialistisk Folkeparti,66,9,6.0,0.6666666666666666,immigration
+Socialistisk Folkeparti,Tjóðveldi,66,13,7.0,0.5384615384615384,immigration
+Socialistisk Folkeparti,Uden for folketingsgrupperne,66,1483,753.0,0.5077545515846258,immigration
+Socialistisk Folkeparti,Venstre,66,18307,6060.0,0.33102092095919594,immigration
 Tjóðveldi,Uden for folketingsgrupperne,66,7,1.0,0.14285714285714285,immigration
-Tjóðveldi,Venstre,66,34,0.0,0.0,immigration
-Uden for folketingsgrupperne,Danmarksdemokraterne,66,199,149.0,0.7487437185929648,immigration
-Uden for folketingsgrupperne,Dansk Folkeparti,66,1215,1000.0,0.823045267489712,immigration
-Uden for folketingsgrupperne,Det Konservative Folkeparti,66,391,335.0,0.8567774936061381,immigration
-Uden for folketingsgrupperne,Enhedslisten,66,215,70.0,0.32558139534883723,immigration
-Uden for folketingsgrupperne,Inuit Ataqatigiit,66,1,0.0,0.0,immigration
-Uden for folketingsgrupperne,Kristendemokraterne,66,95,79.0,0.8315789473684211,immigration
-Uden for folketingsgrupperne,Liberal Alliance,66,37,35.0,0.9459459459459459,immigration
-Uden for folketingsgrupperne,Moderaterne,66,5,4.0,0.8,immigration
-Uden for folketingsgrupperne,Not able to assign,66,241,150.0,0.6224066390041494,immigration
-Uden for folketingsgrupperne,Ny Alliance,66,2,1.0,0.5,immigration
-Uden for folketingsgrupperne,Radikale Venstre,66,497,248.0,0.49899396378269617,immigration
-Uden for folketingsgrupperne,Siumut,66,1,0.0,0.0,immigration
-Uden for folketingsgrupperne,Socialdemokratiet,66,2256,1350.0,0.598404255319149,immigration
-Uden for folketingsgrupperne,Socialistisk Folkeparti,66,642,284.0,0.4423676012461059,immigration
+Tjóðveldi,Venstre,66,59,0.0,0.0,immigration
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,66,259,167.0,0.6447876447876448,immigration
-Uden for folketingsgrupperne,Venstre,66,2267,1927.0,0.8500220555800617,immigration
-Venstre,Danmarksdemokraterne,66,3642,3286.0,0.9022515101592532,immigration
-Venstre,Dansk Folkeparti,66,20697,18920.0,0.914142146204764,immigration
-Venstre,Det Konservative Folkeparti,66,9566,9546.0,0.9979092619694753,immigration
-Venstre,Enhedslisten,66,4564,834.0,0.1827344434706398,immigration
-Venstre,Inuit Ataqatigiit,66,18,0.0,0.0,immigration
-Venstre,Kristendemokraterne,66,1865,1862.0,0.9983914209115281,immigration
-Venstre,Liberal Alliance,66,1496,1493.0,0.9979946524064172,immigration
-Venstre,Moderaterne,66,197,197.0,1.0,immigration
-Venstre,Not able to assign,66,4598,2837.0,0.6170073945193563,immigration
-Venstre,Ny Alliance,66,361,361.0,1.0,immigration
-Venstre,Radikale Venstre,66,10738,4536.0,0.42242503259452413,immigration
-Venstre,Siumut,66,20,0.0,0.0,immigration
-Venstre,Socialdemokratiet,66,43647,26471.0,0.6064792540151671,immigration
-Venstre,Socialistisk Folkeparti,66,10383,3417.0,0.32909563709910433,immigration
-Venstre,Tjóðveldi,66,25,0.0,0.0,immigration
-Venstre,Uden for folketingsgrupperne,66,4787,3701.0,0.7731355755170253,immigration
+Uden for folketingsgrupperne,Venstre,66,7054,5628.0,0.7978451942160476,immigration
 Venstre,Venstre,66,41991,41910.0,0.9980710152175466,immigration
 Danmarksdemokraterne,Danmarksdemokraterne,67,663,643.0,0.9698340874811463,immigration
-Danmarksdemokraterne,Dansk Folkeparti,67,3637,3582.0,0.9848776464118779,immigration
-Danmarksdemokraterne,Det Konservative Folkeparti,67,2742,2451.0,0.8938730853391685,immigration
-Danmarksdemokraterne,Enhedslisten,67,679,144.0,0.21207658321060383,immigration
+Danmarksdemokraterne,Dansk Folkeparti,67,5547,5466.0,0.9853975121687398,immigration
+Danmarksdemokraterne,Det Konservative Folkeparti,67,4213,3746.0,0.889152622834085,immigration
+Danmarksdemokraterne,Enhedslisten,67,951,199.0,0.2092534174553102,immigration
 Danmarksdemokraterne,Javnaðarflokkurin,67,2,2.0,1.0,immigration
-Danmarksdemokraterne,Kristendemokraterne,67,190,164.0,0.8631578947368421,immigration
-Danmarksdemokraterne,Liberal Alliance,67,175,133.0,0.76,immigration
-Danmarksdemokraterne,Moderaterne,67,4,2.0,0.5,immigration
+Danmarksdemokraterne,Kristendemokraterne,67,204,174.0,0.8529411764705882,immigration
+Danmarksdemokraterne,Liberal Alliance,67,313,246.0,0.7859424920127795,immigration
+Danmarksdemokraterne,Moderaterne,67,7,3.0,0.42857142857142855,immigration
 Danmarksdemokraterne,Not able to assign,67,16,4.0,0.25,immigration
-Danmarksdemokraterne,Radikale Venstre,67,1323,548.0,0.41421012849584277,immigration
-Danmarksdemokraterne,Sambandsflokkurin,67,2,2.0,1.0,immigration
-Danmarksdemokraterne,Siumut,67,16,13.0,0.8125,immigration
-Danmarksdemokraterne,Socialdemokratiet,67,9022,4137.0,0.45854577698958104,immigration
-Danmarksdemokraterne,Socialistisk Folkeparti,67,3399,1287.0,0.3786407766990291,immigration
-Danmarksdemokraterne,Uden for folketingsgrupperne,67,828,634.0,0.7657004830917874,immigration
-Danmarksdemokraterne,Venstre,67,7909,7089.0,0.8963206473637628,immigration
-Dansk Folkeparti,Danmarksdemokraterne,67,1910,1884.0,0.9863874345549738,immigration
+Danmarksdemokraterne,Radikale Venstre,67,2000,772.0,0.386,immigration
+Danmarksdemokraterne,Sambandsflokkurin,67,5,5.0,1.0,immigration
+Danmarksdemokraterne,Siumut,67,28,23.0,0.8214285714285714,immigration
+Danmarksdemokraterne,Socialdemokratiet,67,12831,5825.0,0.45397864546800715,immigration
+Danmarksdemokraterne,Socialistisk Folkeparti,67,5364,2040.0,0.38031319910514544,immigration
+Danmarksdemokraterne,Uden for folketingsgrupperne,67,1097,840.0,0.7657247037374658,immigration
+Danmarksdemokraterne,Venstre,67,12695,11304.0,0.8904293028751477,immigration
 Dansk Folkeparti,Dansk Folkeparti,67,8844,8831.0,0.9985300768882859,immigration
-Dansk Folkeparti,Det Konservative Folkeparti,67,7221,6323.0,0.8756404930065088,immigration
-Dansk Folkeparti,Enhedslisten,67,1911,401.0,0.2098377812663527,immigration
-Dansk Folkeparti,Javnaðarflokkurin,67,12,12.0,1.0,immigration
-Dansk Folkeparti,Kristendemokraterne,67,551,474.0,0.8602540834845736,immigration
-Dansk Folkeparti,Liberal Alliance,67,521,377.0,0.7236084452975048,immigration
-Dansk Folkeparti,Moderaterne,67,15,7.0,0.4666666666666667,immigration
+Dansk Folkeparti,Det Konservative Folkeparti,67,14408,12606.0,0.8749305941143809,immigration
+Dansk Folkeparti,Enhedslisten,67,3274,671.0,0.2049480757483201,immigration
+Dansk Folkeparti,Javnaðarflokkurin,67,14,14.0,1.0,immigration
+Dansk Folkeparti,Kristendemokraterne,67,746,644.0,0.8632707774798928,immigration
+Dansk Folkeparti,Liberal Alliance,67,1033,798.0,0.7725072604065828,immigration
+Dansk Folkeparti,Moderaterne,67,23,11.0,0.4782608695652174,immigration
 Dansk Folkeparti,Not able to assign,67,45,11.0,0.24444444444444444,immigration
-Dansk Folkeparti,Radikale Venstre,67,3374,1304.0,0.38648488441019563,immigration
-Dansk Folkeparti,Sambandsflokkurin,67,6,6.0,1.0,immigration
-Dansk Folkeparti,Siumut,67,31,24.0,0.7741935483870968,immigration
-Dansk Folkeparti,Socialdemokratiet,67,23908,10568.0,0.4420277731303329,immigration
-Dansk Folkeparti,Socialistisk Folkeparti,67,9280,3400.0,0.36637931034482757,immigration
-Dansk Folkeparti,Uden for folketingsgrupperne,67,2274,1742.0,0.7660510114335972,immigration
-Dansk Folkeparti,Venstre,67,21487,18822.0,0.875971517661842,immigration
-Det Konservative Folkeparti,Danmarksdemokraterne,67,1471,1295.0,0.8803535010197144,immigration
-Det Konservative Folkeparti,Dansk Folkeparti,67,7187,6283.0,0.8742173368582162,immigration
+Dansk Folkeparti,Radikale Venstre,67,6845,2598.0,0.37954711468224983,immigration
+Dansk Folkeparti,Sambandsflokkurin,67,27,27.0,1.0,immigration
+Dansk Folkeparti,Siumut,67,54,44.0,0.8148148148148148,immigration
+Dansk Folkeparti,Socialdemokratiet,67,43297,19216.0,0.4438182784026607,immigration
+Dansk Folkeparti,Socialistisk Folkeparti,67,18335,6828.0,0.37240250886283066,immigration
+Dansk Folkeparti,Uden for folketingsgrupperne,67,3682,2831.0,0.7688756110809343,immigration
+Dansk Folkeparti,Venstre,67,43238,37826.0,0.8748323234192146,immigration
 Det Konservative Folkeparti,Det Konservative Folkeparti,67,4954,4954.0,1.0,immigration
-Det Konservative Folkeparti,Enhedslisten,67,1491,398.0,0.266934942991281,immigration
-Det Konservative Folkeparti,Javnaðarflokkurin,67,8,8.0,1.0,immigration
-Det Konservative Folkeparti,Kristendemokraterne,67,449,432.0,0.9621380846325167,immigration
-Det Konservative Folkeparti,Liberal Alliance,67,350,286.0,0.8171428571428572,immigration
-Det Konservative Folkeparti,Moderaterne,67,16,16.0,1.0,immigration
-Det Konservative Folkeparti,Not able to assign,67,38,30.0,0.7894736842105263,immigration
-Det Konservative Folkeparti,Radikale Venstre,67,2644,1402.0,0.5302571860816944,immigration
-Det Konservative Folkeparti,Sambandsflokkurin,67,3,3.0,1.0,immigration
-Det Konservative Folkeparti,Siumut,67,35,28.0,0.8,immigration
-Det Konservative Folkeparti,Socialdemokratiet,67,18301,10159.0,0.5551062783454456,immigration
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,6818,3316.0,0.4863596362569669,immigration
-Det Konservative Folkeparti,Uden for folketingsgrupperne,67,1748,1373.0,0.7854691075514875,immigration
-Det Konservative Folkeparti,Venstre,67,15741,15741.0,1.0,immigration
-Enhedslisten,Danmarksdemokraterne,67,272,55.0,0.20220588235294118,immigration
-Enhedslisten,Dansk Folkeparti,67,1363,270.0,0.19809244314013205,immigration
-Enhedslisten,Det Konservative Folkeparti,67,962,242.0,0.2515592515592516,immigration
+Det Konservative Folkeparti,Enhedslisten,67,2453,640.0,0.260905014268243,immigration
+Det Konservative Folkeparti,Javnaðarflokkurin,67,10,10.0,1.0,immigration
+Det Konservative Folkeparti,Kristendemokraterne,67,568,540.0,0.9507042253521126,immigration
+Det Konservative Folkeparti,Liberal Alliance,67,783,702.0,0.896551724137931,immigration
+Det Konservative Folkeparti,Moderaterne,67,22,22.0,1.0,immigration
+Det Konservative Folkeparti,Not able to assign,67,42,33.0,0.7857142857142857,immigration
+Det Konservative Folkeparti,Radikale Venstre,67,5178,2625.0,0.5069524913093859,immigration
+Det Konservative Folkeparti,Sambandsflokkurin,67,21,21.0,1.0,immigration
+Det Konservative Folkeparti,Siumut,67,49,40.0,0.8163265306122449,immigration
+Det Konservative Folkeparti,Socialdemokratiet,67,32761,18197.0,0.5554470254265743,immigration
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,13830,6773.0,0.48973246565437456,immigration
+Det Konservative Folkeparti,Uden for folketingsgrupperne,67,2792,2174.0,0.7786532951289399,immigration
+Det Konservative Folkeparti,Venstre,67,32745,32736.0,0.9997251488776913,immigration
 Enhedslisten,Enhedslisten,67,174,151.0,0.867816091954023,immigration
 Enhedslisten,Javnaðarflokkurin,67,2,0.0,0.0,immigration
-Enhedslisten,Kristendemokraterne,67,112,32.0,0.2857142857142857,immigration
-Enhedslisten,Liberal Alliance,67,93,38.0,0.40860215053763443,immigration
-Enhedslisten,Moderaterne,67,2,0.0,0.0,immigration
+Enhedslisten,Kristendemokraterne,67,133,39.0,0.2932330827067669,immigration
+Enhedslisten,Liberal Alliance,67,183,64.0,0.34972677595628415,immigration
+Enhedslisten,Moderaterne,67,4,0.0,0.0,immigration
 Enhedslisten,Not able to assign,67,8,2.0,0.25,immigration
-Enhedslisten,Radikale Venstre,67,454,315.0,0.6938325991189427,immigration
-Enhedslisten,Siumut,67,2,2.0,1.0,immigration
-Enhedslisten,Socialdemokratiet,67,3274,2025.0,0.6185094685400122,immigration
-Enhedslisten,Socialistisk Folkeparti,67,1267,837.0,0.6606156274664562,immigration
-Enhedslisten,Uden for folketingsgrupperne,67,356,117.0,0.32865168539325845,immigration
-Enhedslisten,Venstre,67,2853,707.0,0.2478093235191027,immigration
-Javnaðarflokkurin,Dansk Folkeparti,67,2,2.0,1.0,immigration
-Javnaðarflokkurin,Det Konservative Folkeparti,67,2,2.0,1.0,immigration
-Javnaðarflokkurin,Socialdemokratiet,67,4,4.0,1.0,immigration
-Javnaðarflokkurin,Socialistisk Folkeparti,67,1,1.0,1.0,immigration
-Javnaðarflokkurin,Venstre,67,6,6.0,1.0,immigration
-Kristendemokraterne,Danmarksdemokraterne,67,14,10.0,0.7142857142857143,immigration
-Kristendemokraterne,Dansk Folkeparti,67,195,170.0,0.8717948717948718,immigration
-Kristendemokraterne,Det Konservative Folkeparti,67,119,108.0,0.907563025210084,immigration
-Kristendemokraterne,Enhedslisten,67,21,7.0,0.3333333333333333,immigration
-Kristendemokraterne,Javnaðarflokkurin,67,1,1.0,1.0,immigration
-Kristendemokraterne,Liberal Alliance,67,18,10.0,0.5555555555555556,immigration
+Enhedslisten,Radikale Venstre,67,1189,840.0,0.7064760302775441,immigration
+Enhedslisten,Sambandsflokkurin,67,3,0.0,0.0,immigration
+Enhedslisten,Siumut,67,7,6.0,0.8571428571428571,immigration
+Enhedslisten,Socialdemokratiet,67,7421,4911.0,0.6617706508556799,immigration
+Enhedslisten,Socialistisk Folkeparti,67,3151,2218.0,0.7039035226912091,immigration
+Enhedslisten,Uden for folketingsgrupperne,67,600,208.0,0.3466666666666667,immigration
+Enhedslisten,Venstre,67,7384,1953.0,0.2644907908992416,immigration
+Javnaðarflokkurin,Kristendemokraterne,67,1,1.0,1.0,immigration
+Javnaðarflokkurin,Liberal Alliance,67,1,1.0,1.0,immigration
+Javnaðarflokkurin,Radikale Venstre,67,3,3.0,1.0,immigration
+Javnaðarflokkurin,Sambandsflokkurin,67,1,1.0,1.0,immigration
+Javnaðarflokkurin,Socialdemokratiet,67,31,31.0,1.0,immigration
+Javnaðarflokkurin,Socialistisk Folkeparti,67,11,11.0,1.0,immigration
+Javnaðarflokkurin,Uden for folketingsgrupperne,67,2,2.0,1.0,immigration
+Javnaðarflokkurin,Venstre,67,32,32.0,1.0,immigration
+Kristendemokraterne,Liberal Alliance,67,42,31.0,0.7380952380952381,immigration
+Kristendemokraterne,Moderaterne,67,2,2.0,1.0,immigration
 Kristendemokraterne,Not able to assign,67,3,2.0,0.6666666666666666,immigration
-Kristendemokraterne,Socialdemokratiet,67,328,182.0,0.5548780487804879,immigration
-Kristendemokraterne,Socialistisk Folkeparti,67,173,70.0,0.4046242774566474,immigration
-Kristendemokraterne,Uden for folketingsgrupperne,67,36,22.0,0.6111111111111112,immigration
-Kristendemokraterne,Venstre,67,423,403.0,0.9527186761229315,immigration
-Liberal Alliance,Danmarksdemokraterne,67,138,113.0,0.8188405797101449,immigration
-Liberal Alliance,Dansk Folkeparti,67,512,421.0,0.822265625,immigration
-Liberal Alliance,Det Konservative Folkeparti,67,433,416.0,0.9607390300230947,immigration
-Liberal Alliance,Enhedslisten,67,90,26.0,0.28888888888888886,immigration
-Liberal Alliance,Javnaðarflokkurin,67,1,1.0,1.0,immigration
-Liberal Alliance,Kristendemokraterne,67,24,21.0,0.875,immigration
+Kristendemokraterne,Radikale Venstre,67,273,161.0,0.5897435897435898,immigration
+Kristendemokraterne,Sambandsflokkurin,67,2,2.0,1.0,immigration
+Kristendemokraterne,Siumut,67,1,0.0,0.0,immigration
+Kristendemokraterne,Socialdemokratiet,67,1673,936.0,0.5594739988045427,immigration
+Kristendemokraterne,Socialistisk Folkeparti,67,722,318.0,0.4404432132963989,immigration
+Kristendemokraterne,Uden for folketingsgrupperne,67,139,104.0,0.7482014388489209,immigration
+Kristendemokraterne,Venstre,67,1726,1648.0,0.9548088064889919,immigration
 Liberal Alliance,Liberal Alliance,67,4,4.0,1.0,immigration
 Liberal Alliance,Moderaterne,67,1,1.0,1.0,immigration
 Liberal Alliance,Not able to assign,67,2,1.0,0.5,immigration
-Liberal Alliance,Radikale Venstre,67,185,105.0,0.5675675675675675,immigration
+Liberal Alliance,Radikale Venstre,67,381,210.0,0.5511811023622047,immigration
 Liberal Alliance,Sambandsflokkurin,67,1,1.0,1.0,immigration
-Liberal Alliance,Siumut,67,2,1.0,0.5,immigration
-Liberal Alliance,Socialdemokratiet,67,1179,642.0,0.544529262086514,immigration
-Liberal Alliance,Socialistisk Folkeparti,67,513,276.0,0.5380116959064327,immigration
-Liberal Alliance,Uden for folketingsgrupperne,67,81,65.0,0.8024691358024691,immigration
-Liberal Alliance,Venstre,67,1144,1117.0,0.9763986013986014,immigration
-Moderaterne,Danmarksdemokraterne,67,3,1.0,0.3333333333333333,immigration
-Moderaterne,Dansk Folkeparti,67,8,4.0,0.5,immigration
-Moderaterne,Det Konservative Folkeparti,67,6,6.0,1.0,immigration
-Moderaterne,Enhedslisten,67,2,0.0,0.0,immigration
-Moderaterne,Kristendemokraterne,67,2,2.0,1.0,immigration
+Liberal Alliance,Siumut,67,5,4.0,0.8,immigration
+Liberal Alliance,Socialdemokratiet,67,2351,1271.0,0.5406210123351766,immigration
+Liberal Alliance,Socialistisk Folkeparti,67,992,536.0,0.5403225806451613,immigration
+Liberal Alliance,Uden for folketingsgrupperne,67,176,132.0,0.75,immigration
+Liberal Alliance,Venstre,67,2315,2054.0,0.8872570194384449,immigration
 Moderaterne,Not able to assign,67,2,2.0,1.0,immigration
-Moderaterne,Radikale Venstre,67,6,3.0,0.5,immigration
-Moderaterne,Socialdemokratiet,67,33,33.0,1.0,immigration
-Moderaterne,Socialistisk Folkeparti,67,4,2.0,0.5,immigration
-Moderaterne,Uden for folketingsgrupperne,67,5,3.0,0.6,immigration
-Moderaterne,Venstre,67,19,19.0,1.0,immigration
-Not able to assign,Det Konservative Folkeparti,67,4,3.0,0.75,immigration
-Not able to assign,Socialdemokratiet,67,3,3.0,1.0,immigration
-Not able to assign,Socialistisk Folkeparti,67,3,2.0,0.6666666666666666,immigration
-Not able to assign,Venstre,67,7,5.0,0.7142857142857143,immigration
-Radikale Venstre,Danmarksdemokraterne,67,677,224.0,0.3308714918759232,immigration
-Radikale Venstre,Dansk Folkeparti,67,3471,1294.0,0.372803226735811,immigration
-Radikale Venstre,Det Konservative Folkeparti,67,2534,1223.0,0.48263614838200475,immigration
-Radikale Venstre,Enhedslisten,67,735,525.0,0.7142857142857143,immigration
-Radikale Venstre,Javnaðarflokkurin,67,3,3.0,1.0,immigration
-Radikale Venstre,Kristendemokraterne,67,273,161.0,0.5897435897435898,immigration
-Radikale Venstre,Liberal Alliance,67,196,105.0,0.5357142857142857,immigration
-Radikale Venstre,Moderaterne,67,1,1.0,1.0,immigration
-Radikale Venstre,Not able to assign,67,17,13.0,0.7647058823529411,immigration
+Moderaterne,Radikale Venstre,67,7,4.0,0.5714285714285714,immigration
+Moderaterne,Socialdemokratiet,67,60,57.0,0.95,immigration
+Moderaterne,Socialistisk Folkeparti,67,23,12.0,0.5217391304347826,immigration
+Moderaterne,Uden for folketingsgrupperne,67,9,6.0,0.6666666666666666,immigration
+Moderaterne,Venstre,67,58,58.0,1.0,immigration
+Not able to assign,Radikale Venstre,67,17,13.0,0.7647058823529411,immigration
+Not able to assign,Siumut,67,1,1.0,1.0,immigration
+Not able to assign,Socialdemokratiet,67,117,114.0,0.9743589743589743,immigration
+Not able to assign,Socialistisk Folkeparti,67,47,36.0,0.7659574468085106,immigration
+Not able to assign,Uden for folketingsgrupperne,67,14,7.0,0.5,immigration
+Not able to assign,Venstre,67,115,87.0,0.7565217391304347,immigration
 Radikale Venstre,Radikale Venstre,67,999,984.0,0.984984984984985,immigration
-Radikale Venstre,Sambandsflokkurin,67,2,1.0,0.5,immigration
-Radikale Venstre,Siumut,67,8,6.0,0.75,immigration
-Radikale Venstre,Socialdemokratiet,67,8535,6860.0,0.8037492677211482,immigration
-Radikale Venstre,Socialistisk Folkeparti,67,3313,2673.0,0.8068216118321763,immigration
-Radikale Venstre,Uden for folketingsgrupperne,67,822,456.0,0.5547445255474452,immigration
-Radikale Venstre,Venstre,67,7704,3768.0,0.48909657320872274,immigration
-Sambandsflokkurin,Danmarksdemokraterne,67,3,3.0,1.0,immigration
-Sambandsflokkurin,Dansk Folkeparti,67,21,21.0,1.0,immigration
-Sambandsflokkurin,Det Konservative Folkeparti,67,18,18.0,1.0,immigration
-Sambandsflokkurin,Enhedslisten,67,3,0.0,0.0,immigration
-Sambandsflokkurin,Javnaðarflokkurin,67,1,1.0,1.0,immigration
-Sambandsflokkurin,Kristendemokraterne,67,2,2.0,1.0,immigration
-Sambandsflokkurin,Radikale Venstre,67,5,2.0,0.4,immigration
-Sambandsflokkurin,Socialdemokratiet,67,49,26.0,0.5306122448979592,immigration
-Sambandsflokkurin,Socialistisk Folkeparti,67,23,10.0,0.43478260869565216,immigration
-Sambandsflokkurin,Uden for folketingsgrupperne,67,4,3.0,0.75,immigration
-Sambandsflokkurin,Venstre,67,52,52.0,1.0,immigration
-Siumut,Danmarksdemokraterne,67,12,10.0,0.8333333333333334,immigration
-Siumut,Dansk Folkeparti,67,23,20.0,0.8695652173913043,immigration
-Siumut,Det Konservative Folkeparti,67,14,12.0,0.8571428571428571,immigration
-Siumut,Enhedslisten,67,5,4.0,0.8,immigration
-Siumut,Kristendemokraterne,67,1,0.0,0.0,immigration
-Siumut,Liberal Alliance,67,3,3.0,1.0,immigration
-Siumut,Not able to assign,67,1,1.0,1.0,immigration
-Siumut,Radikale Venstre,67,15,13.0,0.8666666666666667,immigration
-Siumut,Socialdemokratiet,67,80,80.0,1.0,immigration
-Siumut,Socialistisk Folkeparti,67,18,17.0,0.9444444444444444,immigration
-Siumut,Uden for folketingsgrupperne,67,11,7.0,0.6363636363636364,immigration
-Siumut,Venstre,67,58,48.0,0.8275862068965517,immigration
-Socialdemokratiet,Danmarksdemokraterne,67,3809,1688.0,0.4431609346285114,immigration
-Socialdemokratiet,Dansk Folkeparti,67,19389,8648.0,0.4460260972716489,immigration
-Socialdemokratiet,Det Konservative Folkeparti,67,14460,8038.0,0.5558782849239281,immigration
-Socialdemokratiet,Enhedslisten,67,4147,2886.0,0.6959247648902821,immigration
-Socialdemokratiet,Javnaðarflokkurin,67,27,27.0,1.0,immigration
-Socialdemokratiet,Kristendemokraterne,67,1345,754.0,0.5605947955390335,immigration
-Socialdemokratiet,Liberal Alliance,67,1172,629.0,0.5366894197952219,immigration
-Socialdemokratiet,Moderaterne,67,27,24.0,0.8888888888888888,immigration
-Socialdemokratiet,Not able to assign,67,114,111.0,0.9736842105263158,immigration
-Socialdemokratiet,Radikale Venstre,67,6986,5529.0,0.7914400229029488,immigration
-Socialdemokratiet,Sambandsflokkurin,67,10,5.0,0.5,immigration
-Socialdemokratiet,Siumut,67,74,74.0,1.0,immigration
+Radikale Venstre,Sambandsflokkurin,67,7,3.0,0.42857142857142855,immigration
+Radikale Venstre,Siumut,67,23,19.0,0.8260869565217391,immigration
+Radikale Venstre,Socialdemokratiet,67,15521,12389.0,0.7982088782939244,immigration
+Radikale Venstre,Socialistisk Folkeparti,67,6584,5274.0,0.8010328068043743,immigration
+Radikale Venstre,Uden for folketingsgrupperne,67,1284,676.0,0.5264797507788161,immigration
+Radikale Venstre,Venstre,67,15504,7890.0,0.5089009287925697,immigration
+Sambandsflokkurin,Socialdemokratiet,67,59,31.0,0.5254237288135594,immigration
+Sambandsflokkurin,Socialistisk Folkeparti,67,24,11.0,0.4583333333333333,immigration
+Sambandsflokkurin,Uden for folketingsgrupperne,67,5,4.0,0.8,immigration
+Sambandsflokkurin,Venstre,67,61,61.0,1.0,immigration
+Siumut,Socialdemokratiet,67,154,154.0,1.0,immigration
+Siumut,Socialistisk Folkeparti,67,52,51.0,0.9807692307692307,immigration
+Siumut,Uden for folketingsgrupperne,67,12,7.0,0.5833333333333334,immigration
+Siumut,Venstre,67,153,125.0,0.8169934640522876,immigration
 Socialdemokratiet,Socialdemokratiet,67,48104,47800.0,0.9936803592216863,immigration
-Socialdemokratiet,Socialistisk Folkeparti,67,18318,17379.0,0.9487389452997053,immigration
-Socialdemokratiet,Uden for folketingsgrupperne,67,5009,2896.0,0.5781593132361749,immigration
-Socialdemokratiet,Venstre,67,43391,24174.0,0.5571201401212234,immigration
-Socialistisk Folkeparti,Danmarksdemokraterne,67,1965,753.0,0.383206106870229,immigration
-Socialistisk Folkeparti,Dansk Folkeparti,67,9055,3428.0,0.3785753727222529,immigration
-Socialistisk Folkeparti,Det Konservative Folkeparti,67,7012,3457.0,0.4930119794637764,immigration
-Socialistisk Folkeparti,Enhedslisten,67,1884,1381.0,0.7330148619957537,immigration
-Socialistisk Folkeparti,Javnaðarflokkurin,67,10,10.0,1.0,immigration
-Socialistisk Folkeparti,Kristendemokraterne,67,549,248.0,0.4517304189435337,immigration
-Socialistisk Folkeparti,Liberal Alliance,67,479,260.0,0.5427974947807933,immigration
-Socialistisk Folkeparti,Moderaterne,67,19,10.0,0.5263157894736842,immigration
-Socialistisk Folkeparti,Not able to assign,67,44,34.0,0.7727272727272727,immigration
-Socialistisk Folkeparti,Radikale Venstre,67,3271,2601.0,0.7951696728829104,immigration
-Socialistisk Folkeparti,Sambandsflokkurin,67,1,1.0,1.0,immigration
-Socialistisk Folkeparti,Siumut,67,34,34.0,1.0,immigration
-Socialistisk Folkeparti,Socialdemokratiet,67,23284,21721.0,0.9328723587012541,immigration
+Socialdemokratiet,Socialistisk Folkeparti,67,41602,39100.0,0.9398586606413153,immigration
+Socialdemokratiet,Uden for folketingsgrupperne,67,8436,4876.0,0.5779990516832622,immigration
+Socialdemokratiet,Venstre,67,98450,54854.0,0.5571762315896394,immigration
 Socialistisk Folkeparti,Socialistisk Folkeparti,67,8205,8145.0,0.9926873857404022,immigration
-Socialistisk Folkeparti,Uden for folketingsgrupperne,67,2320,1169.0,0.5038793103448276,immigration
-Socialistisk Folkeparti,Venstre,67,21249,10338.0,0.48651701256529717,immigration
-Uden for folketingsgrupperne,Danmarksdemokraterne,67,269,206.0,0.7657992565055762,immigration
-Uden for folketingsgrupperne,Dansk Folkeparti,67,1408,1089.0,0.7734375,immigration
-Uden for folketingsgrupperne,Det Konservative Folkeparti,67,1044,801.0,0.7672413793103449,immigration
-Uden for folketingsgrupperne,Enhedslisten,67,244,91.0,0.3729508196721312,immigration
-Uden for folketingsgrupperne,Javnaðarflokkurin,67,2,2.0,1.0,immigration
-Uden for folketingsgrupperne,Kristendemokraterne,67,103,82.0,0.7961165048543689,immigration
-Uden for folketingsgrupperne,Liberal Alliance,67,95,67.0,0.7052631578947368,immigration
-Uden for folketingsgrupperne,Moderaterne,67,4,3.0,0.75,immigration
-Uden for folketingsgrupperne,Not able to assign,67,14,7.0,0.5,immigration
-Uden for folketingsgrupperne,Radikale Venstre,67,462,220.0,0.47619047619047616,immigration
-Uden for folketingsgrupperne,Sambandsflokkurin,67,1,1.0,1.0,immigration
-Uden for folketingsgrupperne,Siumut,67,1,0.0,0.0,immigration
-Uden for folketingsgrupperne,Socialdemokratiet,67,3427,1980.0,0.5777648088707324,immigration
-Uden for folketingsgrupperne,Socialistisk Folkeparti,67,1202,611.0,0.5083194675540765,immigration
+Socialistisk Folkeparti,Uden for folketingsgrupperne,67,3522,1780.0,0.5053946621237932,immigration
+Socialistisk Folkeparti,Venstre,67,41583,20175.0,0.4851742298535459,immigration
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,67,287,196.0,0.6829268292682927,immigration
-Uden for folketingsgrupperne,Venstre,67,3076,2324.0,0.7555266579973993,immigration
-Venstre,Danmarksdemokraterne,67,4786,4215.0,0.8806936899289595,immigration
-Venstre,Dansk Folkeparti,67,21751,19004.0,0.8737069560020229,immigration
-Venstre,Det Konservative Folkeparti,67,17004,16995.0,0.9994707127734651,immigration
-Venstre,Enhedslisten,67,4531,1246.0,0.2749944824542044,immigration
-Venstre,Javnaðarflokkurin,67,26,26.0,1.0,immigration
-Venstre,Kristendemokraterne,67,1303,1245.0,0.955487336914812,immigration
-Venstre,Liberal Alliance,67,1171,937.0,0.8001707941929974,immigration
-Venstre,Moderaterne,67,39,39.0,1.0,immigration
-Venstre,Not able to assign,67,108,82.0,0.7592592592592593,immigration
-Venstre,Radikale Venstre,67,7800,4122.0,0.5284615384615384,immigration
-Venstre,Sambandsflokkurin,67,9,9.0,1.0,immigration
-Venstre,Siumut,67,95,77.0,0.8105263157894737,immigration
-Venstre,Socialdemokratiet,67,55059,30680.0,0.5572204362592855,immigration
-Venstre,Socialistisk Folkeparti,67,20334,9837.0,0.4837710239008557,immigration
-Venstre,Uden for folketingsgrupperne,67,5316,4226.0,0.7949586155003763,immigration
+Uden for folketingsgrupperne,Venstre,67,8392,6550.0,0.7805052430886559,immigration
 Venstre,Venstre,67,47674,47648.0,0.9994546293577212,immigration
-Alternativet,Det Konservative Folkeparti,68,26,16.0,0.6153846153846154,immigration
-Alternativet,Liberal Alliance,68,53,33.0,0.6226415094339622,immigration
-Alternativet,Radikale Venstre,68,59,54.0,0.9152542372881356,immigration
-Alternativet,Socialdemokratiet,68,24,19.0,0.7916666666666666,immigration
-Alternativet,Socialistisk Folkeparti,68,74,70.0,0.9459459459459459,immigration
-Alternativet,Venstre,68,14,10.0,0.7142857142857143,immigration
-Danmarksdemokraterne,Alternativet,68,446,153.0,0.3430493273542601,immigration
+Alternativet,Danmarksdemokraterne,68,446,153.0,0.3430493273542601,immigration
+Alternativet,Dansk Folkeparti,68,599,180.0,0.3005008347245409,immigration
+Alternativet,Det Konservative Folkeparti,68,445,257.0,0.5775280898876405,immigration
+Alternativet,Enhedslisten,68,726,621.0,0.8553719008264463,immigration
+Alternativet,Liberal Alliance,68,396,258.0,0.6515151515151515,immigration
+Alternativet,Moderaterne,68,46,25.0,0.5434782608695652,immigration
+Alternativet,Radikale Venstre,68,837,766.0,0.9151732377538829,immigration
+Alternativet,Sambandsflokkurin,68,3,2.0,0.6666666666666666,immigration
+Alternativet,Socialdemokratiet,68,2601,2391.0,0.9192618223760092,immigration
+Alternativet,Socialistisk Folkeparti,68,698,668.0,0.9570200573065902,immigration
+Alternativet,Uden for folketingsgrupperne,68,173,71.0,0.41040462427745666,immigration
+Alternativet,Venstre,68,2371,1482.0,0.6250527203711514,immigration
 Danmarksdemokraterne,Danmarksdemokraterne,68,1502,1362.0,0.9067909454061251,immigration
-Danmarksdemokraterne,Dansk Folkeparti,68,3787,3621.0,0.9561658304726697,immigration
-Danmarksdemokraterne,Det Konservative Folkeparti,68,2679,1776.0,0.6629339305711086,immigration
-Danmarksdemokraterne,Enhedslisten,68,4437,1045.0,0.23551949515438358,immigration
-Danmarksdemokraterne,Liberal Alliance,68,3015,1644.0,0.545273631840796,immigration
-Danmarksdemokraterne,Moderaterne,68,182,121.0,0.6648351648351648,immigration
-Danmarksdemokraterne,Radikale Venstre,68,5592,2051.0,0.3667739628040057,immigration
-Danmarksdemokraterne,Sambandsflokkurin,68,6,4.0,0.6666666666666666,immigration
-Danmarksdemokraterne,Socialdemokratiet,68,15506,5787.0,0.37321037017928543,immigration
-Danmarksdemokraterne,Socialistisk Folkeparti,68,3972,1189.0,0.29934541792547836,immigration
-Danmarksdemokraterne,Uden for folketingsgrupperne,68,1277,1123.0,0.8794048551292091,immigration
-Danmarksdemokraterne,Venstre,68,12094,7805.0,0.6453613361997684,immigration
-Dansk Folkeparti,Alternativet,68,599,180.0,0.3005008347245409,immigration
-Dansk Folkeparti,Danmarksdemokraterne,68,1393,1349.0,0.968413496051687,immigration
+Danmarksdemokraterne,Dansk Folkeparti,68,5180,4970.0,0.9594594594594594,immigration
+Danmarksdemokraterne,Det Konservative Folkeparti,68,3738,2466.0,0.6597110754414125,immigration
+Danmarksdemokraterne,Enhedslisten,68,6189,1510.0,0.24398125706899337,immigration
+Danmarksdemokraterne,Liberal Alliance,68,3443,1881.0,0.5463258785942492,immigration
+Danmarksdemokraterne,Moderaterne,68,336,227.0,0.6755952380952381,immigration
+Danmarksdemokraterne,Radikale Venstre,68,7170,2737.0,0.3817294281729428,immigration
+Danmarksdemokraterne,Sambandsflokkurin,68,18,13.0,0.7222222222222222,immigration
+Danmarksdemokraterne,Socialdemokratiet,68,22415,8672.0,0.38688378318090566,immigration
+Danmarksdemokraterne,Socialistisk Folkeparti,68,6031,1846.0,0.3060852263306251,immigration
+Danmarksdemokraterne,Uden for folketingsgrupperne,68,1368,1205.0,0.8808479532163743,immigration
+Danmarksdemokraterne,Venstre,68,20069,13121.0,0.6537944092879565,immigration
 Dansk Folkeparti,Dansk Folkeparti,68,3501,3501.0,1.0,immigration
-Dansk Folkeparti,Det Konservative Folkeparti,68,2872,1913.0,0.6660863509749304,immigration
-Dansk Folkeparti,Enhedslisten,68,4848,962.0,0.19843234323432343,immigration
-Dansk Folkeparti,Liberal Alliance,68,3045,1725.0,0.5665024630541872,immigration
-Dansk Folkeparti,Moderaterne,68,130,101.0,0.7769230769230769,immigration
-Dansk Folkeparti,Radikale Venstre,68,5573,2118.0,0.38004665350798494,immigration
-Dansk Folkeparti,Sambandsflokkurin,68,5,3.0,0.6,immigration
-Dansk Folkeparti,Socialdemokratiet,68,16230,6379.0,0.39303758471965494,immigration
-Dansk Folkeparti,Socialistisk Folkeparti,68,4423,1174.0,0.26543070314266337,immigration
-Dansk Folkeparti,Uden for folketingsgrupperne,68,1111,964.0,0.8676867686768677,immigration
-Dansk Folkeparti,Venstre,68,11685,7712.0,0.6599914420196834,immigration
-Det Konservative Folkeparti,Alternativet,68,419,241.0,0.5751789976133651,immigration
-Det Konservative Folkeparti,Danmarksdemokraterne,68,1059,690.0,0.6515580736543909,immigration
-Det Konservative Folkeparti,Dansk Folkeparti,68,2636,1656.0,0.6282245827010622,immigration
+Dansk Folkeparti,Det Konservative Folkeparti,68,5508,3569.0,0.6479665940450254,immigration
+Dansk Folkeparti,Enhedslisten,68,9275,1841.0,0.19849056603773585,immigration
+Dansk Folkeparti,Liberal Alliance,68,5204,2839.0,0.5455418908531898,immigration
+Dansk Folkeparti,Moderaterne,68,498,342.0,0.6867469879518072,immigration
+Dansk Folkeparti,Radikale Venstre,68,10836,4075.0,0.3760612772240679,immigration
+Dansk Folkeparti,Sambandsflokkurin,68,17,11.0,0.6470588235294118,immigration
+Dansk Folkeparti,Socialdemokratiet,68,33670,12856.0,0.38182358182358184,immigration
+Dansk Folkeparti,Socialistisk Folkeparti,68,9036,2313.0,0.2559760956175299,immigration
+Dansk Folkeparti,Uden for folketingsgrupperne,68,1974,1824.0,0.9240121580547113,immigration
+Dansk Folkeparti,Venstre,68,29830,18996.0,0.6368085819644653,immigration
 Det Konservative Folkeparti,Det Konservative Folkeparti,68,1574,1574.0,1.0,immigration
-Det Konservative Folkeparti,Enhedslisten,68,3349,1453.0,0.43386085398626456,immigration
-Det Konservative Folkeparti,Liberal Alliance,68,2095,1707.0,0.8147971360381862,immigration
-Det Konservative Folkeparti,Moderaterne,68,114,113.0,0.9912280701754386,immigration
-Det Konservative Folkeparti,Radikale Venstre,68,3885,2569.0,0.6612612612612613,immigration
-Det Konservative Folkeparti,Sambandsflokkurin,68,2,2.0,1.0,immigration
-Det Konservative Folkeparti,Socialdemokratiet,68,10795,7289.0,0.675220009263548,immigration
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,2869,1654.0,0.5765074939003137,immigration
-Det Konservative Folkeparti,Uden for folketingsgrupperne,68,822,557.0,0.6776155717761557,immigration
-Det Konservative Folkeparti,Venstre,68,7993,7566.0,0.9465782559739773,immigration
-Enhedslisten,Alternativet,68,726,621.0,0.8553719008264463,immigration
-Enhedslisten,Danmarksdemokraterne,68,1752,465.0,0.2654109589041096,immigration
-Enhedslisten,Dansk Folkeparti,68,4427,879.0,0.1985543257284843,immigration
-Enhedslisten,Det Konservative Folkeparti,68,3139,1307.0,0.4163746416056069,immigration
+Det Konservative Folkeparti,Enhedslisten,68,6488,2760.0,0.4254007398273736,immigration
+Det Konservative Folkeparti,Liberal Alliance,68,3622,2900.0,0.800662617338487,immigration
+Det Konservative Folkeparti,Moderaterne,68,361,351.0,0.9722991689750693,immigration
+Det Konservative Folkeparti,Radikale Venstre,68,7537,4948.0,0.6564946265092212,immigration
+Det Konservative Folkeparti,Sambandsflokkurin,68,15,15.0,1.0,immigration
+Det Konservative Folkeparti,Socialdemokratiet,68,23483,15472.0,0.6588596005621088,immigration
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,6285,3568.0,0.5677008750994431,immigration
+Det Konservative Folkeparti,Uden for folketingsgrupperne,68,1443,955.0,0.6618156618156619,immigration
+Det Konservative Folkeparti,Venstre,68,20891,19609.0,0.938633861471447,immigration
 Enhedslisten,Enhedslisten,68,4807,4663.0,0.9700436862908258,immigration
-Enhedslisten,Liberal Alliance,68,3652,1642.0,0.44961664841182913,immigration
-Enhedslisten,Moderaterne,68,211,60.0,0.2843601895734597,immigration
-Enhedslisten,Radikale Venstre,68,6492,4732.0,0.7288971041281578,immigration
-Enhedslisten,Sambandsflokkurin,68,2,1.0,0.5,immigration
-Enhedslisten,Socialdemokratiet,68,18356,13103.0,0.7138265417302244,immigration
-Enhedslisten,Socialistisk Folkeparti,68,4994,4141.0,0.829195034040849,immigration
-Enhedslisten,Uden for folketingsgrupperne,68,1448,430.0,0.2969613259668508,immigration
-Enhedslisten,Venstre,68,13543,5203.0,0.38418371114228755,immigration
-Liberal Alliance,Alternativet,68,343,225.0,0.6559766763848397,immigration
-Liberal Alliance,Danmarksdemokraterne,68,428,237.0,0.5537383177570093,immigration
-Liberal Alliance,Dansk Folkeparti,68,2159,1114.0,0.5159796201945345,immigration
-Liberal Alliance,Det Konservative Folkeparti,68,1527,1193.0,0.7812704649639817,immigration
-Liberal Alliance,Enhedslisten,68,2433,1196.0,0.49157418824496507,immigration
+Enhedslisten,Liberal Alliance,68,6085,2838.0,0.46639276910435495,immigration
+Enhedslisten,Moderaterne,68,611,213.0,0.3486088379705401,immigration
+Enhedslisten,Radikale Venstre,68,12614,9256.0,0.7337878547645473,immigration
+Enhedslisten,Sambandsflokkurin,68,24,8.0,0.3333333333333333,immigration
+Enhedslisten,Socialdemokratiet,68,39324,28668.0,0.7290204455294477,immigration
+Enhedslisten,Socialistisk Folkeparti,68,10504,8781.0,0.835967250571211,immigration
+Enhedslisten,Uden for folketingsgrupperne,68,2385,655.0,0.2746331236897275,immigration
+Enhedslisten,Venstre,68,34922,14449.0,0.4137506442929958,immigration
 Liberal Alliance,Liberal Alliance,68,1356,1344.0,0.9911504424778761,immigration
-Liberal Alliance,Moderaterne,68,17,16.0,0.9411764705882353,immigration
-Liberal Alliance,Radikale Venstre,68,2754,1852.0,0.6724763979665941,immigration
-Liberal Alliance,Socialdemokratiet,68,8477,5818.0,0.6863277102748614,immigration
-Liberal Alliance,Socialistisk Folkeparti,68,2274,1331.0,0.5853122251539138,immigration
-Liberal Alliance,Uden for folketingsgrupperne,68,556,367.0,0.6600719424460432,immigration
-Liberal Alliance,Venstre,68,4945,3981.0,0.8050556117290192,immigration
-Moderaterne,Alternativet,68,46,25.0,0.5434782608695652,immigration
-Moderaterne,Danmarksdemokraterne,68,154,106.0,0.6883116883116883,immigration
-Moderaterne,Dansk Folkeparti,68,368,241.0,0.654891304347826,immigration
-Moderaterne,Det Konservative Folkeparti,68,247,238.0,0.9635627530364372,immigration
-Moderaterne,Enhedslisten,68,400,153.0,0.3825,immigration
-Moderaterne,Liberal Alliance,68,316,284.0,0.8987341772151899,immigration
-Moderaterne,Radikale Venstre,68,518,365.0,0.7046332046332047,immigration
-Moderaterne,Socialdemokratiet,68,1525,1095.0,0.7180327868852459,immigration
-Moderaterne,Socialistisk Folkeparti,68,325,180.0,0.5538461538461539,immigration
+Liberal Alliance,Moderaterne,68,333,300.0,0.9009009009009009,immigration
+Liberal Alliance,Radikale Venstre,68,7066,4708.0,0.6662892725728843,immigration
+Liberal Alliance,Sambandsflokkurin,68,12,8.0,0.6666666666666666,immigration
+Liberal Alliance,Socialdemokratiet,68,22006,14636.0,0.6650913387258021,immigration
+Liberal Alliance,Socialistisk Folkeparti,68,5883,3356.0,0.5704572497025328,immigration
+Liberal Alliance,Uden for folketingsgrupperne,68,1305,778.0,0.5961685823754789,immigration
+Liberal Alliance,Venstre,68,19527,16188.0,0.8290059917037947,immigration
+Moderaterne,Radikale Venstre,68,671,489.0,0.7287630402384501,immigration
+Moderaterne,Socialdemokratiet,68,2149,1549.0,0.7208003722661703,immigration
+Moderaterne,Socialistisk Folkeparti,68,550,301.0,0.5472727272727272,immigration
 Moderaterne,Uden for folketingsgrupperne,68,142,104.0,0.7323943661971831,immigration
-Moderaterne,Venstre,68,948,947.0,0.9989451476793249,immigration
-Radikale Venstre,Alternativet,68,778,712.0,0.9151670951156813,immigration
-Radikale Venstre,Danmarksdemokraterne,68,1578,686.0,0.4347275031685678,immigration
-Radikale Venstre,Dansk Folkeparti,68,5263,1957.0,0.37184115523465705,immigration
-Radikale Venstre,Det Konservative Folkeparti,68,3652,2379.0,0.6514238773274917,immigration
-Radikale Venstre,Enhedslisten,68,6122,4524.0,0.7389741914407056,immigration
-Radikale Venstre,Liberal Alliance,68,4312,2856.0,0.6623376623376623,immigration
-Radikale Venstre,Moderaterne,68,153,124.0,0.8104575163398693,immigration
+Moderaterne,Venstre,68,1880,1867.0,0.9930851063829788,immigration
 Radikale Venstre,Radikale Venstre,68,6673,6673.0,1.0,immigration
-Radikale Venstre,Sambandsflokkurin,68,3,2.0,0.6666666666666666,immigration
-Radikale Venstre,Socialdemokratiet,68,20983,20976.0,0.9996663966067769,immigration
-Radikale Venstre,Socialistisk Folkeparti,68,5370,4812.0,0.8960893854748604,immigration
-Radikale Venstre,Uden for folketingsgrupperne,68,1519,722.0,0.47531270572745227,immigration
-Radikale Venstre,Venstre,68,14174,9451.0,0.6667842528573444,immigration
-Sambandsflokkurin,Alternativet,68,3,2.0,0.6666666666666666,immigration
-Sambandsflokkurin,Danmarksdemokraterne,68,12,9.0,0.75,immigration
-Sambandsflokkurin,Dansk Folkeparti,68,12,8.0,0.6666666666666666,immigration
-Sambandsflokkurin,Det Konservative Folkeparti,68,13,13.0,1.0,immigration
-Sambandsflokkurin,Enhedslisten,68,22,7.0,0.3181818181818182,immigration
-Sambandsflokkurin,Liberal Alliance,68,12,8.0,0.6666666666666666,immigration
-Sambandsflokkurin,Radikale Venstre,68,26,17.0,0.6538461538461539,immigration
-Sambandsflokkurin,Socialdemokratiet,68,73,49.0,0.6712328767123288,immigration
-Sambandsflokkurin,Socialistisk Folkeparti,68,23,15.0,0.6521739130434783,immigration
+Radikale Venstre,Sambandsflokkurin,68,29,19.0,0.6551724137931034,immigration
+Radikale Venstre,Socialdemokratiet,68,45700,45674.0,0.9994310722100657,immigration
+Radikale Venstre,Socialistisk Folkeparti,68,12304,11000.0,0.8940182054616385,immigration
+Radikale Venstre,Uden for folketingsgrupperne,68,2755,1286.0,0.4667876588021779,immigration
+Radikale Venstre,Venstre,68,40651,26820.0,0.659762367469435,immigration
+Sambandsflokkurin,Socialdemokratiet,68,91,61.0,0.6703296703296703,immigration
+Sambandsflokkurin,Socialistisk Folkeparti,68,27,18.0,0.6666666666666666,immigration
 Sambandsflokkurin,Uden for folketingsgrupperne,68,9,6.0,0.6666666666666666,immigration
-Sambandsflokkurin,Venstre,68,72,72.0,1.0,immigration
-Socialdemokratiet,Alternativet,68,2577,2372.0,0.9204501358168413,immigration
-Socialdemokratiet,Danmarksdemokraterne,68,6909,2885.0,0.417571283832682,immigration
-Socialdemokratiet,Dansk Folkeparti,68,17440,6477.0,0.3713876146788991,immigration
-Socialdemokratiet,Det Konservative Folkeparti,68,12688,8183.0,0.6449401008827238,immigration
-Socialdemokratiet,Enhedslisten,68,20968,15565.0,0.7423216329645174,immigration
-Socialdemokratiet,Liberal Alliance,68,13529,8818.0,0.6517850543277404,immigration
-Socialdemokratiet,Moderaterne,68,624,454.0,0.7275641025641025,immigration
-Socialdemokratiet,Radikale Venstre,68,24717,24698.0,0.9992312982967189,immigration
-Socialdemokratiet,Sambandsflokkurin,68,18,12.0,0.6666666666666666,immigration
+Sambandsflokkurin,Venstre,68,79,79.0,1.0,immigration
 Socialdemokratiet,Socialdemokratiet,68,69011,68919.0,0.9986668791931721,immigration
-Socialdemokratiet,Socialistisk Folkeparti,68,19061,17083.0,0.89622789990032,immigration
-Socialdemokratiet,Uden for folketingsgrupperne,68,5366,2608.0,0.48602310846067837,immigration
-Socialdemokratiet,Venstre,68,51649,33474.0,0.6481054812290654,immigration
-Socialistisk Folkeparti,Alternativet,68,624,598.0,0.9583333333333334,immigration
-Socialistisk Folkeparti,Danmarksdemokraterne,68,2059,657.0,0.3190869354055367,immigration
-Socialistisk Folkeparti,Dansk Folkeparti,68,4613,1139.0,0.24691090396704965,immigration
-Socialistisk Folkeparti,Det Konservative Folkeparti,68,3416,1914.0,0.560304449648712,immigration
-Socialistisk Folkeparti,Enhedslisten,68,5510,4640.0,0.8421052631578947,immigration
-Socialistisk Folkeparti,Liberal Alliance,68,3609,2025.0,0.5610972568578554,immigration
-Socialistisk Folkeparti,Moderaterne,68,225,121.0,0.5377777777777778,immigration
-Socialistisk Folkeparti,Radikale Venstre,68,6934,6188.0,0.8924141909431785,immigration
-Socialistisk Folkeparti,Sambandsflokkurin,68,4,3.0,0.75,immigration
-Socialistisk Folkeparti,Socialdemokratiet,68,19080,16912.0,0.8863731656184486,immigration
+Socialdemokratiet,Socialistisk Folkeparti,68,38141,33995.0,0.891298078183582,immigration
+Socialdemokratiet,Uden for folketingsgrupperne,68,8612,4076.0,0.47329307942405946,immigration
+Socialdemokratiet,Venstre,68,126605,83505.0,0.659571106986296,immigration
 Socialistisk Folkeparti,Socialistisk Folkeparti,68,4608,4587.0,0.9954427083333334,immigration
-Socialistisk Folkeparti,Uden for folketingsgrupperne,68,1524,557.0,0.36548556430446194,immigration
-Socialistisk Folkeparti,Venstre,68,15494,8657.0,0.5587324125467923,immigration
-Uden for folketingsgrupperne,Alternativet,68,173,71.0,0.41040462427745666,immigration
-Uden for folketingsgrupperne,Danmarksdemokraterne,68,91,82.0,0.9010989010989011,immigration
-Uden for folketingsgrupperne,Dansk Folkeparti,68,863,860.0,0.996523754345307,immigration
-Uden for folketingsgrupperne,Det Konservative Folkeparti,68,621,398.0,0.6409017713365539,immigration
-Uden for folketingsgrupperne,Enhedslisten,68,937,225.0,0.240128068303095,immigration
-Uden for folketingsgrupperne,Liberal Alliance,68,749,411.0,0.5487316421895861,immigration
-Uden for folketingsgrupperne,Radikale Venstre,68,1236,564.0,0.4563106796116505,immigration
-Uden for folketingsgrupperne,Socialdemokratiet,68,3246,1468.0,0.452248921749846,immigration
-Uden for folketingsgrupperne,Socialistisk Folkeparti,68,777,286.0,0.3680823680823681,immigration
+Socialistisk Folkeparti,Uden for folketingsgrupperne,68,2301,843.0,0.3663624511082138,immigration
+Socialistisk Folkeparti,Venstre,68,34049,19252.0,0.5654204235072983,immigration
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,68,169,135.0,0.7988165680473372,immigration
-Uden for folketingsgrupperne,Venstre,68,1737,1106.0,0.6367299942429476,immigration
-Venstre,Alternativet,68,2357,1472.0,0.6245226983453542,immigration
-Venstre,Danmarksdemokraterne,68,7975,5316.0,0.6665830721003135,immigration
-Venstre,Dansk Folkeparti,68,18145,11284.0,0.6218793055938275,immigration
-Venstre,Det Konservative Folkeparti,68,12898,12043.0,0.9337106528143898,immigration
-Venstre,Enhedslisten,68,21379,9246.0,0.43248047149071517,immigration
-Venstre,Liberal Alliance,68,14582,12207.0,0.8371279659854616,immigration
-Venstre,Moderaterne,68,932,920.0,0.9871244635193133,immigration
-Venstre,Radikale Venstre,68,26477,17369.0,0.6560033236393851,immigration
-Venstre,Sambandsflokkurin,68,7,7.0,1.0,immigration
-Venstre,Socialdemokratiet,68,74956,50031.0,0.6674715833288862,immigration
-Venstre,Socialistisk Folkeparti,68,18555,10595.0,0.5710051199137699,immigration
-Venstre,Uden for folketingsgrupperne,68,5925,3859.0,0.6513080168776372,immigration
+Uden for folketingsgrupperne,Venstre,68,7662,4965.0,0.6480031323414253,immigration
 Venstre,Venstre,68,54518,53871.0,0.9881323599545104,immigration
 Alternativet,Alternativet,69,4138,4055.0,0.9799420009666505,immigration
-Alternativet,Danmarksdemokraterne,69,3148,651.0,0.2067979669631512,immigration
-Alternativet,Dansk Folkeparti,69,10743,2001.0,0.18626082099972074,immigration
-Alternativet,Det Konservative Folkeparti,69,1839,670.0,0.3643284393692224,immigration
-Alternativet,Enhedslisten,69,6916,6182.0,0.8938692886061307,immigration
-Alternativet,Liberal Alliance,69,4728,1808.0,0.3824027072758037,immigration
-Alternativet,Moderaterne,69,570,226.0,0.39649122807017545,immigration
-Alternativet,Radikale Venstre,69,3548,3084.0,0.8692220969560316,immigration
-Alternativet,Socialdemokratiet,69,19757,10306.0,0.5216379004909653,immigration
-Alternativet,Socialistisk Folkeparti,69,3571,3143.0,0.8801456174740969,immigration
-Alternativet,Tjóðveldi,69,5,0.0,0.0,immigration
-Alternativet,Uden for folketingsgrupperne,69,2265,631.0,0.2785871964679912,immigration
-Alternativet,Venstre,69,11768,4666.0,0.39649898028552005,immigration
-Danmarksdemokraterne,Alternativet,69,7754,1891.0,0.2438741294815579,immigration
+Alternativet,Danmarksdemokraterne,69,10902,2542.0,0.23316822601357548,immigration
+Alternativet,Dansk Folkeparti,69,28843,5872.0,0.2035849252851645,immigration
+Alternativet,Det Konservative Folkeparti,69,7350,2844.0,0.38693877551020406,immigration
+Alternativet,Enhedslisten,69,15989,14241.0,0.8906748389517793,immigration
+Alternativet,Inuit Ataqatigiit,69,32,7.0,0.21875,immigration
+Alternativet,Liberal Alliance,69,12350,4687.0,0.3795141700404858,immigration
+Alternativet,Moderaterne,69,2112,838.0,0.39678030303030304,immigration
+Alternativet,Radikale Venstre,69,7431,6437.0,0.8662360382182748,immigration
+Alternativet,Socialdemokratiet,69,52047,27682.0,0.5318654293234961,immigration
+Alternativet,Socialistisk Folkeparti,69,7943,6936.0,0.8732217046455999,immigration
+Alternativet,Tjóðveldi,69,11,0.0,0.0,immigration
+Alternativet,Uden for folketingsgrupperne,69,5212,1443.0,0.2768610897927859,immigration
+Alternativet,Venstre,69,30230,11824.0,0.3911346344690705,immigration
 Danmarksdemokraterne,Danmarksdemokraterne,69,5376,4811.0,0.8949032738095238,immigration
-Danmarksdemokraterne,Dansk Folkeparti,69,21102,19863.0,0.9412851862382713,immigration
-Danmarksdemokraterne,Det Konservative Folkeparti,69,4397,3352.0,0.7623379576984307,immigration
-Danmarksdemokraterne,Enhedslisten,69,12039,2879.0,0.2391394634105823,immigration
-Danmarksdemokraterne,Liberal Alliance,69,9787,7094.0,0.7248390722386839,immigration
-Danmarksdemokraterne,Moderaterne,69,561,410.0,0.7308377896613191,immigration
-Danmarksdemokraterne,Radikale Venstre,69,6355,1844.0,0.2901652242328875,immigration
-Danmarksdemokraterne,Socialdemokratiet,69,36949,21023.0,0.5689734498903894,immigration
-Danmarksdemokraterne,Socialistisk Folkeparti,69,6218,1835.0,0.29511096815696364,immigration
-Danmarksdemokraterne,Tjóðveldi,69,12,0.0,0.0,immigration
-Danmarksdemokraterne,Uden for folketingsgrupperne,69,5375,4498.0,0.8368372093023256,immigration
-Danmarksdemokraterne,Venstre,69,19992,14812.0,0.7408963585434174,immigration
-Dansk Folkeparti,Alternativet,69,18100,3871.0,0.21386740331491713,immigration
-Dansk Folkeparti,Danmarksdemokraterne,69,10554,9876.0,0.9357589539511085,immigration
+Danmarksdemokraterne,Dansk Folkeparti,69,31656,29739.0,0.939442759666414,immigration
+Danmarksdemokraterne,Det Konservative Folkeparti,69,8020,6037.0,0.7527431421446384,immigration
+Danmarksdemokraterne,Enhedslisten,69,17776,4325.0,0.24330558055805582,immigration
+Danmarksdemokraterne,Inuit Ataqatigiit,69,36,8.0,0.2222222222222222,immigration
+Danmarksdemokraterne,Liberal Alliance,69,13693,10039.0,0.733148323961148,immigration
+Danmarksdemokraterne,Moderaterne,69,2300,1648.0,0.7165217391304348,immigration
+Danmarksdemokraterne,Radikale Venstre,69,8373,2352.0,0.28090290218559655,immigration
+Danmarksdemokraterne,Socialdemokratiet,69,57836,32457.0,0.5611902621204786,immigration
+Danmarksdemokraterne,Socialistisk Folkeparti,69,8899,2618.0,0.2941903584672435,immigration
+Danmarksdemokraterne,Tjóðveldi,69,14,0.0,0.0,immigration
+Danmarksdemokraterne,Uden for folketingsgrupperne,69,5935,5019.0,0.8456613310867733,immigration
+Danmarksdemokraterne,Venstre,69,33417,24866.0,0.7441122781817637,immigration
 Dansk Folkeparti,Dansk Folkeparti,69,39672,39626.0,0.9988404920346844,immigration
-Dansk Folkeparti,Det Konservative Folkeparti,69,7967,5791.0,0.72687335257939,immigration
-Dansk Folkeparti,Enhedslisten,69,25086,5725.0,0.22821494060432113,immigration
-Dansk Folkeparti,Liberal Alliance,69,18106,12408.0,0.6852976913730255,immigration
-Dansk Folkeparti,Moderaterne,69,996,685.0,0.6877510040160643,immigration
-Dansk Folkeparti,Radikale Venstre,69,13090,3089.0,0.2359816653934301,immigration
-Dansk Folkeparti,Socialdemokratiet,69,74609,38126.0,0.5110107359701913,immigration
-Dansk Folkeparti,Socialistisk Folkeparti,69,13047,3393.0,0.26005978385835826,immigration
-Dansk Folkeparti,Tjóðveldi,69,14,0.0,0.0,immigration
-Dansk Folkeparti,Uden for folketingsgrupperne,69,10159,8290.0,0.8160251993306428,immigration
-Dansk Folkeparti,Venstre,69,41674,28777.0,0.6905264673417478,immigration
-Det Konservative Folkeparti,Alternativet,69,5511,2174.0,0.3944837597532208,immigration
-Det Konservative Folkeparti,Danmarksdemokraterne,69,3623,2685.0,0.7410985371239305,immigration
-Det Konservative Folkeparti,Dansk Folkeparti,69,13185,8997.0,0.6823663253697383,immigration
+Dansk Folkeparti,Det Konservative Folkeparti,69,21152,14788.0,0.6991301059001512,immigration
+Dansk Folkeparti,Enhedslisten,69,46651,10925.0,0.23418576236307903,immigration
+Dansk Folkeparti,Inuit Ataqatigiit,69,75,14.0,0.18666666666666668,immigration
+Dansk Folkeparti,Liberal Alliance,69,35925,24454.0,0.680695894224078,immigration
+Dansk Folkeparti,Moderaterne,69,6137,4054.0,0.660583346912172,immigration
+Dansk Folkeparti,Radikale Venstre,69,21773,5097.0,0.23409727644330133,immigration
+Dansk Folkeparti,Socialdemokratiet,69,151866,77044.0,0.5073156598580327,immigration
+Dansk Folkeparti,Socialistisk Folkeparti,69,23298,6193.0,0.26581680830972615,immigration
+Dansk Folkeparti,Tjóðveldi,69,30,0.0,0.0,immigration
+Dansk Folkeparti,Uden for folketingsgrupperne,69,15419,13004.0,0.8433750567481678,immigration
+Dansk Folkeparti,Venstre,69,87802,60254.0,0.6862486048153801,immigration
 Det Konservative Folkeparti,Det Konservative Folkeparti,69,2172,2164.0,0.996316758747698,immigration
-Det Konservative Folkeparti,Enhedslisten,69,8108,2764.0,0.34089787863838183,immigration
-Det Konservative Folkeparti,Liberal Alliance,69,5454,5241.0,0.9609460946094609,immigration
-Det Konservative Folkeparti,Moderaterne,69,685,660.0,0.9635036496350365,immigration
-Det Konservative Folkeparti,Radikale Venstre,69,3612,1748.0,0.4839424141749723,immigration
-Det Konservative Folkeparti,Socialdemokratiet,69,22231,16792.0,0.7553416400521794,immigration
-Det Konservative Folkeparti,Socialistisk Folkeparti,69,3550,1614.0,0.4546478873239437,immigration
-Det Konservative Folkeparti,Tjóðveldi,69,3,0.0,0.0,immigration
-Det Konservative Folkeparti,Uden for folketingsgrupperne,69,2714,2321.0,0.8551952837140752,immigration
-Det Konservative Folkeparti,Venstre,69,12933,12839.0,0.9927317714374082,immigration
-Enhedslisten,Alternativet,69,9073,8059.0,0.8882398324699659,immigration
-Enhedslisten,Danmarksdemokraterne,69,5737,1446.0,0.2520481087676486,immigration
-Enhedslisten,Dansk Folkeparti,69,21565,5200.0,0.24113146301878044,immigration
-Enhedslisten,Det Konservative Folkeparti,69,3645,1204.0,0.33031550068587107,immigration
+Det Konservative Folkeparti,Enhedslisten,69,11753,3968.0,0.337615927848209,immigration
+Det Konservative Folkeparti,Inuit Ataqatigiit,69,25,4.0,0.16,immigration
+Det Konservative Folkeparti,Liberal Alliance,69,9052,8610.0,0.9511710119310649,immigration
+Det Konservative Folkeparti,Moderaterne,69,1567,1508.0,0.9623484365028717,immigration
+Det Konservative Folkeparti,Radikale Venstre,69,5497,2597.0,0.4724395124613425,immigration
+Det Konservative Folkeparti,Socialdemokratiet,69,38319,28410.0,0.741407656776012,immigration
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,5894,2601.0,0.44129623345775365,immigration
+Det Konservative Folkeparti,Tjóðveldi,69,7,0.0,0.0,immigration
+Det Konservative Folkeparti,Uden for folketingsgrupperne,69,3733,3075.0,0.8237342619876775,immigration
+Det Konservative Folkeparti,Venstre,69,22216,22068.0,0.9933381346777097,immigration
 Enhedslisten,Enhedslisten,69,11521,11521.0,1.0,immigration
-Enhedslisten,Liberal Alliance,69,9251,3214.0,0.3474219003350989,immigration
-Enhedslisten,Moderaterne,69,664,235.0,0.3539156626506024,immigration
-Enhedslisten,Radikale Venstre,69,6406,5175.0,0.8078364033718389,immigration
-Enhedslisten,Socialdemokratiet,69,37500,18551.0,0.4946933333333333,immigration
-Enhedslisten,Socialistisk Folkeparti,69,6887,5938.0,0.8622041527515609,immigration
-Enhedslisten,Tjóðveldi,69,10,0.0,0.0,immigration
-Enhedslisten,Uden for folketingsgrupperne,69,4558,1261.0,0.2766564282580079,immigration
-Enhedslisten,Venstre,69,21696,7580.0,0.3493731563421829,immigration
-Inuit Ataqatigiit,Alternativet,69,32,7.0,0.21875,immigration
-Inuit Ataqatigiit,Danmarksdemokraterne,69,36,8.0,0.2222222222222222,immigration
-Inuit Ataqatigiit,Dansk Folkeparti,69,75,14.0,0.18666666666666668,immigration
-Inuit Ataqatigiit,Det Konservative Folkeparti,69,25,4.0,0.16,immigration
-Inuit Ataqatigiit,Enhedslisten,69,45,9.0,0.2,immigration
+Enhedslisten,Inuit Ataqatigiit,69,45,9.0,0.2,immigration
+Enhedslisten,Liberal Alliance,69,19957,6605.0,0.33096156736984517,immigration
+Enhedslisten,Moderaterne,69,3400,1223.0,0.35970588235294115,immigration
+Enhedslisten,Radikale Venstre,69,12105,9739.0,0.8045435770342834,immigration
+Enhedslisten,Socialdemokratiet,69,84376,42043.0,0.498281501848867,immigration
+Enhedslisten,Socialistisk Folkeparti,69,12957,11138.0,0.8596125646368759,immigration
+Enhedslisten,Tjóðveldi,69,18,0.0,0.0,immigration
+Enhedslisten,Uden for folketingsgrupperne,69,8630,2261.0,0.2619930475086906,immigration
+Enhedslisten,Venstre,69,48795,16503.0,0.3382108822625269,immigration
 Inuit Ataqatigiit,Liberal Alliance,69,36,7.0,0.19444444444444445,immigration
 Inuit Ataqatigiit,Moderaterne,69,4,1.0,0.25,immigration
 Inuit Ataqatigiit,Radikale Venstre,69,21,4.0,0.19047619047619047,immigration
@@ -924,508 +552,269 @@ Inuit Ataqatigiit,Socialistisk Folkeparti,69,22,4.0,0.18181818181818182,immigrat
 Inuit Ataqatigiit,Tjóðveldi,69,1,1.0,1.0,immigration
 Inuit Ataqatigiit,Uden for folketingsgrupperne,69,9,2.0,0.2222222222222222,immigration
 Inuit Ataqatigiit,Venstre,69,95,20.0,0.21052631578947367,immigration
-Liberal Alliance,Alternativet,69,7622,2879.0,0.3777223825767515,immigration
-Liberal Alliance,Danmarksdemokraterne,69,3906,2945.0,0.753968253968254,immigration
-Liberal Alliance,Dansk Folkeparti,69,17819,12046.0,0.6760199786744486,immigration
-Liberal Alliance,Det Konservative Folkeparti,69,3598,3369.0,0.9363535297387438,immigration
-Liberal Alliance,Enhedslisten,69,10706,3391.0,0.31673827760134504,immigration
 Liberal Alliance,Liberal Alliance,69,6672,6620.0,0.9922062350119905,immigration
-Liberal Alliance,Moderaterne,69,434,416.0,0.9585253456221198,immigration
-Liberal Alliance,Radikale Venstre,69,5414,2522.0,0.4658293313631326,immigration
-Liberal Alliance,Socialdemokratiet,69,30730,21954.0,0.7144158802473153,immigration
-Liberal Alliance,Socialistisk Folkeparti,69,4982,2098.0,0.4211160176635889,immigration
-Liberal Alliance,Tjóðveldi,69,9,0.0,0.0,immigration
-Liberal Alliance,Uden for folketingsgrupperne,69,4638,3986.0,0.859422164726175,immigration
-Liberal Alliance,Venstre,69,16026,15269.0,0.952764258080619,immigration
-Moderaterne,Alternativet,69,1542,612.0,0.3968871595330739,immigration
-Moderaterne,Danmarksdemokraterne,69,1739,1238.0,0.7119033927544566,immigration
-Moderaterne,Dansk Folkeparti,69,5141,3369.0,0.6553199766582377,immigration
-Moderaterne,Det Konservative Folkeparti,69,882,848.0,0.9614512471655329,immigration
-Moderaterne,Enhedslisten,69,2736,988.0,0.3611111111111111,immigration
-Moderaterne,Liberal Alliance,69,2123,2054.0,0.9674988224211022,immigration
+Liberal Alliance,Moderaterne,69,2557,2470.0,0.965975752835354,immigration
+Liberal Alliance,Radikale Venstre,69,9313,4320.0,0.4638677118007087,immigration
+Liberal Alliance,Socialdemokratiet,69,65023,46717.0,0.7184688494840288,immigration
+Liberal Alliance,Socialistisk Folkeparti,69,9976,4243.0,0.42532076984763434,immigration
+Liberal Alliance,Tjóðveldi,69,14,0.0,0.0,immigration
+Liberal Alliance,Uden for folketingsgrupperne,69,6606,5440.0,0.8234937935210415,immigration
+Liberal Alliance,Venstre,69,37603,35965.0,0.9564396457729436,immigration
 Moderaterne,Moderaterne,69,114,106.0,0.9298245614035088,immigration
-Moderaterne,Radikale Venstre,69,1386,675.0,0.487012987012987,immigration
-Moderaterne,Socialdemokratiet,69,8909,6483.0,0.7276910988887642,immigration
-Moderaterne,Socialistisk Folkeparti,69,1521,664.0,0.4365548980933596,immigration
+Moderaterne,Radikale Venstre,69,1615,765.0,0.47368421052631576,immigration
+Moderaterne,Socialdemokratiet,69,11095,7992.0,0.7203244704821992,immigration
+Moderaterne,Socialistisk Folkeparti,69,1719,747.0,0.43455497382198954,immigration
 Moderaterne,Tjóðveldi,69,3,0.0,0.0,immigration
-Moderaterne,Uden for folketingsgrupperne,69,1099,891.0,0.8107370336669699,immigration
-Moderaterne,Venstre,69,5030,4867.0,0.9675944333996024,immigration
-Radikale Venstre,Alternativet,69,3883,3353.0,0.8635075972186453,immigration
-Radikale Venstre,Danmarksdemokraterne,69,2018,508.0,0.25173439048562934,immigration
-Radikale Venstre,Dansk Folkeparti,69,8683,2008.0,0.2312564781757457,immigration
-Radikale Venstre,Det Konservative Folkeparti,69,1885,849.0,0.45039787798408487,immigration
-Radikale Venstre,Enhedslisten,69,5699,4564.0,0.8008422530268469,immigration
-Radikale Venstre,Liberal Alliance,69,3899,1798.0,0.4611438830469351,immigration
-Radikale Venstre,Moderaterne,69,229,90.0,0.3930131004366812,immigration
+Moderaterne,Uden for folketingsgrupperne,69,1106,898.0,0.8119349005424955,immigration
+Moderaterne,Venstre,69,6451,6266.0,0.9713222756161836,immigration
 Radikale Venstre,Radikale Venstre,69,2232,2225.0,0.9968637992831542,immigration
-Radikale Venstre,Socialdemokratiet,69,15283,9061.0,0.592880978865406,immigration
-Radikale Venstre,Socialistisk Folkeparti,69,2257,1902.0,0.8427115640230395,immigration
-Radikale Venstre,Tjóðveldi,69,4,0.0,0.0,immigration
-Radikale Venstre,Uden for folketingsgrupperne,69,2066,765.0,0.3702807357212004,immigration
-Radikale Venstre,Venstre,69,8594,3978.0,0.4628810798231324,immigration
-Socialdemokratiet,Alternativet,69,32290,17376.0,0.5381232579746051,immigration
-Socialdemokratiet,Danmarksdemokraterne,69,20887,11434.0,0.5474218413367166,immigration
-Socialdemokratiet,Dansk Folkeparti,69,77257,38918.0,0.5037472332604165,immigration
-Socialdemokratiet,Det Konservative Folkeparti,69,16088,11618.0,0.7221531576330183,immigration
-Socialdemokratiet,Enhedslisten,69,46876,23492.0,0.5011519754245243,immigration
-Socialdemokratiet,Liberal Alliance,69,34293,24763.0,0.7221007202636106,immigration
-Socialdemokratiet,Moderaterne,69,2186,1509.0,0.6903019213174748,immigration
-Socialdemokratiet,Radikale Venstre,69,24125,14668.0,0.608,immigration
+Radikale Venstre,Socialdemokratiet,69,39408,23729.0,0.6021366220056841,immigration
+Radikale Venstre,Socialistisk Folkeparti,69,6076,5082.0,0.836405529953917,immigration
+Radikale Venstre,Tjóðveldi,69,9,0.0,0.0,immigration
+Radikale Venstre,Uden for folketingsgrupperne,69,4036,1351.0,0.33473736372646185,immigration
+Radikale Venstre,Venstre,69,22817,10956.0,0.48016829556909324,immigration
 Socialdemokratiet,Socialdemokratiet,69,133021,130725.0,0.9827395674367205,immigration
-Socialdemokratiet,Socialistisk Folkeparti,69,23235,14212.0,0.611663438777706,immigration
-Socialdemokratiet,Tjóðveldi,69,37,0.0,0.0,immigration
-Socialdemokratiet,Uden for folketingsgrupperne,69,19369,11986.0,0.618823893850999,immigration
-Socialdemokratiet,Venstre,69,76060,56145.0,0.7381672363923218,immigration
-Socialistisk Folkeparti,Alternativet,69,4372,3793.0,0.8675663311985361,immigration
-Socialistisk Folkeparti,Danmarksdemokraterne,69,2681,783.0,0.29205520328235735,immigration
-Socialistisk Folkeparti,Dansk Folkeparti,69,10251,2800.0,0.2731440835040484,immigration
-Socialistisk Folkeparti,Det Konservative Folkeparti,69,2344,987.0,0.4210750853242321,immigration
-Socialistisk Folkeparti,Enhedslisten,69,6070,5200.0,0.85667215815486,immigration
-Socialistisk Folkeparti,Liberal Alliance,69,4994,2145.0,0.42951541850220265,immigration
-Socialistisk Folkeparti,Moderaterne,69,198,83.0,0.41919191919191917,immigration
-Socialistisk Folkeparti,Radikale Venstre,69,3819,3180.0,0.8326787117046347,immigration
-Socialistisk Folkeparti,Socialdemokratiet,69,18984,11448.0,0.6030341340075853,immigration
+Socialdemokratiet,Socialistisk Folkeparti,69,42219,25660.0,0.6077832255619507,immigration
+Socialdemokratiet,Tjóðveldi,69,60,0.0,0.0,immigration
+Socialdemokratiet,Uden for folketingsgrupperne,69,28047,16950.0,0.6043427104503155,immigration
+Socialdemokratiet,Venstre,69,159435,118363.0,0.7423903158026782,immigration
 Socialistisk Folkeparti,Socialistisk Folkeparti,69,2566,2466.0,0.961028838659392,immigration
-Socialistisk Folkeparti,Tjóðveldi,69,6,0.0,0.0,immigration
-Socialistisk Folkeparti,Uden for folketingsgrupperne,69,3071,1022.0,0.33279062194724846,immigration
-Socialistisk Folkeparti,Venstre,69,10286,4533.0,0.44069609177522845,immigration
-Tjóðveldi,Alternativet,69,6,0.0,0.0,immigration
-Tjóðveldi,Danmarksdemokraterne,69,2,0.0,0.0,immigration
-Tjóðveldi,Dansk Folkeparti,69,16,0.0,0.0,immigration
-Tjóðveldi,Det Konservative Folkeparti,69,4,0.0,0.0,immigration
-Tjóðveldi,Enhedslisten,69,8,0.0,0.0,immigration
-Tjóðveldi,Liberal Alliance,69,5,0.0,0.0,immigration
-Tjóðveldi,Radikale Venstre,69,5,0.0,0.0,immigration
-Tjóðveldi,Socialdemokratiet,69,23,0.0,0.0,immigration
-Tjóðveldi,Socialistisk Folkeparti,69,2,0.0,0.0,immigration
-Tjóðveldi,Uden for folketingsgrupperne,69,5,0.0,0.0,immigration
-Tjóðveldi,Venstre,69,9,0.0,0.0,immigration
-Uden for folketingsgrupperne,Alternativet,69,2947,812.0,0.2755344418052256,immigration
-Uden for folketingsgrupperne,Danmarksdemokraterne,69,560,521.0,0.9303571428571429,immigration
-Uden for folketingsgrupperne,Dansk Folkeparti,69,5260,4714.0,0.8961977186311787,immigration
-Uden for folketingsgrupperne,Det Konservative Folkeparti,69,1019,754.0,0.7399411187438666,immigration
-Uden for folketingsgrupperne,Enhedslisten,69,4072,1000.0,0.2455795677799607,immigration
-Uden for folketingsgrupperne,Liberal Alliance,69,1968,1454.0,0.7388211382113821,immigration
-Uden for folketingsgrupperne,Moderaterne,69,7,7.0,1.0,immigration
-Uden for folketingsgrupperne,Radikale Venstre,69,1970,586.0,0.29746192893401013,immigration
-Uden for folketingsgrupperne,Socialdemokratiet,69,8678,4964.0,0.5720212030421756,immigration
-Uden for folketingsgrupperne,Socialistisk Folkeparti,69,1229,366.0,0.2978030919446705,immigration
-Uden for folketingsgrupperne,Tjóðveldi,69,1,0.0,0.0,immigration
+Socialistisk Folkeparti,Tjóðveldi,69,8,0.0,0.0,immigration
+Socialistisk Folkeparti,Uden for folketingsgrupperne,69,4300,1388.0,0.3227906976744186,immigration
+Socialistisk Folkeparti,Venstre,69,24443,10634.0,0.43505298040338747,immigration
+Tjóðveldi,Uden for folketingsgrupperne,69,6,0.0,0.0,immigration
+Tjóðveldi,Venstre,69,36,0.0,0.0,immigration
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,69,1124,885.0,0.7873665480427047,immigration
-Uden for folketingsgrupperne,Venstre,69,4793,3815.0,0.7959524306279991,immigration
-Venstre,Alternativet,69,18462,7158.0,0.38771530711732205,immigration
-Venstre,Danmarksdemokraterne,69,13425,10054.0,0.7489013035381751,immigration
-Venstre,Dansk Folkeparti,69,46128,31477.0,0.6823838015955602,immigration
-Venstre,Det Konservative Folkeparti,69,9283,9229.0,0.9941829150059248,immigration
-Venstre,Enhedslisten,69,27099,8923.0,0.32927414295730467,immigration
-Venstre,Liberal Alliance,69,21577,20696.0,0.9591694860267878,immigration
-Venstre,Moderaterne,69,1421,1399.0,0.9845179451090781,immigration
-Venstre,Radikale Venstre,69,14223,6978.0,0.4906137945581101,immigration
-Venstre,Socialdemokratiet,69,83375,62218.0,0.7462428785607197,immigration
-Venstre,Socialistisk Folkeparti,69,14157,6101.0,0.43095288549834004,immigration
-Venstre,Tjóðveldi,69,27,0.0,0.0,immigration
-Venstre,Uden for folketingsgrupperne,69,11306,9449.0,0.8357509287104192,immigration
+Uden for folketingsgrupperne,Venstre,69,16099,13264.0,0.8239021057208522,immigration
 Venstre,Venstre,69,43679,43667.0,0.9997252684356327,immigration
 Alternativet,Alternativet,70,82,78.0,0.9512195121951219,immigration
-Alternativet,Danmarksdemokraterne,70,3,0.0,0.0,immigration
-Alternativet,Dansk Folkeparti,70,3,0.0,0.0,immigration
-Alternativet,Det Konservative Folkeparti,70,7,2.0,0.2857142857142857,immigration
-Alternativet,Enhedslisten,70,194,176.0,0.9072164948453608,immigration
-Alternativet,Frie Grønne,70,4,4.0,1.0,immigration
-Alternativet,Liberal Alliance,70,5,1.0,0.2,immigration
-Alternativet,Radikale Venstre,70,178,144.0,0.8089887640449438,immigration
-Alternativet,Socialdemokratiet,70,215,101.0,0.4697674418604651,immigration
-Alternativet,Socialistisk Folkeparti,70,108,94.0,0.8703703703703703,immigration
-Alternativet,Uden for folketingsgrupperne,70,6,1.0,0.16666666666666666,immigration
-Alternativet,Venstre,70,318,132.0,0.41509433962264153,immigration
-Borgernes Parti,Alternativet,70,166,43.0,0.25903614457831325,immigration
-Borgernes Parti,Danmarksdemokraterne,70,215,171.0,0.7953488372093023,immigration
-Borgernes Parti,Dansk Folkeparti,70,269,240.0,0.8921933085501859,immigration
-Borgernes Parti,Det Konservative Folkeparti,70,593,377.0,0.6357504215851602,immigration
-Borgernes Parti,Enhedslisten,70,542,128.0,0.23616236162361623,immigration
+Alternativet,Borgernes Parti,70,166,43.0,0.25903614457831325,immigration
+Alternativet,Danmarksdemokraterne,70,1707,455.0,0.2665495020503808,immigration
+Alternativet,Dansk Folkeparti,70,746,199.0,0.2667560321715818,immigration
+Alternativet,Det Konservative Folkeparti,70,1891,708.0,0.3744050766790058,immigration
+Alternativet,Enhedslisten,70,2043,1895.0,0.9275575134605971,immigration
+Alternativet,Frie Grønne,70,309,292.0,0.9449838187702265,immigration
+Alternativet,Liberal Alliance,70,694,265.0,0.3818443804034582,immigration
+Alternativet,Moderaterne,70,2,0.0,0.0,immigration
+Alternativet,Naleraq,70,1,1.0,1.0,immigration
+Alternativet,Radikale Venstre,70,2249,1940.0,0.8626056024899955,immigration
+Alternativet,Sambandsflokkurin,70,11,5.0,0.45454545454545453,immigration
+Alternativet,Socialdemokratiet,70,7938,4321.0,0.5443436633912825,immigration
+Alternativet,Socialistisk Folkeparti,70,2359,1932.0,0.8189910979228486,immigration
+Alternativet,Uden for folketingsgrupperne,70,859,285.0,0.3317811408614668,immigration
+Alternativet,Venstre,70,6284,2516.0,0.400381922342457,immigration
+Borgernes Parti,Danmarksdemokraterne,70,764,640.0,0.837696335078534,immigration
+Borgernes Parti,Dansk Folkeparti,70,326,288.0,0.8834355828220859,immigration
+Borgernes Parti,Det Konservative Folkeparti,70,863,540.0,0.6257242178447276,immigration
+Borgernes Parti,Enhedslisten,70,941,220.0,0.23379383634431455,immigration
 Borgernes Parti,Frie Grønne,70,146,30.0,0.2054794520547945,immigration
-Borgernes Parti,Liberal Alliance,70,153,123.0,0.803921568627451,immigration
-Borgernes Parti,Radikale Venstre,70,630,163.0,0.25873015873015875,immigration
-Borgernes Parti,Socialdemokratiet,70,1579,686.0,0.4344521849271691,immigration
-Borgernes Parti,Socialistisk Folkeparti,70,296,76.0,0.25675675675675674,immigration
-Borgernes Parti,Uden for folketingsgrupperne,70,314,267.0,0.8503184713375797,immigration
-Borgernes Parti,Venstre,70,1299,753.0,0.5796766743648961,immigration
-Danmarksdemokraterne,Alternativet,70,1704,455.0,0.267018779342723,immigration
-Danmarksdemokraterne,Borgernes Parti,70,549,469.0,0.8542805100182149,immigration
+Borgernes Parti,Liberal Alliance,70,295,211.0,0.7152542372881356,immigration
+Borgernes Parti,Naleraq,70,1,1.0,1.0,immigration
+Borgernes Parti,Radikale Venstre,70,1039,261.0,0.25120307988450435,immigration
+Borgernes Parti,Sambandsflokkurin,70,4,3.0,0.75,immigration
+Borgernes Parti,Socialdemokratiet,70,3715,1610.0,0.43337819650067294,immigration
+Borgernes Parti,Socialistisk Folkeparti,70,1091,279.0,0.25572868927589365,immigration
+Borgernes Parti,Uden for folketingsgrupperne,70,405,315.0,0.7777777777777778,immigration
+Borgernes Parti,Venstre,70,2919,1687.0,0.5779376498800959,immigration
 Danmarksdemokraterne,Danmarksdemokraterne,70,4126,3671.0,0.8897237033446437,immigration
-Danmarksdemokraterne,Dansk Folkeparti,70,3448,3074.0,0.8915313225058005,immigration
-Danmarksdemokraterne,Det Konservative Folkeparti,70,7593,5075.0,0.6683787699196628,immigration
-Danmarksdemokraterne,Enhedslisten,70,8016,2164.0,0.26996007984031933,immigration
-Danmarksdemokraterne,Frie Grønne,70,1861,489.0,0.26276195593766793,immigration
-Danmarksdemokraterne,Liberal Alliance,70,2550,1832.0,0.7184313725490196,immigration
-Danmarksdemokraterne,Moderaterne,70,8,2.0,0.25,immigration
-Danmarksdemokraterne,Radikale Venstre,70,9769,2815.0,0.28815641314361756,immigration
-Danmarksdemokraterne,Sambandsflokkurin,70,11,7.0,0.6363636363636364,immigration
-Danmarksdemokraterne,Socialdemokratiet,70,26156,13453.0,0.5143370545955039,immigration
-Danmarksdemokraterne,Socialistisk Folkeparti,70,6840,2179.0,0.3185672514619883,immigration
-Danmarksdemokraterne,Uden for folketingsgrupperne,70,4148,3388.0,0.8167791706846673,immigration
-Danmarksdemokraterne,Venstre,70,20522,13299.0,0.648036253776435,immigration
-Dansk Folkeparti,Alternativet,70,743,199.0,0.26783310901749663,immigration
-Dansk Folkeparti,Borgernes Parti,70,57,48.0,0.8421052631578947,immigration
-Dansk Folkeparti,Danmarksdemokraterne,70,1008,952.0,0.9444444444444444,immigration
+Danmarksdemokraterne,Dansk Folkeparti,70,4456,4026.0,0.9035008976660682,immigration
+Danmarksdemokraterne,Det Konservative Folkeparti,70,10943,7375.0,0.673946815315727,immigration
+Danmarksdemokraterne,Enhedslisten,70,11537,3190.0,0.27650169021409376,immigration
+Danmarksdemokraterne,Frie Grønne,70,1953,511.0,0.2616487455197133,immigration
+Danmarksdemokraterne,Liberal Alliance,70,3986,2831.0,0.710235825388861,immigration
+Danmarksdemokraterne,Moderaterne,70,14,4.0,0.2857142857142857,immigration
+Danmarksdemokraterne,Naleraq,70,6,6.0,1.0,immigration
+Danmarksdemokraterne,Radikale Venstre,70,12927,3836.0,0.29674325056084166,immigration
+Danmarksdemokraterne,Sambandsflokkurin,70,39,22.0,0.5641025641025641,immigration
+Danmarksdemokraterne,Socialdemokratiet,70,45017,23803.0,0.528755803363174,immigration
+Danmarksdemokraterne,Socialistisk Folkeparti,70,13596,4398.0,0.323477493380406,immigration
+Danmarksdemokraterne,Uden for folketingsgrupperne,70,4973,3981.0,0.8005228232455258,immigration
+Danmarksdemokraterne,Venstre,70,35209,23135.0,0.657076315714732,immigration
 Dansk Folkeparti,Dansk Folkeparti,70,883,823.0,0.9320498301245753,immigration
-Dansk Folkeparti,Det Konservative Folkeparti,70,2012,1289.0,0.6406560636182903,immigration
-Dansk Folkeparti,Enhedslisten,70,3154,830.0,0.2631578947368421,immigration
+Dansk Folkeparti,Det Konservative Folkeparti,70,5409,3402.0,0.6289517470881864,immigration
+Dansk Folkeparti,Enhedslisten,70,5644,1471.0,0.2606307583274274,immigration
 Dansk Folkeparti,Frie Grønne,70,962,240.0,0.2494802494802495,immigration
-Dansk Folkeparti,Liberal Alliance,70,1001,734.0,0.7332667332667333,immigration
-Dansk Folkeparti,Moderaterne,70,2,0.0,0.0,immigration
-Dansk Folkeparti,Radikale Venstre,70,3265,905.0,0.2771822358346095,immigration
-Dansk Folkeparti,Socialdemokratiet,70,7842,3759.0,0.47934200459066567,immigration
-Dansk Folkeparti,Socialistisk Folkeparti,70,2275,676.0,0.29714285714285715,immigration
-Dansk Folkeparti,Uden for folketingsgrupperne,70,965,725.0,0.7512953367875648,immigration
-Dansk Folkeparti,Venstre,70,6253,3693.0,0.5905965136734368,immigration
-Det Konservative Folkeparti,Alternativet,70,1884,706.0,0.3747346072186836,immigration
-Det Konservative Folkeparti,Borgernes Parti,70,270,163.0,0.6037037037037037,immigration
-Det Konservative Folkeparti,Danmarksdemokraterne,70,3350,2300.0,0.6865671641791045,immigration
-Det Konservative Folkeparti,Dansk Folkeparti,70,3397,2113.0,0.6220194289078599,immigration
+Dansk Folkeparti,Liberal Alliance,70,1940,1345.0,0.6932989690721649,immigration
+Dansk Folkeparti,Moderaterne,70,4,0.0,0.0,immigration
+Dansk Folkeparti,Naleraq,70,2,2.0,1.0,immigration
+Dansk Folkeparti,Radikale Venstre,70,6430,1738.0,0.2702954898911353,immigration
+Dansk Folkeparti,Sambandsflokkurin,70,29,19.0,0.6551724137931034,immigration
+Dansk Folkeparti,Socialdemokratiet,70,21819,10454.0,0.4791236995279344,immigration
+Dansk Folkeparti,Socialistisk Folkeparti,70,6650,1847.0,0.2777443609022556,immigration
+Dansk Folkeparti,Uden for folketingsgrupperne,70,2348,1898.0,0.8083475298126065,immigration
+Dansk Folkeparti,Venstre,70,17025,9948.0,0.5843171806167401,immigration
 Det Konservative Folkeparti,Det Konservative Folkeparti,70,5604,5586.0,0.9967880085653105,immigration
-Det Konservative Folkeparti,Enhedslisten,70,8287,3598.0,0.4341740074815977,immigration
-Det Konservative Folkeparti,Frie Grønne,70,2231,901.0,0.40385477364410577,immigration
-Det Konservative Folkeparti,Liberal Alliance,70,2550,1970.0,0.7725490196078432,immigration
-Det Konservative Folkeparti,Moderaterne,70,8,4.0,0.5,immigration
-Det Konservative Folkeparti,Radikale Venstre,70,9114,4827.0,0.5296247531270573,immigration
-Det Konservative Folkeparti,Sambandsflokkurin,70,18,18.0,1.0,immigration
-Det Konservative Folkeparti,Socialdemokratiet,70,22305,17063.0,0.7649854292759471,immigration
-Det Konservative Folkeparti,Socialistisk Folkeparti,70,6299,3354.0,0.5324654707096365,immigration
-Det Konservative Folkeparti,Uden for folketingsgrupperne,70,3244,2348.0,0.7237977805178791,immigration
-Det Konservative Folkeparti,Venstre,70,18140,16298.0,0.8984564498346196,immigration
-Enhedslisten,Alternativet,70,1849,1719.0,0.9296917252568956,immigration
-Enhedslisten,Borgernes Parti,70,399,92.0,0.23057644110275688,immigration
-Enhedslisten,Danmarksdemokraterne,70,3521,1026.0,0.29139449020164726,immigration
-Enhedslisten,Dansk Folkeparti,70,2490,641.0,0.25742971887550203,immigration
-Enhedslisten,Det Konservative Folkeparti,70,5209,2422.0,0.4649644845459781,immigration
+Det Konservative Folkeparti,Enhedslisten,70,13496,6020.0,0.4460580912863071,immigration
+Det Konservative Folkeparti,Frie Grønne,70,2272,924.0,0.40669014084507044,immigration
+Det Konservative Folkeparti,Liberal Alliance,70,4593,3624.0,0.7890267798824298,immigration
+Det Konservative Folkeparti,Moderaterne,70,16,8.0,0.5,immigration
+Det Konservative Folkeparti,Naleraq,70,7,7.0,1.0,immigration
+Det Konservative Folkeparti,Radikale Venstre,70,15174,7966.0,0.5249769342296032,immigration
+Det Konservative Folkeparti,Sambandsflokkurin,70,50,50.0,1.0,immigration
+Det Konservative Folkeparti,Socialdemokratiet,70,52542,39379.0,0.7494766091888394,immigration
+Det Konservative Folkeparti,Socialistisk Folkeparti,70,15902,8403.0,0.5284240975977864,immigration
+Det Konservative Folkeparti,Uden for folketingsgrupperne,70,5703,3984.0,0.6985796948974224,immigration
+Det Konservative Folkeparti,Venstre,70,41029,36490.0,0.8893709327548807,immigration
 Enhedslisten,Enhedslisten,70,6151,6145.0,0.999024548853845,immigration
-Enhedslisten,Frie Grønne,70,1776,1587.0,0.893581081081081,immigration
-Enhedslisten,Liberal Alliance,70,1838,674.0,0.36670293797606096,immigration
-Enhedslisten,Moderaterne,70,7,4.0,0.5714285714285714,immigration
-Enhedslisten,Radikale Venstre,70,8295,7547.0,0.9098251959011453,immigration
-Enhedslisten,Sambandsflokkurin,70,4,2.0,0.5,immigration
-Enhedslisten,Socialdemokratiet,70,20787,12548.0,0.6036465098378795,immigration
-Enhedslisten,Socialistisk Folkeparti,70,5874,5192.0,0.8838951310861424,immigration
-Enhedslisten,Uden for folketingsgrupperne,70,2886,964.0,0.334026334026334,immigration
-Enhedslisten,Venstre,70,16939,7844.0,0.4630733809551922,immigration
-Frie Grønne,Alternativet,70,305,288.0,0.9442622950819672,immigration
-Frie Grønne,Danmarksdemokraterne,70,92,22.0,0.2391304347826087,immigration
-Frie Grønne,Det Konservative Folkeparti,70,41,23.0,0.5609756097560976,immigration
-Frie Grønne,Enhedslisten,70,611,540.0,0.88379705400982,immigration
+Enhedslisten,Frie Grønne,70,2387,2127.0,0.8910766652702137,immigration
+Enhedslisten,Liberal Alliance,70,4832,1914.0,0.3961092715231788,immigration
+Enhedslisten,Moderaterne,70,15,8.0,0.5333333333333333,immigration
+Enhedslisten,Naleraq,70,7,7.0,1.0,immigration
+Enhedslisten,Radikale Venstre,70,15971,14488.0,0.9071441988604345,immigration
+Enhedslisten,Sambandsflokkurin,70,56,32.0,0.5714285714285714,immigration
+Enhedslisten,Socialdemokratiet,70,55352,33393.0,0.6032844341667871,immigration
+Enhedslisten,Socialistisk Folkeparti,70,16698,14670.0,0.8785483291412145,immigration
+Enhedslisten,Uden for folketingsgrupperne,70,6036,2042.0,0.3383035122597747,immigration
+Enhedslisten,Venstre,70,43345,19670.0,0.4538008997577575,immigration
 Frie Grønne,Frie Grønne,70,65,65.0,1.0,immigration
-Frie Grønne,Radikale Venstre,70,354,302.0,0.8531073446327684,immigration
-Frie Grønne,Socialdemokratiet,70,922,493.0,0.53470715835141,immigration
-Frie Grønne,Socialistisk Folkeparti,70,340,284.0,0.8352941176470589,immigration
-Frie Grønne,Uden for folketingsgrupperne,70,3,2.0,0.6666666666666666,immigration
-Frie Grønne,Venstre,70,900,377.0,0.41888888888888887,immigration
-Liberal Alliance,Alternativet,70,689,264.0,0.38316400580551524,immigration
-Liberal Alliance,Borgernes Parti,70,142,88.0,0.6197183098591549,immigration
-Liberal Alliance,Danmarksdemokraterne,70,1436,999.0,0.6956824512534819,immigration
-Liberal Alliance,Dansk Folkeparti,70,939,611.0,0.650692225772098,immigration
-Liberal Alliance,Det Konservative Folkeparti,70,2043,1654.0,0.8095937347038669,immigration
-Liberal Alliance,Enhedslisten,70,2994,1240.0,0.4141616566466266,immigration
-Liberal Alliance,Frie Grønne,70,831,306.0,0.36823104693140796,immigration
+Frie Grønne,Liberal Alliance,70,831,306.0,0.36823104693140796,immigration
+Frie Grønne,Moderaterne,70,2,0.0,0.0,immigration
+Frie Grønne,Naleraq,70,1,1.0,1.0,immigration
+Frie Grønne,Radikale Venstre,70,2677,2278.0,0.8509525588345163,immigration
+Frie Grønne,Sambandsflokkurin,70,8,3.0,0.375,immigration
+Frie Grønne,Socialdemokratiet,70,9249,5186.0,0.5607092658665802,immigration
+Frie Grønne,Socialistisk Folkeparti,70,2812,2280.0,0.8108108108108109,immigration
+Frie Grønne,Uden for folketingsgrupperne,70,1031,327.0,0.3171677982541222,immigration
+Frie Grønne,Venstre,70,7247,3043.0,0.4198978887815648,immigration
 Liberal Alliance,Liberal Alliance,70,567,465.0,0.8201058201058201,immigration
-Liberal Alliance,Moderaterne,70,2,1.0,0.5,immigration
-Liberal Alliance,Radikale Venstre,70,3515,1701.0,0.48392603129445233,immigration
-Liberal Alliance,Socialdemokratiet,70,8806,6001.0,0.6814671814671814,immigration
-Liberal Alliance,Socialistisk Folkeparti,70,2623,1264.0,0.48189096454441477,immigration
-Liberal Alliance,Uden for folketingsgrupperne,70,1173,808.0,0.6888320545609549,immigration
-Liberal Alliance,Venstre,70,6618,5526.0,0.8349954669084315,immigration
-Moderaterne,Alternativet,70,2,0.0,0.0,immigration
-Moderaterne,Danmarksdemokraterne,70,6,2.0,0.3333333333333333,immigration
-Moderaterne,Dansk Folkeparti,70,2,0.0,0.0,immigration
-Moderaterne,Det Konservative Folkeparti,70,8,4.0,0.5,immigration
-Moderaterne,Enhedslisten,70,8,4.0,0.5,immigration
-Moderaterne,Frie Grønne,70,2,0.0,0.0,immigration
-Moderaterne,Liberal Alliance,70,2,1.0,0.5,immigration
-Moderaterne,Radikale Venstre,70,6,3.0,0.5,immigration
-Moderaterne,Socialdemokratiet,70,20,10.0,0.5,immigration
-Moderaterne,Socialistisk Folkeparti,70,2,1.0,0.5,immigration
-Moderaterne,Uden for folketingsgrupperne,70,2,0.0,0.0,immigration
-Moderaterne,Venstre,70,16,8.0,0.5,immigration
-Naleraq,Alternativet,70,1,1.0,1.0,immigration
-Naleraq,Borgernes Parti,70,1,1.0,1.0,immigration
-Naleraq,Danmarksdemokraterne,70,6,6.0,1.0,immigration
-Naleraq,Dansk Folkeparti,70,2,2.0,1.0,immigration
-Naleraq,Det Konservative Folkeparti,70,7,7.0,1.0,immigration
-Naleraq,Enhedslisten,70,7,7.0,1.0,immigration
-Naleraq,Frie Grønne,70,1,1.0,1.0,immigration
-Naleraq,Liberal Alliance,70,3,3.0,1.0,immigration
+Liberal Alliance,Moderaterne,70,4,2.0,0.5,immigration
+Liberal Alliance,Naleraq,70,3,3.0,1.0,immigration
+Liberal Alliance,Radikale Venstre,70,5487,2523.0,0.4598141060688901,immigration
+Liberal Alliance,Sambandsflokkurin,70,15,15.0,1.0,immigration
+Liberal Alliance,Socialdemokratiet,70,18914,12408.0,0.656021994289944,immigration
+Liberal Alliance,Socialistisk Folkeparti,70,5729,2605.0,0.4547041368476174,immigration
+Liberal Alliance,Uden for folketingsgrupperne,70,2090,1458.0,0.6976076555023923,immigration
+Liberal Alliance,Venstre,70,14810,11994.0,0.8098582039162728,immigration
+Moderaterne,Radikale Venstre,70,14,7.0,0.5,immigration
+Moderaterne,Socialdemokratiet,70,60,30.0,0.5,immigration
+Moderaterne,Socialistisk Folkeparti,70,18,9.0,0.5,immigration
+Moderaterne,Uden for folketingsgrupperne,70,5,0.0,0.0,immigration
+Moderaterne,Venstre,70,44,22.0,0.5,immigration
 Naleraq,Radikale Venstre,70,7,7.0,1.0,immigration
 Naleraq,Socialdemokratiet,70,28,28.0,1.0,immigration
 Naleraq,Socialistisk Folkeparti,70,8,8.0,1.0,immigration
 Naleraq,Uden for folketingsgrupperne,70,2,2.0,1.0,immigration
 Naleraq,Venstre,70,22,22.0,1.0,immigration
-Radikale Venstre,Alternativet,70,2071,1796.0,0.8672139063254466,immigration
-Radikale Venstre,Borgernes Parti,70,409,98.0,0.2396088019559902,immigration
-Radikale Venstre,Danmarksdemokraterne,70,3158,1021.0,0.3233058898036732,immigration
-Radikale Venstre,Dansk Folkeparti,70,3165,833.0,0.2631911532385466,immigration
-Radikale Venstre,Det Konservative Folkeparti,70,6060,3139.0,0.517986798679868,immigration
-Radikale Venstre,Enhedslisten,70,7676,6941.0,0.9042470036477332,immigration
-Radikale Venstre,Frie Grønne,70,2323,1976.0,0.850624192854068,immigration
-Radikale Venstre,Liberal Alliance,70,1972,822.0,0.41683569979716023,immigration
-Radikale Venstre,Moderaterne,70,8,4.0,0.5,immigration
 Radikale Venstre,Radikale Venstre,70,8046,7978.0,0.9915485955754412,immigration
-Radikale Venstre,Sambandsflokkurin,70,13,8.0,0.6153846153846154,immigration
-Radikale Venstre,Socialdemokratiet,70,21339,14054.0,0.6586063076995173,immigration
-Radikale Venstre,Socialistisk Folkeparti,70,5952,5400.0,0.907258064516129,immigration
-Radikale Venstre,Uden for folketingsgrupperne,70,3233,1160.0,0.3587998762759047,immigration
-Radikale Venstre,Venstre,70,18254,9757.0,0.534512983455681,immigration
-Sambandsflokkurin,Alternativet,70,11,5.0,0.45454545454545453,immigration
-Sambandsflokkurin,Borgernes Parti,70,4,3.0,0.75,immigration
-Sambandsflokkurin,Danmarksdemokraterne,70,28,15.0,0.5357142857142857,immigration
-Sambandsflokkurin,Dansk Folkeparti,70,29,19.0,0.6551724137931034,immigration
-Sambandsflokkurin,Det Konservative Folkeparti,70,32,32.0,1.0,immigration
-Sambandsflokkurin,Enhedslisten,70,52,30.0,0.5769230769230769,immigration
-Sambandsflokkurin,Frie Grønne,70,8,3.0,0.375,immigration
-Sambandsflokkurin,Liberal Alliance,70,15,15.0,1.0,immigration
-Sambandsflokkurin,Radikale Venstre,70,49,28.0,0.5714285714285714,immigration
-Sambandsflokkurin,Socialdemokratiet,70,127,92.0,0.7244094488188977,immigration
-Sambandsflokkurin,Socialistisk Folkeparti,70,35,20.0,0.5714285714285714,immigration
+Radikale Venstre,Sambandsflokkurin,70,62,36.0,0.5806451612903226,immigration
+Radikale Venstre,Socialdemokratiet,70,62256,41172.0,0.6613338473400154,immigration
+Radikale Venstre,Socialistisk Folkeparti,70,18842,16936.0,0.8988430102961469,immigration
+Radikale Venstre,Uden for folketingsgrupperne,70,6837,2593.0,0.37925990931695186,immigration
+Radikale Venstre,Venstre,70,48797,26125.0,0.5353812734389409,immigration
+Sambandsflokkurin,Socialdemokratiet,70,189,135.0,0.7142857142857143,immigration
+Sambandsflokkurin,Socialistisk Folkeparti,70,63,36.0,0.5714285714285714,immigration
 Sambandsflokkurin,Uden for folketingsgrupperne,70,13,9.0,0.6923076923076923,immigration
-Sambandsflokkurin,Venstre,70,106,106.0,1.0,immigration
-Socialdemokratiet,Alternativet,70,7723,4220.0,0.5464197850576201,immigration
-Socialdemokratiet,Borgernes Parti,70,2136,924.0,0.43258426966292135,immigration
-Socialdemokratiet,Danmarksdemokraterne,70,18861,10350.0,0.5487513917607763,immigration
-Socialdemokratiet,Dansk Folkeparti,70,13977,6695.0,0.47900121628389497,immigration
-Socialdemokratiet,Det Konservative Folkeparti,70,30237,22316.0,0.7380361808380461,immigration
-Socialdemokratiet,Enhedslisten,70,34565,20845.0,0.6030666859539997,immigration
-Socialdemokratiet,Frie Grønne,70,8327,4693.0,0.5635883271286177,immigration
-Socialdemokratiet,Liberal Alliance,70,10108,6407.0,0.6338543727740403,immigration
-Socialdemokratiet,Moderaterne,70,40,20.0,0.5,immigration
-Socialdemokratiet,Radikale Venstre,70,40917,27118.0,0.6627563115575433,immigration
-Socialdemokratiet,Sambandsflokkurin,70,62,43.0,0.6935483870967742,immigration
+Sambandsflokkurin,Venstre,70,145,145.0,1.0,immigration
 Socialdemokratiet,Socialdemokratiet,70,104881,104480.0,0.9961766192160639,immigration
-Socialdemokratiet,Socialistisk Folkeparti,70,29838,20853.0,0.6988739191634828,immigration
-Socialdemokratiet,Uden for folketingsgrupperne,70,15761,8938.0,0.567095996446926,immigration
-Socialdemokratiet,Venstre,70,87130,66575.0,0.7640881441524159,immigration
-Socialistisk Folkeparti,Alternativet,70,2251,1838.0,0.8165259884495779,immigration
-Socialistisk Folkeparti,Borgernes Parti,70,795,203.0,0.25534591194968553,immigration
-Socialistisk Folkeparti,Danmarksdemokraterne,70,6756,2219.0,0.3284487862640616,immigration
-Socialistisk Folkeparti,Dansk Folkeparti,70,4375,1171.0,0.26765714285714287,immigration
-Socialistisk Folkeparti,Det Konservative Folkeparti,70,9603,5049.0,0.5257731958762887,immigration
-Socialistisk Folkeparti,Enhedslisten,70,10824,9478.0,0.8756467110125646,immigration
-Socialistisk Folkeparti,Frie Grønne,70,2472,1996.0,0.8074433656957929,immigration
-Socialistisk Folkeparti,Liberal Alliance,70,3106,1341.0,0.43174500965872503,immigration
-Socialistisk Folkeparti,Moderaterne,70,16,8.0,0.5,immigration
-Socialistisk Folkeparti,Radikale Venstre,70,12890,11536.0,0.8949573312645461,immigration
-Socialistisk Folkeparti,Sambandsflokkurin,70,28,16.0,0.5714285714285714,immigration
-Socialistisk Folkeparti,Socialdemokratiet,70,35326,24473.0,0.6927758591405764,immigration
+Socialdemokratiet,Socialistisk Folkeparti,70,65164,45326.0,0.6955681050886993,immigration
+Socialdemokratiet,Uden for folketingsgrupperne,70,23693,13298.0,0.5612628202422657,immigration
+Socialdemokratiet,Venstre,70,169886,129521.0,0.7623994914236606,immigration
 Socialistisk Folkeparti,Socialistisk Folkeparti,70,8714,8681.0,0.9962129905898554,immigration
-Socialistisk Folkeparti,Uden for folketingsgrupperne,70,5265,2023.0,0.3842355175688509,immigration
-Socialistisk Folkeparti,Venstre,70,28644,15206.0,0.5308616115067728,immigration
-Uden for folketingsgrupperne,Alternativet,70,853,284.0,0.33294255568581477,immigration
-Uden for folketingsgrupperne,Borgernes Parti,70,91,48.0,0.5274725274725275,immigration
-Uden for folketingsgrupperne,Danmarksdemokraterne,70,825,593.0,0.7187878787878788,immigration
-Uden for folketingsgrupperne,Dansk Folkeparti,70,1383,1173.0,0.8481561822125814,immigration
-Uden for folketingsgrupperne,Det Konservative Folkeparti,70,2459,1636.0,0.6653111020740138,immigration
-Uden for folketingsgrupperne,Enhedslisten,70,3150,1078.0,0.3422222222222222,immigration
-Uden for folketingsgrupperne,Frie Grønne,70,1028,325.0,0.316147859922179,immigration
-Uden for folketingsgrupperne,Liberal Alliance,70,917,650.0,0.7088331515812432,immigration
-Uden for folketingsgrupperne,Moderaterne,70,3,0.0,0.0,immigration
-Uden for folketingsgrupperne,Radikale Venstre,70,3604,1433.0,0.3976137624861265,immigration
-Uden for folketingsgrupperne,Socialdemokratiet,70,7932,4360.0,0.5496722138174484,immigration
-Uden for folketingsgrupperne,Socialistisk Folkeparti,70,1886,775.0,0.41092258748674443,immigration
+Socialistisk Folkeparti,Uden for folketingsgrupperne,70,7151,2798.0,0.3912739476996224,immigration
+Socialistisk Folkeparti,Venstre,70,50984,27253.0,0.5345402479209164,immigration
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,70,1021,731.0,0.7159647404505387,immigration
-Uden for folketingsgrupperne,Venstre,70,6153,4109.0,0.6678043230944255,immigration
-Venstre,Alternativet,70,5966,2384.0,0.3995977204156889,immigration
-Venstre,Borgernes Parti,70,1620,934.0,0.5765432098765432,immigration
-Venstre,Danmarksdemokraterne,70,14687,9836.0,0.6697079049499557,immigration
-Venstre,Dansk Folkeparti,70,10772,6255.0,0.5806721128852581,immigration
-Venstre,Det Konservative Folkeparti,70,22889,20192.0,0.8821704749006073,immigration
-Venstre,Enhedslisten,70,26406,11826.0,0.44785276073619634,immigration
-Venstre,Frie Grønne,70,6347,2666.0,0.4200409642350717,immigration
-Venstre,Liberal Alliance,70,8192,6468.0,0.78955078125,immigration
-Venstre,Moderaterne,70,28,14.0,0.5,immigration
-Venstre,Radikale Venstre,70,30543,16368.0,0.535900206266575,immigration
-Venstre,Sambandsflokkurin,70,39,39.0,1.0,immigration
-Venstre,Socialdemokratiet,70,82756,62946.0,0.7606215863502345,immigration
-Venstre,Socialistisk Folkeparti,70,22340,12047.0,0.5392569382273948,immigration
-Venstre,Uden for folketingsgrupperne,70,12346,8681.0,0.7031427182893245,immigration
+Uden for folketingsgrupperne,Venstre,70,18499,12790.0,0.6913887237147954,immigration
 Venstre,Venstre,70,63672,63548.0,0.9980525191606986,immigration
 Alternativet,Alternativet,71,1169,1063.0,0.9093242087254063,immigration
-Alternativet,Borgernes Parti,71,376,59.0,0.15691489361702127,immigration
-Alternativet,Danmarksdemokraterne,71,4394,1725.0,0.39258079198907603,immigration
-Alternativet,Dansk Folkeparti,71,1761,324.0,0.1839863713798978,immigration
-Alternativet,Det Konservative Folkeparti,71,2586,1144.0,0.4423820572312452,immigration
-Alternativet,Enhedslisten,71,3155,2826.0,0.8957210776545167,immigration
-Alternativet,Liberal Alliance,71,4340,3364.0,0.7751152073732719,immigration
-Alternativet,Moderaterne,71,2810,2218.0,0.7893238434163701,immigration
-Alternativet,Radikale Venstre,71,2481,2187.0,0.8814993954050786,immigration
-Alternativet,Socialdemokratiet,71,13264,10375.0,0.782192400482509,immigration
-Alternativet,Socialistisk Folkeparti,71,4008,3460.0,0.8632734530938124,immigration
-Alternativet,Uden for folketingsgrupperne,71,1208,943.0,0.7806291390728477,immigration
-Alternativet,Venstre,71,6145,4809.0,0.7825874694873881,immigration
-Borgernes Parti,Alternativet,71,132,16.0,0.12121212121212122,immigration
-Borgernes Parti,Danmarksdemokraterne,71,544,244.0,0.4485294117647059,immigration
-Borgernes Parti,Dansk Folkeparti,71,422,380.0,0.9004739336492891,immigration
-Borgernes Parti,Det Konservative Folkeparti,71,549,262.0,0.4772313296903461,immigration
-Borgernes Parti,Enhedslisten,71,558,84.0,0.15053763440860216,immigration
-Borgernes Parti,Liberal Alliance,71,758,268.0,0.35356200527704484,immigration
-Borgernes Parti,Moderaterne,71,462,132.0,0.2857142857142857,immigration
-Borgernes Parti,Radikale Venstre,71,424,68.0,0.16037735849056603,immigration
-Borgernes Parti,Socialdemokratiet,71,2289,624.0,0.272608125819135,immigration
-Borgernes Parti,Socialistisk Folkeparti,71,665,106.0,0.1593984962406015,immigration
-Borgernes Parti,Uden for folketingsgrupperne,71,111,34.0,0.3063063063063063,immigration
-Borgernes Parti,Venstre,71,1042,281.0,0.2696737044145873,immigration
-Danmarksdemokraterne,Alternativet,71,3680,1695.0,0.46059782608695654,immigration
-Danmarksdemokraterne,Borgernes Parti,71,815,447.0,0.5484662576687117,immigration
+Alternativet,Borgernes Parti,71,508,75.0,0.14763779527559054,immigration
+Alternativet,Danmarksdemokraterne,71,8074,3420.0,0.4235818677235571,immigration
+Alternativet,Dansk Folkeparti,71,3116,554.0,0.1777920410783055,immigration
+Alternativet,Det Konservative Folkeparti,71,5020,2380.0,0.47410358565737054,immigration
+Alternativet,Enhedslisten,71,4178,3771.0,0.9025849688846338,immigration
+Alternativet,Liberal Alliance,71,7753,6007.0,0.7747968528311622,immigration
+Alternativet,Moderaterne,71,5572,4365.0,0.783381191672649,immigration
+Alternativet,Radikale Venstre,71,3222,2861.0,0.887957790192427,immigration
+Alternativet,Sambandsflokkurin,71,14,5.0,0.35714285714285715,immigration
+Alternativet,Socialdemokratiet,71,27728,21684.0,0.7820253894979804,immigration
+Alternativet,Socialistisk Folkeparti,71,7558,6566.0,0.8687483461233131,immigration
+Alternativet,Uden for folketingsgrupperne,71,2201,1728.0,0.7850976828714221,immigration
+Alternativet,Venstre,71,12237,9495.0,0.7759254719293944,immigration
+Borgernes Parti,Danmarksdemokraterne,71,1359,691.0,0.5084621044885945,immigration
+Borgernes Parti,Dansk Folkeparti,71,507,454.0,0.8954635108481263,immigration
+Borgernes Parti,Det Konservative Folkeparti,71,855,397.0,0.464327485380117,immigration
+Borgernes Parti,Enhedslisten,71,711,94.0,0.13220815752461323,immigration
+Borgernes Parti,Liberal Alliance,71,1299,449.0,0.34565050038491146,immigration
+Borgernes Parti,Moderaterne,71,924,249.0,0.2694805194805195,immigration
+Borgernes Parti,Radikale Venstre,71,549,88.0,0.16029143897996356,immigration
+Borgernes Parti,Sambandsflokkurin,71,1,1.0,1.0,immigration
+Borgernes Parti,Socialdemokratiet,71,4726,1256.0,0.2657638595006348,immigration
+Borgernes Parti,Socialistisk Folkeparti,71,1284,222.0,0.17289719626168223,immigration
+Borgernes Parti,Uden for folketingsgrupperne,71,360,91.0,0.25277777777777777,immigration
+Borgernes Parti,Venstre,71,2086,580.0,0.27804410354745923,immigration
 Danmarksdemokraterne,Danmarksdemokraterne,71,9399,9077.0,0.9657410362804554,immigration
-Danmarksdemokraterne,Dansk Folkeparti,71,5346,2830.0,0.5293677515899738,immigration
-Danmarksdemokraterne,Det Konservative Folkeparti,71,7372,6416.0,0.8703201302224634,immigration
-Danmarksdemokraterne,Enhedslisten,71,8426,3488.0,0.4139568003797769,immigration
-Danmarksdemokraterne,Liberal Alliance,71,10881,6423.0,0.5902950096498484,immigration
-Danmarksdemokraterne,Moderaterne,71,7763,4290.0,0.5526214092490017,immigration
-Danmarksdemokraterne,Radikale Venstre,71,6177,2676.0,0.43322000971345315,immigration
-Danmarksdemokraterne,Socialdemokratiet,71,35786,19136.0,0.5347342536187336,immigration
-Danmarksdemokraterne,Socialistisk Folkeparti,71,10077,4468.0,0.443385928351692,immigration
-Danmarksdemokraterne,Uden for folketingsgrupperne,71,3119,1732.0,0.555306187880731,immigration
-Danmarksdemokraterne,Venstre,71,15913,8684.0,0.5457173380255137,immigration
-Dansk Folkeparti,Alternativet,71,1355,230.0,0.16974169741697417,immigration
-Dansk Folkeparti,Borgernes Parti,71,85,74.0,0.8705882352941177,immigration
-Dansk Folkeparti,Danmarksdemokraterne,71,2749,1433.0,0.5212804656238632,immigration
+Danmarksdemokraterne,Dansk Folkeparti,71,8095,4263.0,0.5266213712168005,immigration
+Danmarksdemokraterne,Det Konservative Folkeparti,71,13016,11427.0,0.8779194837123541,immigration
+Danmarksdemokraterne,Enhedslisten,71,10823,4347.0,0.4016446456620161,immigration
+Danmarksdemokraterne,Liberal Alliance,71,20077,11939.0,0.594660556856104,immigration
+Danmarksdemokraterne,Moderaterne,71,14462,7737.0,0.5349882450560088,immigration
+Danmarksdemokraterne,Radikale Venstre,71,8319,3624.0,0.43562928236566895,immigration
+Danmarksdemokraterne,Sambandsflokkurin,71,39,19.0,0.48717948717948717,immigration
+Danmarksdemokraterne,Socialdemokratiet,71,71850,37926.0,0.5278496868475991,immigration
+Danmarksdemokraterne,Socialistisk Folkeparti,71,19595,8440.0,0.43072212299055884,immigration
+Danmarksdemokraterne,Uden for folketingsgrupperne,71,5689,3014.0,0.5297943399542978,immigration
+Danmarksdemokraterne,Venstre,71,31922,17198.0,0.538750704843055,immigration
 Dansk Folkeparti,Dansk Folkeparti,71,1164,1164.0,1.0,immigration
-Dansk Folkeparti,Det Konservative Folkeparti,71,1873,898.0,0.4794447410571276,immigration
-Dansk Folkeparti,Enhedslisten,71,3206,659.0,0.2055520898315658,immigration
-Dansk Folkeparti,Liberal Alliance,71,3918,1222.0,0.3118938233792751,immigration
-Dansk Folkeparti,Moderaterne,71,2409,664.0,0.27563304275633044,immigration
-Dansk Folkeparti,Radikale Venstre,71,1994,361.0,0.1810431293881645,immigration
-Dansk Folkeparti,Sambandsflokkurin,71,4,2.0,0.5,immigration
-Dansk Folkeparti,Socialdemokratiet,71,11328,3068.0,0.2708333333333333,immigration
-Dansk Folkeparti,Socialistisk Folkeparti,71,3256,608.0,0.18673218673218672,immigration
-Dansk Folkeparti,Uden for folketingsgrupperne,71,721,167.0,0.231622746185853,immigration
-Dansk Folkeparti,Venstre,71,4908,1344.0,0.27383863080684595,immigration
-Det Konservative Folkeparti,Alternativet,71,2434,1236.0,0.5078060805258833,immigration
-Det Konservative Folkeparti,Borgernes Parti,71,306,135.0,0.4411764705882353,immigration
-Det Konservative Folkeparti,Danmarksdemokraterne,71,5644,5011.0,0.8878454996456414,immigration
-Det Konservative Folkeparti,Dansk Folkeparti,71,3158,1430.0,0.45281823939202026,immigration
+Dansk Folkeparti,Det Konservative Folkeparti,71,5031,2328.0,0.4627310673822302,immigration
+Dansk Folkeparti,Enhedslisten,71,4185,812.0,0.19402628434886499,immigration
+Dansk Folkeparti,Liberal Alliance,71,7775,2322.0,0.29864951768488746,immigration
+Dansk Folkeparti,Moderaterne,71,5616,1441.0,0.2565883190883191,immigration
+Dansk Folkeparti,Radikale Venstre,71,3230,592.0,0.18328173374613002,immigration
+Dansk Folkeparti,Sambandsflokkurin,71,15,7.0,0.4666666666666667,immigration
+Dansk Folkeparti,Socialdemokratiet,71,27801,7251.0,0.2608179561886263,immigration
+Dansk Folkeparti,Socialistisk Folkeparti,71,7583,1352.0,0.17829355136489516,immigration
+Dansk Folkeparti,Uden for folketingsgrupperne,71,2197,542.0,0.24670004551661356,immigration
+Dansk Folkeparti,Venstre,71,12365,3337.0,0.2698746461787303,immigration
 Det Konservative Folkeparti,Det Konservative Folkeparti,71,3383,3367.0,0.995270469997044,immigration
-Det Konservative Folkeparti,Enhedslisten,71,5361,2499.0,0.4661443760492445,immigration
-Det Konservative Folkeparti,Liberal Alliance,71,6814,4496.0,0.6598180217199883,immigration
-Det Konservative Folkeparti,Moderaterne,71,4991,3165.0,0.634141454618313,immigration
-Det Konservative Folkeparti,Radikale Venstre,71,3749,1929.0,0.5145372099226461,immigration
-Det Konservative Folkeparti,Socialdemokratiet,71,21633,13273.0,0.6135533675403319,immigration
-Det Konservative Folkeparti,Socialistisk Folkeparti,71,5883,3161.0,0.5373108958014619,immigration
-Det Konservative Folkeparti,Uden for folketingsgrupperne,71,1907,1212.0,0.6355532249606712,immigration
-Det Konservative Folkeparti,Venstre,71,9305,5869.0,0.630736163353036,immigration
-Enhedslisten,Alternativet,71,1023,945.0,0.9237536656891495,immigration
-Enhedslisten,Borgernes Parti,71,153,10.0,0.06535947712418301,immigration
-Enhedslisten,Danmarksdemokraterne,71,2397,859.0,0.35836462244472256,immigration
-Enhedslisten,Dansk Folkeparti,71,979,153.0,0.15628192032686414,immigration
-Enhedslisten,Det Konservative Folkeparti,71,1379,563.0,0.4082668600435098,immigration
+Det Konservative Folkeparti,Enhedslisten,71,6740,3062.0,0.4543026706231454,immigration
+Det Konservative Folkeparti,Liberal Alliance,71,12497,8144.0,0.6516764023365608,immigration
+Det Konservative Folkeparti,Moderaterne,71,8993,5488.0,0.6102524185477594,immigration
+Det Konservative Folkeparti,Radikale Venstre,71,5192,2706.0,0.5211864406779662,immigration
+Det Konservative Folkeparti,Sambandsflokkurin,71,24,18.0,0.75,immigration
+Det Konservative Folkeparti,Socialdemokratiet,71,44785,26871.0,0.6,immigration
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,12221,6157.0,0.5038049259471402,immigration
+Det Konservative Folkeparti,Uden for folketingsgrupperne,71,3556,2125.0,0.5975815523059618,immigration
+Det Konservative Folkeparti,Venstre,71,19856,12171.0,0.6129633360193393,immigration
 Enhedslisten,Enhedslisten,71,2249,2232.0,0.9924410849266341,immigration
-Enhedslisten,Liberal Alliance,71,2501,1833.0,0.732906837265094,immigration
-Enhedslisten,Moderaterne,71,1527,1138.0,0.7452521283562541,immigration
-Enhedslisten,Radikale Venstre,71,2036,1795.0,0.8816306483300589,immigration
-Enhedslisten,Socialdemokratiet,71,8851,6488.0,0.7330245170037284,immigration
-Enhedslisten,Socialistisk Folkeparti,71,2729,2454.0,0.8992304873580066,immigration
-Enhedslisten,Uden for folketingsgrupperne,71,687,549.0,0.7991266375545851,immigration
-Enhedslisten,Venstre,71,3759,2751.0,0.7318435754189944,immigration
-Liberal Alliance,Alternativet,71,3413,2643.0,0.7743920304717258,immigration
-Liberal Alliance,Borgernes Parti,71,541,181.0,0.3345656192236599,immigration
-Liberal Alliance,Danmarksdemokraterne,71,9196,5516.0,0.5998260113092649,immigration
-Liberal Alliance,Dansk Folkeparti,71,3857,1100.0,0.2851957479906663,immigration
-Liberal Alliance,Det Konservative Folkeparti,71,5683,3648.0,0.6419144817877881,immigration
-Liberal Alliance,Enhedslisten,71,7887,5724.0,0.7257512362114873,immigration
+Enhedslisten,Liberal Alliance,71,10388,7557.0,0.727474008471313,immigration
+Enhedslisten,Moderaterne,71,7467,5381.0,0.7206374715414491,immigration
+Enhedslisten,Radikale Venstre,71,4316,3758.0,0.870713623725672,immigration
+Enhedslisten,Sambandsflokkurin,71,19,12.0,0.631578947368421,immigration
+Enhedslisten,Socialdemokratiet,71,37221,26728.0,0.7180892506918137,immigration
+Enhedslisten,Socialistisk Folkeparti,71,10148,8930.0,0.8799763500197083,immigration
+Enhedslisten,Uden for folketingsgrupperne,71,2954,2177.0,0.7369668246445498,immigration
+Enhedslisten,Venstre,71,16514,11724.0,0.7099430785999757,immigration
 Liberal Alliance,Liberal Alliance,71,8610,8441.0,0.9803716608594657,immigration
-Liberal Alliance,Moderaterne,71,6311,5582.0,0.8844874029472349,immigration
-Liberal Alliance,Radikale Venstre,71,5484,4326.0,0.7888402625820569,immigration
-Liberal Alliance,Sambandsflokkurin,71,4,4.0,1.0,immigration
-Liberal Alliance,Socialdemokratiet,71,30659,26845.0,0.8755993346162627,immigration
-Liberal Alliance,Socialistisk Folkeparti,71,8875,6924.0,0.780169014084507,immigration
-Liberal Alliance,Uden for folketingsgrupperne,71,2636,2301.0,0.8729135053110774,immigration
-Liberal Alliance,Venstre,71,13425,11719.0,0.8729236499068901,immigration
-Moderaterne,Alternativet,71,2762,2147.0,0.777335264301231,immigration
-Moderaterne,Borgernes Parti,71,462,117.0,0.2532467532467532,immigration
-Moderaterne,Danmarksdemokraterne,71,6699,3447.0,0.5145544111061352,immigration
-Moderaterne,Dansk Folkeparti,71,3207,777.0,0.2422825070159027,immigration
-Moderaterne,Det Konservative Folkeparti,71,4002,2323.0,0.5804597701149425,immigration
-Moderaterne,Enhedslisten,71,5940,4243.0,0.7143097643097643,immigration
-Moderaterne,Liberal Alliance,71,7572,6616.0,0.8737453777073428,immigration
+Liberal Alliance,Moderaterne,71,13883,12198.0,0.8786285385003242,immigration
+Liberal Alliance,Radikale Venstre,71,8008,6358.0,0.7939560439560439,immigration
+Liberal Alliance,Sambandsflokkurin,71,34,34.0,1.0,immigration
+Liberal Alliance,Socialdemokratiet,71,68958,60326.0,0.8748223556367644,immigration
+Liberal Alliance,Socialistisk Folkeparti,71,18818,14713.0,0.7818577957274949,immigration
+Liberal Alliance,Uden for folketingsgrupperne,71,5483,4834.0,0.8816341418931242,immigration
+Liberal Alliance,Venstre,71,30571,26487.0,0.86640934218704,immigration
 Moderaterne,Moderaterne,71,4276,4276.0,1.0,immigration
-Moderaterne,Radikale Venstre,71,4257,3475.0,0.816302560488607,immigration
-Moderaterne,Socialdemokratiet,71,22951,22951.0,1.0,immigration
-Moderaterne,Socialistisk Folkeparti,71,6659,5478.0,0.8226460429493918,immigration
-Moderaterne,Uden for folketingsgrupperne,71,2074,1882.0,0.9074252651880425,immigration
-Moderaterne,Venstre,71,10082,10071.0,0.9989089466375719,immigration
-Radikale Venstre,Alternativet,71,741,674.0,0.9095816464237517,immigration
-Radikale Venstre,Borgernes Parti,71,125,20.0,0.16,immigration
-Radikale Venstre,Danmarksdemokraterne,71,2142,948.0,0.4425770308123249,immigration
-Radikale Venstre,Dansk Folkeparti,71,1236,231.0,0.18689320388349515,immigration
-Radikale Venstre,Det Konservative Folkeparti,71,1443,777.0,0.5384615384615384,immigration
-Radikale Venstre,Enhedslisten,71,2280,1963.0,0.8609649122807017,immigration
-Radikale Venstre,Liberal Alliance,71,2524,2032.0,0.8050713153724247,immigration
-Radikale Venstre,Moderaterne,71,1507,1233.0,0.8181818181818182,immigration
+Moderaterne,Radikale Venstre,71,5764,4708.0,0.816793893129771,immigration
+Moderaterne,Sambandsflokkurin,71,28,28.0,1.0,immigration
+Moderaterne,Socialdemokratiet,71,49641,49641.0,1.0,immigration
+Moderaterne,Socialistisk Folkeparti,71,13550,11115.0,0.8202952029520295,immigration
+Moderaterne,Uden for folketingsgrupperne,71,3908,3657.0,0.9357727737973388,immigration
+Moderaterne,Venstre,71,22004,21898.0,0.9951826940556262,immigration
 Radikale Venstre,Radikale Venstre,71,1245,1237.0,0.993574297188755,immigration
-Radikale Venstre,Socialdemokratiet,71,7646,6312.0,0.8255296887261313,immigration
-Radikale Venstre,Socialistisk Folkeparti,71,2424,2153.0,0.8882013201320133,immigration
-Radikale Venstre,Uden for folketingsgrupperne,71,516,425.0,0.8236434108527132,immigration
-Radikale Venstre,Venstre,71,3279,2695.0,0.8218969197926197,immigration
-Sambandsflokkurin,Alternativet,71,14,5.0,0.35714285714285715,immigration
-Sambandsflokkurin,Borgernes Parti,71,1,1.0,1.0,immigration
-Sambandsflokkurin,Danmarksdemokraterne,71,39,19.0,0.48717948717948717,immigration
-Sambandsflokkurin,Dansk Folkeparti,71,11,5.0,0.45454545454545453,immigration
-Sambandsflokkurin,Det Konservative Folkeparti,71,24,18.0,0.75,immigration
-Sambandsflokkurin,Enhedslisten,71,19,12.0,0.631578947368421,immigration
-Sambandsflokkurin,Liberal Alliance,71,30,30.0,1.0,immigration
-Sambandsflokkurin,Moderaterne,71,28,28.0,1.0,immigration
-Sambandsflokkurin,Radikale Venstre,71,15,8.0,0.5333333333333333,immigration
-Sambandsflokkurin,Socialdemokratiet,71,125,125.0,1.0,immigration
+Radikale Venstre,Sambandsflokkurin,71,15,8.0,0.5333333333333333,immigration
+Radikale Venstre,Socialdemokratiet,71,28690,23529.0,0.8201115371209481,immigration
+Radikale Venstre,Socialistisk Folkeparti,71,7825,6904.0,0.8823003194888179,immigration
+Radikale Venstre,Uden for folketingsgrupperne,71,2281,1854.0,0.8128014028934678,immigration
+Radikale Venstre,Venstre,71,12658,10332.0,0.8162426923684626,immigration
+Sambandsflokkurin,Socialdemokratiet,71,132,132.0,1.0,immigration
 Sambandsflokkurin,Socialistisk Folkeparti,71,35,26.0,0.7428571428571429,immigration
 Sambandsflokkurin,Uden for folketingsgrupperne,71,9,8.0,0.8888888888888888,immigration
 Sambandsflokkurin,Venstre,71,56,55.0,0.9821428571428571,immigration
-Socialdemokratiet,Alternativet,71,14464,11309.0,0.7818722345132744,immigration
-Socialdemokratiet,Borgernes Parti,71,2437,632.0,0.25933524825605253,immigration
-Socialdemokratiet,Danmarksdemokraterne,71,36064,18790.0,0.5210181898846495,immigration
-Socialdemokratiet,Dansk Folkeparti,71,16473,4183.0,0.25393067443695744,immigration
-Socialdemokratiet,Det Konservative Folkeparti,71,23152,13598.0,0.5873358673116793,immigration
-Socialdemokratiet,Enhedslisten,71,28370,20240.0,0.7134296792386323,immigration
-Socialdemokratiet,Liberal Alliance,71,38299,33481.0,0.8742003707668607,immigration
-Socialdemokratiet,Moderaterne,71,26690,26690.0,1.0,immigration
-Socialdemokratiet,Radikale Venstre,71,21044,17217.0,0.818142938604828,immigration
-Socialdemokratiet,Sambandsflokkurin,71,7,7.0,1.0,immigration
 Socialdemokratiet,Socialdemokratiet,71,120000,120000.0,1.0,immigration
-Socialdemokratiet,Socialistisk Folkeparti,71,35287,28979.0,0.8212372828520418,immigration
-Socialdemokratiet,Uden for folketingsgrupperne,71,10522,9666.0,0.918646645124501,immigration
-Socialdemokratiet,Venstre,71,55758,55659.0,0.9982244700312063,immigration
-Socialistisk Folkeparti,Alternativet,71,3550,3106.0,0.8749295774647887,immigration
-Socialistisk Folkeparti,Borgernes Parti,71,619,116.0,0.18739903069466882,immigration
-Socialistisk Folkeparti,Danmarksdemokraterne,71,9518,3972.0,0.41731456188274846,immigration
-Socialistisk Folkeparti,Dansk Folkeparti,71,4327,744.0,0.17194360989137972,immigration
-Socialistisk Folkeparti,Det Konservative Folkeparti,71,6338,2996.0,0.472704323130325,immigration
-Socialistisk Folkeparti,Enhedslisten,71,7419,6476.0,0.8728939210136137,immigration
-Socialistisk Folkeparti,Liberal Alliance,71,9943,7789.0,0.7833651815347481,immigration
-Socialistisk Folkeparti,Moderaterne,71,6891,5637.0,0.8180235089246843,immigration
-Socialistisk Folkeparti,Radikale Venstre,71,5401,4751.0,0.8796519163117941,immigration
-Socialistisk Folkeparti,Socialdemokratiet,71,32157,26328.0,0.8187330907733931,immigration
+Socialdemokratiet,Socialistisk Folkeparti,71,67444,55307.0,0.8200432951782219,immigration
+Socialdemokratiet,Uden for folketingsgrupperne,71,19615,18349.0,0.9354575579913331,immigration
+Socialdemokratiet,Venstre,71,109679,109155.0,0.9952224217945095,immigration
 Socialistisk Folkeparti,Socialistisk Folkeparti,71,8186,8172.0,0.9982897630100172,immigration
-Socialistisk Folkeparti,Uden for folketingsgrupperne,71,2759,2264.0,0.8205871692642261,immigration
-Socialistisk Folkeparti,Venstre,71,15106,12403.0,0.8210644776909837,immigration
-Uden for folketingsgrupperne,Alternativet,71,993,785.0,0.7905337361530715,immigration
-Uden for folketingsgrupperne,Borgernes Parti,71,249,57.0,0.2289156626506024,immigration
-Uden for folketingsgrupperne,Danmarksdemokraterne,71,2570,1282.0,0.49883268482490273,immigration
-Uden for folketingsgrupperne,Dansk Folkeparti,71,1476,375.0,0.2540650406504065,immigration
-Uden for folketingsgrupperne,Det Konservative Folkeparti,71,1649,913.0,0.553668890236507,immigration
-Uden for folketingsgrupperne,Enhedslisten,71,2267,1628.0,0.7181296868107632,immigration
-Uden for folketingsgrupperne,Liberal Alliance,71,2847,2533.0,0.8897084650509308,immigration
-Uden for folketingsgrupperne,Moderaterne,71,1834,1775.0,0.9678298800436205,immigration
-Uden for folketingsgrupperne,Radikale Venstre,71,1765,1429.0,0.8096317280453258,immigration
-Uden for folketingsgrupperne,Socialdemokratiet,71,9093,8683.0,0.9549103706147586,immigration
-Uden for folketingsgrupperne,Socialistisk Folkeparti,71,2595,2089.0,0.805009633911368,immigration
+Socialistisk Folkeparti,Uden for folketingsgrupperne,71,5354,4353.0,0.8130369816959283,immigration
+Socialistisk Folkeparti,Venstre,71,29902,24405.0,0.8161661427329275,immigration
 Uden for folketingsgrupperne,Uden for folketingsgrupperne,71,526,469.0,0.8916349809885932,immigration
-Uden for folketingsgrupperne,Venstre,71,3663,3497.0,0.9546819546819547,immigration
-Venstre,Alternativet,71,6092,4686.0,0.7692055154300722,immigration
-Venstre,Borgernes Parti,71,1044,299.0,0.28639846743295017,immigration
-Venstre,Danmarksdemokraterne,71,16009,8514.0,0.5318258479605222,immigration
-Venstre,Dansk Folkeparti,71,7457,1993.0,0.26726565643019984,immigration
-Venstre,Det Konservative Folkeparti,71,10551,6302.0,0.5972893564591034,immigration
-Venstre,Enhedslisten,71,12755,8973.0,0.7034888279106233,immigration
-Venstre,Liberal Alliance,71,17146,14768.0,0.8613087600606556,immigration
-Venstre,Moderaterne,71,11922,11827.0,0.9920315383324946,immigration
-Venstre,Radikale Venstre,71,9379,7637.0,0.8142659132103636,immigration
-Venstre,Socialdemokratiet,71,53921,53496.0,0.9921180986999499,immigration
-Venstre,Socialistisk Folkeparti,71,14796,12002.0,0.8111651797783185,immigration
-Venstre,Uden for folketingsgrupperne,71,5033,4574.0,0.9088019074110868,immigration
+Uden for folketingsgrupperne,Venstre,71,8696,8071.0,0.9281278748850046,immigration
 Venstre,Venstre,71,22830,22587.0,0.9893561103810775,immigration
