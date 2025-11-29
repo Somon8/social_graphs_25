@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,51,47.0,0.9215686274509803,udenrigs_eu
 Danmarksdemokraterne,Dansk Folkeparti,65,774,750.0,0.9689922480620154,udenrigs_eu
 Danmarksdemokraterne,Det Konservative Folkeparti,65,585,547.0,0.935042735042735,udenrigs_eu

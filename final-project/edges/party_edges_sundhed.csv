@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,358,351.0,0.9804469273743017,sundhed
 Danmarksdemokraterne,Dansk Folkeparti,65,5965,5902.0,0.9894383906119028,sundhed
 Danmarksdemokraterne,Det Konservative Folkeparti,65,3447,3393.0,0.9843342036553525,sundhed

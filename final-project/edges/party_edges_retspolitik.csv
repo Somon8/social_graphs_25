@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,44,40.0,0.9090909090909091,retspolitik
 Danmarksdemokraterne,Dansk Folkeparti,65,672,648.0,0.9642857142857143,retspolitik
 Danmarksdemokraterne,Det Konservative Folkeparti,65,478,440.0,0.9205020920502092,retspolitik

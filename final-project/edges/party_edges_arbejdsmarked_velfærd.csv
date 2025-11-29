@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,85,85.0,1.0,arbejdsmarked_velfærd
 Danmarksdemokraterne,Dansk Folkeparti,65,1278,1278.0,1.0,arbejdsmarked_velfærd
 Danmarksdemokraterne,Det Konservative Folkeparti,65,889,889.0,1.0,arbejdsmarked_velfærd

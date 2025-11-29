@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,524,512.0,0.9770992366412213,General
 Danmarksdemokraterne,Dansk Folkeparti,65,8606,8507.0,0.9884963978619568,General
 Danmarksdemokraterne,Det Konservative Folkeparti,65,5331,5230.0,0.9810542112174077,General

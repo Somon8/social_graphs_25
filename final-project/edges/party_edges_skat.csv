@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,52,50.0,0.9615384615384616,skat
 Danmarksdemokraterne,Dansk Folkeparti,65,753,741.0,0.9840637450199203,skat
 Danmarksdemokraterne,Det Konservative Folkeparti,65,497,479.0,0.9637826961770624,skat

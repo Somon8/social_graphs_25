@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,386,382.0,0.9896373056994818,finans_budget
 Danmarksdemokraterne,Dansk Folkeparti,65,6220,6182.0,0.9938906752411576,finans_budget
 Danmarksdemokraterne,Det Konservative Folkeparti,65,3613,3585.0,0.9922502075837254,finans_budget

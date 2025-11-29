@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,25,25.0,1.0,transport_infrastruktur
 Danmarksdemokraterne,Dansk Folkeparti,65,484,484.0,1.0,transport_infrastruktur
 Danmarksdemokraterne,Det Konservative Folkeparti,65,360,360.0,1.0,transport_infrastruktur

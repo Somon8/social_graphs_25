@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,388,381.0,0.9819587628865979,social_familie
 Danmarksdemokraterne,Dansk Folkeparti,65,6367,6304.0,0.9901052300926653,social_familie
 Danmarksdemokraterne,Det Konservative Folkeparti,65,3724,3670.0,0.985499462943072,social_familie

@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,8,5.0,0.625,immigration
 Danmarksdemokraterne,Dansk Folkeparti,65,122,97.0,0.7950819672131147,immigration
 Danmarksdemokraterne,Det Konservative Folkeparti,65,83,57.0,0.6867469879518072,immigration

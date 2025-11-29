@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,30,30.0,1.0,uddannelse
 Danmarksdemokraterne,Dansk Folkeparti,65,495,495.0,1.0,uddannelse
 Danmarksdemokraterne,Det Konservative Folkeparti,65,363,363.0,1.0,uddannelse

@@ -1,4 +1,4 @@
-party_a,party_b,Period,total_votes_shared,total_votes_agreed,weight,topic
+source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
 Danmarksdemokraterne,Danmarksdemokraterne,65,30,27.0,0.9,klima_miljø
 Danmarksdemokraterne,Dansk Folkeparti,65,475,450.0,0.9473684210526315,klima_miljø
 Danmarksdemokraterne,Det Konservative Folkeparti,65,340,314.0,0.9235294117647059,klima_miljø
