@@ -1,2 +1,4 @@
 edges/party/møde_year_month/
-edges/party/Period/
+# edges/party/Period/
+edges/politician/møde_year_month/
+# edges/politician/Period/
