@@ -1,4 +1,4 @@
-aktørid,aktør,relation_start,relation_end,party_clean
+aktørid,aktør,relation_start,relation_end,party
 5,Frank Aaen,1994-09-21,1995-10-02,Enhedslisten
 5,Frank Aaen,1995-10-03,2014-10-06,Enhedslisten
 12,Nicolai Wammen,2002-10-01,2025-10-06,Socialdemokratiet
@@ -44,7 +44,7 @@ aktørid,aktør,relation_start,relation_end,party_clean
 75,Jeppe Mikkelsen,2011-09-15,2014-11-07,Radikale Venstre
 77,Kristian Thulesen Dahl,1994-10-04,1995-10-05,Fremskridtspartiet
 77,Kristian Thulesen Dahl,1995-10-06,2022-06-29,Dansk Folkeparti
-77,Kristian Thulesen Dahl,2022-06-30,2025-12-02 00:00:00,Uden for Folketingsgrupperne
+77,Kristian Thulesen Dahl,2022-06-30,2025-12-03,Uden for Folketingsgrupperne
 78,Marie Krarup,2011-09-15,2022-02-26,Dansk Folkeparti
 78,Marie Krarup,2022-02-27,2022-10-03,Uden for Folketingsgrupperne
 79,Christian Langballe (udpeget af DF),2011-09-15,2020-06-08,Dansk Folkeparti
@@ -107,6 +107,7 @@ aktørid,aktør,relation_start,relation_end,party_clean
 138,Mette Frederiksen,2002-10-01,2025-10-06,Socialdemokratiet
 139,Thomas Danielsen,2011-09-15,2022-10-03,Venstre
 141,Martin Lidegaard,2022-11-01,2025-10-06,Radikale Venstre
+144,Helle Thorning-Schmidt,2000-01-01,2025-12-03,Socialdemokratiet
 145,Lars Løkke Rasmussen,1994-10-04,2020-12-31,Venstre
 145,Lars Løkke Rasmussen,2021-01-01,2022-05-18,Uden for Folketingsgrupperne
 145,Lars Løkke Rasmussen,2022-05-19,2025-10-06,Moderaterne
@@ -221,7 +222,7 @@ aktørid,aktør,relation_start,relation_end,party_clean
 272,Ole Hækkerup,1998-10-06,2015-11-12,Socialdemokratiet
 273,Per Husted,2009-03-24,2023-10-02,Socialdemokratiet
 276,Pernille Boye Koch,2013-01-01,2013-10-20,Radikale Venstre
-276,Pernille Boye Koch,2013-10-21,2025-12-02 00:00:00,Radikale Venstre
+276,Pernille Boye Koch,2013-10-21,2025-12-03,Radikale Venstre
 276,Pernille Boye Koch,2013-10-21,2013-10-20,Uden for Folketingsgrupperne
 277,Johan Lund Olsen,2013-09-08,2014-10-06,Inuit Ataqatigiit
 278,Karin Gaardsted,2011-09-15,2021-02-21,Socialdemokratiet
@@ -239,23 +240,23 @@ aktørid,aktør,relation_start,relation_end,party_clean
 304,Jacob Lund,2011-11-29,2014-10-06,Socialdemokratiet
 305,Jens Ejner Christensen,2014-07-01,2014-10-06,Venstre
 343,Mie Bergmann,2013-01-10,2014-10-21,Radikale Venstre
-344,Linda Kristiansen,2012-10-23,2025-12-02 00:00:00,Radikale Venstre
+344,Linda Kristiansen,2012-10-23,2025-12-03,Radikale Venstre
 348,Villy Søvndal,1994-08-01,2013-09-30,Socialistisk Folkeparti
 350,Gitte Lillelund Bech,1999-10-01,2012-10-01,Venstre
 351,Sophie Hæstorp Andersen,2002-10-01,2013-12-03,Socialdemokratiet
 352,Henrik Dam Kristensen,1992-10-06,2022-10-03,Socialdemokratiet
 353,Lykke Friis,2011-09-15,2012-10-01,Venstre
-354,Mette Boye,2013-04-30,2025-12-02 00:00:00,Socialistisk Folkeparti
+354,Mette Boye,2013-04-30,2025-12-03,Socialistisk Folkeparti
 362,Vivi Kier,2007-11-13,2013-09-30,Det Konservative Folkeparti
 363,Jacob Bjerregaard,2011-09-15,2013-09-30,Socialdemokratiet
 364,Birthe Rønn Hornbech,1984-10-02,2014-10-06,Venstre
 365,Karen Jespersen,1991-10-01,2007-11-12,Socialdemokratiet
 365,Karen Jespersen,2007-11-13,2014-10-06,Venstre
 366,Daniel Toft Jakobsen,2012-10-23,2022-10-03,Socialdemokratiet
-367,Karen Touborg,2013-04-04,2025-12-02 00:00:00,Socialistisk Folkeparti
+367,Karen Touborg,2013-04-04,2025-12-03,Socialistisk Folkeparti
 370,Thomas Medom,2013-10-01,2013-09-30,Socialistisk Folkeparti
 371,Niels Christian Nielsen,2008-11-03,2013-06-24,Socialdemokratiet
-376,Annika Smith,2013-11-26,2025-12-02 00:00:00,Socialistisk Folkeparti
+376,Annika Smith,2013-11-26,2025-12-03,Socialistisk Folkeparti
 378,Merete Dea Larsen,2011-10-27,2018-10-01,Dansk Folkeparti
 379,Kristen Touborg,1994-10-04,2013-10-22,Socialistisk Folkeparti
 384,Mogens Lykketoft,1987-09-08,2016-09-30,Socialdemokratiet
@@ -265,7 +266,7 @@ aktørid,aktør,relation_start,relation_end,party_clean
 647,Charlotte Antonsen (udpeget af V),1991-10-01,2003-10-06,Venstre
 648,Carina Christensen,2002-10-01,2010-10-04,Det Konservative Folkeparti
 649,Jakob Axel Nielsen,2007-11-13,2010-10-04,Det Konservative Folkeparti
-650,Hüseyin Arac,2010-10-26,2025-12-02 00:00:00,Socialdemokratiet
+650,Hüseyin Arac,2010-10-26,2025-12-03,Socialdemokratiet
 651,Jens Christian Lund,2007-11-13,2010-10-04,Socialdemokratiet
 652,Lene Jensen,2002-10-01,2003-10-06,Socialdemokratiet
 653,Lise von Seelen,2007-11-13,2010-10-04,Socialdemokratiet
@@ -299,7 +300,7 @@ aktørid,aktør,relation_start,relation_end,party_clean
 669,Frank Jensen,1987-10-06,2003-10-06,Socialdemokratiet
 670,Lars Emil Johansen,2002-10-01,2010-10-04,Siumut
 671,Niels Helveg Petersen,1967-10-03,2010-10-04,Radikale Venstre
-671,Niels Helveg Petersen,2010-10-05,2025-12-02 00:00:00,Radikale Venstre
+671,Niels Helveg Petersen,2010-10-05,2025-12-03,Radikale Venstre
 672,Kuupik Kleist,2001-11-20,2003-10-06,Inuit Ataqatigiit
 675,Hanne Severinsen,1984-10-02,2003-10-06,Venstre
 676,Søren Krarup,2002-10-01,2010-10-04,Dansk Folkeparti
@@ -316,12 +317,12 @@ aktørid,aktør,relation_start,relation_end,party_clean
 951,Lissa Mathiasen,1984-01-10,2003-10-06,Socialdemokratiet
 1023,Lone Møller (udpeget af S),1987-10-06,2010-10-04,Socialdemokratiet
 1039,Lotte Bundsgaard,1998-10-06,2003-10-06,Socialdemokratiet
-1044,Lotte Thiim Bertelsen,2006-10-05,2025-12-02 00:00:00,Socialistisk Folkeparti
+1044,Lotte Thiim Bertelsen,2006-10-05,2025-12-03,Socialistisk Folkeparti
 1047,Louise Frevert,2002-10-01,2007-05-08,Dansk Folkeparti
-1047,Louise Frevert,2007-05-09,2025-12-02 00:00:00,Uden for Folketingsgrupperne
-1067,Lykke Roed,2004-10-19,2025-12-02 00:00:00,Dansk Folkeparti
+1047,Louise Frevert,2007-05-09,2025-12-03,Uden for Folketingsgrupperne
+1067,Lykke Roed,2004-10-19,2025-12-03,Dansk Folkeparti
 1085,Majbrit Berlau,2005-03-31,2005-10-12,Enhedslisten
-1087,Malene Søgaard-Andersen,2010-10-14,2025-12-02 00:00:00,Socialistisk Folkeparti
+1087,Malene Søgaard-Andersen,2010-10-14,2025-12-03,Socialistisk Folkeparti
 1090,Malou Aamund,2007-11-13,2008-02-06,Liberal Alliance
 1090,Malou Aamund,2008-02-07,2010-10-04,Venstre
 1094,Margot Torp,1998-10-06,2004-07-07,Socialdemokratiet
@@ -333,21 +334,23 @@ aktørid,aktør,relation_start,relation_end,party_clean
 1146,Marlene Harpsøe,2022-11-01,2025-10-06,Danmarksdemokraterne
 1162,Meta Fuglsang,2009-02-02,2012-01-16,Socialistisk Folkeparti
 1172,Mia Falkenberg,2005-06-17,2007-11-12,Dansk Folkeparti
-1183,Michael Thomsen,2006-02-07,2025-12-02 00:00:00,Socialistisk Folkeparti
+1183,Michael Thomsen,2006-02-07,2025-12-03,Socialistisk Folkeparti
 1201,Mogens Camre,1968-10-01,2007-11-12,Socialdemokratiet
-1201,Mogens Camre,2007-11-13,2025-12-02 00:00:00,Dansk Folkeparti
+1201,Mogens Camre,2007-11-13,2025-12-03,Dansk Folkeparti
 1219,Mogens Nørgård,2002-09-10,2003-10-29,Kristendemokraterne
-1219,Mogens Nørgård,2003-10-30,2025-12-02 00:00:00,Kristendemokraterne
+1219,Mogens Nørgård,2003-10-30,2025-12-03,Kristendemokraterne
 1234,Morten Homann,2002-10-01,2003-10-06,Socialistisk Folkeparti
+1249,Allan Niebuhr,2000-01-01,2025-12-03,Det Konservative Folkeparti
 1250,Jan Trøjborg,1987-10-06,2003-10-06,Socialdemokratiet
 1256,Pia Gjellerup (udpeget af S),1987-10-06,2003-10-06,Socialdemokratiet
 1258,Nanna Westerby,2007-11-13,2010-12-17,Socialistisk Folkeparti
-1269,Niels Høiby,2011-06-05,2025-12-02 00:00:00,Liberal Alliance
+1269,Niels Høiby,2011-06-05,2025-12-03,Liberal Alliance
 1280,Niels Sindal,2002-10-01,2010-10-04,Socialdemokratiet
 1299,Helle Sjelle,2002-10-01,2012-10-23,Det Konservative Folkeparti
+1311,Ole Glahn,2000-01-01,2025-12-03,Radikale Venstre
 1319,Ole Stavad (udpeget af S),1980-10-07,2003-10-06,Socialdemokratiet
 1325,Ole Vagn Christensen,1984-10-02,2010-10-04,Socialdemokratiet
-1334,Peter Laigaard,2014-10-22,2025-12-02 00:00:00,Liberal Alliance
+1334,Peter Laigaard,2014-10-22,2025-12-03,Liberal Alliance
 1353,Peder Sass,1991-10-01,2003-10-06,Socialdemokratiet
 1357,Helge Sander,1984-10-02,2010-10-04,Venstre
 1358,Julie Rademacher,2007-11-13,2010-10-04,Socialdemokratiet
@@ -358,26 +361,27 @@ aktørid,aktør,relation_start,relation_end,party_clean
 1378,Per Ørum Jørgensen,2010-05-20,2010-06-20,Uden for Folketingsgrupperne
 1378,Per Ørum Jørgensen,2010-06-21,2010-10-04,Kristendemokraterne
 1385,Pernille Frahm (udpeget af SF),1991-10-01,2010-10-04,Socialistisk Folkeparti
-1392,Pernille Søndergaard,2008-01-15,2025-12-02 00:00:00,Enhedslisten
+1392,Pernille Søndergaard,2008-01-15,2025-12-03,Enhedslisten
 1393,Pernille Blach Hansen,1998-10-06,2003-10-06,Socialdemokratiet
 1398,Peter Brixtofte,1974-10-01,2002-05-15,Venstre
 1398,Peter Brixtofte,2002-05-16,2003-10-06,Uden for Folketingsgrupperne
 1410,Peter Madsen,2010-05-03,2010-10-04,Venstre
-1413,Peter Westermann,2010-10-05,2025-12-02 00:00:00,Socialistisk Folkeparti
+1413,Peter Westermann,2010-10-05,2025-12-03,Socialistisk Folkeparti
 1414,Peter Christian Christensen,1994-10-04,1997-10-06,Socialdemokratiet
-1417,Pia Boisen,2004-10-18,2025-12-02 00:00:00,Enhedslisten
+1417,Pia Boisen,2004-10-18,2025-12-03,Enhedslisten
 1431,Pia Kristensen,2002-10-01,2005-02-07,Dansk Folkeparti
 1433,Poul Fischer,2002-10-01,2004-11-13,Dansk Folkeparti
-1444,Poul Henrik Hedeboe,2004-07-16,2025-12-02 00:00:00,Socialistisk Folkeparti
+1440,Poul Erik Christensen,2000-01-01,2025-12-03,Radikale Venstre
+1444,Poul Henrik Hedeboe,2004-07-16,2025-12-03,Socialistisk Folkeparti
 1447,Poul Qvist Jørgensen,1984-10-02,2003-10-06,Socialdemokratiet
 1454,Rasmus Jarlov,2010-01-12,2022-10-03,Det Konservative Folkeparti
 1455,René Skau Björnsson,1998-10-06,2014-11-03,Socialdemokratiet
 1461,Rikke Hvilshøj,1998-10-06,2007-11-12,Venstre
 1463,Ritt Bjerregaard,1971-10-05,2003-10-06,Socialdemokratiet
 1470,Sandy Brinck,1999-09-16,2003-10-06,Socialdemokratiet
-1471,Sanne Schroll,2007-03-20,2025-12-02 00:00:00,Socialistisk Folkeparti
+1471,Sanne Schroll,2007-03-20,2025-12-03,Socialistisk Folkeparti
 1473,Sidsel Homann,2005-12-08,2008-10-08,Socialistisk Folkeparti
-1474,Sidsel Leth Svensson,2006-05-15,2025-12-02 00:00:00,Det Konservative Folkeparti
+1474,Sidsel Leth Svensson,2006-05-15,2025-12-03,Det Konservative Folkeparti
 1478,Simon Pihl Sørensen,2006-01-10,2007-04-09,Socialdemokratiet
 1484,Sofia Rossen,2007-04-10,2010-01-11,Inuit Ataqatigiit
 1495,Bendt Bendtsen,1994-10-04,2003-10-06,Det Konservative Folkeparti
@@ -386,12 +390,12 @@ aktørid,aktør,relation_start,relation_end,party_clean
 1504,Laura Lindahl,2012-10-23,2018-10-01,Liberal Alliance
 1513,Kisser Franciska Lehnert,2012-10-02,2012-10-01,Liberal Alliance
 1556,Jann Sjursen,1998-03-11,2003-10-29,Kristendemokraterne
-1556,Jann Sjursen,2003-10-30,2025-12-02 00:00:00,Kristendemokraterne
+1556,Jann Sjursen,2003-10-30,2025-12-03,Kristendemokraterne
 1557,Bodil Kornbek,2001-11-20,2003-10-29,Kristendemokraterne
-1557,Bodil Kornbek,2003-10-30,2025-12-02 00:00:00,Kristendemokraterne
+1557,Bodil Kornbek,2003-10-30,2025-12-03,Kristendemokraterne
 1558,Tove Videbæk,1998-03-11,2003-10-29,Kristendemokraterne
-1558,Tove Videbæk,2003-10-30,2025-12-02 00:00:00,Kristendemokraterne
-1618,Walter Christophersen,2005-02-08,2025-12-02 00:00:00,Dansk Folkeparti
+1558,Tove Videbæk,2003-10-30,2025-12-03,Kristendemokraterne
+1618,Walter Christophersen,2005-02-08,2025-12-03,Dansk Folkeparti
 1619,Yildiz Akdogan,2007-11-13,2025-10-06,Socialdemokratiet
 1623,Aage Frandsen,1971-10-05,2003-10-06,Socialistisk Folkeparti
 1636,Aase D. Madsen (udpeget af DF),1998-10-06,2003-10-06,Dansk Folkeparti
@@ -409,7 +413,7 @@ aktørid,aktør,relation_start,relation_end,party_clean
 1751,Inger Bierbaum,1994-10-04,2003-10-06,Socialdemokratiet
 1752,Jørn Jespersen,1987-10-06,2003-10-06,Socialistisk Folkeparti
 1753,Flemming Oppfeldt,1994-10-04,2004-10-18,Venstre
-1753,Flemming Oppfeldt,2004-10-19,2025-12-02 00:00:00,Uden for Folketingsgrupperne
+1753,Flemming Oppfeldt,2004-10-19,2025-12-03,Uden for Folketingsgrupperne
 1755,Colette L. Brix,2002-10-01,2010-10-04,Dansk Folkeparti
 1757,Irene Simonsen,2002-10-01,2010-10-26,Venstre
 1759,Kaj Ikast,1983-06-28,2003-10-06,Det Konservative Folkeparti
@@ -433,7 +437,7 @@ aktørid,aktør,relation_start,relation_end,party_clean
 1793,Keld Albrechtsen,1995-10-03,2003-10-06,Enhedslisten
 1804,Jan Petersen (udpeget af S),1991-10-01,2003-10-06,Socialdemokratiet
 1805,Inge-Lene Ebdrup,2002-10-01,2007-08-14,Venstre
-1805,Inge-Lene Ebdrup,2007-08-15,2025-12-02 00:00:00,Liberal Alliance
+1805,Inge-Lene Ebdrup,2007-08-15,2025-12-03,Liberal Alliance
 1811,Erik Larsen (udpeget af V),1991-10-01,2003-10-06,Venstre
 1814,Gudrun Laub,2002-10-01,2006-11-13,Venstre
 1815,Jette Jespersen,2002-10-01,2003-10-06,Dansk Folkeparti
@@ -443,7 +447,7 @@ aktørid,aktør,relation_start,relation_end,party_clean
 1822,Jens Peter Vernersen,1994-10-04,2010-10-04,Socialdemokratiet
 1823,Knud Erik Kirkegaard,1984-10-02,2003-10-06,Det Konservative Folkeparti
 1824,Anders Møller,2002-10-01,2003-10-06,Venstre
-1824,Anders Møller,2003-10-07,2025-12-02 00:00:00,Uden for Folketingsgrupperne
+1824,Anders Møller,2003-10-07,2025-12-03,Uden for Folketingsgrupperne
 1829,Thor Pedersen,1985-01-01,2010-10-04,Venstre
 1830,Helge Mortensen,1984-10-02,2003-10-06,Socialdemokratiet
 1831,Freddie H. Madsen,2002-10-01,2003-10-06,Dansk Folkeparti
@@ -464,33 +468,39 @@ aktørid,aktør,relation_start,relation_end,party_clean
 1887,Connie Hedegaard,1984-10-02,2009-10-05,Det Konservative Folkeparti
 1891,Thomas Adelskov,2000-09-01,2009-10-05,Socialdemokratiet
 1911,Henning Gjellerod,1991-10-01,2004-07-07,Socialdemokratiet
-1912,Ida Jørgensen,2004-07-15,2025-12-02 00:00:00,Radikale Venstre
-1914,Jakob Jensen,2004-10-19,2025-12-02 00:00:00,Socialdemokratiet
-1916,Christian Wedell-Neergaard,2004-07-20,2025-12-02 00:00:00,Det Konservative Folkeparti
+1912,Ida Jørgensen,2004-07-15,2025-12-03,Radikale Venstre
+1914,Jakob Jensen,2004-10-19,2025-12-03,Socialdemokratiet
+1916,Christian Wedell-Neergaard,2004-07-20,2025-12-03,Det Konservative Folkeparti
 1947,Søren Hansen,1980-10-07,2005-01-10,Socialdemokratiet
-1948,Birgitte Møller,2005-01-13,2025-12-02 00:00:00,Radikale Venstre
+1948,Birgitte Møller,2005-01-13,2025-12-03,Radikale Venstre
 1951,Flemming Møller (udpeget af V),2004-10-19,2010-10-04,Venstre
 2103,Britta Schall Holberg,1984-10-02,2010-10-04,Venstre
 2156,Gitte Seeberg,1994-10-04,2007-11-12,Det Konservative Folkeparti
 2156,Gitte Seeberg,2007-11-13,2008-01-29,Liberal Alliance
-2156,Gitte Seeberg,2008-01-30,2025-12-02 00:00:00,Uden for Folketingsgrupperne
+2156,Gitte Seeberg,2008-01-30,2025-12-03,Uden for Folketingsgrupperne
+3042,"Frode Sørensen, Hjørring",2000-01-01,2025-12-03,Socialdemokratiet
+3081,Kurt Kirkegaard,2000-01-01,2025-12-03,Venstre
 3082,Henrik Brodersen,2005-03-01,2018-10-01,Dansk Folkeparti
+3083,Charlotte Fischer,2000-01-01,2025-12-03,Radikale Venstre
 3084,Troels Christensen (udpeget af V),2007-11-13,2010-10-04,Venstre
 3085,Kim Mortensen,2007-11-13,2010-10-04,Socialdemokratiet
 3086,Johs. Poulsen,2006-11-04,2010-10-04,Radikale Venstre
 3086,Johs. Poulsen,2010-10-05,2010-11-18,Radikale Venstre
+3087,Elisabeth Geday,2000-01-01,2025-12-03,Radikale Venstre
 3088,Bente Dahl,2007-11-13,2010-10-04,Radikale Venstre
-3088,Bente Dahl,2010-10-05,2025-12-02 00:00:00,Radikale Venstre
+3088,Bente Dahl,2010-10-05,2025-12-03,Radikale Venstre
+3089,Joan Erlandsen,2000-01-01,2025-12-03,Venstre
 3090,Tina Petersen,2005-02-08,2010-10-04,Dansk Folkeparti
 3092,Vibeke Grave,2005-03-31,2010-10-04,Socialdemokratiet
-3992,Bjørn Medom Nielsen,2006-01-01,2025-12-02 00:00:00,Socialdemokratiet
-3993,Grethe H. Nielsen,2005-10-27,2025-12-02 00:00:00,Socialdemokratiet
-3994,Jesper Kinch-Jensen,2006-01-17,2025-12-02 00:00:00,Socialdemokratiet
+3093,Anfinn Kallsberg,2000-01-01,2025-12-03,Fólkaflokkurin
+3992,Bjørn Medom Nielsen,2006-01-01,2025-12-03,Socialdemokratiet
+3993,Grethe H. Nielsen,2005-10-27,2025-12-03,Socialdemokratiet
+3994,Jesper Kinch-Jensen,2006-01-17,2025-12-03,Socialdemokratiet
 3995,Egil Møller,1998-10-06,2005-10-05,Dansk Folkeparti
-3996,Henrik Fruergaard,2006-05-29,2025-12-02 00:00:00,Venstre
-3997,Tina Bostrup,2005-12-12,2025-12-02 00:00:00,Radikale Venstre
-3998,Thomas Krog,2006-01-10,2025-12-02 00:00:00,Socialistisk Folkeparti
-4428,Jens Borking,2007-10-02,2025-12-02 00:00:00,Enhedslisten
+3996,Henrik Fruergaard,2006-05-29,2025-12-03,Venstre
+3997,Tina Bostrup,2005-12-12,2025-12-03,Radikale Venstre
+3998,Thomas Krog,2006-01-10,2025-12-03,Socialistisk Folkeparti
+4428,Jens Borking,2007-10-02,2025-12-03,Enhedslisten
 4433,Jens Jørgen Nygaard,2007-05-08,2007-10-01,Det Konservative Folkeparti
 4434,Abbas Razvi,2007-10-02,2021-12-05,Radikale Venstre
 4434,Abbas Razvi,2021-12-06,2022-10-03,Radikale Venstre
@@ -502,53 +512,57 @@ aktørid,aktør,relation_start,relation_end,party_clean
 4969,Jørgen Poulsen,2007-11-13,2008-06-23,Liberal Alliance
 4969,Jørgen Poulsen,2008-06-24,2008-08-12,Uden for Folketingsgrupperne
 4969,Jørgen Poulsen,2008-08-13,2010-10-04,Radikale Venstre
-4969,Jørgen Poulsen,2010-10-05,2025-12-02 00:00:00,Radikale Venstre
+4969,Jørgen Poulsen,2010-10-05,2025-12-03,Radikale Venstre
 4971,Jane Alrø Sørensen,2008-04-13,2009-10-27,Socialistisk Folkeparti
 5132,Flemming Bonne,2007-11-13,2009-10-05,Socialistisk Folkeparti
 5182,Anne Marie Geisler Andersen,2009-09-01,2010-10-04,Radikale Venstre
 5182,Anne Marie Geisler Andersen,2010-10-05,2018-11-25,Radikale Venstre
 5468,Dorrit Knudsen,2006-10-03,2011-01-24,Socialdemokratiet
+5593,Carsten Hansen,2000-01-01,2025-12-03,Socialdemokratiet
+5905,"Mogens Jensen, Brøndby",2000-01-01,2025-12-03,Socialdemokratiet
 6684,Annita á Fríðriksmørk,2008-09-09,2008-10-06,Tjóðveldi
 6685,Anders Broholm,2008-01-22,2008-10-30,Venstre
-6686,Torben Lund,2008-01-10,2025-12-02 00:00:00,Socialistisk Folkeparti
-6687,Kaj Leo Johannesen,2007-12-04,2025-12-02 00:00:00,Sambandsflokkurin
+6686,Torben Lund,2008-01-10,2025-12-03,Socialistisk Folkeparti
+6687,Kaj Leo Johannesen,2007-12-04,2025-12-03,Sambandsflokkurin
 6688,Henrik Rasmussen,2007-11-29,2010-01-03,Det Konservative Folkeparti
 6689,Juliane Henningsen Heilmann,2007-11-13,2010-10-04,Inuit Ataqatigiit
-6701,Kenneth F. Christensen,2008-10-07,2025-12-02 00:00:00,Socialdemokratiet
-6737,Johannes Lebech,2016-05-10,2025-12-02 00:00:00,Radikale Venstre
-8910,Karin Storgaard,2008-10-29,2025-12-02 00:00:00,Dansk Folkeparti
+6701,Kenneth F. Christensen,2008-10-07,2025-12-03,Socialdemokratiet
+6737,Johannes Lebech,2016-05-10,2025-12-03,Radikale Venstre
+7633,Torben Hansen,2000-01-01,2025-12-03,Socialdemokratiet
+8319,Jytte Andersen,2000-01-01,2025-12-03,Socialdemokratiet
+8910,Karin Storgaard,2008-10-29,2025-12-03,Dansk Folkeparti
 8917,Thomas Horn,2008-10-29,2009-10-27,Socialdemokratiet
-9780,Tórbjørn Jacobsen,2016-10-18,2025-12-02 00:00:00,Tjóðveldi
+9780,Tórbjørn Jacobsen,2016-10-18,2025-12-03,Tjóðveldi
 9976,Jette Gottlieb,1994-09-21,1995-10-02,Enhedslisten
 9976,Jette Gottlieb,1995-10-03,2024-09-30,Enhedslisten
 10107,Bruno Jerup,1994-09-21,1995-10-02,Enhedslisten
 10107,Bruno Jerup,1995-10-03,2022-03-31,Enhedslisten
-10690,Steen Konradsen,2010-02-11,2025-12-02 00:00:00,Det Konservative Folkeparti
+10690,Steen Konradsen,2010-02-11,2025-12-03,Det Konservative Folkeparti
 10691,Kurt Scheelsbeck,2010-09-07,2010-10-04,Det Konservative Folkeparti
-10702,Helle Dam,2009-10-29,2025-12-02 00:00:00,Socialdemokratiet
-10704,Kasper Krüger,2010-06-10,2025-12-02 00:00:00,Venstre
-10705,Bente Kronborg Holst,2009-10-28,2025-12-02 00:00:00,Dansk Folkeparti
-10706,Jette Plesner Dali,2010-03-01,2025-12-02 00:00:00,Dansk Folkeparti
+10702,Helle Dam,2009-10-29,2025-12-03,Socialdemokratiet
+10704,Kasper Krüger,2010-06-10,2025-12-03,Venstre
+10705,Bente Kronborg Holst,2009-10-28,2025-12-03,Dansk Folkeparti
+10706,Jette Plesner Dali,2010-03-01,2025-12-03,Dansk Folkeparti
 10707,Erikanell Asmuss Lorentsen,2010-04-06,2010-10-26,Radikale Venstre
-10707,Erikanell Asmuss Lorentsen,2010-10-27,2025-12-02 00:00:00,Radikale Venstre
-11412,Anna Kirsten Olesen,2010-10-27,2025-12-02 00:00:00,Socialdemokratiet
+10707,Erikanell Asmuss Lorentsen,2010-10-27,2025-12-03,Radikale Venstre
+11412,Anna Kirsten Olesen,2010-10-27,2025-12-03,Socialdemokratiet
 11583,Kenneth Kristensen Berth,2011-02-22,2018-10-01,Dansk Folkeparti
 11584,Daniel Rugholm,2010-11-01,2014-11-10,Det Konservative Folkeparti
-11585,Jens Arne Hedegaard,2010-10-27,2025-12-02 00:00:00,Venstre
-11586,Bilal Inekci,2010-10-27,2025-12-02 00:00:00,Socialistisk Folkeparti
+11585,Jens Arne Hedegaard,2010-10-27,2025-12-03,Venstre
+11586,Bilal Inekci,2010-10-27,2025-12-03,Socialistisk Folkeparti
 11702,Per Larsen,2022-11-01,2025-10-06,Det Konservative Folkeparti
-12283,Aksel V. Johannesen,2012-04-20,2025-12-02 00:00:00,Javnaðarflokkurin
-12284,Marie-Louise Andreassen,2011-10-27,2025-12-02 00:00:00,Radikale Venstre
-12285,Ida Damborg,2011-10-27,2025-12-02 00:00:00,Socialistisk Folkeparti
-13727,Sarah Nørris,2014-10-22,2025-12-02 00:00:00,Enhedslisten
-13836,Helge Vagn Jacobsen,2014-11-03,2025-12-02 00:00:00,Radikale Venstre
-13843,Bente Bendix,2014-11-07,2025-12-02 00:00:00,Venstre
-14000,Nick Nielsen,2014-12-16,2025-12-02 00:00:00,Siumut
+12283,Aksel V. Johannesen,2012-04-20,2025-12-03,Javnaðarflokkurin
+12284,Marie-Louise Andreassen,2011-10-27,2025-12-03,Radikale Venstre
+12285,Ida Damborg,2011-10-27,2025-12-03,Socialistisk Folkeparti
+13727,Sarah Nørris,2014-10-22,2025-12-03,Enhedslisten
+13836,Helge Vagn Jacobsen,2014-11-03,2025-12-03,Radikale Venstre
+13843,Bente Bendix,2014-11-07,2025-12-03,Venstre
+14000,Nick Nielsen,2014-12-16,2025-12-03,Siumut
 14372,Susanne Eilersen (udpeget af DF),2015-03-10,2022-10-03,Dansk Folkeparti
 15757,Aaja Chemnitz,2022-11-01,2025-10-06,Inuit Ataqatigiit
 15758,Aleqa Hammond,2015-06-18,2016-08-22,Siumut
 15758,Aleqa Hammond,2016-08-23,2018-10-01,Uden for Folketingsgrupperne
-15758,Aleqa Hammond,2018-10-02,2025-12-02 00:00:00,Nunatta Qitornai
+15758,Aleqa Hammond,2018-10-02,2025-12-03,Nunatta Qitornai
 15760,Lea Wermelin,2015-06-18,2023-10-02,Socialdemokratiet
 15761,Karina Due,2015-06-18,2018-10-01,Dansk Folkeparti
 15762,Christian Rabjerg Madsen,2015-06-18,2022-10-03,Socialdemokratiet
@@ -601,44 +615,44 @@ aktørid,aktør,relation_start,relation_end,party_clean
 15881,Magni Arge,2015-07-28,2018-10-01,Tjóðveldi
 16072,Carsten Kudsk,2015-10-21,2019-10-29,Dansk Folkeparti
 16073,Rasmus Vestergaard Madsen,2015-10-26,2020-12-31,Enhedslisten
-16074,Steen Holm Iversen,2015-10-22,2025-12-02 00:00:00,Liberal Alliance
-16092,Sisse Marie Welling,2015-10-26,2025-12-02 00:00:00,Socialistisk Folkeparti
+16074,Steen Holm Iversen,2015-10-22,2025-12-03,Liberal Alliance
+16092,Sisse Marie Welling,2015-10-26,2025-12-03,Socialistisk Folkeparti
 16176,Nikolaj Amstrup,2015-11-03,2017-10-02,Alternativet
 16180,Kasper Roug,2022-11-01,2025-10-06,Socialdemokratiet
 16351,Malte Larsen,2015-11-12,2022-10-31,Socialdemokratiet
 16374,Anders Johansson,2015-12-04,2018-10-01,Det Konservative Folkeparti
-16428,Emrah Tuncer,2016-01-01,2025-12-02 00:00:00,Radikale Venstre
+16428,Emrah Tuncer,2016-01-01,2025-12-03,Radikale Venstre
 16473,Malou Lunderød,2016-02-01,2018-10-01,Socialdemokratiet
 16503,Anne Paulin,2022-11-01,2025-10-06,Socialdemokratiet
 16582,Peder Hvelplund,2016-03-29,2022-10-03,Enhedslisten
-16603,Sarah Glerup,2016-04-04,2025-12-02 00:00:00,Enhedslisten
+16603,Sarah Glerup,2016-04-04,2025-12-03,Enhedslisten
 16610,Lars Aslan Rasmussen,2016-04-04,2022-10-03,Socialdemokratiet
 16728,Kirsten Normann Andersen,2016-08-08,2023-10-02,Socialistisk Folkeparti
 16757,Danny K. Malkowski,2016-10-01,2016-10-03,Liberal Alliance
-16952,Helle Osther,2016-10-26,2025-12-02 00:00:00,Enhedslisten
+16952,Helle Osther,2016-10-26,2025-12-03,Enhedslisten
 17134,Jonathan Simmel,2022-08-12,2022-10-03,Enhedslisten
 17140,Orla Østerby,2016-12-15,2020-12-03,Det Konservative Folkeparti
 17140,Orla Østerby,2020-12-04,2022-10-03,Uden for Folketingsgrupperne
 17141,Brigitte Klintskov Jerkel,2016-12-15,2023-11-23,Det Konservative Folkeparti
-17247,Klaus Markussen,2017-03-20,2025-12-02 00:00:00,Venstre
+17247,Klaus Markussen,2017-03-20,2025-12-03,Venstre
 17267,Kristian Hegaard,2017-04-18,2020-10-05,Radikale Venstre
 17360,Merete Scheelsbeck,2017-05-02,2024-01-08,Det Konservative Folkeparti
-17543,Marianne Bredal,2017-10-03,2025-12-02 00:00:00,Venstre
+17543,Marianne Bredal,2017-10-03,2025-12-03,Venstre
 17628,Carl Valentin,2017-10-25,2026-02-06,Socialistisk Folkeparti
 17629,Mads Fuglede,2022-11-01,2024-04-11,Venstre
 17629,Mads Fuglede,2024-04-12,2025-10-06,Danmarksdemokraterne
-17736,Per Nørhave,2017-12-01,2025-12-02 00:00:00,Dansk Folkeparti
-17752,Anders Stjernholm,2017-11-28,2025-12-02 00:00:00,Alternativet
-17827,Tina Boel,2018-02-19,2025-12-02 00:00:00,Socialistisk Folkeparti
+17736,Per Nørhave,2017-12-01,2025-12-03,Dansk Folkeparti
+17752,Anders Stjernholm,2017-11-28,2025-12-03,Alternativet
+17827,Tina Boel,2018-02-19,2025-12-03,Socialistisk Folkeparti
 17963,Øjvind Vilsholm,2018-04-09,2018-10-01,Enhedslisten
-17988,Bjarni Hammer,2018-05-07,2025-12-02 00:00:00,Javnaðarflokkurin
+17988,Bjarni Hammer,2018-05-07,2025-12-03,Javnaðarflokkurin
 17990,Tommy Ahlers,2019-06-05,2020-10-05,Venstre
 18265,Carsten Kissmeyer,2018-10-02,2022-10-03,Venstre
 18278,Serdal Benli,2018-09-30,2024-09-30,Socialistisk Folkeparti
-18291,Erik Lund,2018-10-08,2025-12-02 00:00:00,Det Konservative Folkeparti
-18415,Julius Graakjær Grantzau,2018-11-01,2025-12-02 00:00:00,Alternativet
-18545,Henrik Old,2019-01-15,2025-12-02 00:00:00,Javnaðarflokkurin
-18614,Rigmor Dam,2019-02-28,2025-12-02 00:00:00,Javnaðarflokkurin
+18291,Erik Lund,2018-10-08,2025-12-03,Det Konservative Folkeparti
+18415,Julius Graakjær Grantzau,2018-11-01,2025-12-03,Alternativet
+18545,Henrik Old,2019-01-15,2025-12-03,Javnaðarflokkurin
+18614,Rigmor Dam,2019-02-28,2025-12-03,Javnaðarflokkurin
 18688,Aki-Matilda Høegh-Dam,2022-11-01,2025-02-07,Siumut
 18688,Aki-Matilda Høegh-Dam,2025-02-08,2025-02-10,Uden for Folketingsgrupperne
 18688,Aki-Matilda Høegh-Dam,2025-02-11,2025-11-14,Naleraq
@@ -695,32 +709,32 @@ aktørid,aktør,relation_start,relation_end,party_clean
 18736,Egil Hulgaard,2019-08-05,2020-10-05,Det Konservative Folkeparti
 18830,Nils Sjøberg,2019-09-02,2019-09-30,Radikale Venstre
 18882,Tanja Larsson,2019-10-01,2025-11-02,Socialdemokratiet
-18917,Balder Mørk Andersen,2019-10-30,2025-12-02 00:00:00,Socialistisk Folkeparti
-18953,Mira Issa Bloch,2019-10-22,2025-12-02 00:00:00,Alternativet
+18917,Balder Mørk Andersen,2019-10-30,2025-12-03,Socialistisk Folkeparti
+18953,Mira Issa Bloch,2019-10-22,2025-12-03,Alternativet
 19000,Theresa Berg Andersen,2020-01-01,2025-10-06,Socialistisk Folkeparti
 19002,Gitte Willumsen,2020-01-01,2021-12-20,Venstre
 19002,Gitte Willumsen,2021-12-21,2022-10-03,Det Konservative Folkeparti
-19016,Dorthe Hindborg,2020-01-06,2025-12-02 00:00:00,Socialdemokratiet
-19133,Anders G. Christensen,2020-03-10,2025-12-02 00:00:00,Venstre
+19016,Dorthe Hindborg,2020-01-06,2025-12-03,Socialdemokratiet
+19133,Anders G. Christensen,2020-03-10,2025-12-03,Venstre
 19142,Barbara Gaardlykke Apol,2020-03-17,2024-03-04,Javnaðarflokkurin
-19146,Anna Brændemose,2020-03-10,2025-12-02 00:00:00,Socialistisk Folkeparti
+19146,Anna Brændemose,2020-03-10,2025-12-03,Socialistisk Folkeparti
 19196,Ruben Kidde,2020-04-16,2020-10-05,Radikale Venstre
-19221,Hanne Bjørn-Klausen,2020-05-12,2025-12-02 00:00:00,Det Konservative Folkeparti
+19221,Hanne Bjørn-Klausen,2020-05-12,2025-12-03,Det Konservative Folkeparti
 19475,Susan Kronborg,2020-11-10,2022-10-03,Radikale Venstre
-19480,Henrik Vinther,2020-11-17,2025-12-02 00:00:00,Radikale Venstre
+19480,Henrik Vinther,2020-11-17,2025-12-03,Radikale Venstre
 19569,Maja Torp,2021-03-01,2022-10-03,Venstre
 19637,Kenneth Mikkelsen,2021-04-01,2022-10-03,Venstre
-19684,Mads Andersen,2021-04-13,2025-12-02 00:00:00,Det Konservative Folkeparti
-19748,Stine Pilt Olsen,2021-05-20,2025-12-02 00:00:00,Det Konservative Folkeparti
+19684,Mads Andersen,2021-04-13,2025-12-03,Det Konservative Folkeparti
+19748,Stine Pilt Olsen,2021-05-20,2025-12-03,Det Konservative Folkeparti
 19806,Alexander Grandt,2021-09-16,2022-01-01,Socialdemokratiet
 19807,Anne Rasmussen,2021-08-12,2022-10-03,Venstre
 19809,Christina Thorholm,2021-08-31,2022-10-03,Radikale Venstre
-19919,Brian Bressendorff,2021-10-07,2025-12-02 00:00:00,Socialdemokratiet
+19919,Brian Bressendorff,2021-10-07,2025-12-03,Socialdemokratiet
 19920,Karsten Filsø,2021-10-07,2024-12-12,Socialistisk Folkeparti
 19928,Kim Aas,2022-11-01,2025-10-06,Socialdemokratiet
-19948,Mark Grossmann,2021-10-14,2025-12-02 00:00:00,Venstre
-19982,Jan Bjergskov Larsen,2021-11-23,2025-12-02 00:00:00,Socialistisk Folkeparti
-19996,Helgi Abrahamsen,2021-12-07,2025-12-02 00:00:00,Sambandsflokkurin
+19948,Mark Grossmann,2021-10-14,2025-12-03,Venstre
+19982,Jan Bjergskov Larsen,2021-11-23,2025-12-03,Socialistisk Folkeparti
+19996,Helgi Abrahamsen,2021-12-07,2025-12-03,Sambandsflokkurin
 20051,Theis Kylling Hommeltoft,2022-01-20,2024-01-21,Socialdemokratiet
 20144,Maria Gudme,2022-05-10,2022-10-03,Socialdemokratiet
 20349,Anna Falkenberg,2022-11-01,2025-10-06,Sambandsflokkurin
@@ -768,7 +782,7 @@ aktørid,aktør,relation_start,relation_end,party_clean
 20384,Nanna W. Gotfredsen,2022-11-01,2025-10-06,Moderaterne
 20385,Charlotte Bagge Hansen,2022-11-01,2025-10-06,Moderaterne
 20386,Rasmus Lund-Nielsen,2022-11-01,2025-10-06,Moderaterne
-20387,Kristian Klarskov,2022-11-01,2025-12-02 00:00:00,Moderaterne
+20387,Kristian Klarskov,2022-11-01,2025-12-03,Moderaterne
 20388,Jon Stephensen,2022-11-01,2023-08-23,Moderaterne
 20388,Jon Stephensen,2023-08-24,2025-10-06,Uden for Folketingsgrupperne
 20389,Peter Have,2022-11-01,2025-10-06,Moderaterne
@@ -787,39 +801,40 @@ aktørid,aktør,relation_start,relation_end,party_clean
 20411,Leila Stockmarr,2022-11-22,2025-10-06,Enhedslisten
 20415,Mohammad Rona,2022-11-24,2025-10-06,Moderaterne
 20496,Henrik Rejnholt Andersen,2023-01-19,2025-10-06,Moderaterne
-20527,Nanna Høyrup,2023-05-01,2025-12-02 00:00:00,Alternativet
-20539,Noah Sturis,2023-03-28,2025-12-02 00:00:00,Alternativet
-20559,Reza Javid,2023-03-28,2025-12-02 00:00:00,Enhedslisten
+20527,Nanna Høyrup,2023-05-01,2025-12-03,Alternativet
+20539,Noah Sturis,2023-03-28,2025-12-03,Alternativet
+20559,Reza Javid,2023-03-28,2025-12-03,Enhedslisten
 20580,Lean Milo,2023-04-27,2023-08-17,Moderaterne
-20580,Lean Milo,2023-08-18,2025-12-02 00:00:00,Uden for Folketingsgrupperne
+20580,Lean Milo,2023-08-18,2025-12-03,Uden for Folketingsgrupperne
 20599,Søren Rasmussen,2023-08-10,2023-10-02,Dansk Folkeparti
 20629,Nikoline Erbs Hillers-Bendtsen,2023-09-07,2024-12-17,Alternativet
 20635,Markus E. Olsen,2023-09-22,2023-10-02,Siumut
 20642,Anne Hegelund,2023-09-07,2023-10-02,Enhedslisten
-20747,Jenny Andresen,2023-11-01,2025-12-02 00:00:00,Danmarksdemokraterne
-20767,Andreas Karlsen,2023-11-01,2025-12-02 00:00:00,Det Konservative Folkeparti
-20779,Runa Friis Hansen,2023-11-07,2025-12-02 00:00:00,Enhedslisten
+20747,Jenny Andresen,2023-11-01,2025-12-03,Danmarksdemokraterne
+20767,Andreas Karlsen,2023-11-01,2025-12-03,Det Konservative Folkeparti
+20779,Runa Friis Hansen,2023-11-07,2025-12-03,Enhedslisten
 20781,Gunvor Wibroe,2023-11-02,2025-10-06,Socialdemokratiet
 20790,Ken Kristensen,2023-11-20,2025-05-25,Venstre
 20798,Mads Olsen,2023-11-30,2025-10-06,Socialistisk Folkeparti
-20805,Jan Carlsen,2023-11-23,2025-12-02 00:00:00,Moderaterne
+20805,Jan Carlsen,2023-11-23,2025-12-03,Moderaterne
 20820,Carl Andersen,2023-12-07,2025-10-06,Liberal Alliance
-20823,Morten Vehl,2023-12-12,2025-12-02 00:00:00,Danmarksdemokraterne
-20841,Lars Arne Christensen,2024-02-01,2025-12-02 00:00:00,Moderaterne
-20916,Kenneth Bjerg Andersen,2024-02-20,2025-12-02 00:00:00,Moderaterne
+20823,Morten Vehl,2023-12-12,2025-12-03,Danmarksdemokraterne
+20841,Lars Arne Christensen,2024-02-01,2025-12-03,Moderaterne
+20916,Kenneth Bjerg Andersen,2024-02-20,2025-12-03,Moderaterne
 20917,Tina Cartey Hansen,2024-02-20,2025-10-06,Det Konservative Folkeparti
 20925,Dina Raabjerg,2024-03-03,2025-10-06,Det Konservative Folkeparti
 20930,Louise Mehnke,2024-03-19,2025-10-06,Socialdemokratiet
-20941,Preben Friis-Hauge,2024-04-04,2025-12-02 00:00:00,Venstre
+20941,Preben Friis-Hauge,2024-04-04,2025-12-03,Venstre
 20962,Claus Jørgensen,2024-05-28,2025-10-06,Socialistisk Folkeparti
 20966,Frederik Bloch Münster,2024-06-26,2025-10-06,Det Konservative Folkeparti
+20976,Caroline Stage Olsen,2000-01-01,2025-12-03,Moderaterne
 21044,Lasse Haugaard Pedersen,2024-10-10,2025-10-06,Socialdemokratiet
-21075,Michael Rosenmark,2024-10-30,2025-12-02 00:00:00,Danmarksdemokraterne
-21076,Charlotte Nellemann,2024-10-30,2025-12-02 00:00:00,Liberal Alliance
+21075,Michael Rosenmark,2024-10-30,2025-12-03,Danmarksdemokraterne
+21076,Charlotte Nellemann,2024-10-30,2025-12-03,Liberal Alliance
 21083,Thorkild Holmboe-Hay,2024-11-04,2025-10-06,Socialdemokratiet
 21143,Morten Klessen,2025-02-28,2025-10-06,Socialdemokratiet
 21159,Ammar Ali,2025-04-22,2025-10-06,Moderaterne
-21161,Lisa Perkins,2025-04-24,2025-12-02 00:00:00,Liberal Alliance
+21161,Lisa Perkins,2025-04-24,2025-12-03,Liberal Alliance
 21168,Erik Veje Rasmussen,2025-07-01,2025-10-06,Venstre
 21186,Mads Madsen Henriksen,2025-09-04,2025-10-06,Socialdemokratiet
 21194,Joachim Hoffmann-Petersen,2025-09-09,2025-10-06,Det Konservative Folkeparti
