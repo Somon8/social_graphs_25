@@ -79,3 +79,4 @@ periods_df = pd.DataFrame(
 )
 
 periods_df['period_start_date'] = pd.to_datetime(periods_df['period_start_date'])
+periods_df['Period'] = pd.to_numeric(periods_df['Period'], errors='coerce')
