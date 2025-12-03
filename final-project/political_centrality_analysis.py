@@ -43,7 +43,8 @@ def calculate_centrality_measures(G, network_name="Network"):
         # Create a copy to avoid modifying original graph
         G_copy = G.copy()
         for u, v, d in G_copy.edges(data=True):
-            d['distance'] = 1.0 / d.get('weight', 1.0)
+            weight = d.get('weight', 1.0)
+            d['distance'] = 1.0 / (weight + 1e-10)  # Avoid division by zero
         centrality_measures['betweenness'] = nx.betweenness_centrality(G_copy, weight='distance')
     else:
         # Unweighted betweenness
@@ -190,7 +191,7 @@ def compare_centrality_measures(centrality_full, centrality_backbone,
         print(f"{node_display:<40} {party_display:<20} {rank_str:<12} {score_change:<15}")
 
 
-def full_centrality_analysis(df_agg, df_backbone, G_full, G_backbone):
+def full_centrality_analysis(df_agg, G_full, G_backbone, print_stats=True):
     """
     Run complete centrality analysis comparing full and backbone networks.
     
@@ -198,8 +199,6 @@ def full_centrality_analysis(df_agg, df_backbone, G_full, G_backbone):
     -----------
     df_agg : pandas.DataFrame
         Aggregated edge list (full network)
-    df_backbone : pandas.DataFrame
-        Backbone edge list
     G_full : networkx.Graph
         Full network graph
     G_backbone : networkx.Graph
@@ -223,59 +222,67 @@ def full_centrality_analysis(df_agg, df_backbone, G_full, G_backbone):
     centrality_full = calculate_centrality_measures(G_full, "Full Network")
     centrality_backbone = calculate_centrality_measures(G_backbone, "Backbone Network")
     
-    # Print top nodes for each measure in each network
-    print("\n" + "="*80)
-    print("FULL NETWORK - TOP POLITICIANS BY CENTRALITY")
-    print("="*80)
-    
-    for measure in ['degree', 'betweenness', 'closeness', 'eigenvector']:
-        if centrality_full.get(measure):
-            print_top_nodes(centrality_full[measure], 
-                          f"{measure.capitalize()} Centrality (Full Network)", 
-                          top_n=10, 
-                          node_party_map=node_party_map)
-    
-    print("\n" + "="*80)
-    print("BACKBONE NETWORK - TOP POLITICIANS BY CENTRALITY")
-    print("="*80)
-    
-    for measure in ['degree', 'betweenness', 'closeness', 'eigenvector']:
-        if centrality_backbone.get(measure):
-            print_top_nodes(centrality_backbone[measure], 
-                          f"{measure.capitalize()} Centrality (Backbone)", 
-                          top_n=10, 
-                          node_party_map=node_party_map)
-    
-    # Compare rankings
-    print("\n" + "="*80)
-    print("COMPARATIVE ANALYSIS: FULL vs BACKBONE")
-    print("="*80)
-    
-    for measure in ['degree', 'betweenness', 'closeness', 'eigenvector']:
-        if centrality_full.get(measure) and centrality_backbone.get(measure):
-            compare_centrality_measures(centrality_full[measure],
-                                       centrality_backbone[measure],
-                                       f"{measure.capitalize()} Centrality",
-                                       top_n=10,
-                                       node_party_map=node_party_map)
-    
-    # Summary statistics
-    print("\n" + "="*80)
-    print("SUMMARY STATISTICS")
-    print("="*80)
-    
-    for measure in ['degree', 'betweenness', 'closeness', 'eigenvector']:
-        if centrality_full.get(measure) and centrality_backbone.get(measure):
-            scores_full = list(centrality_full[measure].values())
-            scores_backbone = list(centrality_backbone[measure].values())
-            
-            print(f"\n{measure.capitalize()} Centrality:")
-            print(f"  Full Network    - Mean: {np.mean(scores_full):.4f}, Std: {np.std(scores_full):.4f}")
-            print(f"  Backbone Network - Mean: {np.mean(scores_backbone):.4f}, Std: {np.std(scores_backbone):.4f}")
-    
-    print("\n" + "="*80 + "\n")
-    
-    return centrality_full, centrality_backbone
+    # Convert to DataFrames with politicians as rows and measures as columns
+    df_centrality_full = pd.DataFrame({
+        measure: scores for measure, scores in centrality_full.items() if scores is not None
+    })
+    df_centrality_backbone = pd.DataFrame({
+        measure: scores for measure, scores in centrality_backbone.items() if scores is not None
+    })
+    if print_stats == True:
+        # Print top nodes for each measure in each network
+        print("\n" + "="*80)
+        print("FULL NETWORK - TOP POLITICIANS BY CENTRALITY")
+        print("="*80)
+        
+        for measure in ['degree', 'betweenness', 'closeness', 'eigenvector']:
+            if centrality_full.get(measure):
+                print_top_nodes(centrality_full[measure], 
+                            f"{measure.capitalize()} Centrality (Full Network)", 
+                            top_n=10, 
+                            node_party_map=node_party_map)
+        
+        print("\n" + "="*80)
+        print("BACKBONE NETWORK - TOP POLITICIANS BY CENTRALITY")
+        print("="*80)
+        
+        for measure in ['degree', 'betweenness', 'closeness', 'eigenvector']:
+            if centrality_backbone.get(measure):
+                print_top_nodes(centrality_backbone[measure], 
+                            f"{measure.capitalize()} Centrality (Backbone)", 
+                            top_n=10, 
+                            node_party_map=node_party_map)
+        
+        # Compare rankings
+        print("\n" + "="*80)
+        print("COMPARATIVE ANALYSIS: FULL vs BACKBONE")
+        print("="*80)
+        
+        for measure in ['degree', 'betweenness', 'closeness', 'eigenvector']:
+            if centrality_full.get(measure) and centrality_backbone.get(measure):
+                compare_centrality_measures(centrality_full[measure],
+                                        centrality_backbone[measure],
+                                        f"{measure.capitalize()} Centrality",
+                                        top_n=10,
+                                        node_party_map=node_party_map)
+        
+        # Summary statistics
+        print("\n" + "="*80)
+        print("SUMMARY STATISTICS")
+        print("="*80)
+        
+        for measure in ['degree', 'betweenness', 'closeness', 'eigenvector']:
+            if centrality_full.get(measure) and centrality_backbone.get(measure):
+                scores_full = list(centrality_full[measure].values())
+                scores_backbone = list(centrality_backbone[measure].values())
+                
+                print(f"\n{measure.capitalize()} Centrality:")
+                print(f"  Full Network    - Mean: {np.mean(scores_full):.4f}, Std: {np.std(scores_full):.4f}")
+                print(f"  Backbone Network - Mean: {np.mean(scores_backbone):.4f}, Std: {np.std(scores_backbone):.4f}")
+        
+        print("\n" + "="*80 + "\n")
+        
+    return df_centrality_full, df_centrality_backbone
 
 
 # Example usage:
