@@ -1,23 +1,13 @@
 source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
-Danmarksdemokraterne,Danmarksdemokraterne,65,12,10.0,0.8333333333333334,udenrigs_eu
-Danmarksdemokraterne,Dansk Folkeparti,65,541,513.0,0.9482439926062847,udenrigs_eu
-Danmarksdemokraterne,Det Konservative Folkeparti,65,327,309.0,0.944954128440367,udenrigs_eu
-Danmarksdemokraterne,Enhedslisten,65,54,11.0,0.2037037037037037,udenrigs_eu
-Danmarksdemokraterne,Inuit Ataqatigiit,65,6,0.0,0.0,udenrigs_eu
-Danmarksdemokraterne,Kristendemokraterne,65,78,60.0,0.7692307692307693,udenrigs_eu
-Danmarksdemokraterne,Radikale Venstre,65,158,121.0,0.7658227848101266,udenrigs_eu
-Danmarksdemokraterne,Socialdemokratiet,65,1261,932.0,0.739095955590801,udenrigs_eu
-Danmarksdemokraterne,Socialistisk Folkeparti,65,277,134.0,0.48375451263537905,udenrigs_eu
-Danmarksdemokraterne,Venstre,65,1376,1304.0,0.9476744186046512,udenrigs_eu
-Dansk Folkeparti,Dansk Folkeparti,65,2451,2451.0,1.0,udenrigs_eu
-Dansk Folkeparti,Det Konservative Folkeparti,65,3180,2928.0,0.9207547169811321,udenrigs_eu
-Dansk Folkeparti,Enhedslisten,65,480,114.0,0.2375,udenrigs_eu
-Dansk Folkeparti,Inuit Ataqatigiit,65,38,0.0,0.0,udenrigs_eu
-Dansk Folkeparti,Kristendemokraterne,65,754,562.0,0.7453580901856764,udenrigs_eu
-Dansk Folkeparti,Radikale Venstre,65,1552,1156.0,0.7448453608247423,udenrigs_eu
-Dansk Folkeparti,Socialdemokratiet,65,12218,8602.0,0.7040432149287936,udenrigs_eu
-Dansk Folkeparti,Socialistisk Folkeparti,65,2645,1339.0,0.5062381852551985,udenrigs_eu
-Dansk Folkeparti,Venstre,65,13291,12282.0,0.9240839665939358,udenrigs_eu
+Dansk Folkeparti,Dansk Folkeparti,65,2615,2615.0,1.0,udenrigs_eu
+Dansk Folkeparti,Det Konservative Folkeparti,65,3279,3009.0,0.9176578225068619,udenrigs_eu
+Dansk Folkeparti,Enhedslisten,65,499,117.0,0.23446893787575152,udenrigs_eu
+Dansk Folkeparti,Inuit Ataqatigiit,65,41,0.0,0.0,udenrigs_eu
+Dansk Folkeparti,Kristendemokraterne,65,778,578.0,0.7429305912596401,udenrigs_eu
+Dansk Folkeparti,Radikale Venstre,65,1599,1187.0,0.742338961851157,udenrigs_eu
+Dansk Folkeparti,Socialdemokratiet,65,12605,8856.0,0.7025783419278064,udenrigs_eu
+Dansk Folkeparti,Socialistisk Folkeparti,65,2732,1378.0,0.5043923865300146,udenrigs_eu
+Dansk Folkeparti,Venstre,65,14106,12996.0,0.9213100808166738,udenrigs_eu
 Det Konservative Folkeparti,Det Konservative Folkeparti,65,874,874.0,1.0,udenrigs_eu
 Det Konservative Folkeparti,Enhedslisten,65,311,70.0,0.22508038585209003,udenrigs_eu
 Det Konservative Folkeparti,Inuit Ataqatigiit,65,31,0.0,0.0,udenrigs_eu
@@ -25,67 +15,57 @@ Det Konservative Folkeparti,Kristendemokraterne,65,456,374.0,0.8201754385964912,
 Det Konservative Folkeparti,Radikale Venstre,65,943,779.0,0.8260869565217391,udenrigs_eu
 Det Konservative Folkeparti,Socialdemokratiet,65,7364,5761.0,0.782319391634981,udenrigs_eu
 Det Konservative Folkeparti,Socialistisk Folkeparti,65,1614,767.0,0.4752168525402726,udenrigs_eu
-Det Konservative Folkeparti,Venstre,65,8012,8002.0,0.9987518721917125,udenrigs_eu
+Det Konservative Folkeparti,Venstre,65,8240,8230.0,0.9987864077669902,udenrigs_eu
 Enhedslisten,Enhedslisten,65,14,14.0,1.0,udenrigs_eu
 Enhedslisten,Inuit Ataqatigiit,65,10,10.0,1.0,udenrigs_eu
 Enhedslisten,Kristendemokraterne,65,70,30.0,0.42857142857142855,udenrigs_eu
 Enhedslisten,Radikale Venstre,65,144,50.0,0.3472222222222222,udenrigs_eu
 Enhedslisten,Socialdemokratiet,65,1127,390.0,0.3460514640638864,udenrigs_eu
 Enhedslisten,Socialistisk Folkeparti,65,268,226.0,0.8432835820895522,udenrigs_eu
-Enhedslisten,Venstre,65,1214,277.0,0.22817133443163098,udenrigs_eu
+Enhedslisten,Venstre,65,1249,285.0,0.22818254603682947,udenrigs_eu
 Inuit Ataqatigiit,Kristendemokraterne,65,6,2.0,0.3333333333333333,udenrigs_eu
 Inuit Ataqatigiit,Radikale Venstre,65,12,0.0,0.0,udenrigs_eu
 Inuit Ataqatigiit,Socialdemokratiet,65,95,0.0,0.0,udenrigs_eu
 Inuit Ataqatigiit,Socialistisk Folkeparti,65,29,29.0,1.0,udenrigs_eu
-Inuit Ataqatigiit,Venstre,65,98,0.0,0.0,udenrigs_eu
+Inuit Ataqatigiit,Venstre,65,101,0.0,0.0,udenrigs_eu
 Kristendemokraterne,Kristendemokraterne,65,27,27.0,1.0,udenrigs_eu
 Kristendemokraterne,Radikale Venstre,65,222,188.0,0.8468468468468469,udenrigs_eu
 Kristendemokraterne,Socialdemokratiet,65,1748,1428.0,0.816933638443936,udenrigs_eu
 Kristendemokraterne,Socialistisk Folkeparti,65,380,246.0,0.6473684210526316,udenrigs_eu
-Kristendemokraterne,Venstre,65,1900,1556.0,0.8189473684210526,udenrigs_eu
+Kristendemokraterne,Venstre,65,1954,1600.0,0.8188331627430911,udenrigs_eu
 Radikale Venstre,Radikale Venstre,65,177,177.0,1.0,udenrigs_eu
 Radikale Venstre,Socialdemokratiet,65,3587,3272.0,0.9121828826317256,udenrigs_eu
 Radikale Venstre,Socialistisk Folkeparti,65,784,495.0,0.6313775510204082,udenrigs_eu
-Radikale Venstre,Venstre,65,3899,3160.0,0.8104642215952809,udenrigs_eu
+Radikale Venstre,Venstre,65,4010,3250.0,0.8104738154613467,udenrigs_eu
 Socialdemokratiet,Socialdemokratiet,65,13767,13736.0,0.9977482385414397,udenrigs_eu
 Socialdemokratiet,Socialistisk Folkeparti,65,6158,3907.0,0.6344592400129913,udenrigs_eu
-Socialdemokratiet,Venstre,65,30829,23834.0,0.7731032469428136,udenrigs_eu
+Socialdemokratiet,Venstre,65,31703,24512.0,0.7731760401223859,udenrigs_eu
 Socialistisk Folkeparti,Socialistisk Folkeparti,65,601,601.0,1.0,udenrigs_eu
-Socialistisk Folkeparti,Venstre,65,6659,3362.0,0.5048806127046103,udenrigs_eu
-Venstre,Venstre,65,16320,16284.0,0.9977941176470588,udenrigs_eu
-Danmarksdemokraterne,Danmarksdemokraterne,66,81,73.0,0.9012345679012346,udenrigs_eu
-Danmarksdemokraterne,Dansk Folkeparti,66,5054,4681.0,0.9261970716264345,udenrigs_eu
-Danmarksdemokraterne,Det Konservative Folkeparti,66,3661,3512.0,0.9593007375034144,udenrigs_eu
-Danmarksdemokraterne,Enhedslisten,66,882,265.0,0.30045351473922904,udenrigs_eu
-Danmarksdemokraterne,Fólkaflokkurin,66,2,2.0,1.0,udenrigs_eu
-Danmarksdemokraterne,Inuit Ataqatigiit,66,9,1.0,0.1111111111111111,udenrigs_eu
-Danmarksdemokraterne,Radikale Venstre,66,2963,1826.0,0.6162672966587918,udenrigs_eu
-Danmarksdemokraterne,Siumut,66,12,5.0,0.4166666666666667,udenrigs_eu
-Danmarksdemokraterne,Socialdemokratiet,66,9226,5897.0,0.6391719054845003,udenrigs_eu
-Danmarksdemokraterne,Socialistisk Folkeparti,66,2557,1106.0,0.43253813062182245,udenrigs_eu
-Danmarksdemokraterne,Tjóðveldi,66,10,0.0,0.0,udenrigs_eu
-Danmarksdemokraterne,Venstre,66,10949,10477.0,0.9568910402776509,udenrigs_eu
-Dansk Folkeparti,Dansk Folkeparti,66,31577,31522.0,0.998258225923932,udenrigs_eu
-Dansk Folkeparti,Det Konservative Folkeparti,66,48153,42852.0,0.8899134010342035,udenrigs_eu
-Dansk Folkeparti,Enhedslisten,66,11680,3462.0,0.2964041095890411,udenrigs_eu
+Socialistisk Folkeparti,Venstre,65,6849,3457.0,0.5047452182800409,udenrigs_eu
+Venstre,Venstre,65,17270,17233.0,0.9978575564562826,udenrigs_eu
+Dansk Folkeparti,Dansk Folkeparti,66,33074,33017.0,0.9982765918848643,udenrigs_eu
+Dansk Folkeparti,Det Konservative Folkeparti,66,45607,40524.0,0.8885478106431031,udenrigs_eu
+Dansk Folkeparti,Enhedslisten,66,11944,3563.0,0.2983087742799732,udenrigs_eu
 Dansk Folkeparti,Fólkaflokkurin,66,32,18.0,0.5625,udenrigs_eu
-Dansk Folkeparti,Inuit Ataqatigiit,66,92,32.0,0.34782608695652173,udenrigs_eu
-Dansk Folkeparti,Radikale Venstre,66,38707,21096.0,0.5450176970573798,udenrigs_eu
-Dansk Folkeparti,Siumut,66,125,82.0,0.656,udenrigs_eu
-Dansk Folkeparti,Socialdemokratiet,66,121703,68582.0,0.5635193873610347,udenrigs_eu
-Dansk Folkeparti,Socialistisk Folkeparti,66,33425,13052.0,0.3904861630516081,udenrigs_eu
-Dansk Folkeparti,Tjóðveldi,66,108,14.0,0.12962962962962962,udenrigs_eu
-Dansk Folkeparti,Venstre,66,143051,126414.0,0.8836988207003097,udenrigs_eu
-Det Konservative Folkeparti,Det Konservative Folkeparti,66,15989,15847.0,0.9911188942397898,udenrigs_eu
-Det Konservative Folkeparti,Enhedslisten,66,8410,2183.0,0.2595719381688466,udenrigs_eu
-Det Konservative Folkeparti,Fólkaflokkurin,66,26,26.0,1.0,udenrigs_eu
-Det Konservative Folkeparti,Inuit Ataqatigiit,66,70,11.0,0.15714285714285714,udenrigs_eu
-Det Konservative Folkeparti,Radikale Venstre,66,27814,17959.0,0.6456820306320558,udenrigs_eu
-Det Konservative Folkeparti,Siumut,66,95,49.0,0.5157894736842106,udenrigs_eu
-Det Konservative Folkeparti,Socialdemokratiet,66,87419,58985.0,0.6747389011542113,udenrigs_eu
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,24048,11263.0,0.46835495675316036,udenrigs_eu
-Det Konservative Folkeparti,Tjóðveldi,66,81,0.0,0.0,udenrigs_eu
-Det Konservative Folkeparti,Venstre,66,102903,101406.0,0.985452319174368,udenrigs_eu
+Dansk Folkeparti,Inuit Ataqatigiit,66,95,32.0,0.3368421052631579,udenrigs_eu
+Dansk Folkeparti,Radikale Venstre,66,39634,21592.0,0.5447847807438059,udenrigs_eu
+Dansk Folkeparti,Siumut,66,131,85.0,0.648854961832061,udenrigs_eu
+Dansk Folkeparti,Socialdemokratiet,66,124497,70185.0,0.5637485240608208,udenrigs_eu
+Dansk Folkeparti,Socialistisk Folkeparti,66,34198,13358.0,0.39060763787355984,udenrigs_eu
+Dansk Folkeparti,Tjóðveldi,66,111,14.0,0.12612612612612611,udenrigs_eu
+Dansk Folkeparti,Uden for Folketingsgrupperne,66,3648,3311.0,0.9076206140350878,udenrigs_eu
+Dansk Folkeparti,Venstre,66,150029,132628.0,0.8840157569536556,udenrigs_eu
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,13633,13503.0,0.9904643145309177,udenrigs_eu
+Det Konservative Folkeparti,Enhedslisten,66,7784,2027.0,0.2604059609455293,udenrigs_eu
+Det Konservative Folkeparti,Fólkaflokkurin,66,24,24.0,1.0,udenrigs_eu
+Det Konservative Folkeparti,Inuit Ataqatigiit,66,64,10.0,0.15625,udenrigs_eu
+Det Konservative Folkeparti,Radikale Venstre,66,25764,16664.0,0.6467939760906691,udenrigs_eu
+Det Konservative Folkeparti,Siumut,66,87,45.0,0.5172413793103449,udenrigs_eu
+Det Konservative Folkeparti,Socialdemokratiet,66,80947,54710.0,0.6758743375294947,udenrigs_eu
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,22254,10408.0,0.4676912015817381,udenrigs_eu
+Det Konservative Folkeparti,Tjóðveldi,66,74,0.0,0.0,udenrigs_eu
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,66,2356,2344.0,0.9949066213921901,udenrigs_eu
+Det Konservative Folkeparti,Venstre,66,97649,96200.0,0.9851611383629121,udenrigs_eu
 Enhedslisten,Enhedslisten,66,697,696.0,0.9985652797704447,udenrigs_eu
 Enhedslisten,Fólkaflokkurin,66,6,0.0,0.0,udenrigs_eu
 Enhedslisten,Inuit Ataqatigiit,66,21,15.0,0.7142857142857143,udenrigs_eu
@@ -94,200 +74,206 @@ Enhedslisten,Siumut,66,24,24.0,1.0,udenrigs_eu
 Enhedslisten,Socialdemokratiet,66,21163,11279.0,0.5329584652459481,udenrigs_eu
 Enhedslisten,Socialistisk Folkeparti,66,5813,4300.0,0.7397213142955444,udenrigs_eu
 Enhedslisten,Tjóðveldi,66,24,21.0,0.875,udenrigs_eu
-Enhedslisten,Venstre,66,24910,6622.0,0.2658370132476917,udenrigs_eu
+Enhedslisten,Uden for Folketingsgrupperne,66,626,156.0,0.24920127795527156,udenrigs_eu
+Enhedslisten,Venstre,66,25528,6786.0,0.26582575994985896,udenrigs_eu
 Fólkaflokkurin,Inuit Ataqatigiit,66,2,0.0,0.0,udenrigs_eu
 Fólkaflokkurin,Radikale Venstre,66,15,15.0,1.0,udenrigs_eu
 Fólkaflokkurin,Siumut,66,1,0.0,0.0,udenrigs_eu
 Fólkaflokkurin,Socialdemokratiet,66,57,57.0,1.0,udenrigs_eu
 Fólkaflokkurin,Socialistisk Folkeparti,66,15,10.0,0.6666666666666666,udenrigs_eu
 Fólkaflokkurin,Tjóðveldi,66,2,0.0,0.0,udenrigs_eu
-Fólkaflokkurin,Venstre,66,65,65.0,1.0,udenrigs_eu
+Fólkaflokkurin,Uden for Folketingsgrupperne,66,2,2.0,1.0,udenrigs_eu
+Fólkaflokkurin,Venstre,66,67,67.0,1.0,udenrigs_eu
 Inuit Ataqatigiit,Radikale Venstre,66,48,26.0,0.5416666666666666,udenrigs_eu
 Inuit Ataqatigiit,Siumut,66,4,4.0,1.0,udenrigs_eu
 Inuit Ataqatigiit,Socialdemokratiet,66,167,30.0,0.17964071856287425,udenrigs_eu
 Inuit Ataqatigiit,Socialistisk Folkeparti,66,44,31.0,0.7045454545454546,udenrigs_eu
 Inuit Ataqatigiit,Tjóðveldi,66,6,5.0,0.8333333333333334,udenrigs_eu
-Inuit Ataqatigiit,Venstre,66,196,33.0,0.1683673469387755,udenrigs_eu
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,66,6,1.0,0.16666666666666666,udenrigs_eu
+Inuit Ataqatigiit,Venstre,66,202,34.0,0.16831683168316833,udenrigs_eu
 Radikale Venstre,Radikale Venstre,66,10103,10065.0,0.9962387409680293,udenrigs_eu
 Radikale Venstre,Siumut,66,71,57.0,0.8028169014084507,udenrigs_eu
 Radikale Venstre,Socialdemokratiet,66,70233,59741.0,0.8506115358876881,udenrigs_eu
 Radikale Venstre,Socialistisk Folkeparti,66,19306,14976.0,0.7757173935564073,udenrigs_eu
 Radikale Venstre,Tjóðveldi,66,57,27.0,0.47368421052631576,udenrigs_eu
-Radikale Venstre,Venstre,66,82579,53206.0,0.6443042419985711,udenrigs_eu
+Radikale Venstre,Uden for Folketingsgrupperne,66,2050,1295.0,0.6317073170731707,udenrigs_eu
+Radikale Venstre,Venstre,66,84615,54536.0,0.6445192932695148,udenrigs_eu
 Siumut,Socialdemokratiet,66,226,117.0,0.5176991150442478,udenrigs_eu
 Siumut,Socialistisk Folkeparti,66,59,54.0,0.9152542372881356,udenrigs_eu
 Siumut,Tjóðveldi,66,4,4.0,1.0,udenrigs_eu
-Siumut,Venstre,66,268,136.0,0.5074626865671642,udenrigs_eu
+Siumut,Uden for Folketingsgrupperne,66,8,4.0,0.5,udenrigs_eu
+Siumut,Venstre,66,274,138.0,0.5036496350364964,udenrigs_eu
 Socialdemokratiet,Socialdemokratiet,66,107217,107078.0,0.9987035638005167,udenrigs_eu
 Socialdemokratiet,Socialistisk Folkeparti,66,60774,47097.0,0.7749531049461941,udenrigs_eu
 Socialdemokratiet,Tjóðveldi,66,196,30.0,0.15306122448979592,udenrigs_eu
-Socialdemokratiet,Venstre,66,260312,176342.0,0.6774255508774086,udenrigs_eu
+Socialdemokratiet,Uden for Folketingsgrupperne,66,6472,4275.0,0.6605377008652658,udenrigs_eu
+Socialdemokratiet,Venstre,66,266744,180636.0,0.6771886153015626,udenrigs_eu
 Socialistisk Folkeparti,Socialistisk Folkeparti,66,7421,7032.0,0.9475811885190675,udenrigs_eu
 Socialistisk Folkeparti,Tjóðveldi,66,51,30.0,0.5882352941176471,udenrigs_eu
-Socialistisk Folkeparti,Venstre,66,71461,33313.0,0.46617035865716966,udenrigs_eu
-Tjóðveldi,Venstre,66,230,1.0,0.004347826086956522,udenrigs_eu
-Venstre,Venstre,66,149139,146771.0,0.9841221947310897,udenrigs_eu
-Danmarksdemokraterne,Danmarksdemokraterne,67,81,57.0,0.7037037037037037,udenrigs_eu
-Danmarksdemokraterne,Dansk Folkeparti,67,5676,4872.0,0.8583509513742071,udenrigs_eu
-Danmarksdemokraterne,Det Konservative Folkeparti,67,3493,3196.0,0.9149728027483538,udenrigs_eu
-Danmarksdemokraterne,Enhedslisten,67,760,278.0,0.36578947368421055,udenrigs_eu
-Danmarksdemokraterne,Inuit Ataqatigiit,67,3,2.0,0.6666666666666666,udenrigs_eu
-Danmarksdemokraterne,Liberal Alliance,67,838,654.0,0.7804295942720764,udenrigs_eu
-Danmarksdemokraterne,Radikale Venstre,67,1490,843.0,0.565771812080537,udenrigs_eu
-Danmarksdemokraterne,Sambandsflokkurin,67,14,13.0,0.9285714285714286,udenrigs_eu
-Danmarksdemokraterne,Siumut,67,10,7.0,0.7,udenrigs_eu
-Danmarksdemokraterne,Socialdemokratiet,67,9615,5324.0,0.553718148725949,udenrigs_eu
-Danmarksdemokraterne,Socialistisk Folkeparti,67,4512,2247.0,0.49800531914893614,udenrigs_eu
-Danmarksdemokraterne,Tjóðveldi,67,4,1.0,0.25,udenrigs_eu
-Danmarksdemokraterne,Venstre,67,9511,8749.0,0.9198822416149721,udenrigs_eu
-Dansk Folkeparti,Dansk Folkeparti,67,50142,49592.0,0.9890311515296558,udenrigs_eu
-Dansk Folkeparti,Det Konservative Folkeparti,67,65664,53294.0,0.8116167153996101,udenrigs_eu
-Dansk Folkeparti,Enhedslisten,67,13582,5513.0,0.40590487409807097,udenrigs_eu
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,66,1794,855.0,0.4765886287625418,udenrigs_eu
+Socialistisk Folkeparti,Venstre,66,73245,34113.0,0.46573827565021503,udenrigs_eu
+Tjóðveldi,Uden for Folketingsgrupperne,66,7,0.0,0.0,udenrigs_eu
+Tjóðveldi,Venstre,66,237,1.0,0.004219409282700422,udenrigs_eu
+Uden for Folketingsgrupperne,Venstre,66,7813,7735.0,0.9900166389351082,udenrigs_eu
+Venstre,Venstre,66,156748,154293.0,0.9843379181871539,udenrigs_eu
+Dansk Folkeparti,Dansk Folkeparti,67,51807,51246.0,0.9891713475013029,udenrigs_eu
+Dansk Folkeparti,Det Konservative Folkeparti,67,60968,49385.0,0.8100150898832175,udenrigs_eu
+Dansk Folkeparti,Enhedslisten,67,12162,4836.0,0.3976319684262457,udenrigs_eu
 Dansk Folkeparti,Inuit Ataqatigiit,67,86,52.0,0.6046511627906976,udenrigs_eu
-Dansk Folkeparti,Liberal Alliance,67,15433,11136.0,0.7215706602734401,udenrigs_eu
-Dansk Folkeparti,Radikale Venstre,67,27381,14407.0,0.5261677805777729,udenrigs_eu
-Dansk Folkeparti,Sambandsflokkurin,67,353,259.0,0.7337110481586402,udenrigs_eu
-Dansk Folkeparti,Siumut,67,134,85.0,0.6343283582089553,udenrigs_eu
-Dansk Folkeparti,Socialdemokratiet,67,178743,90131.0,0.504249117447956,udenrigs_eu
-Dansk Folkeparti,Socialistisk Folkeparti,67,83940,39198.0,0.466976411722659,udenrigs_eu
-Dansk Folkeparti,Tjóðveldi,67,69,18.0,0.2608695652173913,udenrigs_eu
-Dansk Folkeparti,Venstre,67,178706,145226.0,0.8126531845601155,udenrigs_eu
-Det Konservative Folkeparti,Det Konservative Folkeparti,67,18768,18600.0,0.9910485933503836,udenrigs_eu
-Det Konservative Folkeparti,Enhedslisten,67,8351,3312.0,0.39659920967548795,udenrigs_eu
-Det Konservative Folkeparti,Inuit Ataqatigiit,67,58,34.0,0.5862068965517241,udenrigs_eu
-Det Konservative Folkeparti,Liberal Alliance,67,9416,8266.0,0.8778674596431606,udenrigs_eu
-Det Konservative Folkeparti,Radikale Venstre,67,17113,12086.0,0.7062467130251855,udenrigs_eu
-Det Konservative Folkeparti,Sambandsflokkurin,67,214,214.0,1.0,udenrigs_eu
-Det Konservative Folkeparti,Siumut,67,82,69.0,0.8414634146341463,udenrigs_eu
-Det Konservative Folkeparti,Socialdemokratiet,67,110890,75849.0,0.6840021643069709,udenrigs_eu
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,52037,31867.0,0.6123911831965717,udenrigs_eu
-Det Konservative Folkeparti,Tjóðveldi,67,45,9.0,0.2,udenrigs_eu
-Det Konservative Folkeparti,Venstre,67,110983,110478.0,0.9954497535658614,udenrigs_eu
-Enhedslisten,Enhedslisten,67,528,447.0,0.8465909090909091,udenrigs_eu
-Enhedslisten,Inuit Ataqatigiit,67,11,4.0,0.36363636363636365,udenrigs_eu
-Enhedslisten,Liberal Alliance,67,2000,883.0,0.4415,udenrigs_eu
-Enhedslisten,Radikale Venstre,67,3504,2308.0,0.658675799086758,udenrigs_eu
-Enhedslisten,Sambandsflokkurin,67,45,14.0,0.3111111111111111,udenrigs_eu
-Enhedslisten,Siumut,67,17,10.0,0.5882352941176471,udenrigs_eu
-Enhedslisten,Socialdemokratiet,67,22875,15062.0,0.658448087431694,udenrigs_eu
-Enhedslisten,Socialistisk Folkeparti,67,10709,7564.0,0.7063217854141376,udenrigs_eu
-Enhedslisten,Tjóðveldi,67,9,4.0,0.4444444444444444,udenrigs_eu
-Enhedslisten,Venstre,67,22798,8948.0,0.39249056934818843,udenrigs_eu
+Dansk Folkeparti,Liberal Alliance,67,15687,11290.0,0.7197042136801173,udenrigs_eu
+Dansk Folkeparti,Radikale Venstre,67,27817,14574.0,0.5239242190027681,udenrigs_eu
+Dansk Folkeparti,Sambandsflokkurin,67,356,261.0,0.7331460674157303,udenrigs_eu
+Dansk Folkeparti,Siumut,67,139,88.0,0.6330935251798561,udenrigs_eu
+Dansk Folkeparti,Socialdemokratiet,67,176605,88809.0,0.5028679822202089,udenrigs_eu
+Dansk Folkeparti,Socialistisk Folkeparti,67,91909,42769.0,0.46534071744878086,udenrigs_eu
+Dansk Folkeparti,Tjóðveldi,67,70,18.0,0.2571428571428571,udenrigs_eu
+Dansk Folkeparti,Uden for Folketingsgrupperne,67,5719,4651.0,0.8132540653960483,udenrigs_eu
+Dansk Folkeparti,Venstre,67,185618,150560.0,0.8111282310982771,udenrigs_eu
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,15600,15443.0,0.9899358974358974,udenrigs_eu
+Det Konservative Folkeparti,Enhedslisten,67,6782,2459.0,0.3625774107932763,udenrigs_eu
+Det Konservative Folkeparti,Inuit Ataqatigiit,67,53,31.0,0.5849056603773585,udenrigs_eu
+Det Konservative Folkeparti,Liberal Alliance,67,8600,7541.0,0.876860465116279,udenrigs_eu
+Det Konservative Folkeparti,Radikale Venstre,67,15665,11052.0,0.7055218640280881,udenrigs_eu
+Det Konservative Folkeparti,Sambandsflokkurin,67,197,197.0,1.0,udenrigs_eu
+Det Konservative Folkeparti,Siumut,67,76,64.0,0.8421052631578947,udenrigs_eu
+Det Konservative Folkeparti,Socialdemokratiet,67,98610,67632.0,0.6858533617280195,udenrigs_eu
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,51227,31441.0,0.6137583696097761,udenrigs_eu
+Det Konservative Folkeparti,Tjóðveldi,67,41,8.0,0.1951219512195122,udenrigs_eu
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,67,3168,3157.0,0.9965277777777778,udenrigs_eu
+Det Konservative Folkeparti,Venstre,67,103738,103219.0,0.9949970117025584,udenrigs_eu
+Enhedslisten,Enhedslisten,67,342,341.0,0.9970760233918129,udenrigs_eu
+Enhedslisten,Inuit Ataqatigiit,67,10,4.0,0.4,udenrigs_eu
+Enhedslisten,Liberal Alliance,67,1737,699.0,0.40241796200345425,udenrigs_eu
+Enhedslisten,Radikale Venstre,67,3104,1945.0,0.626610824742268,udenrigs_eu
+Enhedslisten,Sambandsflokkurin,67,38,11.0,0.2894736842105263,udenrigs_eu
+Enhedslisten,Siumut,67,16,10.0,0.625,udenrigs_eu
+Enhedslisten,Socialdemokratiet,67,19672,12192.0,0.6197641317608784,udenrigs_eu
+Enhedslisten,Socialistisk Folkeparti,67,10212,6796.0,0.6654915785350568,udenrigs_eu
+Enhedslisten,Tjóðveldi,67,8,4.0,0.5,udenrigs_eu
+Enhedslisten,Uden for Folketingsgrupperne,67,633,225.0,0.35545023696682465,udenrigs_eu
+Enhedslisten,Venstre,67,20636,7339.0,0.35564062802868773,udenrigs_eu
 Inuit Ataqatigiit,Liberal Alliance,67,11,5.0,0.45454545454545453,udenrigs_eu
 Inuit Ataqatigiit,Radikale Venstre,67,24,15.0,0.625,udenrigs_eu
 Inuit Ataqatigiit,Sambandsflokkurin,67,2,2.0,1.0,udenrigs_eu
 Inuit Ataqatigiit,Siumut,67,1,1.0,1.0,udenrigs_eu
-Inuit Ataqatigiit,Socialdemokratiet,67,144,87.0,0.6041666666666666,udenrigs_eu
-Inuit Ataqatigiit,Socialistisk Folkeparti,67,74,44.0,0.5945945945945946,udenrigs_eu
+Inuit Ataqatigiit,Socialdemokratiet,67,141,85.0,0.6028368794326241,udenrigs_eu
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,78,46.0,0.5897435897435898,udenrigs_eu
 Inuit Ataqatigiit,Tjóðveldi,67,3,2.0,0.6666666666666666,udenrigs_eu
-Inuit Ataqatigiit,Venstre,67,155,94.0,0.6064516129032258,udenrigs_eu
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,67,5,3.0,0.6,udenrigs_eu
+Inuit Ataqatigiit,Venstre,67,158,96.0,0.6075949367088608,udenrigs_eu
 Liberal Alliance,Liberal Alliance,67,838,645.0,0.7696897374701671,udenrigs_eu
 Liberal Alliance,Radikale Venstre,67,3835,2814.0,0.733767926988266,udenrigs_eu
 Liberal Alliance,Sambandsflokkurin,67,63,52.0,0.8253968253968254,udenrigs_eu
 Liberal Alliance,Siumut,67,24,19.0,0.7916666666666666,udenrigs_eu
-Liberal Alliance,Socialdemokratiet,67,25940,18200.0,0.7016191210485736,udenrigs_eu
-Liberal Alliance,Socialistisk Folkeparti,67,12261,8160.0,0.6655248348421825,udenrigs_eu
+Liberal Alliance,Socialdemokratiet,67,25229,17722.0,0.7024455983193943,udenrigs_eu
+Liberal Alliance,Socialistisk Folkeparti,67,13235,8822.0,0.666565923687193,udenrigs_eu
 Liberal Alliance,Tjóðveldi,67,10,2.0,0.2,udenrigs_eu
-Liberal Alliance,Venstre,67,25789,22675.0,0.8792508433828377,udenrigs_eu
+Liberal Alliance,Uden for Folketingsgrupperne,67,816,725.0,0.8884803921568627,udenrigs_eu
+Liberal Alliance,Venstre,67,26373,23175.0,0.8787396200659766,udenrigs_eu
 Radikale Venstre,Radikale Venstre,67,2872,2736.0,0.9526462395543176,udenrigs_eu
 Radikale Venstre,Sambandsflokkurin,67,82,59.0,0.7195121951219512,udenrigs_eu
 Radikale Venstre,Siumut,67,35,30.0,0.8571428571428571,udenrigs_eu
-Radikale Venstre,Socialdemokratiet,67,46227,40591.0,0.878079910009302,udenrigs_eu
-Radikale Venstre,Socialistisk Folkeparti,67,21657,18293.0,0.8446691600868079,udenrigs_eu
+Radikale Venstre,Socialdemokratiet,67,44962,39535.0,0.8792980739290956,udenrigs_eu
+Radikale Venstre,Socialistisk Folkeparti,67,23322,19712.0,0.8452105308292599,udenrigs_eu
 Radikale Venstre,Tjóðveldi,67,21,6.0,0.2857142857142857,udenrigs_eu
-Radikale Venstre,Venstre,67,46289,32617.0,0.7046382509883558,udenrigs_eu
-Sambandsflokkurin,Socialdemokratiet,67,601,455.0,0.757071547420965,udenrigs_eu
-Sambandsflokkurin,Socialistisk Folkeparti,67,279,153.0,0.5483870967741935,udenrigs_eu
+Radikale Venstre,Uden for Folketingsgrupperne,67,1448,1034.0,0.7140883977900553,udenrigs_eu
+Radikale Venstre,Venstre,67,47343,33293.0,0.7032296221194263,udenrigs_eu
+Sambandsflokkurin,Socialdemokratiet,67,584,444.0,0.7602739726027398,udenrigs_eu
+Sambandsflokkurin,Socialistisk Folkeparti,67,303,167.0,0.5511551155115512,udenrigs_eu
 Sambandsflokkurin,Tjóðveldi,67,2,1.0,0.5,udenrigs_eu
-Sambandsflokkurin,Venstre,67,576,576.0,1.0,udenrigs_eu
-Siumut,Socialdemokratiet,67,239,210.0,0.8786610878661087,udenrigs_eu
-Siumut,Socialistisk Folkeparti,67,109,95.0,0.8715596330275229,udenrigs_eu
+Sambandsflokkurin,Uden for Folketingsgrupperne,67,17,17.0,1.0,udenrigs_eu
+Sambandsflokkurin,Venstre,67,587,587.0,1.0,udenrigs_eu
+Siumut,Socialdemokratiet,67,231,203.0,0.8787878787878788,udenrigs_eu
+Siumut,Socialistisk Folkeparti,67,118,102.0,0.864406779661017,udenrigs_eu
 Siumut,Tjóðveldi,67,1,1.0,1.0,udenrigs_eu
-Siumut,Venstre,67,239,207.0,0.8661087866108786,udenrigs_eu
-Socialdemokratiet,Socialdemokratiet,67,146010,145116.0,0.993877131703308,udenrigs_eu
-Socialdemokratiet,Socialistisk Folkeparti,67,141510,129175.0,0.9128330153346054,udenrigs_eu
-Socialdemokratiet,Tjóðveldi,67,113,30.0,0.26548672566371684,udenrigs_eu
-Socialdemokratiet,Venstre,67,301260,205057.0,0.6806645422558587,udenrigs_eu
-Socialistisk Folkeparti,Socialistisk Folkeparti,67,31053,30947.0,0.9965864811773419,udenrigs_eu
-Socialistisk Folkeparti,Tjóðveldi,67,53,13.0,0.24528301886792453,udenrigs_eu
-Socialistisk Folkeparti,Venstre,67,141418,86315.0,0.6103537032060983,udenrigs_eu
-Tjóðveldi,Venstre,67,124,35.0,0.28225806451612906,udenrigs_eu
-Venstre,Venstre,67,146128,146071.0,0.9996099310193802,udenrigs_eu
-Danmarksdemokraterne,Danmarksdemokraterne,68,157,108.0,0.6878980891719745,udenrigs_eu
-Danmarksdemokraterne,Dansk Folkeparti,68,6144,5462.0,0.8889973958333334,udenrigs_eu
-Danmarksdemokraterne,Det Konservative Folkeparti,68,2537,1888.0,0.7441860465116279,udenrigs_eu
-Danmarksdemokraterne,Enhedslisten,68,4196,1917.0,0.45686367969494757,udenrigs_eu
-Danmarksdemokraterne,Inuit Ataqatigiit,68,1,0.0,0.0,udenrigs_eu
-Danmarksdemokraterne,Javnaðarflokkurin,68,3,1.0,0.3333333333333333,udenrigs_eu
-Danmarksdemokraterne,Liberal Alliance,68,2533,1574.0,0.6213975523095144,udenrigs_eu
-Danmarksdemokraterne,Radikale Venstre,68,5511,3358.0,0.6093268009435674,udenrigs_eu
-Danmarksdemokraterne,Sambandsflokkurin,68,10,10.0,1.0,udenrigs_eu
-Danmarksdemokraterne,Socialdemokratiet,68,14520,8896.0,0.61267217630854,udenrigs_eu
-Danmarksdemokraterne,Socialistisk Folkeparti,68,4853,2810.0,0.5790232845662476,udenrigs_eu
-Danmarksdemokraterne,Venstre,68,13834,10571.0,0.7641318490675149,udenrigs_eu
-Dansk Folkeparti,Dansk Folkeparti,68,25744,25637.0,0.9958436917339962,udenrigs_eu
-Dansk Folkeparti,Det Konservative Folkeparti,68,22851,15093.0,0.6604962583694368,udenrigs_eu
-Dansk Folkeparti,Enhedslisten,68,37854,16877.0,0.4458445606805093,udenrigs_eu
-Dansk Folkeparti,Inuit Ataqatigiit,68,12,0.0,0.0,udenrigs_eu
-Dansk Folkeparti,Javnaðarflokkurin,68,13,0.0,0.0,udenrigs_eu
-Dansk Folkeparti,Liberal Alliance,68,22913,14241.0,0.6215248985292192,udenrigs_eu
-Dansk Folkeparti,Radikale Venstre,68,50014,26636.0,0.532570880153557,udenrigs_eu
-Dansk Folkeparti,Sambandsflokkurin,68,87,87.0,1.0,udenrigs_eu
-Dansk Folkeparti,Socialdemokratiet,68,131386,70245.0,0.5346460049015876,udenrigs_eu
-Dansk Folkeparti,Socialistisk Folkeparti,68,43672,22112.0,0.5063198387983147,udenrigs_eu
-Dansk Folkeparti,Venstre,68,124823,81980.0,0.6567699863006017,udenrigs_eu
-Det Konservative Folkeparti,Det Konservative Folkeparti,68,3798,3792.0,0.9984202211690363,udenrigs_eu
-Det Konservative Folkeparti,Enhedslisten,68,15476,6121.0,0.3955156371155337,udenrigs_eu
-Det Konservative Folkeparti,Inuit Ataqatigiit,68,4,0.0,0.0,udenrigs_eu
-Det Konservative Folkeparti,Javnaðarflokkurin,68,4,4.0,1.0,udenrigs_eu
-Det Konservative Folkeparti,Liberal Alliance,68,9359,6805.0,0.7271075969654878,udenrigs_eu
-Det Konservative Folkeparti,Radikale Venstre,68,20422,16095.0,0.7881206541964548,udenrigs_eu
-Det Konservative Folkeparti,Sambandsflokkurin,68,34,34.0,1.0,udenrigs_eu
-Det Konservative Folkeparti,Socialdemokratiet,68,53698,42594.0,0.7932138999590301,udenrigs_eu
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,17806,13001.0,0.7301471414130069,udenrigs_eu
-Det Konservative Folkeparti,Venstre,68,50980,47115.0,0.9241859552765791,udenrigs_eu
-Enhedslisten,Enhedslisten,68,11308,11026.0,0.9750619030774673,udenrigs_eu
+Siumut,Uden for Folketingsgrupperne,67,6,5.0,0.8333333333333334,udenrigs_eu
+Siumut,Venstre,67,244,211.0,0.8647540983606558,udenrigs_eu
+Socialdemokratiet,Socialdemokratiet,67,138032,137935.0,0.9992972644024574,udenrigs_eu
+Socialdemokratiet,Socialistisk Folkeparti,67,148229,134962.0,0.9104965964824697,udenrigs_eu
+Socialdemokratiet,Tjóðveldi,67,110,29.0,0.2636363636363636,udenrigs_eu
+Socialdemokratiet,Uden for Folketingsgrupperne,67,9228,6326.0,0.6855223233636758,udenrigs_eu
+Socialdemokratiet,Venstre,67,299575,204136.0,0.681418676458316,udenrigs_eu
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,36198,36085.0,0.9968782805679872,udenrigs_eu
+Socialistisk Folkeparti,Tjóðveldi,67,57,14.0,0.24561403508771928,udenrigs_eu
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,67,4798,2945.0,0.6137974155898291,udenrigs_eu
+Socialistisk Folkeparti,Venstre,67,155741,95122.0,0.6107704458042519,udenrigs_eu
+Tjóðveldi,Uden for Folketingsgrupperne,67,4,1.0,0.25,udenrigs_eu
+Tjóðveldi,Venstre,67,127,36.0,0.28346456692913385,udenrigs_eu
+Uden for Folketingsgrupperne,Venstre,67,9715,9713.0,0.9997941327843541,udenrigs_eu
+Venstre,Venstre,67,152819,152761.0,0.9996204660415262,udenrigs_eu
+Dansk Folkeparti,Dansk Folkeparti,68,30004,29882.0,0.995933875483269,udenrigs_eu
+Dansk Folkeparti,Det Konservative Folkeparti,68,20488,13650.0,0.666243654822335,udenrigs_eu
+Dansk Folkeparti,Enhedslisten,68,39116,17421.0,0.44536762450148276,udenrigs_eu
+Dansk Folkeparti,Inuit Ataqatigiit,68,13,0.0,0.0,udenrigs_eu
+Dansk Folkeparti,Liberal Alliance,68,24667,15327.0,0.6213564681558358,udenrigs_eu
+Dansk Folkeparti,Radikale Venstre,68,53832,28599.0,0.5312639322336157,udenrigs_eu
+Dansk Folkeparti,Sambandsflokkurin,68,91,91.0,1.0,udenrigs_eu
+Dansk Folkeparti,Socialdemokratiet,68,137540,73389.0,0.533582957685037,udenrigs_eu
+Dansk Folkeparti,Socialistisk Folkeparti,68,52583,26583.0,0.5055436167582679,udenrigs_eu
+Dansk Folkeparti,Tjóðveldi,68,15,0.0,0.0,udenrigs_eu
+Dansk Folkeparti,Uden for Folketingsgrupperne,68,4126,2629.0,0.6371788657295201,udenrigs_eu
+Dansk Folkeparti,Venstre,68,136421,89601.0,0.6567977070978809,udenrigs_eu
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,2537,2531.0,0.9976350019708317,udenrigs_eu
+Det Konservative Folkeparti,Enhedslisten,68,12346,4796.0,0.38846589988660296,udenrigs_eu
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,3,0.0,0.0,udenrigs_eu
+Det Konservative Folkeparti,Liberal Alliance,68,7786,5629.0,0.722964294888261,udenrigs_eu
+Det Konservative Folkeparti,Radikale Venstre,68,16984,13390.0,0.7883890720678285,udenrigs_eu
+Det Konservative Folkeparti,Sambandsflokkurin,68,32,32.0,1.0,udenrigs_eu
+Det Konservative Folkeparti,Socialdemokratiet,68,43417,34481.0,0.79418200244144,udenrigs_eu
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,16587,12112.0,0.7302104057394345,udenrigs_eu
+Det Konservative Folkeparti,Tjóðveldi,68,3,3.0,1.0,udenrigs_eu
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,68,1261,1261.0,1.0,udenrigs_eu
+Det Konservative Folkeparti,Venstre,68,43081,39856.0,0.9251410134397995,udenrigs_eu
+Enhedslisten,Enhedslisten,68,10332,10332.0,1.0,udenrigs_eu
 Enhedslisten,Inuit Ataqatigiit,68,8,8.0,1.0,udenrigs_eu
-Enhedslisten,Javnaðarflokkurin,68,8,0.0,0.0,udenrigs_eu
-Enhedslisten,Liberal Alliance,68,15509,5868.0,0.37836095170546136,udenrigs_eu
-Enhedslisten,Radikale Venstre,68,33807,19584.0,0.5792883130712574,udenrigs_eu
-Enhedslisten,Sambandsflokkurin,68,59,34.0,0.576271186440678,udenrigs_eu
-Enhedslisten,Socialdemokratiet,68,88925,51029.0,0.573843126229969,udenrigs_eu
-Enhedslisten,Socialistisk Folkeparti,68,29530,18920.0,0.6407043684388757,udenrigs_eu
-Enhedslisten,Venstre,68,84493,33644.0,0.3981868320452582,udenrigs_eu
+Enhedslisten,Liberal Alliance,68,14882,5584.0,0.3752183846257223,udenrigs_eu
+Enhedslisten,Radikale Venstre,68,32471,18493.0,0.5695235748822026,udenrigs_eu
+Enhedslisten,Sambandsflokkurin,68,56,32.0,0.5714285714285714,udenrigs_eu
+Enhedslisten,Socialdemokratiet,68,82989,46865.0,0.5647133957512441,udenrigs_eu
+Enhedslisten,Socialistisk Folkeparti,68,31717,19809.0,0.6245546552322099,udenrigs_eu
+Enhedslisten,Tjóðveldi,68,8,0.0,0.0,udenrigs_eu
+Enhedslisten,Uden for Folketingsgrupperne,68,2494,928.0,0.37209302325581395,udenrigs_eu
+Enhedslisten,Venstre,68,82257,31971.0,0.38867208869761843,udenrigs_eu
 Inuit Ataqatigiit,Liberal Alliance,68,5,0.0,0.0,udenrigs_eu
 Inuit Ataqatigiit,Radikale Venstre,68,12,0.0,0.0,udenrigs_eu
 Inuit Ataqatigiit,Socialdemokratiet,68,27,0.0,0.0,udenrigs_eu
 Inuit Ataqatigiit,Socialistisk Folkeparti,68,12,0.0,0.0,udenrigs_eu
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,68,1,0.0,0.0,udenrigs_eu
 Inuit Ataqatigiit,Venstre,68,29,0.0,0.0,udenrigs_eu
-Javnaðarflokkurin,Liberal Alliance,68,4,0.0,0.0,udenrigs_eu
-Javnaðarflokkurin,Radikale Venstre,68,11,11.0,1.0,udenrigs_eu
-Javnaðarflokkurin,Socialdemokratiet,68,28,28.0,1.0,udenrigs_eu
-Javnaðarflokkurin,Socialistisk Folkeparti,68,8,8.0,1.0,udenrigs_eu
-Javnaðarflokkurin,Venstre,68,27,27.0,1.0,udenrigs_eu
 Liberal Alliance,Liberal Alliance,68,3763,3747.0,0.9957480733457348,udenrigs_eu
 Liberal Alliance,Radikale Venstre,68,20487,12363.0,0.603455850051252,udenrigs_eu
 Liberal Alliance,Sambandsflokkurin,68,35,15.0,0.42857142857142855,udenrigs_eu
-Liberal Alliance,Socialdemokratiet,68,53844,32625.0,0.6059170938266102,udenrigs_eu
-Liberal Alliance,Socialistisk Folkeparti,68,17879,10133.0,0.5667542927456792,udenrigs_eu
-Liberal Alliance,Venstre,68,51124,38017.0,0.7436233471559346,udenrigs_eu
+Liberal Alliance,Socialdemokratiet,68,52346,31717.0,0.6059106713024873,udenrigs_eu
+Liberal Alliance,Socialistisk Folkeparti,68,20004,11325.0,0.5661367726454709,udenrigs_eu
+Liberal Alliance,Tjóðveldi,68,4,0.0,0.0,udenrigs_eu
+Liberal Alliance,Uden for Folketingsgrupperne,68,1573,1176.0,0.7476160203432931,udenrigs_eu
+Liberal Alliance,Venstre,68,51903,38505.0,0.7418646321021907,udenrigs_eu
 Radikale Venstre,Radikale Venstre,68,20420,20284.0,0.9933398628795299,udenrigs_eu
 Radikale Venstre,Sambandsflokkurin,68,77,65.0,0.8441558441558441,udenrigs_eu
-Radikale Venstre,Socialdemokratiet,68,117405,116997.0,0.9965248498786252,udenrigs_eu
-Radikale Venstre,Socialistisk Folkeparti,68,39015,36783.0,0.9427912341407151,udenrigs_eu
-Radikale Venstre,Venstre,68,111661,90006.0,0.8060647853771684,udenrigs_eu
-Sambandsflokkurin,Socialdemokratiet,68,203,175.0,0.8620689655172413,udenrigs_eu
-Sambandsflokkurin,Socialistisk Folkeparti,68,62,54.0,0.8709677419354839,udenrigs_eu
-Sambandsflokkurin,Venstre,68,188,188.0,1.0,udenrigs_eu
-Socialdemokratiet,Socialdemokratiet,68,149397,149311.0,0.9994243525639739,udenrigs_eu
-Socialdemokratiet,Socialistisk Folkeparti,68,102480,96221.0,0.938924668227947,udenrigs_eu
-Socialdemokratiet,Venstre,68,293389,237406.0,0.8091850751050653,udenrigs_eu
-Socialistisk Folkeparti,Socialistisk Folkeparti,68,15489,15097.0,0.9746917167021757,udenrigs_eu
-Socialistisk Folkeparti,Venstre,68,97657,73122.0,0.7487635294960935,udenrigs_eu
-Venstre,Venstre,68,134954,134902.0,0.9996146835217926,udenrigs_eu
+Radikale Venstre,Socialdemokratiet,68,114145,113749.0,0.9965307284594157,udenrigs_eu
+Radikale Venstre,Socialistisk Folkeparti,68,43611,41122.0,0.942927243126734,udenrigs_eu
+Radikale Venstre,Tjóðveldi,68,11,11.0,1.0,udenrigs_eu
+Radikale Venstre,Uden for Folketingsgrupperne,68,3438,2705.0,0.7867946480511926,udenrigs_eu
+Radikale Venstre,Venstre,68,113354,91401.0,0.8063323746846164,udenrigs_eu
+Sambandsflokkurin,Socialdemokratiet,68,197,170.0,0.8629441624365483,udenrigs_eu
+Sambandsflokkurin,Socialistisk Folkeparti,68,71,61.0,0.8591549295774648,udenrigs_eu
+Sambandsflokkurin,Uden for Folketingsgrupperne,68,2,2.0,1.0,udenrigs_eu
+Sambandsflokkurin,Venstre,68,194,194.0,1.0,udenrigs_eu
+Socialdemokratiet,Socialdemokratiet,68,141034,140951.0,0.9994114894280812,udenrigs_eu
+Socialdemokratiet,Socialistisk Folkeparti,68,111450,104689.0,0.9393360251233737,udenrigs_eu
+Socialdemokratiet,Tjóðveldi,68,27,27.0,1.0,udenrigs_eu
+Socialdemokratiet,Uden for Folketingsgrupperne,68,8805,6960.0,0.7904599659284497,udenrigs_eu
+Socialdemokratiet,Venstre,68,289538,234429.0,0.8096657433566579,udenrigs_eu
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,19607,18958.0,0.9668995766817973,udenrigs_eu
+Socialistisk Folkeparti,Tjóðveldi,68,9,9.0,1.0,udenrigs_eu
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,68,3331,2439.0,0.7322125487841489,udenrigs_eu
+Socialistisk Folkeparti,Venstre,68,110986,83236.0,0.7499684644910168,udenrigs_eu
+Tjóðveldi,Uden for Folketingsgrupperne,68,1,1.0,1.0,udenrigs_eu
+Tjóðveldi,Venstre,68,28,28.0,1.0,udenrigs_eu
+Uden for Folketingsgrupperne,Venstre,68,8673,7961.0,0.917906145509051,udenrigs_eu
+Venstre,Venstre,68,139231,139177.0,0.9996121553389691,udenrigs_eu
 Alternativet,Alternativet,69,5983,5975.0,0.9986628781547718,udenrigs_eu
-Alternativet,Danmarksdemokraterne,69,3687,1617.0,0.4385679414157852,udenrigs_eu
-Alternativet,Dansk Folkeparti,69,59161,23310.0,0.39400956711347,udenrigs_eu
+Alternativet,Dansk Folkeparti,69,61013,24035.0,0.3939324406274073,udenrigs_eu
 Alternativet,Det Konservative Folkeparti,69,10452,4975.0,0.4759854573287409,udenrigs_eu
 Alternativet,Enhedslisten,69,24245,20135.0,0.8304805114456589,udenrigs_eu
 Alternativet,Inuit Ataqatigiit,69,83,6.0,0.07228915662650602,udenrigs_eu
@@ -297,30 +283,18 @@ Alternativet,Siumut,69,6,6.0,1.0,udenrigs_eu
 Alternativet,Socialdemokratiet,69,79232,47396.0,0.5981926494345718,udenrigs_eu
 Alternativet,Socialistisk Folkeparti,69,10736,8903.0,0.8292660208643815,udenrigs_eu
 Alternativet,Tjóðveldi,69,60,5.0,0.08333333333333333,udenrigs_eu
-Alternativet,Venstre,69,52049,25108.0,0.4823915925378009,udenrigs_eu
-Danmarksdemokraterne,Danmarksdemokraterne,69,239,189.0,0.7907949790794979,udenrigs_eu
-Danmarksdemokraterne,Dansk Folkeparti,69,15066,13464.0,0.8936678614097969,udenrigs_eu
-Danmarksdemokraterne,Det Konservative Folkeparti,69,2668,2392.0,0.896551724137931,udenrigs_eu
-Danmarksdemokraterne,Enhedslisten,69,6212,2235.0,0.35978750804893755,udenrigs_eu
-Danmarksdemokraterne,Inuit Ataqatigiit,69,23,8.0,0.34782608695652173,udenrigs_eu
-Danmarksdemokraterne,Liberal Alliance,69,5539,4769.0,0.8609857374977433,udenrigs_eu
-Danmarksdemokraterne,Radikale Venstre,69,3314,1896.0,0.572118286059143,udenrigs_eu
-Danmarksdemokraterne,Siumut,69,2,1.0,0.5,udenrigs_eu
-Danmarksdemokraterne,Socialdemokratiet,69,20262,14666.0,0.7238179844043037,udenrigs_eu
-Danmarksdemokraterne,Socialistisk Folkeparti,69,2755,1431.0,0.5194192377495462,udenrigs_eu
-Danmarksdemokraterne,Tjóðveldi,69,14,1.0,0.07142857142857142,udenrigs_eu
-Danmarksdemokraterne,Venstre,69,13175,11783.0,0.8943453510436432,udenrigs_eu
-Dansk Folkeparti,Dansk Folkeparti,69,116001,115920.0,0.9993017301574987,udenrigs_eu
-Dansk Folkeparti,Det Konservative Folkeparti,69,42878,34047.0,0.7940435654648071,udenrigs_eu
-Dansk Folkeparti,Enhedslisten,69,99495,34891.0,0.3506809387406402,udenrigs_eu
-Dansk Folkeparti,Inuit Ataqatigiit,69,298,84.0,0.28187919463087246,udenrigs_eu
-Dansk Folkeparti,Liberal Alliance,69,88707,67948.0,0.7659823914685425,udenrigs_eu
-Dansk Folkeparti,Radikale Venstre,69,53220,26459.0,0.497162720781661,udenrigs_eu
-Dansk Folkeparti,Siumut,69,22,0.0,0.0,udenrigs_eu
-Dansk Folkeparti,Socialdemokratiet,69,325051,206446.0,0.635118796742665,udenrigs_eu
-Dansk Folkeparti,Socialistisk Folkeparti,69,44039,20540.0,0.4664047775835055,udenrigs_eu
-Dansk Folkeparti,Tjóðveldi,69,263,23.0,0.08745247148288973,udenrigs_eu
-Dansk Folkeparti,Venstre,69,212688,167302.0,0.786607613029414,udenrigs_eu
+Alternativet,Venstre,69,53884,26000.0,0.48251800163313785,udenrigs_eu
+Dansk Folkeparti,Dansk Folkeparti,69,123510,123426.0,0.9993198931260626,udenrigs_eu
+Dansk Folkeparti,Det Konservative Folkeparti,69,44226,35131.0,0.7943517387961833,udenrigs_eu
+Dansk Folkeparti,Enhedslisten,69,102614,35979.0,0.35062467109751105,udenrigs_eu
+Dansk Folkeparti,Inuit Ataqatigiit,69,311,88.0,0.2829581993569132,udenrigs_eu
+Dansk Folkeparti,Liberal Alliance,69,91503,70108.0,0.7661825295345508,udenrigs_eu
+Dansk Folkeparti,Radikale Venstre,69,54879,27245.0,0.49645583920989816,udenrigs_eu
+Dansk Folkeparti,Siumut,69,23,0.0,0.0,udenrigs_eu
+Dansk Folkeparti,Socialdemokratiet,69,335255,212715.0,0.6344871813992334,udenrigs_eu
+Dansk Folkeparti,Socialistisk Folkeparti,69,45420,21174.0,0.46618229854689563,udenrigs_eu
+Dansk Folkeparti,Tjóðveldi,69,275,24.0,0.08727272727272728,udenrigs_eu
+Dansk Folkeparti,Venstre,69,227163,178737.0,0.786822677988933,udenrigs_eu
 Det Konservative Folkeparti,Det Konservative Folkeparti,69,2870,2867.0,0.9989547038327526,udenrigs_eu
 Det Konservative Folkeparti,Enhedslisten,69,17570,6272.0,0.3569721115537849,udenrigs_eu
 Det Konservative Folkeparti,Inuit Ataqatigiit,69,56,16.0,0.2857142857142857,udenrigs_eu
@@ -330,7 +304,7 @@ Det Konservative Folkeparti,Siumut,69,4,4.0,1.0,udenrigs_eu
 Det Konservative Folkeparti,Socialdemokratiet,69,57338,46562.0,0.8120618089225295,udenrigs_eu
 Det Konservative Folkeparti,Socialistisk Folkeparti,69,7768,4162.0,0.5357878475798146,udenrigs_eu
 Det Konservative Folkeparti,Tjóðveldi,69,45,4.0,0.08888888888888889,udenrigs_eu
-Det Konservative Folkeparti,Venstre,69,37453,36895.0,0.9851013269965023,udenrigs_eu
+Det Konservative Folkeparti,Venstre,69,38773,38203.0,0.9852990483068115,udenrigs_eu
 Enhedslisten,Enhedslisten,69,18130,18114.0,0.9991174848317705,udenrigs_eu
 Enhedslisten,Inuit Ataqatigiit,69,126,27.0,0.21428571428571427,udenrigs_eu
 Enhedslisten,Liberal Alliance,69,36355,12629.0,0.3473800027506533,udenrigs_eu
@@ -339,41 +313,40 @@ Enhedslisten,Siumut,69,9,9.0,1.0,udenrigs_eu
 Enhedslisten,Socialdemokratiet,69,133276,65535.0,0.4917239412947568,udenrigs_eu
 Enhedslisten,Socialistisk Folkeparti,69,18042,13919.0,0.7714776632302406,udenrigs_eu
 Enhedslisten,Tjóðveldi,69,108,9.0,0.08333333333333333,udenrigs_eu
-Enhedslisten,Venstre,69,87170,30918.0,0.3546862452678674,udenrigs_eu
+Enhedslisten,Venstre,69,90263,32065.0,0.35523968846592735,udenrigs_eu
 Inuit Ataqatigiit,Liberal Alliance,69,111,24.0,0.21621621621621623,udenrigs_eu
 Inuit Ataqatigiit,Radikale Venstre,69,62,16.0,0.25806451612903225,udenrigs_eu
 Inuit Ataqatigiit,Socialdemokratiet,69,412,120.0,0.2912621359223301,udenrigs_eu
 Inuit Ataqatigiit,Socialistisk Folkeparti,69,54,4.0,0.07407407407407407,udenrigs_eu
 Inuit Ataqatigiit,Tjóðveldi,69,2,2.0,1.0,udenrigs_eu
-Inuit Ataqatigiit,Venstre,69,280,80.0,0.2857142857142857,udenrigs_eu
+Inuit Ataqatigiit,Venstre,69,290,84.0,0.2896551724137931,udenrigs_eu
 Liberal Alliance,Liberal Alliance,69,14244,14185.0,0.9958579050828419,udenrigs_eu
 Liberal Alliance,Radikale Venstre,69,19460,12135.0,0.6235868448098664,udenrigs_eu
 Liberal Alliance,Siumut,69,8,8.0,1.0,udenrigs_eu
 Liberal Alliance,Socialdemokratiet,69,118844,92184.0,0.7756723099188852,udenrigs_eu
 Liberal Alliance,Socialistisk Folkeparti,69,16098,8310.0,0.5162131941856131,udenrigs_eu
 Liberal Alliance,Tjóðveldi,69,94,8.0,0.0851063829787234,udenrigs_eu
-Liberal Alliance,Venstre,69,77758,73919.0,0.9506288741994393,udenrigs_eu
+Liberal Alliance,Venstre,69,80501,76528.0,0.950646575818934,udenrigs_eu
 Radikale Venstre,Radikale Venstre,69,4670,4646.0,0.9948608137044967,udenrigs_eu
 Radikale Venstre,Siumut,69,5,5.0,1.0,udenrigs_eu
 Radikale Venstre,Socialdemokratiet,69,71210,54365.0,0.7634461452043252,udenrigs_eu
 Radikale Venstre,Socialistisk Folkeparti,69,9658,7835.0,0.8112445640919445,udenrigs_eu
 Radikale Venstre,Tjóðveldi,69,58,5.0,0.08620689655172414,udenrigs_eu
-Radikale Venstre,Venstre,69,46624,30370.0,0.6513812628689087,udenrigs_eu
+Radikale Venstre,Venstre,69,48279,31480.0,0.6520433314691688,udenrigs_eu
 Siumut,Socialdemokratiet,69,30,30.0,1.0,udenrigs_eu
 Siumut,Socialistisk Folkeparti,69,4,4.0,1.0,udenrigs_eu
-Siumut,Venstre,69,21,21.0,1.0,udenrigs_eu
+Siumut,Venstre,69,22,22.0,1.0,udenrigs_eu
 Socialdemokratiet,Socialdemokratiet,69,210867,207845.0,0.985668691639754,udenrigs_eu
 Socialdemokratiet,Socialistisk Folkeparti,69,58956,40275.0,0.6831365764298799,udenrigs_eu
 Socialdemokratiet,Tjóðveldi,69,349,29.0,0.0830945558739255,udenrigs_eu
-Socialdemokratiet,Venstre,69,285874,233378.0,0.8163666510420675,udenrigs_eu
+Socialdemokratiet,Venstre,69,295932,241775.0,0.8169951205006556,udenrigs_eu
 Socialistisk Folkeparti,Socialistisk Folkeparti,69,2999,2999.0,1.0,udenrigs_eu
 Socialistisk Folkeparti,Tjóðveldi,69,48,4.0,0.08333333333333333,udenrigs_eu
-Socialistisk Folkeparti,Venstre,69,38598,20927.0,0.5421783512099072,udenrigs_eu
-Tjóðveldi,Venstre,69,230,19.0,0.08260869565217391,udenrigs_eu
-Venstre,Venstre,69,89153,89135.0,0.9997980998956849,udenrigs_eu
+Socialistisk Folkeparti,Venstre,69,39972,21724.0,0.5434804363054138,udenrigs_eu
+Tjóðveldi,Venstre,69,232,19.0,0.08189655172413793,udenrigs_eu
+Venstre,Venstre,69,95649,95630.0,0.9998013570450293,udenrigs_eu
 Alternativet,Alternativet,70,891,780.0,0.8754208754208754,udenrigs_eu
-Alternativet,Danmarksdemokraterne,70,1308,680.0,0.5198776758409785,udenrigs_eu
-Alternativet,Dansk Folkeparti,70,6929,3495.0,0.504401789580026,udenrigs_eu
+Alternativet,Dansk Folkeparti,70,7939,4006.0,0.5045975563673006,udenrigs_eu
 Alternativet,Det Konservative Folkeparti,70,5670,3214.0,0.5668430335097002,udenrigs_eu
 Alternativet,Enhedslisten,70,6504,5544.0,0.8523985239852399,udenrigs_eu
 Alternativet,Inuit Ataqatigiit,70,6,3.0,0.5,udenrigs_eu
@@ -384,32 +357,19 @@ Alternativet,Sambandsflokkurin,70,9,6.0,0.6666666666666666,udenrigs_eu
 Alternativet,Siumut,70,6,6.0,1.0,udenrigs_eu
 Alternativet,Socialdemokratiet,70,24686,17707.0,0.7172891517459289,udenrigs_eu
 Alternativet,Socialistisk Folkeparti,70,7081,6042.0,0.8532693122440334,udenrigs_eu
-Alternativet,Venstre,70,21333,12589.0,0.5901185956030564,udenrigs_eu
-Danmarksdemokraterne,Danmarksdemokraterne,70,180,161.0,0.8944444444444445,udenrigs_eu
-Danmarksdemokraterne,Dansk Folkeparti,70,3507,3334.0,0.9506700883946393,udenrigs_eu
-Danmarksdemokraterne,Det Konservative Folkeparti,70,2995,2350.0,0.7846410684474123,udenrigs_eu
-Danmarksdemokraterne,Enhedslisten,70,3365,1741.0,0.5173848439821694,udenrigs_eu
-Danmarksdemokraterne,Inuit Ataqatigiit,70,3,1.0,0.3333333333333333,udenrigs_eu
-Danmarksdemokraterne,Liberal Alliance,70,899,655.0,0.728587319243604,udenrigs_eu
-Danmarksdemokraterne,Nye Borgerlige,70,1014,765.0,0.7544378698224852,udenrigs_eu
-Danmarksdemokraterne,Radikale Venstre,70,4118,2432.0,0.5905779504613891,udenrigs_eu
-Danmarksdemokraterne,Sambandsflokkurin,70,5,5.0,1.0,udenrigs_eu
-Danmarksdemokraterne,Siumut,70,3,3.0,1.0,udenrigs_eu
-Danmarksdemokraterne,Socialdemokratiet,70,12635,8400.0,0.6648199445983379,udenrigs_eu
-Danmarksdemokraterne,Socialistisk Folkeparti,70,3695,1993.0,0.5393775372124493,udenrigs_eu
-Danmarksdemokraterne,Venstre,70,10881,8518.0,0.7828324602518151,udenrigs_eu
-Dansk Folkeparti,Dansk Folkeparti,70,8455,8325.0,0.9846244825547014,udenrigs_eu
-Dansk Folkeparti,Det Konservative Folkeparti,70,15699,11738.0,0.7476909357283903,udenrigs_eu
-Dansk Folkeparti,Enhedslisten,70,17892,8869.0,0.4956964006259781,udenrigs_eu
-Dansk Folkeparti,Inuit Ataqatigiit,70,15,7.0,0.4666666666666667,udenrigs_eu
-Dansk Folkeparti,Liberal Alliance,70,4792,3306.0,0.6898998330550918,udenrigs_eu
-Dansk Folkeparti,Nye Borgerlige,70,5362,4158.0,0.7754569190600522,udenrigs_eu
-Dansk Folkeparti,Radikale Venstre,70,21906,12127.0,0.553592623025655,udenrigs_eu
-Dansk Folkeparti,Sambandsflokkurin,70,29,29.0,1.0,udenrigs_eu
-Dansk Folkeparti,Siumut,70,16,16.0,1.0,udenrigs_eu
-Dansk Folkeparti,Socialdemokratiet,70,68294,42199.0,0.6179020118897707,udenrigs_eu
-Dansk Folkeparti,Socialistisk Folkeparti,70,19728,10199.0,0.5169809407948094,udenrigs_eu
-Dansk Folkeparti,Venstre,70,58949,43137.0,0.7317681385604505,udenrigs_eu
+Alternativet,Venstre,70,21631,12758.0,0.589801673524109,udenrigs_eu
+Dansk Folkeparti,Dansk Folkeparti,70,11233,11067.0,0.9852221134158283,udenrigs_eu
+Dansk Folkeparti,Det Konservative Folkeparti,70,18022,13485.0,0.7482521362778826,udenrigs_eu
+Dansk Folkeparti,Enhedslisten,70,20523,10237.0,0.498806217414608,udenrigs_eu
+Dansk Folkeparti,Inuit Ataqatigiit,70,18,8.0,0.4444444444444444,udenrigs_eu
+Dansk Folkeparti,Liberal Alliance,70,5483,3794.0,0.6919569578697793,udenrigs_eu
+Dansk Folkeparti,Nye Borgerlige,70,6131,4767.0,0.7775240580655685,udenrigs_eu
+Dansk Folkeparti,Radikale Venstre,70,25126,13915.0,0.5538088036297063,udenrigs_eu
+Dansk Folkeparti,Sambandsflokkurin,70,32,32.0,1.0,udenrigs_eu
+Dansk Folkeparti,Siumut,70,18,18.0,1.0,udenrigs_eu
+Dansk Folkeparti,Socialdemokratiet,70,78066,48330.0,0.6190915379294443,udenrigs_eu
+Dansk Folkeparti,Socialistisk Folkeparti,70,22617,11690.0,0.5168678427731352,udenrigs_eu
+Dansk Folkeparti,Venstre,70,68343,50152.0,0.7338278975169367,udenrigs_eu
 Det Konservative Folkeparti,Det Konservative Folkeparti,70,5664,5630.0,0.993997175141243,udenrigs_eu
 Det Konservative Folkeparti,Enhedslisten,70,14802,7744.0,0.523172544250777,udenrigs_eu
 Det Konservative Folkeparti,Inuit Ataqatigiit,70,11,11.0,1.0,udenrigs_eu
@@ -420,7 +380,7 @@ Det Konservative Folkeparti,Sambandsflokkurin,70,19,19.0,1.0,udenrigs_eu
 Det Konservative Folkeparti,Siumut,70,12,12.0,1.0,udenrigs_eu
 Det Konservative Folkeparti,Socialdemokratiet,70,56163,44312.0,0.7889891921727827,udenrigs_eu
 Det Konservative Folkeparti,Socialistisk Folkeparti,70,16331,10493.0,0.6425203600514359,udenrigs_eu
-Det Konservative Folkeparti,Venstre,70,48249,45674.0,0.9466310182594458,udenrigs_eu
+Det Konservative Folkeparti,Venstre,70,48921,46277.0,0.94595368042354,udenrigs_eu
 Enhedslisten,Enhedslisten,70,7329,7302.0,0.9963160049119935,udenrigs_eu
 Enhedslisten,Inuit Ataqatigiit,70,14,14.0,1.0,udenrigs_eu
 Enhedslisten,Liberal Alliance,70,4463,2177.0,0.48778848308312794,udenrigs_eu
@@ -430,7 +390,7 @@ Enhedslisten,Sambandsflokkurin,70,24,8.0,0.3333333333333333,udenrigs_eu
 Enhedslisten,Siumut,70,15,15.0,1.0,udenrigs_eu
 Enhedslisten,Socialdemokratiet,70,64127,43671.0,0.6810079997504951,udenrigs_eu
 Enhedslisten,Socialistisk Folkeparti,70,18589,15469.0,0.832158803593523,udenrigs_eu
-Enhedslisten,Venstre,70,55406,29491.0,0.5322708731906292,udenrigs_eu
+Enhedslisten,Venstre,70,56140,29864.0,0.5319558247239046,udenrigs_eu
 Inuit Ataqatigiit,Liberal Alliance,70,4,2.0,0.5,udenrigs_eu
 Inuit Ataqatigiit,Nye Borgerlige,70,4,0.0,0.0,udenrigs_eu
 Inuit Ataqatigiit,Radikale Venstre,70,17,17.0,1.0,udenrigs_eu
@@ -445,32 +405,32 @@ Liberal Alliance,Sambandsflokkurin,70,6,6.0,1.0,udenrigs_eu
 Liberal Alliance,Siumut,70,5,3.0,0.6,udenrigs_eu
 Liberal Alliance,Socialdemokratiet,70,17077,12510.0,0.7325642677285238,udenrigs_eu
 Liberal Alliance,Socialistisk Folkeparti,70,4931,2882.0,0.5844656256337457,udenrigs_eu
-Liberal Alliance,Venstre,70,14696,12135.0,0.8257348938486663,udenrigs_eu
+Liberal Alliance,Venstre,70,14904,12302.0,0.8254159957058508,udenrigs_eu
 Nye Borgerlige,Nye Borgerlige,70,449,446.0,0.9933184855233853,udenrigs_eu
 Nye Borgerlige,Radikale Venstre,70,6152,2601.0,0.4227893368010403,udenrigs_eu
 Nye Borgerlige,Sambandsflokkurin,70,8,8.0,1.0,udenrigs_eu
 Nye Borgerlige,Siumut,70,4,2.0,0.5,udenrigs_eu
 Nye Borgerlige,Socialdemokratiet,70,19244,9233.0,0.4797859072957805,udenrigs_eu
 Nye Borgerlige,Socialistisk Folkeparti,70,5553,2313.0,0.4165316045380875,udenrigs_eu
-Nye Borgerlige,Venstre,70,16572,10367.0,0.6255732560946174,udenrigs_eu
+Nye Borgerlige,Venstre,70,16817,10523.0,0.625735862520069,udenrigs_eu
 Radikale Venstre,Radikale Venstre,70,11302,11044.0,0.9771721819147053,udenrigs_eu
 Radikale Venstre,Sambandsflokkurin,70,27,17.0,0.6296296296296297,udenrigs_eu
 Radikale Venstre,Siumut,70,20,20.0,1.0,udenrigs_eu
 Radikale Venstre,Socialdemokratiet,70,78305,66975.0,0.8553093672179299,udenrigs_eu
 Radikale Venstre,Socialistisk Folkeparti,70,22755,19641.0,0.8631509558338827,udenrigs_eu
-Radikale Venstre,Venstre,70,67691,51135.0,0.7554180023932281,udenrigs_eu
+Radikale Venstre,Venstre,70,68589,51779.0,0.7549169691933109,udenrigs_eu
 Sambandsflokkurin,Socialdemokratiet,70,81,81.0,1.0,udenrigs_eu
 Sambandsflokkurin,Socialistisk Folkeparti,70,27,18.0,0.6666666666666666,udenrigs_eu
-Sambandsflokkurin,Venstre,70,71,71.0,1.0,udenrigs_eu
+Sambandsflokkurin,Venstre,70,73,73.0,1.0,udenrigs_eu
 Siumut,Socialdemokratiet,70,66,66.0,1.0,udenrigs_eu
 Siumut,Socialistisk Folkeparti,70,19,19.0,1.0,udenrigs_eu
-Siumut,Venstre,70,51,51.0,1.0,udenrigs_eu
+Siumut,Venstre,70,52,52.0,1.0,udenrigs_eu
 Socialdemokratiet,Socialdemokratiet,70,118708,118680.0,0.999764127101796,udenrigs_eu
 Socialdemokratiet,Socialistisk Folkeparti,70,70674,57936.0,0.8197639867560913,udenrigs_eu
-Socialdemokratiet,Venstre,70,211920,172913.0,0.8159352585881464,udenrigs_eu
+Socialdemokratiet,Venstre,70,214783,175182.0,0.815623210403058,udenrigs_eu
 Socialistisk Folkeparti,Socialistisk Folkeparti,70,9027,9027.0,1.0,udenrigs_eu
-Socialistisk Folkeparti,Venstre,70,61029,40694.0,0.6667977518884465,udenrigs_eu
-Venstre,Venstre,70,87967,87646.0,0.9963509043163914,udenrigs_eu
+Socialistisk Folkeparti,Venstre,70,61835,41196.0,0.6662246300638797,udenrigs_eu
+Venstre,Venstre,70,90363,89902.0,0.9948983544149708,udenrigs_eu
 Alternativet,Alternativet,71,931,857.0,0.920515574650913,udenrigs_eu
 Alternativet,Danmarksdemokraterne,71,7117,3746.0,0.5263453702402697,udenrigs_eu
 Alternativet,Dansk Folkeparti,71,1949,793.0,0.4068753206772704,udenrigs_eu

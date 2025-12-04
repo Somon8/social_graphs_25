@@ -1,23 +1,13 @@
 source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
-Danmarksdemokraterne,Danmarksdemokraterne,65,7,7.0,1.0,forsvar_sikkerhed
-Danmarksdemokraterne,Dansk Folkeparti,65,287,287.0,1.0,forsvar_sikkerhed
-Danmarksdemokraterne,Det Konservative Folkeparti,65,182,182.0,1.0,forsvar_sikkerhed
-Danmarksdemokraterne,Enhedslisten,65,39,4.0,0.10256410256410256,forsvar_sikkerhed
-Danmarksdemokraterne,Inuit Ataqatigiit,65,6,0.0,0.0,forsvar_sikkerhed
-Danmarksdemokraterne,Kristendemokraterne,65,42,32.0,0.7619047619047619,forsvar_sikkerhed
-Danmarksdemokraterne,Radikale Venstre,65,88,76.0,0.8636363636363636,forsvar_sikkerhed
-Danmarksdemokraterne,Socialdemokratiet,65,668,567.0,0.8488023952095808,forsvar_sikkerhed
-Danmarksdemokraterne,Socialistisk Folkeparti,65,160,67.0,0.41875,forsvar_sikkerhed
-Danmarksdemokraterne,Venstre,65,728,728.0,1.0,forsvar_sikkerhed
-Dansk Folkeparti,Dansk Folkeparti,65,1268,1268.0,1.0,forsvar_sikkerhed
-Dansk Folkeparti,Det Konservative Folkeparti,65,1680,1680.0,1.0,forsvar_sikkerhed
-Dansk Folkeparti,Enhedslisten,65,325,43.0,0.13230769230769232,forsvar_sikkerhed
-Dansk Folkeparti,Inuit Ataqatigiit,65,38,0.0,0.0,forsvar_sikkerhed
-Dansk Folkeparti,Kristendemokraterne,65,390,312.0,0.8,forsvar_sikkerhed
-Dansk Folkeparti,Radikale Venstre,65,840,732.0,0.8714285714285714,forsvar_sikkerhed
-Dansk Folkeparti,Socialdemokratiet,65,6222,5337.0,0.8577627772420443,forsvar_sikkerhed
-Dansk Folkeparti,Socialistisk Folkeparti,65,1456,672.0,0.46153846153846156,forsvar_sikkerhed
-Dansk Folkeparti,Venstre,65,6804,6804.0,1.0,forsvar_sikkerhed
+Dansk Folkeparti,Dansk Folkeparti,65,1360,1360.0,1.0,forsvar_sikkerhed
+Dansk Folkeparti,Det Konservative Folkeparti,65,1741,1741.0,1.0,forsvar_sikkerhed
+Dansk Folkeparti,Enhedslisten,65,340,44.0,0.12941176470588237,forsvar_sikkerhed
+Dansk Folkeparti,Inuit Ataqatigiit,65,41,0.0,0.0,forsvar_sikkerhed
+Dansk Folkeparti,Kristendemokraterne,65,404,322.0,0.7970297029702971,forsvar_sikkerhed
+Dansk Folkeparti,Radikale Venstre,65,868,756.0,0.8709677419354839,forsvar_sikkerhed
+Dansk Folkeparti,Socialdemokratiet,65,6443,5523.0,0.8572093745149775,forsvar_sikkerhed
+Dansk Folkeparti,Socialistisk Folkeparti,65,1511,692.0,0.45797485109199204,forsvar_sikkerhed
+Dansk Folkeparti,Venstre,65,7246,7246.0,1.0,forsvar_sikkerhed
 Det Konservative Folkeparti,Det Konservative Folkeparti,65,472,472.0,1.0,forsvar_sikkerhed
 Det Konservative Folkeparti,Enhedslisten,65,221,24.0,0.1085972850678733,forsvar_sikkerhed
 Det Konservative Folkeparti,Inuit Ataqatigiit,65,31,0.0,0.0,forsvar_sikkerhed
@@ -25,67 +15,57 @@ Det Konservative Folkeparti,Kristendemokraterne,65,242,188.0,0.7768595041322314,
 Det Konservative Folkeparti,Radikale Venstre,65,519,451.0,0.8689788053949904,forsvar_sikkerhed
 Det Konservative Folkeparti,Socialdemokratiet,65,3864,3304.0,0.855072463768116,forsvar_sikkerhed
 Det Konservative Folkeparti,Socialistisk Folkeparti,65,926,369.0,0.398488120950324,forsvar_sikkerhed
-Det Konservative Folkeparti,Venstre,65,4199,4199.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Venstre,65,4320,4320.0,1.0,forsvar_sikkerhed
 Enhedslisten,Enhedslisten,65,16,16.0,1.0,forsvar_sikkerhed
 Enhedslisten,Inuit Ataqatigiit,65,10,10.0,1.0,forsvar_sikkerhed
 Enhedslisten,Kristendemokraterne,65,48,22.0,0.4583333333333333,forsvar_sikkerhed
 Enhedslisten,Radikale Venstre,65,101,28.0,0.27722772277227725,forsvar_sikkerhed
 Enhedslisten,Socialdemokratiet,65,765,231.0,0.30196078431372547,forsvar_sikkerhed
 Enhedslisten,Socialistisk Folkeparti,65,196,168.0,0.8571428571428571,forsvar_sikkerhed
-Enhedslisten,Venstre,65,816,111.0,0.13602941176470587,forsvar_sikkerhed
+Enhedslisten,Venstre,65,840,114.0,0.1357142857142857,forsvar_sikkerhed
 Inuit Ataqatigiit,Kristendemokraterne,65,6,2.0,0.3333333333333333,forsvar_sikkerhed
 Inuit Ataqatigiit,Radikale Venstre,65,12,0.0,0.0,forsvar_sikkerhed
 Inuit Ataqatigiit,Socialdemokratiet,65,95,0.0,0.0,forsvar_sikkerhed
 Inuit Ataqatigiit,Socialistisk Folkeparti,65,29,29.0,1.0,forsvar_sikkerhed
-Inuit Ataqatigiit,Venstre,65,98,0.0,0.0,forsvar_sikkerhed
+Inuit Ataqatigiit,Venstre,65,101,0.0,0.0,forsvar_sikkerhed
 Kristendemokraterne,Kristendemokraterne,65,14,14.0,1.0,forsvar_sikkerhed
 Kristendemokraterne,Radikale Venstre,65,120,112.0,0.9333333333333333,forsvar_sikkerhed
 Kristendemokraterne,Socialdemokratiet,65,894,830.0,0.9284116331096197,forsvar_sikkerhed
 Kristendemokraterne,Socialistisk Folkeparti,65,210,140.0,0.6666666666666666,forsvar_sikkerhed
-Kristendemokraterne,Venstre,65,976,784.0,0.8032786885245902,forsvar_sikkerhed
+Kristendemokraterne,Venstre,65,1004,806.0,0.8027888446215139,forsvar_sikkerhed
 Radikale Venstre,Radikale Venstre,65,101,101.0,1.0,forsvar_sikkerhed
 Radikale Venstre,Socialdemokratiet,65,1915,1910.0,0.9973890339425587,forsvar_sikkerhed
 Radikale Venstre,Socialistisk Folkeparti,65,451,255.0,0.565410199556541,forsvar_sikkerhed
-Radikale Venstre,Venstre,65,2092,1836.0,0.8776290630975143,forsvar_sikkerhed
+Radikale Venstre,Venstre,65,2152,1888.0,0.8773234200743495,forsvar_sikkerhed
 Socialdemokratiet,Socialdemokratiet,65,6932,6901.0,0.9955279861511829,forsvar_sikkerhed
 Socialdemokratiet,Socialistisk Folkeparti,65,3345,1924.0,0.5751868460388639,forsvar_sikkerhed
-Socialdemokratiet,Venstre,65,15604,13473.0,0.8634324532171238,forsvar_sikkerhed
+Socialdemokratiet,Venstre,65,16051,13854.0,0.8631237929100991,forsvar_sikkerhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,65,354,354.0,1.0,forsvar_sikkerhed
-Socialistisk Folkeparti,Venstre,65,3639,1710.0,0.4699093157460841,forsvar_sikkerhed
-Venstre,Venstre,65,8301,8301.0,1.0,forsvar_sikkerhed
-Danmarksdemokraterne,Danmarksdemokraterne,66,35,32.0,0.9142857142857143,forsvar_sikkerhed
-Danmarksdemokraterne,Dansk Folkeparti,66,2642,2499.0,0.9458743376230129,forsvar_sikkerhed
-Danmarksdemokraterne,Det Konservative Folkeparti,66,1969,1913.0,0.9715591670898933,forsvar_sikkerhed
-Danmarksdemokraterne,Enhedslisten,66,451,117.0,0.25942350332594233,forsvar_sikkerhed
-Danmarksdemokraterne,Fólkaflokkurin,66,1,1.0,1.0,forsvar_sikkerhed
-Danmarksdemokraterne,Inuit Ataqatigiit,66,10,1.0,0.1,forsvar_sikkerhed
-Danmarksdemokraterne,Radikale Venstre,66,1523,1078.0,0.7078135259356533,forsvar_sikkerhed
-Danmarksdemokraterne,Siumut,66,15,4.0,0.26666666666666666,forsvar_sikkerhed
-Danmarksdemokraterne,Socialdemokratiet,66,4819,3841.0,0.7970533305665076,forsvar_sikkerhed
-Danmarksdemokraterne,Socialistisk Folkeparti,66,1348,657.0,0.4873887240356083,forsvar_sikkerhed
-Danmarksdemokraterne,Tjóðveldi,66,14,0.0,0.0,forsvar_sikkerhed
-Danmarksdemokraterne,Venstre,66,5680,5514.0,0.9707746478873239,forsvar_sikkerhed
-Dansk Folkeparti,Dansk Folkeparti,66,17422,17378.0,0.9974744575823671,forsvar_sikkerhed
-Dansk Folkeparti,Det Konservative Folkeparti,66,27040,25167.0,0.93073224852071,forsvar_sikkerhed
-Dansk Folkeparti,Enhedslisten,66,6240,1766.0,0.2830128205128205,forsvar_sikkerhed
+Socialistisk Folkeparti,Venstre,65,3744,1757.0,0.46928418803418803,forsvar_sikkerhed
+Venstre,Venstre,65,8789,8789.0,1.0,forsvar_sikkerhed
+Dansk Folkeparti,Dansk Folkeparti,66,18103,18058.0,0.9975142241617412,forsvar_sikkerhed
+Dansk Folkeparti,Det Konservative Folkeparti,66,25334,23551.0,0.9296202731507066,forsvar_sikkerhed
+Dansk Folkeparti,Enhedslisten,66,6362,1805.0,0.28371581263753537,forsvar_sikkerhed
 Dansk Folkeparti,Fólkaflokkurin,66,17,17.0,1.0,forsvar_sikkerhed
-Dansk Folkeparti,Inuit Ataqatigiit,66,91,18.0,0.1978021978021978,forsvar_sikkerhed
-Dansk Folkeparti,Radikale Venstre,66,20941,14274.0,0.6816293395730862,forsvar_sikkerhed
-Dansk Folkeparti,Siumut,66,118,31.0,0.2627118644067797,forsvar_sikkerhed
-Dansk Folkeparti,Socialdemokratiet,66,67256,49946.0,0.7426251932913048,forsvar_sikkerhed
-Dansk Folkeparti,Socialistisk Folkeparti,66,18821,9016.0,0.4790393709154668,forsvar_sikkerhed
-Dansk Folkeparti,Tjóðveldi,66,140,0.0,0.0,forsvar_sikkerhed
-Dansk Folkeparti,Venstre,66,78741,73204.0,0.9296808524148792,forsvar_sikkerhed
-Det Konservative Folkeparti,Det Konservative Folkeparti,66,9166,9166.0,1.0,forsvar_sikkerhed
-Det Konservative Folkeparti,Enhedslisten,66,4600,1128.0,0.24521739130434783,forsvar_sikkerhed
-Det Konservative Folkeparti,Fólkaflokkurin,66,13,13.0,1.0,forsvar_sikkerhed
-Det Konservative Folkeparti,Inuit Ataqatigiit,66,69,11.0,0.15942028985507245,forsvar_sikkerhed
-Det Konservative Folkeparti,Radikale Venstre,66,15352,11366.0,0.7403595622720167,forsvar_sikkerhed
-Det Konservative Folkeparti,Siumut,66,96,25.0,0.2604166666666667,forsvar_sikkerhed
-Det Konservative Folkeparti,Socialdemokratiet,66,49087,39401.0,0.8026768798256158,forsvar_sikkerhed
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,13739,6986.0,0.5084795108814324,forsvar_sikkerhed
-Det Konservative Folkeparti,Tjóðveldi,66,108,0.0,0.0,forsvar_sikkerhed
-Det Konservative Folkeparti,Venstre,66,57676,57546.0,0.9977460295443512,forsvar_sikkerhed
+Dansk Folkeparti,Inuit Ataqatigiit,66,95,18.0,0.18947368421052632,forsvar_sikkerhed
+Dansk Folkeparti,Radikale Venstre,66,21363,14552.0,0.6811777372091935,forsvar_sikkerhed
+Dansk Folkeparti,Siumut,66,125,33.0,0.264,forsvar_sikkerhed
+Dansk Folkeparti,Socialdemokratiet,66,68510,50913.0,0.743146985841483,forsvar_sikkerhed
+Dansk Folkeparti,Socialistisk Folkeparti,66,19165,9188.0,0.4794156013566397,forsvar_sikkerhed
+Dansk Folkeparti,Tjóðveldi,66,145,0.0,0.0,forsvar_sikkerhed
+Dansk Folkeparti,Uden for Folketingsgrupperne,66,2240,2094.0,0.9348214285714286,forsvar_sikkerhed
+Dansk Folkeparti,Venstre,66,82253,76414.0,0.9290117077796555,forsvar_sikkerhed
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,7696,7696.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Enhedslisten,66,4230,1034.0,0.24444444444444444,forsvar_sikkerhed
+Det Konservative Folkeparti,Fólkaflokkurin,66,12,12.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Inuit Ataqatigiit,66,63,10.0,0.15873015873015872,forsvar_sikkerhed
+Det Konservative Folkeparti,Radikale Venstre,66,14109,10465.0,0.7417251399815721,forsvar_sikkerhed
+Det Konservative Folkeparti,Siumut,66,88,23.0,0.26136363636363635,forsvar_sikkerhed
+Det Konservative Folkeparti,Socialdemokratiet,66,45103,36252.0,0.8037602820211516,forsvar_sikkerhed
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,12614,6411.0,0.508244807356905,forsvar_sikkerhed
+Det Konservative Folkeparti,Tjóðveldi,66,99,0.0,0.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,66,1470,1470.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Venstre,66,54319,54199.0,0.9977908282553066,forsvar_sikkerhed
 Enhedslisten,Enhedslisten,66,366,364.0,0.994535519125683,forsvar_sikkerhed
 Enhedslisten,Fólkaflokkurin,66,3,0.0,0.0,forsvar_sikkerhed
 Enhedslisten,Inuit Ataqatigiit,66,21,12.0,0.5714285714285714,forsvar_sikkerhed
@@ -94,189 +74,195 @@ Enhedslisten,Siumut,66,26,18.0,0.6923076923076923,forsvar_sikkerhed
 Enhedslisten,Socialdemokratiet,66,11315,4476.0,0.39558108705258505,forsvar_sikkerhed
 Enhedslisten,Socialistisk Folkeparti,66,3143,2176.0,0.6923321667196946,forsvar_sikkerhed
 Enhedslisten,Tjóðveldi,66,32,29.0,0.90625,forsvar_sikkerhed
-Enhedslisten,Venstre,66,13268,3298.0,0.24856798311727465,forsvar_sikkerhed
+Enhedslisten,Uden for Folketingsgrupperne,66,370,94.0,0.25405405405405407,forsvar_sikkerhed
+Enhedslisten,Venstre,66,13597,3376.0,0.24829006398470252,forsvar_sikkerhed
 Fólkaflokkurin,Inuit Ataqatigiit,66,1,0.0,0.0,forsvar_sikkerhed
 Fólkaflokkurin,Radikale Venstre,66,8,8.0,1.0,forsvar_sikkerhed
 Fólkaflokkurin,Socialdemokratiet,66,28,28.0,1.0,forsvar_sikkerhed
 Fólkaflokkurin,Socialistisk Folkeparti,66,8,8.0,1.0,forsvar_sikkerhed
 Fólkaflokkurin,Tjóðveldi,66,1,0.0,0.0,forsvar_sikkerhed
-Fólkaflokkurin,Venstre,66,31,31.0,1.0,forsvar_sikkerhed
+Fólkaflokkurin,Uden for Folketingsgrupperne,66,1,1.0,1.0,forsvar_sikkerhed
+Fólkaflokkurin,Venstre,66,32,32.0,1.0,forsvar_sikkerhed
 Inuit Ataqatigiit,Radikale Venstre,66,50,26.0,0.52,forsvar_sikkerhed
 Inuit Ataqatigiit,Siumut,66,4,4.0,1.0,forsvar_sikkerhed
 Inuit Ataqatigiit,Socialdemokratiet,66,166,30.0,0.18072289156626506,forsvar_sikkerhed
 Inuit Ataqatigiit,Socialistisk Folkeparti,66,44,26.0,0.5909090909090909,forsvar_sikkerhed
 Inuit Ataqatigiit,Tjóðveldi,66,6,4.0,0.6666666666666666,forsvar_sikkerhed
-Inuit Ataqatigiit,Venstre,66,195,33.0,0.16923076923076924,forsvar_sikkerhed
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,66,6,1.0,0.16666666666666666,forsvar_sikkerhed
+Inuit Ataqatigiit,Venstre,66,201,34.0,0.1691542288557214,forsvar_sikkerhed
 Radikale Venstre,Radikale Venstre,66,5335,5270.0,0.9878163074039362,forsvar_sikkerhed
 Radikale Venstre,Siumut,66,70,37.0,0.5285714285714286,forsvar_sikkerhed
 Radikale Venstre,Socialdemokratiet,66,37940,32291.0,0.8511070110701107,forsvar_sikkerhed
 Radikale Venstre,Socialistisk Folkeparti,66,10613,7625.0,0.7184584942994441,forsvar_sikkerhed
 Radikale Venstre,Tjóðveldi,66,78,29.0,0.3717948717948718,forsvar_sikkerhed
-Radikale Venstre,Venstre,66,44545,32879.0,0.7381075317095073,forsvar_sikkerhed
+Radikale Venstre,Uden for Folketingsgrupperne,66,1243,901.0,0.7248592115848753,forsvar_sikkerhed
+Radikale Venstre,Venstre,66,45646,33679.0,0.7378302589493055,forsvar_sikkerhed
 Siumut,Socialdemokratiet,66,223,60.0,0.26905829596412556,forsvar_sikkerhed
 Siumut,Socialistisk Folkeparti,66,59,33.0,0.559322033898305,forsvar_sikkerhed
 Siumut,Tjóðveldi,66,6,4.0,0.6666666666666666,forsvar_sikkerhed
-Siumut,Venstre,66,263,67.0,0.25475285171102663,forsvar_sikkerhed
+Siumut,Uden for Folketingsgrupperne,66,8,2.0,0.25,forsvar_sikkerhed
+Siumut,Venstre,66,271,69.0,0.25461254612546125,forsvar_sikkerhed
 Socialdemokratiet,Socialdemokratiet,66,59224,59086.0,0.9976698635688235,forsvar_sikkerhed
 Socialdemokratiet,Socialistisk Folkeparti,66,34238,23758.0,0.6939073544015422,forsvar_sikkerhed
 Socialdemokratiet,Tjóðveldi,66,250,30.0,0.12,forsvar_sikkerhed
-Socialdemokratiet,Venstre,66,143326,114749.0,0.8006153803217839,forsvar_sikkerhed
+Socialdemokratiet,Uden for Folketingsgrupperne,66,3984,3149.0,0.7904116465863453,forsvar_sikkerhed
+Socialdemokratiet,Venstre,66,146891,117623.0,0.8007502161466665,forsvar_sikkerhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,66,4264,3899.0,0.9143996247654784,forsvar_sikkerhed
 Socialistisk Folkeparti,Tjóðveldi,66,66,44.0,0.6666666666666666,forsvar_sikkerhed
-Socialistisk Folkeparti,Venstre,66,40082,20386.0,0.508607354922409,forsvar_sikkerhed
-Tjóðveldi,Venstre,66,293,1.0,0.0034129692832764505,forsvar_sikkerhed
-Venstre,Venstre,66,81700,81370.0,0.9959608323133415,forsvar_sikkerhed
-Danmarksdemokraterne,Danmarksdemokraterne,67,55,49.0,0.8909090909090909,forsvar_sikkerhed
-Danmarksdemokraterne,Dansk Folkeparti,67,3292,3157.0,0.9589914945321992,forsvar_sikkerhed
-Danmarksdemokraterne,Det Konservative Folkeparti,67,2075,1983.0,0.9556626506024096,forsvar_sikkerhed
-Danmarksdemokraterne,Enhedslisten,67,433,126.0,0.2909930715935335,forsvar_sikkerhed
-Danmarksdemokraterne,Inuit Ataqatigiit,67,1,1.0,1.0,forsvar_sikkerhed
-Danmarksdemokraterne,Liberal Alliance,67,462,389.0,0.841991341991342,forsvar_sikkerhed
-Danmarksdemokraterne,Radikale Venstre,67,914,463.0,0.5065645514223195,forsvar_sikkerhed
-Danmarksdemokraterne,Sambandsflokkurin,67,11,10.0,0.9090909090909091,forsvar_sikkerhed
-Danmarksdemokraterne,Siumut,67,14,13.0,0.9285714285714286,forsvar_sikkerhed
-Danmarksdemokraterne,Socialdemokratiet,67,5728,3399.0,0.5934008379888268,forsvar_sikkerhed
-Danmarksdemokraterne,Socialistisk Folkeparti,67,2609,1216.0,0.4660789574549636,forsvar_sikkerhed
-Danmarksdemokraterne,Tjóðveldi,67,2,1.0,0.5,forsvar_sikkerhed
-Danmarksdemokraterne,Venstre,67,5688,5470.0,0.9616736990154712,forsvar_sikkerhed
-Dansk Folkeparti,Dansk Folkeparti,67,27238,27001.0,0.9912989206255965,forsvar_sikkerhed
-Dansk Folkeparti,Det Konservative Folkeparti,67,35851,32273.0,0.9001980418956236,forsvar_sikkerhed
-Dansk Folkeparti,Enhedslisten,67,7429,2477.0,0.33342307174586083,forsvar_sikkerhed
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,66,1125,575.0,0.5111111111111111,forsvar_sikkerhed
+Socialistisk Folkeparti,Venstre,66,41086,20871.0,0.5079832546366159,forsvar_sikkerhed
+Tjóðveldi,Uden for Folketingsgrupperne,66,9,0.0,0.0,forsvar_sikkerhed
+Tjóðveldi,Venstre,66,302,1.0,0.0033112582781456954,forsvar_sikkerhed
+Uden for Folketingsgrupperne,Venstre,66,4792,4782.0,0.9979131886477463,forsvar_sikkerhed
+Venstre,Venstre,66,85864,85525.0,0.9960518960216156,forsvar_sikkerhed
+Dansk Folkeparti,Dansk Folkeparti,67,28335,28088.0,0.9912828657137815,forsvar_sikkerhed
+Dansk Folkeparti,Det Konservative Folkeparti,67,33316,29976.0,0.8997478688918238,forsvar_sikkerhed
+Dansk Folkeparti,Enhedslisten,67,6815,2177.0,0.3194424064563463,forsvar_sikkerhed
 Dansk Folkeparti,Inuit Ataqatigiit,67,35,35.0,1.0,forsvar_sikkerhed
-Dansk Folkeparti,Liberal Alliance,67,8060,6479.0,0.8038461538461539,forsvar_sikkerhed
-Dansk Folkeparti,Radikale Venstre,67,15423,8530.0,0.5530700901251377,forsvar_sikkerhed
-Dansk Folkeparti,Sambandsflokkurin,67,122,100.0,0.819672131147541,forsvar_sikkerhed
-Dansk Folkeparti,Siumut,67,182,166.0,0.9120879120879121,forsvar_sikkerhed
-Dansk Folkeparti,Socialdemokratiet,67,98829,59988.0,0.6069878274595514,forsvar_sikkerhed
-Dansk Folkeparti,Socialistisk Folkeparti,67,45446,22877.0,0.503388637063768,forsvar_sikkerhed
-Dansk Folkeparti,Tjóðveldi,67,35,18.0,0.5142857142857142,forsvar_sikkerhed
-Dansk Folkeparti,Venstre,67,98613,89314.0,0.9057020879600053,forsvar_sikkerhed
-Det Konservative Folkeparti,Det Konservative Folkeparti,67,10285,10210.0,0.9927078269324259,forsvar_sikkerhed
-Det Konservative Folkeparti,Enhedslisten,67,4604,1672.0,0.3631624674196351,forsvar_sikkerhed
-Det Konservative Folkeparti,Inuit Ataqatigiit,67,20,20.0,1.0,forsvar_sikkerhed
-Det Konservative Folkeparti,Liberal Alliance,67,4949,4346.0,0.8781572034754496,forsvar_sikkerhed
-Det Konservative Folkeparti,Radikale Venstre,67,9669,6278.0,0.6492915503154411,forsvar_sikkerhed
-Det Konservative Folkeparti,Sambandsflokkurin,67,75,75.0,1.0,forsvar_sikkerhed
-Det Konservative Folkeparti,Siumut,67,115,115.0,1.0,forsvar_sikkerhed
-Det Konservative Folkeparti,Socialdemokratiet,67,61527,43348.0,0.7045362198709509,forsvar_sikkerhed
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,28294,16532.0,0.5842934897858203,forsvar_sikkerhed
-Det Konservative Folkeparti,Tjóðveldi,67,18,9.0,0.5,forsvar_sikkerhed
-Det Konservative Folkeparti,Venstre,67,61467,61231.0,0.9961605414287341,forsvar_sikkerhed
-Enhedslisten,Enhedslisten,67,281,256.0,0.9110320284697508,forsvar_sikkerhed
+Dansk Folkeparti,Liberal Alliance,67,8213,6602.0,0.8038475587483258,forsvar_sikkerhed
+Dansk Folkeparti,Radikale Venstre,67,15744,8652.0,0.5495426829268293,forsvar_sikkerhed
+Dansk Folkeparti,Sambandsflokkurin,67,126,103.0,0.8174603174603174,forsvar_sikkerhed
+Dansk Folkeparti,Siumut,67,189,172.0,0.91005291005291,forsvar_sikkerhed
+Dansk Folkeparti,Socialdemokratiet,67,97973,59601.0,0.6083410735610831,forsvar_sikkerhed
+Dansk Folkeparti,Socialistisk Folkeparti,67,49853,24862.0,0.4987061962168776,forsvar_sikkerhed
+Dansk Folkeparti,Tjóðveldi,67,36,18.0,0.5,forsvar_sikkerhed
+Dansk Folkeparti,Uden for Folketingsgrupperne,67,3234,2911.0,0.9001236858379715,forsvar_sikkerhed
+Dansk Folkeparti,Venstre,67,102783,93136.0,0.9061420662950099,forsvar_sikkerhed
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,8493,8423.0,0.991757918285647,forsvar_sikkerhed
+Det Konservative Folkeparti,Enhedslisten,67,3792,1329.0,0.3504746835443038,forsvar_sikkerhed
+Det Konservative Folkeparti,Inuit Ataqatigiit,67,18,18.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Liberal Alliance,67,4514,3962.0,0.8777137793531237,forsvar_sikkerhed
+Det Konservative Folkeparti,Radikale Venstre,67,8820,5743.0,0.6511337868480725,forsvar_sikkerhed
+Det Konservative Folkeparti,Sambandsflokkurin,67,68,68.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Siumut,67,106,106.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Socialdemokratiet,67,54534,38745.0,0.7104741995819122,forsvar_sikkerhed
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,27758,16169.0,0.5824987391022408,forsvar_sikkerhed
+Det Konservative Folkeparti,Tjóðveldi,67,16,8.0,0.5,forsvar_sikkerhed
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,67,1792,1787.0,0.9972098214285714,forsvar_sikkerhed
+Det Konservative Folkeparti,Venstre,67,57273,57031.0,0.9957746232954446,forsvar_sikkerhed
+Enhedslisten,Enhedslisten,67,196,195.0,0.9948979591836735,forsvar_sikkerhed
 Enhedslisten,Inuit Ataqatigiit,67,4,2.0,0.5,forsvar_sikkerhed
-Enhedslisten,Liberal Alliance,67,1042,423.0,0.4059500959692898,forsvar_sikkerhed
-Enhedslisten,Radikale Venstre,67,1997,1274.0,0.6379569354031046,forsvar_sikkerhed
+Enhedslisten,Liberal Alliance,67,935,370.0,0.39572192513368987,forsvar_sikkerhed
+Enhedslisten,Radikale Venstre,67,1793,1103.0,0.615170105967652,forsvar_sikkerhed
 Enhedslisten,Sambandsflokkurin,67,14,7.0,0.5,forsvar_sikkerhed
 Enhedslisten,Siumut,67,21,15.0,0.7142857142857143,forsvar_sikkerhed
-Enhedslisten,Socialdemokratiet,67,12701,7682.0,0.6048342650185025,forsvar_sikkerhed
-Enhedslisten,Socialistisk Folkeparti,67,5810,4030.0,0.693631669535284,forsvar_sikkerhed
+Enhedslisten,Socialdemokratiet,67,11148,6415.0,0.5754395407247936,forsvar_sikkerhed
+Enhedslisten,Socialistisk Folkeparti,67,5660,3758.0,0.6639575971731448,forsvar_sikkerhed
 Enhedslisten,Tjóðveldi,67,4,2.0,0.5,forsvar_sikkerhed
-Enhedslisten,Venstre,67,12671,4486.0,0.3540367768921159,forsvar_sikkerhed
+Enhedslisten,Uden for Folketingsgrupperne,67,368,120.0,0.32608695652173914,forsvar_sikkerhed
+Enhedslisten,Venstre,67,11690,3958.0,0.33857998289136015,forsvar_sikkerhed
 Inuit Ataqatigiit,Liberal Alliance,67,4,3.0,0.75,forsvar_sikkerhed
 Inuit Ataqatigiit,Radikale Venstre,67,10,10.0,1.0,forsvar_sikkerhed
 Inuit Ataqatigiit,Sambandsflokkurin,67,1,1.0,1.0,forsvar_sikkerhed
-Inuit Ataqatigiit,Socialdemokratiet,67,58,58.0,1.0,forsvar_sikkerhed
-Inuit Ataqatigiit,Socialistisk Folkeparti,67,29,29.0,1.0,forsvar_sikkerhed
+Inuit Ataqatigiit,Socialdemokratiet,67,57,57.0,1.0,forsvar_sikkerhed
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,30,30.0,1.0,forsvar_sikkerhed
 Inuit Ataqatigiit,Tjóðveldi,67,1,1.0,1.0,forsvar_sikkerhed
-Inuit Ataqatigiit,Venstre,67,66,66.0,1.0,forsvar_sikkerhed
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,67,2,2.0,1.0,forsvar_sikkerhed
+Inuit Ataqatigiit,Venstre,67,67,67.0,1.0,forsvar_sikkerhed
 Liberal Alliance,Liberal Alliance,67,426,339.0,0.795774647887324,forsvar_sikkerhed
 Liberal Alliance,Radikale Venstre,67,2072,1389.0,0.6703667953667953,forsvar_sikkerhed
 Liberal Alliance,Sambandsflokkurin,67,21,14.0,0.6666666666666666,forsvar_sikkerhed
 Liberal Alliance,Siumut,67,30,29.0,0.9666666666666667,forsvar_sikkerhed
-Liberal Alliance,Socialdemokratiet,67,13761,9509.0,0.6910108277014751,forsvar_sikkerhed
-Liberal Alliance,Socialistisk Folkeparti,67,6392,3948.0,0.6176470588235294,forsvar_sikkerhed
+Liberal Alliance,Socialdemokratiet,67,13373,9278.0,0.6937859866895985,forsvar_sikkerhed
+Liberal Alliance,Socialistisk Folkeparti,67,6887,4232.0,0.614491070132133,forsvar_sikkerhed
 Liberal Alliance,Tjóðveldi,67,4,2.0,0.5,forsvar_sikkerhed
-Liberal Alliance,Venstre,67,13719,12074.0,0.8800933012610248,forsvar_sikkerhed
+Liberal Alliance,Uden for Folketingsgrupperne,67,435,384.0,0.8827586206896552,forsvar_sikkerhed
+Liberal Alliance,Venstre,67,14028,12340.0,0.8796692329626461,forsvar_sikkerhed
 Radikale Venstre,Radikale Venstre,67,1686,1587.0,0.9412811387900356,forsvar_sikkerhed
 Radikale Venstre,Sambandsflokkurin,67,36,27.0,0.75,forsvar_sikkerhed
 Radikale Venstre,Siumut,67,47,47.0,1.0,forsvar_sikkerhed
-Radikale Venstre,Socialdemokratiet,67,26470,22718.0,0.8582546278806196,forsvar_sikkerhed
-Radikale Venstre,Socialistisk Folkeparti,67,12123,10211.0,0.8422832632186752,forsvar_sikkerhed
+Radikale Venstre,Socialdemokratiet,67,25739,22114.0,0.8591631376510354,forsvar_sikkerhed
+Radikale Venstre,Socialistisk Folkeparti,67,13058,10986.0,0.8413233266962782,forsvar_sikkerhed
 Radikale Venstre,Tjóðveldi,67,11,6.0,0.5454545454545454,forsvar_sikkerhed
-Radikale Venstre,Venstre,67,26422,17120.0,0.6479448944061766,forsvar_sikkerhed
-Sambandsflokkurin,Socialdemokratiet,67,219,188.0,0.8584474885844748,forsvar_sikkerhed
-Sambandsflokkurin,Socialistisk Folkeparti,67,94,55.0,0.5851063829787234,forsvar_sikkerhed
+Radikale Venstre,Uden for Folketingsgrupperne,67,849,535.0,0.6301531213191991,forsvar_sikkerhed
+Radikale Venstre,Venstre,67,27015,17461.0,0.6463446233573941,forsvar_sikkerhed
+Sambandsflokkurin,Socialdemokratiet,67,212,184.0,0.8679245283018868,forsvar_sikkerhed
+Sambandsflokkurin,Socialistisk Folkeparti,67,101,59.0,0.5841584158415841,forsvar_sikkerhed
 Sambandsflokkurin,Tjóðveldi,67,1,1.0,1.0,forsvar_sikkerhed
-Sambandsflokkurin,Venstre,67,212,212.0,1.0,forsvar_sikkerhed
-Siumut,Socialdemokratiet,67,321,321.0,1.0,forsvar_sikkerhed
-Siumut,Socialistisk Folkeparti,67,143,143.0,1.0,forsvar_sikkerhed
-Siumut,Venstre,67,324,324.0,1.0,forsvar_sikkerhed
-Socialdemokratiet,Socialdemokratiet,67,81932,81019.0,0.9888566128008592,forsvar_sikkerhed
-Socialdemokratiet,Socialistisk Folkeparti,67,77860,66945.0,0.8598124839455433,forsvar_sikkerhed
-Socialdemokratiet,Tjóðveldi,67,55,30.0,0.5454545454545454,forsvar_sikkerhed
-Socialdemokratiet,Venstre,67,169123,118624.0,0.7014066685193616,forsvar_sikkerhed
-Socialistisk Folkeparti,Socialistisk Folkeparti,67,16716,16504.0,0.9873175400813592,forsvar_sikkerhed
-Socialistisk Folkeparti,Tjóðveldi,67,24,13.0,0.5416666666666666,forsvar_sikkerhed
-Socialistisk Folkeparti,Venstre,67,77646,44984.0,0.5793472941297685,forsvar_sikkerhed
-Tjóðveldi,Venstre,67,64,35.0,0.546875,forsvar_sikkerhed
-Venstre,Venstre,67,81847,81819.0,0.9996578982736081,forsvar_sikkerhed
-Danmarksdemokraterne,Danmarksdemokraterne,68,88,74.0,0.8409090909090909,forsvar_sikkerhed
-Danmarksdemokraterne,Dansk Folkeparti,68,2843,2671.0,0.9395005276116778,forsvar_sikkerhed
-Danmarksdemokraterne,Det Konservative Folkeparti,68,1164,987.0,0.8479381443298969,forsvar_sikkerhed
-Danmarksdemokraterne,Enhedslisten,68,1968,881.0,0.4476626016260163,forsvar_sikkerhed
-Danmarksdemokraterne,Inuit Ataqatigiit,68,1,0.0,0.0,forsvar_sikkerhed
-Danmarksdemokraterne,Liberal Alliance,68,1176,814.0,0.6921768707482994,forsvar_sikkerhed
-Danmarksdemokraterne,Radikale Venstre,68,2468,1755.0,0.7111021069692058,forsvar_sikkerhed
-Danmarksdemokraterne,Siumut,68,1,0.0,0.0,forsvar_sikkerhed
-Danmarksdemokraterne,Socialdemokratiet,68,6735,4887.0,0.7256124721603563,forsvar_sikkerhed
-Danmarksdemokraterne,Socialistisk Folkeparti,68,2288,1635.0,0.7145979020979021,forsvar_sikkerhed
-Danmarksdemokraterne,Venstre,68,6549,5840.0,0.8917391968239425,forsvar_sikkerhed
-Dansk Folkeparti,Dansk Folkeparti,68,11891,11891.0,1.0,forsvar_sikkerhed
-Dansk Folkeparti,Det Konservative Folkeparti,68,10500,8506.0,0.8100952380952381,forsvar_sikkerhed
-Dansk Folkeparti,Enhedslisten,68,17591,7032.0,0.3997498720936843,forsvar_sikkerhed
-Dansk Folkeparti,Inuit Ataqatigiit,68,12,0.0,0.0,forsvar_sikkerhed
-Dansk Folkeparti,Liberal Alliance,68,10580,6901.0,0.6522684310018904,forsvar_sikkerhed
-Dansk Folkeparti,Radikale Venstre,68,22157,15085.0,0.680823216139369,forsvar_sikkerhed
-Dansk Folkeparti,Siumut,68,12,0.0,0.0,forsvar_sikkerhed
-Dansk Folkeparti,Socialdemokratiet,68,60786,42363.0,0.6969203435001481,forsvar_sikkerhed
-Dansk Folkeparti,Socialistisk Folkeparti,68,20450,14150.0,0.6919315403422983,forsvar_sikkerhed
-Dansk Folkeparti,Venstre,68,58679,49438.0,0.8425160619642461,forsvar_sikkerhed
-Det Konservative Folkeparti,Det Konservative Folkeparti,68,1719,1719.0,1.0,forsvar_sikkerhed
-Det Konservative Folkeparti,Enhedslisten,68,7152,3366.0,0.47063758389261745,forsvar_sikkerhed
-Det Konservative Folkeparti,Inuit Ataqatigiit,68,5,5.0,1.0,forsvar_sikkerhed
-Det Konservative Folkeparti,Liberal Alliance,68,4294,3074.0,0.7158826269212856,forsvar_sikkerhed
-Det Konservative Folkeparti,Radikale Venstre,68,8991,7379.0,0.8207095984873762,forsvar_sikkerhed
-Det Konservative Folkeparti,Siumut,68,5,5.0,1.0,forsvar_sikkerhed
-Det Konservative Folkeparti,Socialdemokratiet,68,24701,20549.0,0.8319096392858589,forsvar_sikkerhed
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,8302,6685.0,0.8052276559865092,forsvar_sikkerhed
-Det Konservative Folkeparti,Venstre,68,23870,22669.0,0.9496857980728949,forsvar_sikkerhed
-Enhedslisten,Enhedslisten,68,5301,5039.0,0.9505753631390303,forsvar_sikkerhed
+Sambandsflokkurin,Uden for Folketingsgrupperne,67,7,7.0,1.0,forsvar_sikkerhed
+Sambandsflokkurin,Venstre,67,219,219.0,1.0,forsvar_sikkerhed
+Siumut,Socialdemokratiet,67,310,310.0,1.0,forsvar_sikkerhed
+Siumut,Socialistisk Folkeparti,67,154,154.0,1.0,forsvar_sikkerhed
+Siumut,Uden for Folketingsgrupperne,67,9,9.0,1.0,forsvar_sikkerhed
+Siumut,Venstre,67,331,331.0,1.0,forsvar_sikkerhed
+Socialdemokratiet,Socialdemokratiet,67,77386,77239.0,0.9981004316026154,forsvar_sikkerhed
+Socialdemokratiet,Socialistisk Folkeparti,67,81475,69630.0,0.8546179809757595,forsvar_sikkerhed
+Socialdemokratiet,Tjóðveldi,67,54,29.0,0.5370370370370371,forsvar_sikkerhed
+Socialdemokratiet,Uden for Folketingsgrupperne,67,5289,3672.0,0.6942711287577992,forsvar_sikkerhed
+Socialdemokratiet,Venstre,67,168143,118539.0,0.7049892056166477,forsvar_sikkerhed
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,19435,19199.0,0.9878569590944173,forsvar_sikkerhed
+Socialistisk Folkeparti,Tjóðveldi,67,25,14.0,0.56,forsvar_sikkerhed
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,67,2684,1517.0,0.5652011922503726,forsvar_sikkerhed
+Socialistisk Folkeparti,Venstre,67,85440,49040.0,0.5739700374531835,forsvar_sikkerhed
+Tjóðveldi,Uden for Folketingsgrupperne,67,2,1.0,0.5,forsvar_sikkerhed
+Tjóðveldi,Venstre,67,65,36.0,0.5538461538461539,forsvar_sikkerhed
+Uden for Folketingsgrupperne,Venstre,67,5570,5569.0,0.9998204667863555,forsvar_sikkerhed
+Venstre,Venstre,67,85615,85586.0,0.9996612743094084,forsvar_sikkerhed
+Dansk Folkeparti,Dansk Folkeparti,68,13855,13855.0,1.0,forsvar_sikkerhed
+Dansk Folkeparti,Det Konservative Folkeparti,68,9520,7687.0,0.8074579831932773,forsvar_sikkerhed
+Dansk Folkeparti,Enhedslisten,68,18119,6899.0,0.3807605276229373,forsvar_sikkerhed
+Dansk Folkeparti,Inuit Ataqatigiit,68,13,0.0,0.0,forsvar_sikkerhed
+Dansk Folkeparti,Liberal Alliance,68,11390,7455.0,0.654521510096576,forsvar_sikkerhed
+Dansk Folkeparti,Radikale Venstre,68,23853,16228.0,0.6803337106443634,forsvar_sikkerhed
+Dansk Folkeparti,Siumut,68,13,0.0,0.0,forsvar_sikkerhed
+Dansk Folkeparti,Socialdemokratiet,68,63600,44300.0,0.6965408805031447,forsvar_sikkerhed
+Dansk Folkeparti,Socialistisk Folkeparti,68,24678,17174.0,0.6959234946105843,forsvar_sikkerhed
+Dansk Folkeparti,Uden for Folketingsgrupperne,68,1784,1470.0,0.8239910313901345,forsvar_sikkerhed
+Dansk Folkeparti,Venstre,68,64166,54031.0,0.8420503070161768,forsvar_sikkerhed
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,1182,1182.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Enhedslisten,68,5751,2610.0,0.4538341158059468,forsvar_sikkerhed
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,4,4.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Liberal Alliance,68,3614,2585.0,0.7152739346983952,forsvar_sikkerhed
+Det Konservative Folkeparti,Radikale Venstre,68,7568,6239.0,0.8243921775898521,forsvar_sikkerhed
+Det Konservative Folkeparti,Siumut,68,4,4.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Socialdemokratiet,68,20188,16867.0,0.8354963344561125,forsvar_sikkerhed
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,7841,6347.0,0.8094630786889427,forsvar_sikkerhed
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,68,537,537.0,1.0,forsvar_sikkerhed
+Det Konservative Folkeparti,Venstre,68,20400,19372.0,0.9496078431372549,forsvar_sikkerhed
+Enhedslisten,Enhedslisten,68,4797,4797.0,1.0,forsvar_sikkerhed
 Enhedslisten,Inuit Ataqatigiit,68,8,8.0,1.0,forsvar_sikkerhed
-Enhedslisten,Liberal Alliance,68,7206,2780.0,0.38578961976131004,forsvar_sikkerhed
-Enhedslisten,Radikale Venstre,68,15053,9869.0,0.6556168205673287,forsvar_sikkerhed
+Enhedslisten,Liberal Alliance,68,6889,2623.0,0.3807519233560749,forsvar_sikkerhed
+Enhedslisten,Radikale Venstre,68,14427,9289.0,0.6438622028141678,forsvar_sikkerhed
 Enhedslisten,Siumut,68,8,8.0,1.0,forsvar_sikkerhed
-Enhedslisten,Socialdemokratiet,68,41417,26265.0,0.6341598860371345,forsvar_sikkerhed
-Enhedslisten,Socialistisk Folkeparti,68,13908,9133.0,0.6566724187517975,forsvar_sikkerhed
-Enhedslisten,Venstre,68,39963,18971.0,0.4747141105522608,forsvar_sikkerhed
+Enhedslisten,Socialdemokratiet,68,38496,23893.0,0.6206618869492935,forsvar_sikkerhed
+Enhedslisten,Socialistisk Folkeparti,68,14930,9465.0,0.6339584728734092,forsvar_sikkerhed
+Enhedslisten,Uden for Folketingsgrupperne,68,1081,496.0,0.4588344125809436,forsvar_sikkerhed
+Enhedslisten,Venstre,68,38800,17820.0,0.4592783505154639,forsvar_sikkerhed
 Inuit Ataqatigiit,Liberal Alliance,68,5,5.0,1.0,forsvar_sikkerhed
 Inuit Ataqatigiit,Radikale Venstre,68,10,10.0,1.0,forsvar_sikkerhed
 Inuit Ataqatigiit,Siumut,68,1,1.0,1.0,forsvar_sikkerhed
-Inuit Ataqatigiit,Socialdemokratiet,68,29,29.0,1.0,forsvar_sikkerhed
-Inuit Ataqatigiit,Socialistisk Folkeparti,68,8,8.0,1.0,forsvar_sikkerhed
+Inuit Ataqatigiit,Socialdemokratiet,68,28,28.0,1.0,forsvar_sikkerhed
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,9,9.0,1.0,forsvar_sikkerhed
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,68,1,1.0,1.0,forsvar_sikkerhed
 Inuit Ataqatigiit,Venstre,68,26,26.0,1.0,forsvar_sikkerhed
 Liberal Alliance,Liberal Alliance,68,1736,1732.0,0.9976958525345622,forsvar_sikkerhed
 Liberal Alliance,Radikale Venstre,68,9077,5590.0,0.6158422386250963,forsvar_sikkerhed
 Liberal Alliance,Siumut,68,5,5.0,1.0,forsvar_sikkerhed
-Liberal Alliance,Socialdemokratiet,68,24891,15477.0,0.6217910087983608,forsvar_sikkerhed
-Liberal Alliance,Socialistisk Folkeparti,68,8367,5095.0,0.6089398828731923,forsvar_sikkerhed
-Liberal Alliance,Venstre,68,24035,17289.0,0.7193259829415436,forsvar_sikkerhed
+Liberal Alliance,Socialdemokratiet,68,24195,15022.0,0.6208720810084728,forsvar_sikkerhed
+Liberal Alliance,Socialistisk Folkeparti,68,9380,5707.0,0.6084221748400853,forsvar_sikkerhed
+Liberal Alliance,Uden for Folketingsgrupperne,68,680,489.0,0.7191176470588235,forsvar_sikkerhed
+Liberal Alliance,Venstre,68,24401,17549.0,0.7191918364001475,forsvar_sikkerhed
 Radikale Venstre,Radikale Venstre,68,8697,8603.0,0.98919167529033,forsvar_sikkerhed
 Radikale Venstre,Siumut,68,10,10.0,1.0,forsvar_sikkerhed
-Radikale Venstre,Socialdemokratiet,68,52086,51796.0,0.9944322850670045,forsvar_sikkerhed
-Radikale Venstre,Socialistisk Folkeparti,68,17544,17080.0,0.9735522115823073,forsvar_sikkerhed
-Radikale Venstre,Venstre,68,50436,41048.0,0.8138631136489809,forsvar_sikkerhed
-Siumut,Socialdemokratiet,68,29,29.0,1.0,forsvar_sikkerhed
-Siumut,Socialistisk Folkeparti,68,8,8.0,1.0,forsvar_sikkerhed
+Radikale Venstre,Socialdemokratiet,68,50654,50371.0,0.9944130769534489,forsvar_sikkerhed
+Radikale Venstre,Socialistisk Folkeparti,68,19602,19085.0,0.9736251402918069,forsvar_sikkerhed
+Radikale Venstre,Uden for Folketingsgrupperne,68,1423,1140.0,0.8011243851018974,forsvar_sikkerhed
+Radikale Venstre,Venstre,68,51208,41660.0,0.8135447586314638,forsvar_sikkerhed
+Siumut,Socialdemokratiet,68,28,28.0,1.0,forsvar_sikkerhed
+Siumut,Socialistisk Folkeparti,68,9,9.0,1.0,forsvar_sikkerhed
+Siumut,Uden for Folketingsgrupperne,68,1,1.0,1.0,forsvar_sikkerhed
 Siumut,Venstre,68,26,26.0,1.0,forsvar_sikkerhed
-Socialdemokratiet,Socialdemokratiet,68,69210,69185.0,0.9996387805230458,forsvar_sikkerhed
-Socialdemokratiet,Socialistisk Folkeparti,68,48070,47003.0,0.9778032036613272,forsvar_sikkerhed
-Socialdemokratiet,Venstre,68,138088,114034.0,0.8258067319390534,forsvar_sikkerhed
-Socialistisk Folkeparti,Socialistisk Folkeparti,68,7339,7235.0,0.9858291320343371,forsvar_sikkerhed
-Socialistisk Folkeparti,Venstre,68,46502,37121.0,0.7982667412154316,forsvar_sikkerhed
-Venstre,Venstre,68,64519,64495.0,0.9996280165532634,forsvar_sikkerhed
+Socialdemokratiet,Socialdemokratiet,68,65346,65322.0,0.999632724267744,forsvar_sikkerhed
+Socialdemokratiet,Socialistisk Folkeparti,68,52355,51209.0,0.9781109731639767,forsvar_sikkerhed
+Socialdemokratiet,Uden for Folketingsgrupperne,68,3827,3108.0,0.8121243794094591,forsvar_sikkerhed
+Socialdemokratiet,Venstre,68,136273,112411.0,0.8248956139514063,forsvar_sikkerhed
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,9321,9174.0,0.9842291599613775,forsvar_sikkerhed
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,68,1467,1172.0,0.7989093387866394,forsvar_sikkerhed
+Socialistisk Folkeparti,Venstre,68,52901,42470.0,0.8028203625640347,forsvar_sikkerhed
+Uden for Folketingsgrupperne,Venstre,68,3830,3633.0,0.9485639686684073,forsvar_sikkerhed
+Venstre,Venstre,68,66548,66523.0,0.9996243313097313,forsvar_sikkerhed
 Alternativet,Alternativet,69,2911,2911.0,1.0,forsvar_sikkerhed
-Alternativet,Danmarksdemokraterne,69,1869,1014.0,0.5425361155698234,forsvar_sikkerhed
-Alternativet,Dansk Folkeparti,69,29216,14767.0,0.5054422234392114,forsvar_sikkerhed
+Alternativet,Dansk Folkeparti,69,30214,15275.0,0.5055603362679553,forsvar_sikkerhed
 Alternativet,Det Konservative Folkeparti,69,5339,2824.0,0.5289380033714178,forsvar_sikkerhed
 Alternativet,Enhedslisten,69,12010,9432.0,0.7853455453788509,forsvar_sikkerhed
 Alternativet,Inuit Ataqatigiit,69,39,15.0,0.38461538461538464,forsvar_sikkerhed
@@ -286,30 +272,18 @@ Alternativet,Siumut,69,6,6.0,1.0,forsvar_sikkerhed
 Alternativet,Socialdemokratiet,69,39262,23502.0,0.5985940604146504,forsvar_sikkerhed
 Alternativet,Socialistisk Folkeparti,69,5290,4515.0,0.8534971644612477,forsvar_sikkerhed
 Alternativet,Tjóðveldi,69,5,0.0,0.0,forsvar_sikkerhed
-Alternativet,Venstre,69,25591,14145.0,0.5527333828299011,forsvar_sikkerhed
-Danmarksdemokraterne,Danmarksdemokraterne,69,121,104.0,0.859504132231405,forsvar_sikkerhed
-Danmarksdemokraterne,Dansk Folkeparti,69,7692,7246.0,0.9420176807072282,forsvar_sikkerhed
-Danmarksdemokraterne,Det Konservative Folkeparti,69,1412,1276.0,0.9036827195467422,forsvar_sikkerhed
-Danmarksdemokraterne,Enhedslisten,69,3187,1338.0,0.4198305616567305,forsvar_sikkerhed
-Danmarksdemokraterne,Inuit Ataqatigiit,69,11,5.0,0.45454545454545453,forsvar_sikkerhed
-Danmarksdemokraterne,Liberal Alliance,69,2839,2507.0,0.8830574145825995,forsvar_sikkerhed
-Danmarksdemokraterne,Radikale Venstre,69,1707,1210.0,0.7088459285295841,forsvar_sikkerhed
-Danmarksdemokraterne,Siumut,69,2,1.0,0.5,forsvar_sikkerhed
-Danmarksdemokraterne,Socialdemokratiet,69,10388,8468.0,0.8151713515594917,forsvar_sikkerhed
-Danmarksdemokraterne,Socialistisk Folkeparti,69,1408,763.0,0.5419034090909091,forsvar_sikkerhed
-Danmarksdemokraterne,Tjóðveldi,69,1,0.0,0.0,forsvar_sikkerhed
-Danmarksdemokraterne,Venstre,69,6697,6111.0,0.9124981334926087,forsvar_sikkerhed
-Dansk Folkeparti,Dansk Folkeparti,69,57983,57941.0,0.9992756497594122,forsvar_sikkerhed
-Dansk Folkeparti,Det Konservative Folkeparti,69,22186,19157.0,0.8634724601099792,forsvar_sikkerhed
-Dansk Folkeparti,Enhedslisten,69,49884,20314.0,0.407224761446556,forsvar_sikkerhed
-Dansk Folkeparti,Inuit Ataqatigiit,69,152,67.0,0.4407894736842105,forsvar_sikkerhed
-Dansk Folkeparti,Liberal Alliance,69,44637,37313.0,0.8359208728185138,forsvar_sikkerhed
-Dansk Folkeparti,Radikale Venstre,69,26743,18037.0,0.6744568672175897,forsvar_sikkerhed
-Dansk Folkeparti,Siumut,69,22,0.0,0.0,forsvar_sikkerhed
-Dansk Folkeparti,Socialdemokratiet,69,163126,126383.0,0.7747569363559457,forsvar_sikkerhed
-Dansk Folkeparti,Socialistisk Folkeparti,69,22000,11142.0,0.5064545454545455,forsvar_sikkerhed
-Dansk Folkeparti,Tjóðveldi,69,22,0.0,0.0,forsvar_sikkerhed
-Dansk Folkeparti,Venstre,69,105845,90507.0,0.8550899900798338,forsvar_sikkerhed
+Alternativet,Venstre,69,26462,14651.0,0.5536618547350919,forsvar_sikkerhed
+Dansk Folkeparti,Dansk Folkeparti,69,62096,62053.0,0.9993075238340634,forsvar_sikkerhed
+Dansk Folkeparti,Det Konservative Folkeparti,69,22956,19806.0,0.8627809722948249,forsvar_sikkerhed
+Dansk Folkeparti,Enhedslisten,69,51598,20990.0,0.4067987131284158,forsvar_sikkerhed
+Dansk Folkeparti,Inuit Ataqatigiit,69,159,70.0,0.44025157232704404,forsvar_sikkerhed
+Dansk Folkeparti,Liberal Alliance,69,46167,38571.0,0.8354668919357983,forsvar_sikkerhed
+Dansk Folkeparti,Radikale Venstre,69,27661,18628.0,0.6734391381367268,forsvar_sikkerhed
+Dansk Folkeparti,Siumut,69,23,0.0,0.0,forsvar_sikkerhed
+Dansk Folkeparti,Socialdemokratiet,69,168701,130508.0,0.7736053728193668,forsvar_sikkerhed
+Dansk Folkeparti,Socialistisk Folkeparti,69,22753,11513.0,0.5059992088955303,forsvar_sikkerhed
+Dansk Folkeparti,Tjóðveldi,69,23,0.0,0.0,forsvar_sikkerhed
+Dansk Folkeparti,Venstre,69,113142,96757.0,0.8551819837018967,forsvar_sikkerhed
 Det Konservative Folkeparti,Det Konservative Folkeparti,69,1553,1548.0,0.9967804249839022,forsvar_sikkerhed
 Det Konservative Folkeparti,Enhedslisten,69,9122,3605.0,0.39519842139881606,forsvar_sikkerhed
 Det Konservative Folkeparti,Inuit Ataqatigiit,69,28,12.0,0.42857142857142855,forsvar_sikkerhed
@@ -319,7 +293,7 @@ Det Konservative Folkeparti,Siumut,69,4,4.0,1.0,forsvar_sikkerhed
 Det Konservative Folkeparti,Socialdemokratiet,69,29775,26498.0,0.8899412258606213,forsvar_sikkerhed
 Det Konservative Folkeparti,Socialistisk Folkeparti,69,4020,2188.0,0.5442786069651742,forsvar_sikkerhed
 Det Konservative Folkeparti,Tjóðveldi,69,4,0.0,0.0,forsvar_sikkerhed
-Det Konservative Folkeparti,Venstre,69,19280,18813.0,0.9757780082987552,forsvar_sikkerhed
+Det Konservative Folkeparti,Venstre,69,19922,19440.0,0.9758056420038149,forsvar_sikkerhed
 Enhedslisten,Enhedslisten,69,9115,9107.0,0.9991223258365332,forsvar_sikkerhed
 Enhedslisten,Inuit Ataqatigiit,69,62,44.0,0.7096774193548387,forsvar_sikkerhed
 Enhedslisten,Liberal Alliance,69,18344,7326.0,0.39936764064544267,forsvar_sikkerhed
@@ -328,40 +302,39 @@ Enhedslisten,Siumut,69,9,9.0,1.0,forsvar_sikkerhed
 Enhedslisten,Socialdemokratiet,69,67059,31033.0,0.4627715891975723,forsvar_sikkerhed
 Enhedslisten,Socialistisk Folkeparti,69,9038,7083.0,0.7836910820978092,forsvar_sikkerhed
 Enhedslisten,Tjóðveldi,69,9,0.0,0.0,forsvar_sikkerhed
-Enhedslisten,Venstre,69,43495,17614.0,0.4049660880560984,forsvar_sikkerhed
+Enhedslisten,Venstre,69,44968,18276.0,0.40642234477850914,forsvar_sikkerhed
 Inuit Ataqatigiit,Liberal Alliance,69,56,24.0,0.42857142857142855,forsvar_sikkerhed
 Inuit Ataqatigiit,Radikale Venstre,69,34,15.0,0.4411764705882353,forsvar_sikkerhed
 Inuit Ataqatigiit,Socialdemokratiet,69,195,84.0,0.4307692307692308,forsvar_sikkerhed
 Inuit Ataqatigiit,Socialistisk Folkeparti,69,27,11.0,0.4074074074074074,forsvar_sikkerhed
-Inuit Ataqatigiit,Venstre,69,135,56.0,0.4148148148148148,forsvar_sikkerhed
+Inuit Ataqatigiit,Venstre,69,139,58.0,0.4172661870503597,forsvar_sikkerhed
 Liberal Alliance,Liberal Alliance,69,7209,7161.0,0.9933416562630045,forsvar_sikkerhed
 Liberal Alliance,Radikale Venstre,69,9844,7711.0,0.7833197887037789,forsvar_sikkerhed
 Liberal Alliance,Siumut,69,8,8.0,1.0,forsvar_sikkerhed
 Liberal Alliance,Socialdemokratiet,69,60001,52790.0,0.8798186696888385,forsvar_sikkerhed
 Liberal Alliance,Socialistisk Folkeparti,69,8091,4528.0,0.5596341614139168,forsvar_sikkerhed
 Liberal Alliance,Tjóðveldi,69,8,0.0,0.0,forsvar_sikkerhed
-Liberal Alliance,Venstre,69,38948,37610.0,0.9656465030296806,forsvar_sikkerhed
+Liberal Alliance,Venstre,69,40257,38859.0,0.9652731202026976,forsvar_sikkerhed
 Radikale Venstre,Radikale Venstre,69,2360,2340.0,0.9915254237288136,forsvar_sikkerhed
 Radikale Venstre,Siumut,69,5,5.0,1.0,forsvar_sikkerhed
 Radikale Venstre,Socialdemokratiet,69,35901,29923.0,0.833486532408568,forsvar_sikkerhed
 Radikale Venstre,Socialistisk Folkeparti,69,4854,3503.0,0.7216728471363824,forsvar_sikkerhed
 Radikale Venstre,Tjóðveldi,69,5,0.0,0.0,forsvar_sikkerhed
-Radikale Venstre,Venstre,69,23339,18955.0,0.8121599040233086,forsvar_sikkerhed
+Radikale Venstre,Venstre,69,24128,19574.0,0.8112566312997348,forsvar_sikkerhed
 Siumut,Socialdemokratiet,69,30,30.0,1.0,forsvar_sikkerhed
 Siumut,Socialistisk Folkeparti,69,4,4.0,1.0,forsvar_sikkerhed
-Siumut,Venstre,69,21,21.0,1.0,forsvar_sikkerhed
+Siumut,Venstre,69,22,22.0,1.0,forsvar_sikkerhed
 Socialdemokratiet,Socialdemokratiet,69,106183,104276.0,0.9820404396183947,forsvar_sikkerhed
 Socialdemokratiet,Socialistisk Folkeparti,69,29544,18580.0,0.6288924993230436,forsvar_sikkerhed
 Socialdemokratiet,Tjóðveldi,69,29,0.0,0.0,forsvar_sikkerhed
-Socialdemokratiet,Venstre,69,142653,130069.0,0.9117859421112771,forsvar_sikkerhed
+Socialdemokratiet,Venstre,69,147466,134412.0,0.9114778999905063,forsvar_sikkerhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,69,1503,1503.0,1.0,forsvar_sikkerhed
 Socialistisk Folkeparti,Tjóðveldi,69,4,0.0,0.0,forsvar_sikkerhed
-Socialistisk Folkeparti,Venstre,69,19164,10900.0,0.5687747860571906,forsvar_sikkerhed
+Socialistisk Folkeparti,Venstre,69,19819,11292.0,0.5697562944649074,forsvar_sikkerhed
 Tjóðveldi,Venstre,69,19,0.0,0.0,forsvar_sikkerhed
-Venstre,Venstre,69,44068,44031.0,0.9991603884905147,forsvar_sikkerhed
+Venstre,Venstre,69,47168,47130.0,0.999194369063772,forsvar_sikkerhed
 Alternativet,Alternativet,70,655,544.0,0.8305343511450382,forsvar_sikkerhed
-Alternativet,Danmarksdemokraterne,70,910,436.0,0.47912087912087914,forsvar_sikkerhed
-Alternativet,Dansk Folkeparti,70,5017,2394.0,0.47717759617301175,forsvar_sikkerhed
+Alternativet,Dansk Folkeparti,70,5669,2705.0,0.4771564649850062,forsvar_sikkerhed
 Alternativet,Det Konservative Folkeparti,70,3968,2249.0,0.5667842741935484,forsvar_sikkerhed
 Alternativet,Enhedslisten,70,4660,3760.0,0.8068669527896996,forsvar_sikkerhed
 Alternativet,Liberal Alliance,70,1254,621.0,0.49521531100478466,forsvar_sikkerhed
@@ -370,28 +343,17 @@ Alternativet,Radikale Venstre,70,5601,4086.0,0.7295125870380289,forsvar_sikkerhe
 Alternativet,Sambandsflokkurin,70,19,13.0,0.6842105263157895,forsvar_sikkerhed
 Alternativet,Socialdemokratiet,70,17737,11493.0,0.6479675255116424,forsvar_sikkerhed
 Alternativet,Socialistisk Folkeparti,70,5045,3587.0,0.7110009910802775,forsvar_sikkerhed
-Alternativet,Venstre,70,15363,8287.0,0.5394128750895008,forsvar_sikkerhed
-Danmarksdemokraterne,Danmarksdemokraterne,70,106,98.0,0.9245283018867925,forsvar_sikkerhed
-Danmarksdemokraterne,Dansk Folkeparti,70,2405,2335.0,0.9708939708939709,forsvar_sikkerhed
-Danmarksdemokraterne,Det Konservative Folkeparti,70,1971,1529.0,0.7757483510908169,forsvar_sikkerhed
-Danmarksdemokraterne,Enhedslisten,70,2273,1158.0,0.5094588649362076,forsvar_sikkerhed
-Danmarksdemokraterne,Liberal Alliance,70,603,425.0,0.7048092868988391,forsvar_sikkerhed
-Danmarksdemokraterne,Nye Borgerlige,70,694,520.0,0.7492795389048992,forsvar_sikkerhed
-Danmarksdemokraterne,Radikale Venstre,70,2750,1599.0,0.5814545454545454,forsvar_sikkerhed
-Danmarksdemokraterne,Sambandsflokkurin,70,6,5.0,0.8333333333333334,forsvar_sikkerhed
-Danmarksdemokraterne,Socialdemokratiet,70,8560,5518.0,0.6446261682242991,forsvar_sikkerhed
-Danmarksdemokraterne,Socialistisk Folkeparti,70,2474,1401.0,0.5662894098625707,forsvar_sikkerhed
-Danmarksdemokraterne,Venstre,70,7396,5660.0,0.7652785289345592,forsvar_sikkerhed
-Dansk Folkeparti,Dansk Folkeparti,70,6085,6037.0,0.9921117502054232,forsvar_sikkerhed
-Dansk Folkeparti,Det Konservative Folkeparti,70,10934,8045.0,0.7357783062008414,forsvar_sikkerhed
-Dansk Folkeparti,Enhedslisten,70,12722,6401.0,0.5031441597233139,forsvar_sikkerhed
-Dansk Folkeparti,Liberal Alliance,70,3388,2307.0,0.6809327036599764,forsvar_sikkerhed
-Dansk Folkeparti,Nye Borgerlige,70,3781,2982.0,0.7886802433218725,forsvar_sikkerhed
-Dansk Folkeparti,Radikale Venstre,70,15354,8668.0,0.5645434414484825,forsvar_sikkerhed
-Dansk Folkeparti,Sambandsflokkurin,70,42,36.0,0.8571428571428571,forsvar_sikkerhed
-Dansk Folkeparti,Socialdemokratiet,70,48566,29393.0,0.6052176419717498,forsvar_sikkerhed
-Dansk Folkeparti,Socialistisk Folkeparti,70,13928,7773.0,0.5580844342331993,forsvar_sikkerhed
-Dansk Folkeparti,Venstre,70,42016,30843.0,0.7340774942878904,forsvar_sikkerhed
+Alternativet,Venstre,70,15621,8412.0,0.5385058574995198,forsvar_sikkerhed
+Dansk Folkeparti,Dansk Folkeparti,70,7835,7772.0,0.991959157626037,forsvar_sikkerhed
+Dansk Folkeparti,Det Konservative Folkeparti,70,12353,9111.0,0.7375536306969966,forsvar_sikkerhed
+Dansk Folkeparti,Enhedslisten,70,14382,7255.0,0.5044500069531359,forsvar_sikkerhed
+Dansk Folkeparti,Liberal Alliance,70,3814,2603.0,0.6824855794441531,forsvar_sikkerhed
+Dansk Folkeparti,Nye Borgerlige,70,4264,3337.0,0.7825984990619137,forsvar_sikkerhed
+Dansk Folkeparti,Radikale Venstre,70,17351,9775.0,0.5633681055846925,forsvar_sikkerhed
+Dansk Folkeparti,Sambandsflokkurin,70,47,40.0,0.851063829787234,forsvar_sikkerhed
+Dansk Folkeparti,Socialdemokratiet,70,54699,33135.0,0.6057697581308616,forsvar_sikkerhed
+Dansk Folkeparti,Socialistisk Folkeparti,70,15723,8724.0,0.5548559435222286,forsvar_sikkerhed
+Dansk Folkeparti,Venstre,70,48128,35465.0,0.7368891289893617,forsvar_sikkerhed
 Det Konservative Folkeparti,Det Konservative Folkeparti,70,3794,3753.0,0.989193463363205,forsvar_sikkerhed
 Det Konservative Folkeparti,Enhedslisten,70,10194,5157.0,0.5058858151854032,forsvar_sikkerhed
 Det Konservative Folkeparti,Liberal Alliance,70,2667,2159.0,0.8095238095238095,forsvar_sikkerhed
@@ -400,7 +362,7 @@ Det Konservative Folkeparti,Radikale Venstre,70,12277,9300.0,0.7575140506638429,
 Det Konservative Folkeparti,Sambandsflokkurin,70,31,31.0,1.0,forsvar_sikkerhed
 Det Konservative Folkeparti,Socialdemokratiet,70,38660,31546.0,0.8159855147439213,forsvar_sikkerhed
 Det Konservative Folkeparti,Socialistisk Folkeparti,70,11142,8453.0,0.7586609226350745,forsvar_sikkerhed
-Det Konservative Folkeparti,Venstre,70,33294,31845.0,0.956478644800865,forsvar_sikkerhed
+Det Konservative Folkeparti,Venstre,70,33846,32308.0,0.9545588843585653,forsvar_sikkerhed
 Enhedslisten,Enhedslisten,70,5163,5128.0,0.9932209955452257,forsvar_sikkerhed
 Enhedslisten,Liberal Alliance,70,3128,1522.0,0.48657289002557547,forsvar_sikkerhed
 Enhedslisten,Nye Borgerlige,70,3515,1479.0,0.42076813655761025,forsvar_sikkerhed
@@ -408,34 +370,34 @@ Enhedslisten,Radikale Venstre,70,14354,10123.0,0.705238957781803,forsvar_sikkerh
 Enhedslisten,Sambandsflokkurin,70,40,32.0,0.8,forsvar_sikkerhed
 Enhedslisten,Socialdemokratiet,70,45218,29117.0,0.6439249856251935,forsvar_sikkerhed
 Enhedslisten,Socialistisk Folkeparti,70,13010,9116.0,0.7006917755572637,forsvar_sikkerhed
-Enhedslisten,Venstre,70,39181,18925.0,0.4830147265256119,forsvar_sikkerhed
+Enhedslisten,Venstre,70,39794,19229.0,0.4832135497813741,forsvar_sikkerhed
 Liberal Alliance,Liberal Alliance,70,221,218.0,0.9864253393665159,forsvar_sikkerhed
 Liberal Alliance,Nye Borgerlige,70,925,605.0,0.654054054054054,forsvar_sikkerhed
 Liberal Alliance,Radikale Venstre,70,3775,2625.0,0.695364238410596,forsvar_sikkerhed
 Liberal Alliance,Sambandsflokkurin,70,10,10.0,1.0,forsvar_sikkerhed
 Liberal Alliance,Socialdemokratiet,70,11980,8721.0,0.7279632721202003,forsvar_sikkerhed
 Liberal Alliance,Socialistisk Folkeparti,70,3420,2287.0,0.6687134502923977,forsvar_sikkerhed
-Liberal Alliance,Venstre,70,10357,8734.0,0.843294390267452,forsvar_sikkerhed
+Liberal Alliance,Venstre,70,10534,8863.0,0.8413707993164989,forsvar_sikkerhed
 Nye Borgerlige,Nye Borgerlige,70,306,306.0,1.0,forsvar_sikkerhed
 Nye Borgerlige,Radikale Venstre,70,4245,1939.0,0.4567726737338045,forsvar_sikkerhed
 Nye Borgerlige,Sambandsflokkurin,70,11,9.0,0.8181818181818182,forsvar_sikkerhed
 Nye Borgerlige,Socialdemokratiet,70,13407,6817.0,0.5084657268591034,forsvar_sikkerhed
 Nye Borgerlige,Socialistisk Folkeparti,70,3843,1707.0,0.44418423106947696,forsvar_sikkerhed
-Nye Borgerlige,Venstre,70,11569,7491.0,0.647506266747342,forsvar_sikkerhed
+Nye Borgerlige,Venstre,70,11780,7656.0,0.6499151103565365,forsvar_sikkerhed
 Radikale Venstre,Radikale Venstre,70,7729,7403.0,0.9578211929098202,forsvar_sikkerhed
 Radikale Venstre,Sambandsflokkurin,70,50,41.0,0.82,forsvar_sikkerhed
 Radikale Venstre,Socialdemokratiet,70,54353,47028.0,0.8652328298345997,forsvar_sikkerhed
 Radikale Venstre,Socialistisk Folkeparti,70,15707,13409.0,0.8536958044184122,forsvar_sikkerhed
-Radikale Venstre,Venstre,70,47152,35055.0,0.7434467254835426,forsvar_sikkerhed
+Radikale Venstre,Venstre,70,47905,35547.0,0.7420311032251331,forsvar_sikkerhed
 Sambandsflokkurin,Socialdemokratiet,70,132,132.0,1.0,forsvar_sikkerhed
 Sambandsflokkurin,Socialistisk Folkeparti,70,41,33.0,0.8048780487804879,forsvar_sikkerhed
-Sambandsflokkurin,Venstre,70,109,109.0,1.0,forsvar_sikkerhed
+Sambandsflokkurin,Venstre,70,110,110.0,1.0,forsvar_sikkerhed
 Socialdemokratiet,Socialdemokratiet,70,83652,83598.0,0.9993544685124085,forsvar_sikkerhed
 Socialdemokratiet,Socialistisk Folkeparti,70,49417,43443.0,0.8791104275856486,forsvar_sikkerhed
-Socialdemokratiet,Venstre,70,149767,120968.0,0.8077079730514732,forsvar_sikkerhed
+Socialdemokratiet,Venstre,70,152194,122744.0,0.8064969709712604,forsvar_sikkerhed
 Socialistisk Folkeparti,Socialistisk Folkeparti,70,6259,6249.0,0.9984023006870107,forsvar_sikkerhed
-Socialistisk Folkeparti,Venstre,70,42847,31344.0,0.7315331295073167,forsvar_sikkerhed
-Venstre,Venstre,70,62320,61995.0,0.9947849807445442,forsvar_sikkerhed
+Socialistisk Folkeparti,Venstre,70,43526,31794.0,0.7304599549694436,forsvar_sikkerhed
+Venstre,Venstre,70,64365,63731.0,0.9901499262021285,forsvar_sikkerhed
 Alternativet,Alternativet,71,534,480.0,0.898876404494382,forsvar_sikkerhed
 Alternativet,Danmarksdemokraterne,71,4103,2668.0,0.6502559103095296,forsvar_sikkerhed
 Alternativet,Dansk Folkeparti,71,1106,584.0,0.5280289330922242,forsvar_sikkerhed

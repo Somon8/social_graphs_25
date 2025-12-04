@@ -1,25 +1,14 @@
 source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
-Danmarksdemokraterne,Danmarksdemokraterne,65,117,113.0,0.9658119658119658,general
-Danmarksdemokraterne,Dansk Folkeparti,65,5845,5732.0,0.9806672369546621,general
-Danmarksdemokraterne,Det Konservative Folkeparti,65,3023,2989.0,0.9887528944756864,general
-Danmarksdemokraterne,Enhedslisten,65,443,131.0,0.29571106094808125,general
-Danmarksdemokraterne,Inuit Ataqatigiit,65,25,2.0,0.08,general
-Danmarksdemokraterne,Kristendemokraterne,65,813,422.0,0.5190651906519065,general
-Danmarksdemokraterne,Radikale Venstre,65,1880,904.0,0.4808510638297872,general
-Danmarksdemokraterne,Socialdemokratiet,65,13355,5356.0,0.401048296518158,general
-Danmarksdemokraterne,Socialistisk Folkeparti,65,2865,997.0,0.34799301919720765,general
-Danmarksdemokraterne,Tjóðveldi,65,16,0.0,0.0,general
-Danmarksdemokraterne,Venstre,65,14326,14183.0,0.9900181488203267,general
-Dansk Folkeparti,Dansk Folkeparti,65,28394,28354.0,0.9985912516728886,general
-Dansk Folkeparti,Det Konservative Folkeparti,65,31384,30502.0,0.9718965077746623,general
-Dansk Folkeparti,Enhedslisten,65,4581,1294.0,0.2824710761842392,general
-Dansk Folkeparti,Inuit Ataqatigiit,65,193,14.0,0.07253886010362694,general
-Dansk Folkeparti,Kristendemokraterne,65,8406,4323.0,0.5142755174875089,general
-Dansk Folkeparti,Radikale Venstre,65,19553,8746.0,0.44729708996061984,general
-Dansk Folkeparti,Socialdemokratiet,65,138135,51104.0,0.36995692619538856,general
-Dansk Folkeparti,Socialistisk Folkeparti,65,29636,9371.0,0.316203266297746,general
-Dansk Folkeparti,Tjóðveldi,65,128,0.0,0.0,general
-Dansk Folkeparti,Venstre,65,147900,143893.0,0.9729073698444896,general
+Dansk Folkeparti,Dansk Folkeparti,65,30066,30025.0,0.9986363333998537,general
+Dansk Folkeparti,Det Konservative Folkeparti,65,32261,31345.0,0.9716065838008742,general
+Dansk Folkeparti,Enhedslisten,65,4711,1337.0,0.2838038632986627,general
+Dansk Folkeparti,Inuit Ataqatigiit,65,205,15.0,0.07317073170731707,general
+Dansk Folkeparti,Kristendemokraterne,65,8643,4433.0,0.5129006132130047,general
+Dansk Folkeparti,Radikale Venstre,65,20096,9020.0,0.44884554140127386,general
+Dansk Folkeparti,Socialdemokratiet,65,142029,52682.0,0.37092424786487266,general
+Dansk Folkeparti,Socialistisk Folkeparti,65,30478,9689.0,0.31790143710217206,general
+Dansk Folkeparti,Tjóðveldi,65,135,0.0,0.0,general
+Dansk Folkeparti,Venstre,65,156387,152123.0,0.9727343065600081,general
 Det Konservative Folkeparti,Det Konservative Folkeparti,65,7193,7193.0,1.0,general
 Det Konservative Folkeparti,Enhedslisten,65,2426,685.0,0.2823577906018137,general
 Det Konservative Folkeparti,Inuit Ataqatigiit,65,112,7.0,0.0625,general
@@ -28,7 +17,7 @@ Det Konservative Folkeparti,Radikale Venstre,65,10027,4902.0,0.4888800239353745,
 Det Konservative Folkeparti,Socialdemokratiet,65,71227,29511.0,0.41432322012719897,general
 Det Konservative Folkeparti,Socialistisk Folkeparti,65,15285,5258.0,0.34399738305528293,general
 Det Konservative Folkeparti,Tjóðveldi,65,63,0.0,0.0,general
-Det Konservative Folkeparti,Venstre,65,76410,76393.0,0.999777516031933,general
+Det Konservative Folkeparti,Venstre,65,78556,78539.0,0.9997835938693416,general
 Enhedslisten,Enhedslisten,65,33,33.0,1.0,general
 Enhedslisten,Inuit Ataqatigiit,65,22,21.0,0.9545454545454546,general
 Enhedslisten,Kristendemokraterne,65,633,340.0,0.5371248025276462,general
@@ -36,66 +25,56 @@ Enhedslisten,Radikale Venstre,65,1466,881.0,0.6009549795361528,general
 Enhedslisten,Socialdemokratiet,65,10393,6929.0,0.6666987395362263,general
 Enhedslisten,Socialistisk Folkeparti,65,2272,1925.0,0.8472711267605634,general
 Enhedslisten,Tjóðveldi,65,9,9.0,1.0,general
-Enhedslisten,Venstre,65,11154,3191.0,0.28608570916263226,general
+Enhedslisten,Venstre,65,11467,3279.0,0.2859509897968082,general
 Inuit Ataqatigiit,Kristendemokraterne,65,28,17.0,0.6071428571428571,general
 Inuit Ataqatigiit,Radikale Venstre,65,66,49.0,0.7424242424242424,general
 Inuit Ataqatigiit,Socialdemokratiet,65,450,290.0,0.6444444444444445,general
 Inuit Ataqatigiit,Socialistisk Folkeparti,65,108,101.0,0.9351851851851852,general
 Inuit Ataqatigiit,Tjóðveldi,65,5,5.0,1.0,general
-Inuit Ataqatigiit,Venstre,65,473,34.0,0.07188160676532769,general
+Inuit Ataqatigiit,Venstre,65,486,35.0,0.0720164609053498,general
 Kristendemokraterne,Kristendemokraterne,65,290,284.0,0.9793103448275862,general
 Kristendemokraterne,Radikale Venstre,65,2695,1633.0,0.6059369202226345,general
 Kristendemokraterne,Socialdemokratiet,65,19065,12237.0,0.6418568056648308,general
 Kristendemokraterne,Socialistisk Folkeparti,65,4091,2487.0,0.607919824003911,general
 Kristendemokraterne,Tjóðveldi,65,18,14.0,0.7777777777777778,general
-Kristendemokraterne,Venstre,65,20416,11146.0,0.5459443573667712,general
+Kristendemokraterne,Venstre,65,20992,11458.0,0.545826981707317,general
 Radikale Venstre,Radikale Venstre,65,2500,2492.0,0.9968,general
 Radikale Venstre,Socialdemokratiet,65,44291,31773.0,0.7173692172224605,general
 Radikale Venstre,Socialistisk Folkeparti,65,9511,6556.0,0.6893071180738093,general
 Radikale Venstre,Tjóðveldi,65,45,45.0,1.0,general
-Radikale Venstre,Venstre,65,47339,22695.0,0.47941443629987956,general
+Radikale Venstre,Venstre,65,48676,23325.0,0.4791889226723642,general
 Socialdemokratiet,Socialdemokratiet,65,152076,151822.0,0.9983297824771825,general
 Socialdemokratiet,Socialistisk Folkeparti,65,67247,52243.0,0.7768822400999301,general
 Socialdemokratiet,Tjóðveldi,65,296,231.0,0.7804054054054054,general
-Socialdemokratiet,Venstre,65,335440,136272.0,0.4062485094204627,general
+Socialdemokratiet,Venstre,65,344901,140050.0,0.40605855013467634,general
 Socialistisk Folkeparti,Socialistisk Folkeparti,65,6279,6267.0,0.998088867654085,general
 Socialistisk Folkeparti,Tjóðveldi,65,63,63.0,1.0,general
-Socialistisk Folkeparti,Venstre,65,71913,24846.0,0.3455008134829586,general
-Tjóðveldi,Venstre,65,305,0.0,0.0,general
-Venstre,Venstre,65,174899,174829.0,0.9995997690095426,general
-Danmarksdemokraterne,Danmarksdemokraterne,66,277,251.0,0.9061371841155235,general
-Danmarksdemokraterne,Dansk Folkeparti,66,22563,21283.0,0.9432699552364491,general
-Danmarksdemokraterne,Det Konservative Folkeparti,66,15897,15497.0,0.9748380197521544,general
-Danmarksdemokraterne,Enhedslisten,66,3721,971.0,0.2609513571620532,general
-Danmarksdemokraterne,Fólkaflokkurin,66,7,7.0,1.0,general
-Danmarksdemokraterne,Inuit Ataqatigiit,66,18,3.0,0.16666666666666666,general
-Danmarksdemokraterne,Radikale Venstre,66,12913,7556.0,0.5851467513358631,general
-Danmarksdemokraterne,Siumut,66,37,14.0,0.3783783783783784,general
-Danmarksdemokraterne,Socialdemokratiet,66,40547,24652.0,0.6079857942634473,general
-Danmarksdemokraterne,Socialistisk Folkeparti,66,11106,4666.0,0.42013326130019807,general
-Danmarksdemokraterne,Tjóðveldi,66,29,2.0,0.06896551724137931,general
-Danmarksdemokraterne,Venstre,66,47221,46027.0,0.9747146396730269,general
-Dansk Folkeparti,Dansk Folkeparti,66,153108,152818.0,0.9981059121665752,general
-Dansk Folkeparti,Det Konservative Folkeparti,66,227024,210050.0,0.9252325745295652,general
-Dansk Folkeparti,Enhedslisten,66,53339,13356.0,0.25039839517051315,general
+Socialistisk Folkeparti,Venstre,65,73936,25525.0,0.34523101060376543,general
+Tjóðveldi,Venstre,65,314,0.0,0.0,general
+Venstre,Venstre,65,185028,184956.0,0.9996108697062066,general
+Dansk Folkeparti,Dansk Folkeparti,66,158242,157948.0,0.9981420861718128,general
+Dansk Folkeparti,Det Konservative Folkeparti,66,212052,196025.0,0.9244194820138456,general
+Dansk Folkeparti,Enhedslisten,66,54207,13627.0,0.251388197096316,general
 Dansk Folkeparti,Fólkaflokkurin,66,117,103.0,0.8803418803418803,general
-Dansk Folkeparti,Inuit Ataqatigiit,66,234,64.0,0.27350427350427353,general
-Dansk Folkeparti,Radikale Venstre,66,183609,99386.0,0.5412915488892157,general
-Dansk Folkeparti,Siumut,66,375,181.0,0.4826666666666667,general
-Dansk Folkeparti,Socialdemokratiet,66,581738,319926.0,0.5499486022917534,general
-Dansk Folkeparti,Socialistisk Folkeparti,66,159017,61895.0,0.3892351132268877,general
-Dansk Folkeparti,Tjóðveldi,66,382,64.0,0.16753926701570682,general
-Dansk Folkeparti,Venstre,66,673951,622180.0,0.923182842669571,general
-Det Konservative Folkeparti,Det Konservative Folkeparti,66,73424,73185.0,0.9967449335367182,general
-Det Konservative Folkeparti,Enhedslisten,66,37554,9447.0,0.25155775683016457,general
-Det Konservative Folkeparti,Fólkaflokkurin,66,89,89.0,1.0,general
-Det Konservative Folkeparti,Inuit Ataqatigiit,66,177,47.0,0.2655367231638418,general
-Det Konservative Folkeparti,Radikale Venstre,66,128145,76921.0,0.6002653244371611,general
-Det Konservative Folkeparti,Siumut,66,291,126.0,0.4329896907216495,general
-Det Konservative Folkeparti,Socialdemokratiet,66,406156,250227.0,0.6160859374230592,general
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,111316,48063.0,0.43177081461784467,general
-Det Konservative Folkeparti,Tjóðveldi,66,282,39.0,0.13829787234042554,general
-Det Konservative Folkeparti,Venstre,66,471957,469686.0,0.9951881209516968,general
+Dansk Folkeparti,Inuit Ataqatigiit,66,238,64.0,0.2689075630252101,general
+Dansk Folkeparti,Radikale Venstre,66,186744,101107.0,0.5414203401447971,general
+Dansk Folkeparti,Siumut,66,392,189.0,0.48214285714285715,general
+Dansk Folkeparti,Socialdemokratiet,66,591184,325500.0,0.5505900024357899,general
+Dansk Folkeparti,Socialistisk Folkeparti,66,161609,62995.0,0.3897988354608964,general
+Dansk Folkeparti,Tjóðveldi,66,390,64.0,0.1641025641025641,general
+Dansk Folkeparti,Uden for Folketingsgrupperne,66,18716,17408.0,0.9301132720666809,general
+Dansk Folkeparti,Venstre,66,702892,648741.0,0.9229597150060038,general
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,61694,61483.0,0.9965798943171135,general
+Det Konservative Folkeparti,Enhedslisten,66,34519,8706.0,0.25220892841623455,general
+Det Konservative Folkeparti,Fólkaflokkurin,66,82,82.0,1.0,general
+Det Konservative Folkeparti,Inuit Ataqatigiit,66,163,43.0,0.26380368098159507,general
+Det Konservative Folkeparti,Radikale Venstre,66,117806,70800.0,0.6009880651240175,general
+Det Konservative Folkeparti,Siumut,66,267,116.0,0.4344569288389513,general
+Det Konservative Folkeparti,Socialdemokratiet,66,373279,230104.0,0.6164397139940903,general
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,102289,44228.0,0.4323827586544008,general
+Det Konservative Folkeparti,Tjóðveldi,66,258,36.0,0.13953488372093023,general
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,66,11730,11702.0,0.997612958226769,general
+Det Konservative Folkeparti,Venstre,66,445013,442851.0,0.995141714961136,general
 Enhedslisten,Enhedslisten,66,2924,2919.0,0.9982900136798906,general
 Enhedslisten,Fólkaflokkurin,66,20,5.0,0.25,general
 Enhedslisten,Inuit Ataqatigiit,66,43,26.0,0.6046511627906976,general
@@ -104,228 +83,222 @@ Enhedslisten,Siumut,66,65,43.0,0.6615384615384615,general
 Enhedslisten,Socialdemokratiet,66,95123,55578.0,0.5842750964540647,general
 Enhedslisten,Socialistisk Folkeparti,66,26047,19988.0,0.7673820401581756,general
 Enhedslisten,Tjóðveldi,66,73,62.0,0.8493150684931506,general
-Enhedslisten,Venstre,66,110540,27956.0,0.2529039261805681,general
+Enhedslisten,Uden for Folketingsgrupperne,66,3035,741.0,0.2441515650741351,general
+Enhedslisten,Venstre,66,113393,28656.0,0.25271401232880336,general
 Fólkaflokkurin,Inuit Ataqatigiit,66,4,0.0,0.0,general
 Fólkaflokkurin,Radikale Venstre,66,65,65.0,1.0,general
 Fólkaflokkurin,Siumut,66,2,1.0,0.5,general
 Fólkaflokkurin,Socialdemokratiet,66,209,209.0,1.0,general
 Fólkaflokkurin,Socialistisk Folkeparti,66,55,50.0,0.9090909090909091,general
 Fólkaflokkurin,Tjóðveldi,66,6,2.0,0.3333333333333333,general
-Fólkaflokkurin,Venstre,66,238,238.0,1.0,general
+Fólkaflokkurin,Uden for Folketingsgrupperne,66,7,7.0,1.0,general
+Fólkaflokkurin,Venstre,66,245,245.0,1.0,general
 Inuit Ataqatigiit,Radikale Venstre,66,122,61.0,0.5,general
 Inuit Ataqatigiit,Siumut,66,6,6.0,1.0,general
 Inuit Ataqatigiit,Socialdemokratiet,66,423,144.0,0.3404255319148936,general
 Inuit Ataqatigiit,Socialistisk Folkeparti,66,120,73.0,0.6083333333333333,general
 Inuit Ataqatigiit,Tjóðveldi,66,10,7.0,0.7,general
-Inuit Ataqatigiit,Venstre,66,490,133.0,0.2714285714285714,general
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,66,14,4.0,0.2857142857142857,general
+Inuit Ataqatigiit,Venstre,66,504,136.0,0.2698412698412698,general
 Radikale Venstre,Radikale Venstre,66,46597,46130.0,0.9899778955726763,general
 Radikale Venstre,Siumut,66,227,140.0,0.6167400881057269,general
 Radikale Venstre,Socialdemokratiet,66,327940,263794.0,0.8043971458193572,general
 Radikale Venstre,Socialistisk Folkeparti,66,89637,67226.0,0.7499804768120307,general
 Radikale Venstre,Tjóðveldi,66,219,118.0,0.5388127853881278,general
-Radikale Venstre,Venstre,66,380419,227090.0,0.596947050489066,general
+Radikale Venstre,Uden for Folketingsgrupperne,66,10339,6121.0,0.5920301769997098,general
+Radikale Venstre,Venstre,66,390197,232925.0,0.5969420574735326,general
 Siumut,Socialdemokratiet,66,700,362.0,0.5171428571428571,general
 Siumut,Socialistisk Folkeparti,66,185,116.0,0.6270270270270271,general
 Siumut,Tjóðveldi,66,9,7.0,0.7777777777777778,general
-Siumut,Venstre,66,813,346.0,0.42558425584255843,general
+Siumut,Uden for Folketingsgrupperne,66,24,10.0,0.4166666666666667,general
+Siumut,Venstre,66,833,352.0,0.4225690276110444,general
 Socialdemokratiet,Socialdemokratiet,66,504334,501947.0,0.995267025423628,general
 Socialdemokratiet,Socialistisk Folkeparti,66,284781,223246.0,0.7839216801682697,general
 Socialdemokratiet,Tjóðveldi,66,691,358.0,0.5180897250361794,general
-Socialdemokratiet,Venstre,66,1207672,741161.0,0.613710510800946,general
+Socialdemokratiet,Uden for Folketingsgrupperne,66,32877,20123.0,0.6120692277275908,general
+Socialdemokratiet,Venstre,66,1238773,760239.0,0.6137032369933797,general
 Socialistisk Folkeparti,Socialistisk Folkeparti,66,34563,32818.0,0.9495124844486879,general
 Socialistisk Folkeparti,Tjóðveldi,66,178,129.0,0.7247191011235955,general
-Socialistisk Folkeparti,Venstre,66,330452,142143.0,0.43014719233050486,general
-Tjóðveldi,Venstre,66,807,112.0,0.13878562577447337,general
-Venstre,Venstre,66,681714,678079.0,0.9946678519144392,general
-Danmarksdemokraterne,Danmarksdemokraterne,67,456,409.0,0.8969298245614035,general
-Danmarksdemokraterne,Dansk Folkeparti,67,28246,26456.0,0.936628195142675,general
-Danmarksdemokraterne,Det Konservative Folkeparti,67,17443,16663.0,0.9552829215157943,general
-Danmarksdemokraterne,Enhedslisten,67,3622,1265.0,0.3492545554942021,general
-Danmarksdemokraterne,Inuit Ataqatigiit,67,10,8.0,0.8,general
-Danmarksdemokraterne,Javnaðarflokkurin,67,3,3.0,1.0,general
-Danmarksdemokraterne,Liberal Alliance,67,4476,3791.0,0.8469615728328865,general
-Danmarksdemokraterne,Radikale Venstre,67,7465,3950.0,0.5291359678499665,general
-Danmarksdemokraterne,Sambandsflokkurin,67,36,34.0,0.9444444444444444,general
-Danmarksdemokraterne,Siumut,67,78,65.0,0.8333333333333334,general
-Danmarksdemokraterne,Socialdemokratiet,67,48051,25788.0,0.5366797777361554,general
-Danmarksdemokraterne,Socialistisk Folkeparti,67,22638,11038.0,0.4875872426892835,general
-Danmarksdemokraterne,Tjóðveldi,67,8,3.0,0.375,general
-Danmarksdemokraterne,Venstre,67,47830,46157.0,0.9650219527493205,general
-Dansk Folkeparti,Dansk Folkeparti,67,243283,240395.0,0.9881290513517179,general
-Dansk Folkeparti,Det Konservative Folkeparti,67,315635,281000.0,0.8902688231659986,general
-Dansk Folkeparti,Enhedslisten,67,64481,22992.0,0.35657015244800794,general
-Dansk Folkeparti,Inuit Ataqatigiit,67,221,99.0,0.4479638009049774,general
-Dansk Folkeparti,Javnaðarflokkurin,67,82,65.0,0.7926829268292683,general
-Dansk Folkeparti,Liberal Alliance,67,80718,64071.0,0.7937634728313387,general
-Dansk Folkeparti,Radikale Venstre,67,132634,68341.0,0.5152600389040517,general
-Dansk Folkeparti,Sambandsflokkurin,67,885,750.0,0.847457627118644,general
-Dansk Folkeparti,Siumut,67,883,631.0,0.7146092865232163,general
-Dansk Folkeparti,Socialdemokratiet,67,869851,444376.0,0.5108645043806354,general
-Dansk Folkeparti,Socialistisk Folkeparti,67,408397,193758.0,0.4744354145598523,general
-Dansk Folkeparti,Tjóðveldi,67,177,36.0,0.2033898305084746,general
-Dansk Folkeparti,Venstre,67,872494,781692.0,0.8959282241482462,general
-Det Konservative Folkeparti,Det Konservative Folkeparti,67,88879,87831.0,0.988208688216564,general
-Det Konservative Folkeparti,Enhedslisten,67,39426,14952.0,0.37924212448637956,general
-Det Konservative Folkeparti,Inuit Ataqatigiit,67,150,126.0,0.84,general
-Det Konservative Folkeparti,Javnaðarflokkurin,67,53,53.0,1.0,general
-Det Konservative Folkeparti,Liberal Alliance,67,48922,42835.0,0.8755774498180777,general
-Det Konservative Folkeparti,Radikale Venstre,67,81835,50186.0,0.6132583857762571,general
-Det Konservative Folkeparti,Sambandsflokkurin,67,547,546.0,0.9981718464351006,general
-Det Konservative Folkeparti,Siumut,67,565,486.0,0.8601769911504424,general
-Det Konservative Folkeparti,Socialdemokratiet,67,533593,322699.0,0.6047661794663723,general
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,250215,138650.0,0.5541234538297064,general
-Det Konservative Folkeparti,Tjóðveldi,67,108,55.0,0.5092592592592593,general
-Det Konservative Folkeparti,Venstre,67,535821,532579.0,0.9939494719318578,general
-Enhedslisten,Enhedslisten,67,2388,2182.0,0.9137353433835846,general
-Enhedslisten,Inuit Ataqatigiit,67,31,18.0,0.5806451612903226,general
-Enhedslisten,Javnaðarflokkurin,67,10,8.0,0.8,general
-Enhedslisten,Liberal Alliance,67,10062,4476.0,0.44484197972570066,general
-Enhedslisten,Radikale Venstre,67,16732,11221.0,0.6706311259861344,general
-Enhedslisten,Sambandsflokkurin,67,114,39.0,0.34210526315789475,general
-Enhedslisten,Siumut,67,107,61.0,0.5700934579439252,general
-Enhedslisten,Socialdemokratiet,67,108626,77566.0,0.7140647727063503,general
-Enhedslisten,Socialistisk Folkeparti,67,50988,38964.0,0.7641798070134149,general
-Enhedslisten,Tjóðveldi,67,26,19.0,0.7307692307692307,general
-Enhedslisten,Venstre,67,108959,40549.0,0.37214915702236623,general
-Inuit Ataqatigiit,Javnaðarflokkurin,67,1,1.0,1.0,general
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,66,9027,3835.0,0.42483660130718953,general
+Socialistisk Folkeparti,Venstre,66,338966,145709.0,0.42986317211755753,general
+Tjóðveldi,Uden for Folketingsgrupperne,66,24,3.0,0.125,general
+Tjóðveldi,Venstre,66,828,114.0,0.13768115942028986,general
+Uden for Folketingsgrupperne,Venstre,66,39097,38949.0,0.9962145433153439,general
+Venstre,Venstre,66,717700,713949.0,0.9947735822767173,general
+Dansk Folkeparti,Dansk Folkeparti,67,252467,249496.0,0.9882321253866841,general
+Dansk Folkeparti,Det Konservative Folkeparti,67,295921,263479.0,0.8903693891275036,general
+Dansk Folkeparti,Enhedslisten,67,58828,20467.0,0.34791255864554294,general
+Dansk Folkeparti,Inuit Ataqatigiit,67,224,101.0,0.45089285714285715,general
+Dansk Folkeparti,Liberal Alliance,67,82203,65263.0,0.7939247959320219,general
+Dansk Folkeparti,Radikale Venstre,67,135136,69469.0,0.5140673099692162,general
+Dansk Folkeparti,Sambandsflokkurin,67,893,756.0,0.8465845464725644,general
+Dansk Folkeparti,Siumut,67,922,662.0,0.7180043383947939,general
+Dansk Folkeparti,Socialdemokratiet,67,861995,440612.0,0.5111537769940661,general
+Dansk Folkeparti,Socialistisk Folkeparti,67,446323,211165.0,0.47312148376848157,general
+Dansk Folkeparti,Tjóðveldi,67,265,105.0,0.39622641509433965,general
+Dansk Folkeparti,Uden for Folketingsgrupperne,67,25448,22576.0,0.8871424080477838,general
+Dansk Folkeparti,Venstre,67,907686,813465.0,0.8961964820433498,general
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,74888,73880.0,0.9865398995833778,general
+Det Konservative Folkeparti,Enhedslisten,67,32673,11738.0,0.35925687876840207,general
+Det Konservative Folkeparti,Inuit Ataqatigiit,67,137,115.0,0.8394160583941606,general
+Det Konservative Folkeparti,Liberal Alliance,67,45056,39442.0,0.8753995028409091,general
+Det Konservative Folkeparti,Radikale Venstre,67,75448,46189.0,0.6121964796946241,general
+Det Konservative Folkeparti,Sambandsflokkurin,67,502,501.0,0.99800796812749,general
+Det Konservative Folkeparti,Siumut,67,515,442.0,0.858252427184466,general
+Det Konservative Folkeparti,Socialdemokratiet,67,478028,289056.0,0.6046842444375643,general
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,247255,136823.0,0.5533679804250672,general
+Det Konservative Folkeparti,Tjóðveldi,67,149,100.0,0.6711409395973155,general
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,67,13991,13951.0,0.9971410192266457,general
+Det Konservative Folkeparti,Venstre,67,503950,500626.0,0.9934041075503522,general
+Enhedslisten,Enhedslisten,67,1622,1620.0,0.998766954377312,general
+Enhedslisten,Inuit Ataqatigiit,67,27,15.0,0.5555555555555556,general
+Enhedslisten,Liberal Alliance,67,8961,3801.0,0.4241714094409106,general
+Enhedslisten,Radikale Venstre,67,14973,9727.0,0.6496360114873438,general
+Enhedslisten,Sambandsflokkurin,67,99,34.0,0.3434343434343434,general
+Enhedslisten,Siumut,67,100,56.0,0.56,general
+Enhedslisten,Socialdemokratiet,67,94954,65506.0,0.6898708848495061,general
+Enhedslisten,Socialistisk Folkeparti,67,49182,36251.0,0.7370786059940628,general
+Enhedslisten,Tjóðveldi,67,30,22.0,0.7333333333333333,general
+Enhedslisten,Uden for Folketingsgrupperne,67,2795,1034.0,0.3699463327370304,general
+Enhedslisten,Venstre,67,99996,35219.0,0.35220408816352655,general
 Inuit Ataqatigiit,Liberal Alliance,67,35,29.0,0.8285714285714286,general
 Inuit Ataqatigiit,Radikale Venstre,67,57,48.0,0.8421052631578947,general
 Inuit Ataqatigiit,Sambandsflokkurin,67,3,3.0,1.0,general
 Inuit Ataqatigiit,Siumut,67,7,7.0,1.0,general
-Inuit Ataqatigiit,Socialdemokratiet,67,383,325.0,0.8485639686684073,general
-Inuit Ataqatigiit,Socialistisk Folkeparti,67,182,138.0,0.7582417582417582,general
-Inuit Ataqatigiit,Tjóðveldi,67,6,5.0,0.8333333333333334,general
-Inuit Ataqatigiit,Venstre,67,388,327.0,0.8427835051546392,general
-Javnaðarflokkurin,Liberal Alliance,67,10,10.0,1.0,general
-Javnaðarflokkurin,Radikale Venstre,67,22,22.0,1.0,general
-Javnaðarflokkurin,Sambandsflokkurin,67,2,2.0,1.0,general
-Javnaðarflokkurin,Siumut,67,3,3.0,1.0,general
-Javnaðarflokkurin,Socialdemokratiet,67,145,145.0,1.0,general
-Javnaðarflokkurin,Socialistisk Folkeparti,67,75,75.0,1.0,general
-Javnaðarflokkurin,Venstre,67,156,156.0,1.0,general
+Inuit Ataqatigiit,Socialdemokratiet,67,372,316.0,0.8494623655913979,general
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,197,150.0,0.7614213197969543,general
+Inuit Ataqatigiit,Tjóðveldi,67,7,6.0,0.8571428571428571,general
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,67,13,11.0,0.8461538461538461,general
+Inuit Ataqatigiit,Venstre,67,395,333.0,0.8430379746835444,general
 Liberal Alliance,Liberal Alliance,67,4764,3681.0,0.7726700251889169,general
 Liberal Alliance,Radikale Venstre,67,20118,13412.0,0.6666666666666666,general
 Liberal Alliance,Sambandsflokkurin,67,161,137.0,0.8509316770186336,general
 Liberal Alliance,Siumut,67,147,131.0,0.891156462585034,general
-Liberal Alliance,Socialdemokratiet,67,136042,86250.0,0.633995383778539,general
-Liberal Alliance,Socialistisk Folkeparti,67,64060,38521.0,0.6013268810490165,general
-Liberal Alliance,Tjóðveldi,67,33,20.0,0.6060606060606061,general
-Liberal Alliance,Venstre,67,136030,119541.0,0.8787840917444681,general
+Liberal Alliance,Socialdemokratiet,67,132386,84011.0,0.6345912709803151,general
+Liberal Alliance,Socialistisk Folkeparti,67,68817,41435.0,0.6021041312466396,general
+Liberal Alliance,Tjóðveldi,67,43,30.0,0.6976744186046512,general
+Liberal Alliance,Uden for Folketingsgrupperne,67,3866,3393.0,0.8776513191929644,general
+Liberal Alliance,Venstre,67,139021,122140.0,0.8785723020263125,general
 Radikale Venstre,Radikale Venstre,67,13779,13227.0,0.9599390376660135,general
 Radikale Venstre,Sambandsflokkurin,67,205,156.0,0.7609756097560976,general
 Radikale Venstre,Siumut,67,233,211.0,0.9055793991416309,general
-Radikale Venstre,Socialdemokratiet,67,224043,185140.0,0.8263592256843553,general
-Radikale Venstre,Socialistisk Folkeparti,67,105208,85720.0,0.8147669378754467,general
-Radikale Venstre,Tjóðveldi,67,50,31.0,0.62,general
-Radikale Venstre,Venstre,67,224869,136816.0,0.608425349870369,general
+Radikale Venstre,Socialdemokratiet,67,218151,180365.0,0.8267897007118922,general
+Radikale Venstre,Socialistisk Folkeparti,67,112859,91989.0,0.8150789923710117,general
+Radikale Venstre,Tjóðveldi,67,72,53.0,0.7361111111111112,general
+Radikale Venstre,Uden for Folketingsgrupperne,67,6387,3997.0,0.6258024111476437,general
+Radikale Venstre,Venstre,67,229832,139638.0,0.6075655261234293,general
 Sambandsflokkurin,Siumut,67,5,4.0,0.8,general
-Sambandsflokkurin,Socialdemokratiet,67,1515,1198.0,0.7907590759075908,general
-Sambandsflokkurin,Socialistisk Folkeparti,67,703,407.0,0.5789473684210527,general
-Sambandsflokkurin,Tjóðveldi,67,3,1.0,0.3333333333333333,general
-Sambandsflokkurin,Venstre,67,1469,1469.0,1.0,general
-Siumut,Socialdemokratiet,67,1592,1493.0,0.9378140703517588,general
-Siumut,Socialistisk Folkeparti,67,713,633.0,0.8877980364656382,general
-Siumut,Tjóðveldi,67,3,3.0,1.0,general
-Siumut,Venstre,67,1588,1392.0,0.8765743073047859,general
-Socialdemokratiet,Socialdemokratiet,67,710462,705635.0,0.9932058294461914,general
-Socialdemokratiet,Socialistisk Folkeparti,67,689118,632838.0,0.918330387538854,general
-Socialdemokratiet,Tjóðveldi,67,285,149.0,0.5228070175438596,general
-Socialdemokratiet,Venstre,67,1474055,882554.0,0.5987252850131101,general
-Socialistisk Folkeparti,Socialistisk Folkeparti,67,150994,150423.0,0.9962183927838192,general
-Socialistisk Folkeparti,Tjóðveldi,67,136,81.0,0.5955882352941176,general
-Socialistisk Folkeparti,Venstre,67,690882,378696.0,0.5481341242064491,general
-Tjóðveldi,Venstre,67,300,153.0,0.51,general
-Venstre,Venstre,67,716615,716151.0,0.9993525114601285,general
-Danmarksdemokraterne,Danmarksdemokraterne,68,914,692.0,0.7571115973741794,general
-Danmarksdemokraterne,Dansk Folkeparti,68,29752,26901.0,0.9041745092766873,general
-Danmarksdemokraterne,Det Konservative Folkeparti,68,11913,9163.0,0.7691597414589104,general
-Danmarksdemokraterne,Enhedslisten,68,20183,9077.0,0.4497349254322945,general
-Danmarksdemokraterne,Inuit Ataqatigiit,68,8,4.0,0.5,general
-Danmarksdemokraterne,Javnaðarflokkurin,68,23,9.0,0.391304347826087,general
-Danmarksdemokraterne,Liberal Alliance,68,12241,7517.0,0.6140838166816437,general
-Danmarksdemokraterne,Radikale Venstre,68,26401,15933.0,0.6034998674292641,general
-Danmarksdemokraterne,Sambandsflokkurin,68,47,46.0,0.9787234042553191,general
-Danmarksdemokraterne,Siumut,68,7,4.0,0.5714285714285714,general
-Danmarksdemokraterne,Socialdemokratiet,68,70876,42891.0,0.6051554828150573,general
-Danmarksdemokraterne,Socialistisk Folkeparti,68,23226,13664.0,0.5883062085593731,general
-Danmarksdemokraterne,Venstre,68,67850,54561.0,0.804141488577745,general
-Dansk Folkeparti,Dansk Folkeparti,68,119458,119226.0,0.9980578948249594,general
-Dansk Folkeparti,Det Konservative Folkeparti,68,103834,72565.0,0.6988558660939577,general
-Dansk Folkeparti,Enhedslisten,68,173578,76703.0,0.4418935579393702,general
-Dansk Folkeparti,Inuit Ataqatigiit,68,61,26.0,0.4262295081967213,general
-Dansk Folkeparti,Javnaðarflokkurin,68,104,13.0,0.125,general
-Dansk Folkeparti,Liberal Alliance,68,105588,63735.0,0.6036197295147175,general
-Dansk Folkeparti,Radikale Venstre,68,227705,128028.0,0.5622537932851716,general
-Dansk Folkeparti,Sambandsflokkurin,68,385,334.0,0.8675324675324675,general
-Dansk Folkeparti,Siumut,68,49,26.0,0.5306122448979592,general
-Dansk Folkeparti,Socialdemokratiet,68,607235,341826.0,0.5629220977051718,general
-Dansk Folkeparti,Socialistisk Folkeparti,68,200162,109567.0,0.5473916127936371,general
-Dansk Folkeparti,Venstre,68,581724,416810.0,0.7165081722603847,general
-Det Konservative Folkeparti,Det Konservative Folkeparti,68,16913,16865.0,0.9971619464317389,general
-Det Konservative Folkeparti,Enhedslisten,68,69628,30072.0,0.4318952145688516,general
-Det Konservative Folkeparti,Inuit Ataqatigiit,68,27,18.0,0.6666666666666666,general
-Det Konservative Folkeparti,Javnaðarflokkurin,68,31,31.0,1.0,general
-Det Konservative Folkeparti,Liberal Alliance,68,42275,29462.0,0.6969130691898285,general
-Det Konservative Folkeparti,Radikale Venstre,68,91310,64996.0,0.7118168875260102,general
-Det Konservative Folkeparti,Sambandsflokkurin,68,156,151.0,0.967948717948718,general
-Det Konservative Folkeparti,Siumut,68,23,18.0,0.782608695652174,general
-Det Konservative Folkeparti,Socialdemokratiet,68,243415,174178.0,0.7155598463529363,general
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,80277,54997.0,0.6850903745780236,general
-Det Konservative Folkeparti,Venstre,68,233188,211013.0,0.9049050551486354,general
-Enhedslisten,Enhedslisten,68,51390,50061.0,0.9741389375364857,general
+Sambandsflokkurin,Socialdemokratiet,67,1472,1172.0,0.7961956521739131,general
+Sambandsflokkurin,Socialistisk Folkeparti,67,761,438.0,0.5755584756898817,general
+Sambandsflokkurin,Tjóðveldi,67,5,3.0,0.6,general
+Sambandsflokkurin,Uden for Folketingsgrupperne,67,45,45.0,1.0,general
+Sambandsflokkurin,Venstre,67,1497,1497.0,1.0,general
+Siumut,Socialdemokratiet,67,1539,1446.0,0.9395711500974658,general
+Siumut,Socialistisk Folkeparti,67,773,685.0,0.8861578266494179,general
+Siumut,Tjóðveldi,67,6,6.0,1.0,general
+Siumut,Uden for Folketingsgrupperne,67,50,44.0,0.88,general
+Siumut,Venstre,67,1627,1426.0,0.876459741856177,general
+Socialdemokratiet,Socialdemokratiet,67,672251,670833.0,0.9978906688126905,general
+Socialdemokratiet,Socialistisk Folkeparti,67,719859,659327.0,0.9159113104093997,general
+Socialdemokratiet,Tjóðveldi,67,419,285.0,0.6801909307875895,general
+Socialdemokratiet,Uden for Folketingsgrupperne,67,41187,25606.0,0.6217010221671887,general
+Socialdemokratiet,Venstre,67,1465813,878461.0,0.5992995013688649,general
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,174708,174071.0,0.9963539162488266,general
+Socialistisk Folkeparti,Tjóðveldi,67,228,170.0,0.7456140350877193,general
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,67,21296,12044.0,0.5655522163786627,general
+Socialistisk Folkeparti,Venstre,67,757981,415092.0,0.5476285025614098,general
+Tjóðveldi,Uden for Folketingsgrupperne,67,12,8.0,0.6666666666666666,general
+Tjóðveldi,Venstre,67,461,311.0,0.6746203904555315,general
+Uden for Folketingsgrupperne,Venstre,67,43580,43561.0,0.9995640201927489,general
+Venstre,Venstre,67,748771,748299.0,0.9993696337064336,general
+Dansk Folkeparti,Dansk Folkeparti,68,139291,139025.0,0.9980903288798271,general
+Dansk Folkeparti,Det Konservative Folkeparti,68,92837,65118.0,0.7014229240496784,general
+Dansk Folkeparti,Enhedslisten,68,180532,79015.0,0.4376786386900937,general
+Dansk Folkeparti,Inuit Ataqatigiit,68,67,29.0,0.43283582089552236,general
+Dansk Folkeparti,Liberal Alliance,68,113735,68590.0,0.603068536510309,general
+Dansk Folkeparti,Radikale Venstre,68,245333,137663.0,0.5611271210966319,general
+Dansk Folkeparti,Sambandsflokkurin,68,404,352.0,0.8712871287128713,general
+Dansk Folkeparti,Siumut,68,54,29.0,0.5370370370370371,general
+Dansk Folkeparti,Socialdemokratiet,68,636475,357500.0,0.5616874189873915,general
+Dansk Folkeparti,Socialistisk Folkeparti,68,240003,131627.0,0.5484389778461103,general
+Dansk Folkeparti,Tjóðveldi,68,120,15.0,0.125,general
+Dansk Folkeparti,Uden for Folketingsgrupperne,68,18955,12972.0,0.6843576892640464,general
+Dansk Folkeparti,Venstre,68,637720,456528.0,0.71587530577683,general
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,11310,11275.0,0.9969053934571176,general
+Det Konservative Folkeparti,Enhedslisten,68,55748,23594.0,0.4232259453253928,general
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,22,15.0,0.6818181818181818,general
+Det Konservative Folkeparti,Liberal Alliance,68,35110,24545.0,0.6990885787524922,general
+Det Konservative Folkeparti,Radikale Venstre,68,75819,54053.0,0.7129215631965602,general
+Det Konservative Folkeparti,Sambandsflokkurin,68,144,139.0,0.9652777777777778,general
+Det Konservative Folkeparti,Siumut,68,19,15.0,0.7894736842105263,general
+Det Konservative Folkeparti,Socialdemokratiet,68,196512,140890.0,0.7169536720403843,general
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,74347,51072.0,0.6869409660107334,general
+Det Konservative Folkeparti,Tjóðveldi,68,23,23.0,1.0,general
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,68,5603,5590.0,0.9976798143851509,general
+Det Konservative Folkeparti,Venstre,68,196923,178644.0,0.9071769168659831,general
+Enhedslisten,Enhedslisten,68,47497,47434.0,0.9986736004379224,general
 Enhedslisten,Inuit Ataqatigiit,68,41,41.0,1.0,general
-Enhedslisten,Javnaðarflokkurin,68,65,49.0,0.7538461538461538,general
-Enhedslisten,Liberal Alliance,68,70732,28362.0,0.4009783407792795,general
-Enhedslisten,Radikale Venstre,68,152465,105788.0,0.693851047781458,general
-Enhedslisten,Sambandsflokkurin,68,252,113.0,0.44841269841269843,general
+Enhedslisten,Liberal Alliance,68,68289,27152.0,0.39760429937471625,general
+Enhedslisten,Radikale Venstre,68,147285,101170.0,0.6868995484944156,general
+Enhedslisten,Sambandsflokkurin,68,245,110.0,0.4489795918367347,general
 Enhedslisten,Siumut,68,33,33.0,1.0,general
-Enhedslisten,Socialdemokratiet,68,407039,279308.0,0.6861946889610087,general
-Enhedslisten,Socialistisk Folkeparti,68,134100,96593.0,0.7203057419835943,general
-Enhedslisten,Venstre,68,389911,171357.0,0.43947721403089424,general
-Inuit Ataqatigiit,Javnaðarflokkurin,68,1,1.0,1.0,general
+Enhedslisten,Socialdemokratiet,68,382288,259572.0,0.6789959402335412,general
+Enhedslisten,Socialistisk Folkeparti,68,144165,102016.0,0.7076336142614366,general
+Enhedslisten,Tjóðveldi,68,65,49.0,0.7538461538461538,general
+Enhedslisten,Uden for Folketingsgrupperne,68,11381,4777.0,0.41973464546173445,general
+Enhedslisten,Venstre,68,382820,165248.0,0.4316597878898699,general
 Inuit Ataqatigiit,Liberal Alliance,68,25,15.0,0.6,general
 Inuit Ataqatigiit,Radikale Venstre,68,55,43.0,0.7818181818181819,general
 Inuit Ataqatigiit,Sambandsflokkurin,68,1,1.0,1.0,general
 Inuit Ataqatigiit,Siumut,68,4,4.0,1.0,general
-Inuit Ataqatigiit,Socialdemokratiet,68,153,126.0,0.8235294117647058,general
-Inuit Ataqatigiit,Socialistisk Folkeparti,68,50,38.0,0.76,general
-Inuit Ataqatigiit,Venstre,68,147,90.0,0.6122448979591837,general
-Javnaðarflokkurin,Liberal Alliance,68,36,6.0,0.16666666666666666,general
-Javnaðarflokkurin,Radikale Venstre,68,89,89.0,1.0,general
-Javnaðarflokkurin,Sambandsflokkurin,68,1,1.0,1.0,general
-Javnaðarflokkurin,Siumut,68,1,1.0,1.0,general
-Javnaðarflokkurin,Socialdemokratiet,68,232,232.0,1.0,general
-Javnaðarflokkurin,Socialistisk Folkeparti,68,74,74.0,1.0,general
-Javnaðarflokkurin,Venstre,68,226,226.0,1.0,general
+Inuit Ataqatigiit,Socialdemokratiet,68,149,122.0,0.8187919463087249,general
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,54,42.0,0.7777777777777778,general
+Inuit Ataqatigiit,Tjóðveldi,68,1,1.0,1.0,general
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,68,5,3.0,0.6,general
+Inuit Ataqatigiit,Venstre,68,149,91.0,0.610738255033557,general
 Liberal Alliance,Liberal Alliance,68,17283,17183.0,0.9942139674824972,general
 Liberal Alliance,Radikale Venstre,68,92767,52175.0,0.5624306057110826,general
 Liberal Alliance,Sambandsflokkurin,68,157,101.0,0.643312101910828,general
 Liberal Alliance,Siumut,68,20,15.0,0.75,general
-Liberal Alliance,Socialdemokratiet,68,247571,138558.0,0.5596697513036665,general
-Liberal Alliance,Socialistisk Folkeparti,68,81555,44109.0,0.54084973330881,general
-Liberal Alliance,Venstre,68,237065,164262.0,0.69289857212157,general
+Liberal Alliance,Socialdemokratiet,68,240786,134721.0,0.5595051207296106,general
+Liberal Alliance,Socialistisk Folkeparti,68,90783,49156.0,0.5414670147494575,general
+Liberal Alliance,Tjóðveldi,68,36,6.0,0.16666666666666666,general
+Liberal Alliance,Uden for Folketingsgrupperne,68,7165,4917.0,0.6862526168876483,general
+Liberal Alliance,Venstre,68,241159,166924.0,0.6921740428513968,general
 Radikale Venstre,Radikale Venstre,68,91625,90644.0,0.9892933151432469,general
 Radikale Venstre,Sambandsflokkurin,68,339,271.0,0.799410029498525,general
 Radikale Venstre,Siumut,68,43,43.0,1.0,general
-Radikale Venstre,Socialdemokratiet,68,534158,531213.0,0.9944866500174105,general
-Radikale Venstre,Socialistisk Folkeparti,68,175992,169878.0,0.9652597845356607,general
-Radikale Venstre,Venstre,68,512406,372225.0,0.7264259200711936,general
+Radikale Venstre,Socialdemokratiet,68,519571,516698.0,0.994470438111442,general
+Radikale Venstre,Socialistisk Folkeparti,68,195759,189011.0,0.9655290433645451,general
+Radikale Venstre,Tjóðveldi,68,89,89.0,1.0,general
+Radikale Venstre,Uden for Folketingsgrupperne,68,15491,10943.0,0.7064101736492157,general
+Radikale Venstre,Venstre,68,521179,378523.0,0.7262821410686155,general
 Sambandsflokkurin,Siumut,68,1,1.0,1.0,general
-Sambandsflokkurin,Socialdemokratiet,68,917,743.0,0.8102508178844057,general
-Sambandsflokkurin,Socialistisk Folkeparti,68,286,226.0,0.7902097902097902,general
-Sambandsflokkurin,Venstre,68,839,838.0,0.99880810488677,general
-Siumut,Socialdemokratiet,68,126,126.0,1.0,general
-Siumut,Socialistisk Folkeparti,68,38,38.0,1.0,general
-Siumut,Venstre,68,118,90.0,0.7627118644067796,general
-Socialdemokratiet,Socialdemokratiet,68,690121,689577.0,0.9992117324353266,general
-Socialdemokratiet,Socialistisk Folkeparti,68,469139,452974.0,0.9655432611656674,general
-Socialdemokratiet,Venstre,68,1366692,998256.0,0.730417680062516,general
-Socialistisk Folkeparti,Socialistisk Folkeparti,68,70192,68932.0,0.9820492363802142,general
-Socialistisk Folkeparti,Venstre,68,450110,314381.0,0.6984537113150119,general
-Venstre,Venstre,68,633094,631989.0,0.9982546035817745,general
+Sambandsflokkurin,Socialdemokratiet,68,887,719.0,0.8105975197294251,general
+Sambandsflokkurin,Socialistisk Folkeparti,68,323,253.0,0.7832817337461301,general
+Sambandsflokkurin,Tjóðveldi,68,1,1.0,1.0,general
+Sambandsflokkurin,Uden for Folketingsgrupperne,68,12,12.0,1.0,general
+Sambandsflokkurin,Venstre,68,867,866.0,0.9988465974625144,general
+Siumut,Socialdemokratiet,68,122,122.0,1.0,general
+Siumut,Socialistisk Folkeparti,68,42,42.0,1.0,general
+Siumut,Tjóðveldi,68,1,1.0,1.0,general
+Siumut,Uden for Folketingsgrupperne,68,4,3.0,0.75,general
+Siumut,Venstre,68,120,91.0,0.7583333333333333,general
+Socialdemokratiet,Socialdemokratiet,68,652241,651714.0,0.999192016447908,general
+Socialdemokratiet,Socialistisk Folkeparti,68,507830,490633.0,0.9661363054565504,general
+Socialdemokratiet,Tjóðveldi,68,224,224.0,1.0,general
+Socialdemokratiet,Uden for Folketingsgrupperne,68,40296,28566.0,0.708904109589041,general
+Socialdemokratiet,Venstre,68,1352172,987237.0,0.7301119975861059,general
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,87960,86076.0,0.978581173260573,general
+Socialistisk Folkeparti,Tjóðveldi,68,82,82.0,1.0,general
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,68,15036,10348.0,0.6882149507847832,general
+Socialistisk Folkeparti,Venstre,68,509971,357095.0,0.7002260912875438,general
+Tjóðveldi,Uden for Folketingsgrupperne,68,8,8.0,1.0,general
+Tjóðveldi,Venstre,68,233,233.0,1.0,general
+Uden for Folketingsgrupperne,Venstre,68,40220,36007.0,0.8952511188463451,general
+Venstre,Venstre,68,655781,654626.0,0.9982387412871065,general
 Alternativet,Alternativet,69,23402,23388.0,0.9994017605332878,general
-Alternativet,Danmarksdemokraterne,69,14659,6134.0,0.41844600586670305,general
-Alternativet,Dansk Folkeparti,69,232415,93640.0,0.40289998494073104,general
+Alternativet,Dansk Folkeparti,69,239808,96636.0,0.4029723779023219,general
 Alternativet,Det Konservative Folkeparti,69,41476,18416.0,0.44401581637573534,general
 Alternativet,Enhedslisten,69,94779,77450.0,0.8171641397355954,general
 Alternativet,Inuit Ataqatigiit,69,714,136.0,0.19047619047619047,general
@@ -335,30 +308,18 @@ Alternativet,Siumut,69,18,18.0,1.0,general
 Alternativet,Socialdemokratiet,69,310506,174638.0,0.5624303556130961,general
 Alternativet,Socialistisk Folkeparti,69,42098,34149.0,0.8111786783220105,general
 Alternativet,Tjóðveldi,69,130,20.0,0.15384615384615385,general
-Alternativet,Venstre,69,203765,90613.0,0.44469364218585133,general
-Danmarksdemokraterne,Danmarksdemokraterne,69,993,830.0,0.8358509566968781,general
-Danmarksdemokraterne,Dansk Folkeparti,69,60066,55139.0,0.9179735624146772,general
-Danmarksdemokraterne,Det Konservative Folkeparti,69,10764,9765.0,0.907190635451505,general
-Danmarksdemokraterne,Enhedslisten,69,24585,8314.0,0.3381736831401261,general
-Danmarksdemokraterne,Inuit Ataqatigiit,69,146,26.0,0.1780821917808219,general
-Danmarksdemokraterne,Liberal Alliance,69,22115,19563.0,0.8846032104906172,general
-Danmarksdemokraterne,Radikale Venstre,69,13283,7783.0,0.5859369118422043,general
-Danmarksdemokraterne,Siumut,69,4,3.0,0.75,general
-Danmarksdemokraterne,Socialdemokratiet,69,80626,57529.0,0.7135291345223626,general
-Danmarksdemokraterne,Socialistisk Folkeparti,69,10957,5183.0,0.47303093912567307,general
-Danmarksdemokraterne,Tjóðveldi,69,34,5.0,0.14705882352941177,general
-Danmarksdemokraterne,Venstre,69,52313,47710.0,0.912010398944813,general
-Dansk Folkeparti,Dansk Folkeparti,69,457372,457166.0,0.9995496007626178,general
-Dansk Folkeparti,Det Konservative Folkeparti,69,170852,142604.0,0.8346639196497554,general
-Dansk Folkeparti,Enhedslisten,69,390436,133772.0,0.34262209427409357,general
-Dansk Folkeparti,Inuit Ataqatigiit,69,2698,345.0,0.1278724981467754,general
-Dansk Folkeparti,Liberal Alliance,69,350390,289613.0,0.8265447073261223,general
-Dansk Folkeparti,Radikale Venstre,69,210514,114323.0,0.5430660193621327,general
-Dansk Folkeparti,Siumut,69,64,19.0,0.296875,general
-Dansk Folkeparti,Socialdemokratiet,69,1278925,831228.0,0.6499427253357312,general
-Dansk Folkeparti,Socialistisk Folkeparti,69,173285,76426.0,0.4410422136942032,general
-Dansk Folkeparti,Tjóðveldi,69,573,112.0,0.19546247818499127,general
-Dansk Folkeparti,Venstre,69,835656,698275.0,0.8356010128569651,general
+Alternativet,Venstre,69,211031,93751.0,0.44425226625472086,general
+Dansk Folkeparti,Dansk Folkeparti,69,487404,487190.0,0.9995609391798179,general
+Dansk Folkeparti,Det Konservative Folkeparti,69,176337,147148.0,0.8344703607297391,general
+Dansk Folkeparti,Enhedslisten,69,402794,138151.0,0.3429817723203424,general
+Dansk Folkeparti,Inuit Ataqatigiit,69,2747,359.0,0.13068802329814344,general
+Dansk Folkeparti,Liberal Alliance,69,361552,298753.0,0.8263071425410453,general
+Dansk Folkeparti,Radikale Venstre,69,217186,117882.0,0.5427697917913678,general
+Dansk Folkeparti,Siumut,69,66,20.0,0.30303030303030304,general
+Dansk Folkeparti,Socialdemokratiet,69,1319576,857735.0,0.6500080328832898,general
+Dansk Folkeparti,Socialistisk Folkeparti,69,178793,78904.0,0.441314816575593,general
+Dansk Folkeparti,Tjóðveldi,69,599,117.0,0.19532554257095158,general
+Dansk Folkeparti,Venstre,69,893151,746089.0,0.8353447513354405,general
 Det Konservative Folkeparti,Det Konservative Folkeparti,69,11625,11614.0,0.9990537634408602,general
 Det Konservative Folkeparti,Enhedslisten,69,69756,23082.0,0.330896266987786,general
 Det Konservative Folkeparti,Inuit Ataqatigiit,69,483,69.0,0.14285714285714285,general
@@ -368,7 +329,7 @@ Det Konservative Folkeparti,Siumut,69,12,12.0,1.0,general
 Det Konservative Folkeparti,Socialdemokratiet,69,228218,178046.0,0.7801575686405103,general
 Det Konservative Folkeparti,Socialistisk Folkeparti,69,30932,15115.0,0.48865252812621235,general
 Det Konservative Folkeparti,Tjóðveldi,69,100,11.0,0.11,general
-Det Konservative Folkeparti,Venstre,69,148744,146606.0,0.9856263109772495,general
+Det Konservative Folkeparti,Venstre,69,154023,151827.0,0.9857423891237023,general
 Enhedslisten,Enhedslisten,69,70831,70748.0,0.9988281966935382,general
 Enhedslisten,Inuit Ataqatigiit,69,1083,222.0,0.20498614958448755,general
 Enhedslisten,Liberal Alliance,69,142946,47805.0,0.33442698641445023,general
@@ -377,42 +338,41 @@ Enhedslisten,Siumut,69,27,27.0,1.0,general
 Enhedslisten,Socialdemokratiet,69,521916,243060.0,0.46570712528452857,general
 Enhedslisten,Socialistisk Folkeparti,69,70694,55550.0,0.7857809715110193,general
 Enhedslisten,Tjóðveldi,69,234,27.0,0.11538461538461539,general
-Enhedslisten,Venstre,69,340915,111520.0,0.3271196632591702,general
+Enhedslisten,Venstre,69,353142,115455.0,0.3269364731467795,general
 Inuit Ataqatigiit,Liberal Alliance,69,966,129.0,0.13354037267080746,general
 Inuit Ataqatigiit,Radikale Venstre,69,582,136.0,0.23367697594501718,general
 Inuit Ataqatigiit,Siumut,69,2,2.0,1.0,general
 Inuit Ataqatigiit,Socialdemokratiet,69,3518,1448.0,0.4115974985787379,general
 Inuit Ataqatigiit,Socialistisk Folkeparti,69,487,142.0,0.2915811088295688,general
 Inuit Ataqatigiit,Tjóðveldi,69,8,8.0,1.0,general
-Inuit Ataqatigiit,Venstre,69,2457,343.0,0.1396011396011396,general
+Inuit Ataqatigiit,Venstre,69,2554,355.0,0.13899765074393108,general
 Liberal Alliance,Liberal Alliance,69,56339,56100.0,0.9957578231775502,general
 Liberal Alliance,Radikale Venstre,69,77070,49206.0,0.638458544180615,general
 Liberal Alliance,Siumut,69,24,24.0,1.0,general
 Liberal Alliance,Socialdemokratiet,69,468393,352544.0,0.752667097928449,general
 Liberal Alliance,Socialistisk Folkeparti,69,63461,29935.0,0.4717070326657317,general
 Liberal Alliance,Tjóðveldi,69,206,24.0,0.11650485436893204,general
-Liberal Alliance,Venstre,69,306057,292493.0,0.9556814580290599,general
+Liberal Alliance,Venstre,69,317010,302916.0,0.9555408346739851,general
 Radikale Venstre,Radikale Venstre,69,18539,18463.0,0.9959005340093856,general
 Radikale Venstre,Siumut,69,15,15.0,1.0,general
 Radikale Venstre,Socialdemokratiet,69,281117,208681.0,0.7423279275177239,general
 Radikale Venstre,Socialistisk Folkeparti,69,38129,28788.0,0.7550158671877049,general
 Radikale Venstre,Tjóðveldi,69,126,20.0,0.15873015873015872,general
-Radikale Venstre,Venstre,69,183831,121821.0,0.6626793087128939,general
+Radikale Venstre,Venstre,69,190442,126045.0,0.6618550529820103,general
 Siumut,Socialdemokratiet,69,92,92.0,1.0,general
 Siumut,Socialistisk Folkeparti,69,15,15.0,1.0,general
-Siumut,Venstre,69,66,66.0,1.0,general
+Siumut,Venstre,69,68,68.0,1.0,general
 Socialdemokratiet,Socialdemokratiet,69,827533,813596.0,0.9831583755572285,general
 Socialdemokratiet,Socialistisk Folkeparti,69,231592,145222.0,0.6270596566375349,general
 Socialdemokratiet,Tjóðveldi,69,765,116.0,0.15163398692810456,general
-Socialdemokratiet,Venstre,69,1120086,881583.0,0.78706724305098,general
+Socialdemokratiet,Venstre,69,1160061,912605.0,0.7866870793863426,general
 Socialistisk Folkeparti,Socialistisk Folkeparti,69,11798,11781.0,0.9985590778097982,general
 Socialistisk Folkeparti,Tjóðveldi,69,104,20.0,0.19230769230769232,general
-Socialistisk Folkeparti,Venstre,69,151418,73989.0,0.4886407164273732,general
-Tjóðveldi,Venstre,69,505,57.0,0.11287128712871287,general
-Venstre,Venstre,69,348855,348769.0,0.9997534792392254,general
+Socialistisk Folkeparti,Venstre,69,156867,76694.0,0.4889109882894426,general
+Tjóðveldi,Venstre,69,513,57.0,0.1111111111111111,general
+Venstre,Venstre,69,374700,374610.0,0.999759807846277,general
 Alternativet,Alternativet,70,5085,4452.0,0.8755162241887906,general
-Alternativet,Danmarksdemokraterne,70,7175,3214.0,0.44794425087108014,general
-Alternativet,Dansk Folkeparti,70,38137,17436.0,0.45719380129533,general
+Alternativet,Dansk Folkeparti,70,43746,19903.0,0.4549673112970329,general
 Alternativet,Det Konservative Folkeparti,70,30718,15650.0,0.5094732729995443,general
 Alternativet,Enhedslisten,70,35319,30508.0,0.8637843653557575,general
 Alternativet,Inuit Ataqatigiit,70,407,348.0,0.855036855036855,general
@@ -423,32 +383,19 @@ Alternativet,Sambandsflokkurin,70,70,48.0,0.6857142857142857,general
 Alternativet,Siumut,70,170,167.0,0.9823529411764705,general
 Alternativet,Socialdemokratiet,70,134969,96859.0,0.7176388652209026,general
 Alternativet,Socialistisk Folkeparti,70,38616,32422.0,0.8396001657344107,general
-Alternativet,Venstre,70,116710,61586.0,0.5276840030845686,general
-Danmarksdemokraterne,Danmarksdemokraterne,70,904,811.0,0.8971238938053098,general
-Danmarksdemokraterne,Dansk Folkeparti,70,19050,17879.0,0.9385301837270341,general
-Danmarksdemokraterne,Det Konservative Folkeparti,70,15943,11654.0,0.7309791130903845,general
-Danmarksdemokraterne,Enhedslisten,70,17944,7614.0,0.4243201069995542,general
-Danmarksdemokraterne,Inuit Ataqatigiit,70,203,29.0,0.14285714285714285,general
-Danmarksdemokraterne,Liberal Alliance,70,4872,3232.0,0.6633825944170771,general
-Danmarksdemokraterne,Nye Borgerlige,70,5350,3866.0,0.7226168224299065,general
-Danmarksdemokraterne,Radikale Venstre,70,22054,11063.0,0.5016323569420513,general
-Danmarksdemokraterne,Sambandsflokkurin,70,30,26.0,0.8666666666666667,general
-Danmarksdemokraterne,Siumut,70,109,52.0,0.47706422018348627,general
-Danmarksdemokraterne,Socialdemokratiet,70,68052,38749.0,0.5694028096161758,general
-Danmarksdemokraterne,Socialistisk Folkeparti,70,19837,9574.0,0.4826334627211776,general
-Danmarksdemokraterne,Venstre,70,58589,44121.0,0.7530594480192527,general
-Dansk Folkeparti,Dansk Folkeparti,70,46126,45335.0,0.982851320296579,general
-Dansk Folkeparti,Det Konservative Folkeparti,70,84779,58753.0,0.6930136000660541,general
-Dansk Folkeparti,Enhedslisten,70,96487,42459.0,0.4400489185071564,general
-Dansk Folkeparti,Inuit Ataqatigiit,70,827,125.0,0.15114873035066506,general
-Dansk Folkeparti,Liberal Alliance,70,26306,17338.0,0.6590891811753973,general
-Dansk Folkeparti,Nye Borgerlige,70,28440,21391.0,0.7521448663853727,general
-Dansk Folkeparti,Radikale Venstre,70,118051,59944.0,0.5077805355312535,general
-Dansk Folkeparti,Sambandsflokkurin,70,181,153.0,0.8453038674033149,general
-Dansk Folkeparti,Siumut,70,548,314.0,0.572992700729927,general
-Dansk Folkeparti,Socialdemokratiet,70,368840,207303.0,0.5620404511441275,general
-Dansk Folkeparti,Socialistisk Folkeparti,70,106728,52798.0,0.4946967993403793,general
-Dansk Folkeparti,Venstre,70,317822,226576.0,0.7129021905343242,general
+Alternativet,Venstre,70,118276,62333.0,0.5270130880313842,general
+Dansk Folkeparti,Dansk Folkeparti,70,61343,60288.0,0.982801623657141,general
+Dansk Folkeparti,Det Konservative Folkeparti,70,97216,67460.0,0.6939186965108625,general
+Dansk Folkeparti,Enhedslisten,70,110655,48463.0,0.43796484569156385,general
+Dansk Folkeparti,Inuit Ataqatigiit,70,1029,153.0,0.14868804664723032,general
+Dansk Folkeparti,Liberal Alliance,70,30117,19793.0,0.6572035727330079,general
+Dansk Folkeparti,Nye Borgerlige,70,32538,24405.0,0.7500460999446801,general
+Dansk Folkeparti,Radikale Venstre,70,135487,68377.0,0.5046757253463432,general
+Dansk Folkeparti,Sambandsflokkurin,70,204,172.0,0.8431372549019608,general
+Dansk Folkeparti,Siumut,70,606,347.0,0.5726072607260726,general
+Dansk Folkeparti,Socialdemokratiet,70,422163,236492.0,0.5601912057664931,general
+Dansk Folkeparti,Socialistisk Folkeparti,70,122339,60213.0,0.4921815610721029,general
+Dansk Folkeparti,Venstre,70,368835,263629.0,0.7147613431480201,general
 Det Konservative Folkeparti,Det Konservative Folkeparti,70,30384,30041.0,0.9887111637704055,general
 Det Konservative Folkeparti,Enhedslisten,70,78927,37840.0,0.4794303596994691,general
 Det Konservative Folkeparti,Inuit Ataqatigiit,70,527,342.0,0.6489563567362429,general
@@ -459,7 +406,7 @@ Det Konservative Folkeparti,Sambandsflokkurin,70,134,134.0,1.0,general
 Det Konservative Folkeparti,Siumut,70,442,181.0,0.4095022624434389,general
 Det Konservative Folkeparti,Socialdemokratiet,70,299739,210116.0,0.7009965336509429,general
 Det Konservative Folkeparti,Socialistisk Folkeparti,70,87569,49747.0,0.5680891639735522,general
-Det Konservative Folkeparti,Venstre,70,256967,229985.0,0.8949981904291212,general
+Det Konservative Folkeparti,Venstre,70,260473,232932.0,0.8942654325016413,general
 Enhedslisten,Enhedslisten,70,39030,38871.0,0.9959262106072252,general
 Enhedslisten,Inuit Ataqatigiit,70,731,717.0,0.9808481532147743,general
 Enhedslisten,Liberal Alliance,70,24258,11496.0,0.4739055157061588,general
@@ -469,7 +416,7 @@ Enhedslisten,Sambandsflokkurin,70,169,121.0,0.7159763313609467,general
 Enhedslisten,Siumut,70,451,444.0,0.9844789356984479,general
 Enhedslisten,Socialdemokratiet,70,343407,249997.0,0.7279904020593639,general
 Enhedslisten,Socialistisk Folkeparti,70,99522,86114.0,0.865276019372601,general
-Enhedslisten,Venstre,70,296368,146468.0,0.4942099012039087,general
+Enhedslisten,Venstre,70,300144,148078.0,0.49335652220267606,general
 Inuit Ataqatigiit,Liberal Alliance,70,208,98.0,0.47115384615384615,general
 Inuit Ataqatigiit,Nye Borgerlige,70,210,32.0,0.1523809523809524,general
 Inuit Ataqatigiit,Radikale Venstre,70,928,928.0,1.0,general
@@ -477,7 +424,7 @@ Inuit Ataqatigiit,Sambandsflokkurin,70,1,1.0,1.0,general
 Inuit Ataqatigiit,Siumut,70,6,6.0,1.0,general
 Inuit Ataqatigiit,Socialdemokratiet,70,2914,2914.0,1.0,general
 Inuit Ataqatigiit,Socialistisk Folkeparti,70,738,738.0,1.0,general
-Inuit Ataqatigiit,Venstre,70,2583,1435.0,0.5555555555555556,general
+Inuit Ataqatigiit,Venstre,70,2584,1436.0,0.5557275541795665,general
 Liberal Alliance,Liberal Alliance,70,1841,1797.0,0.9760999456816948,general
 Liberal Alliance,Nye Borgerlige,70,7064,4836.0,0.6845979614949037,general
 Liberal Alliance,Radikale Venstre,70,29807,18025.0,0.604723722615493,general
@@ -485,33 +432,33 @@ Liberal Alliance,Sambandsflokkurin,70,42,42.0,1.0,general
 Liberal Alliance,Siumut,70,159,81.0,0.5094339622641509,general
 Liberal Alliance,Socialdemokratiet,70,92980,60270.0,0.6482039148203915,general
 Liberal Alliance,Socialistisk Folkeparti,70,26944,14668.0,0.5443883610451307,general
-Liberal Alliance,Venstre,70,80039,61923.0,0.7736603405839653,general
+Liberal Alliance,Venstre,70,81100,62700.0,0.7731196054254007,general
 Nye Borgerlige,Nye Borgerlige,70,2275,2265.0,0.9956043956043956,general
 Nye Borgerlige,Radikale Venstre,70,32262,13166.0,0.408096212262104,general
 Nye Borgerlige,Sambandsflokkurin,70,47,36.0,0.7659574468085106,general
 Nye Borgerlige,Siumut,70,116,50.0,0.43103448275862066,general
 Nye Borgerlige,Socialdemokratiet,70,101069,45456.0,0.44975214952161396,general
 Nye Borgerlige,Socialistisk Folkeparti,70,29192,10948.0,0.37503425596053713,general
-Nye Borgerlige,Venstre,70,86907,53977.0,0.6210892103052689,general
+Nye Borgerlige,Venstre,70,88159,54829.0,0.6219330981522023,general
 Radikale Venstre,Radikale Venstre,70,60273,58428.0,0.969389278781544,general
 Radikale Venstre,Sambandsflokkurin,70,204,164.0,0.803921568627451,general
 Radikale Venstre,Siumut,70,560,560.0,1.0,general
 Radikale Venstre,Socialdemokratiet,70,419154,357626.0,0.8532090830577783,general
 Radikale Venstre,Socialistisk Folkeparti,70,121755,107018.0,0.8789618496160322,general
-Radikale Venstre,Venstre,70,361922,232597.0,0.6426716253778438,general
+Radikale Venstre,Venstre,70,366540,235227.0,0.641749877230316,general
 Sambandsflokkurin,Siumut,70,1,1.0,1.0,general
 Sambandsflokkurin,Socialdemokratiet,70,580,499.0,0.8603448275862069,general
 Sambandsflokkurin,Socialistisk Folkeparti,70,185,144.0,0.7783783783783784,general
-Sambandsflokkurin,Venstre,70,490,489.0,0.9979591836734694,general
+Sambandsflokkurin,Venstre,70,497,496.0,0.9979879275653923,general
 Siumut,Socialdemokratiet,70,1666,1666.0,1.0,general
 Siumut,Socialistisk Folkeparti,70,559,559.0,1.0,general
-Siumut,Venstre,70,1424,604.0,0.4241573033707865,general
+Siumut,Venstre,70,1475,623.0,0.4223728813559322,general
 Socialdemokratiet,Socialdemokratiet,70,636297,635943.0,0.9994436560285527,general
 Socialdemokratiet,Socialistisk Folkeparti,70,379155,314751.0,0.8301380701823793,general
-Socialdemokratiet,Venstre,70,1136292,817895.0,0.7197929757491912,general
+Socialdemokratiet,Venstre,70,1151021,827455.0,0.7188878395789478,general
 Socialistisk Folkeparti,Socialistisk Folkeparti,70,48540,48437.0,0.9978780387309436,general
-Socialistisk Folkeparti,Venstre,70,327077,190653.0,0.5828994395815053,general
-Venstre,Venstre,70,471485,466163.0,0.988712260199158,general
+Socialistisk Folkeparti,Venstre,70,331303,192812.0,0.5819808453288983,general
+Venstre,Venstre,70,483798,476968.0,0.9858825377533599,general
 Alternativet,Alternativet,71,4770,4430.0,0.9287211740041929,general
 Alternativet,Danmarksdemokraterne,71,35617,18718.0,0.525535558862341,general
 Alternativet,Dansk Folkeparti,71,9660,4561.0,0.47215320910973085,general

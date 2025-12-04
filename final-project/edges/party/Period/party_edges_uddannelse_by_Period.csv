@@ -1,23 +1,13 @@
 source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
-Danmarksdemokraterne,Danmarksdemokraterne,65,6,6.0,1.0,uddannelse
-Danmarksdemokraterne,Dansk Folkeparti,65,334,334.0,1.0,uddannelse
-Danmarksdemokraterne,Det Konservative Folkeparti,65,191,191.0,1.0,uddannelse
-Danmarksdemokraterne,Enhedslisten,65,25,8.0,0.32,uddannelse
-Danmarksdemokraterne,Inuit Ataqatigiit,65,1,0.0,0.0,uddannelse
-Danmarksdemokraterne,Kristendemokraterne,65,44,24.0,0.5454545454545454,uddannelse
-Danmarksdemokraterne,Radikale Venstre,65,99,61.0,0.6161616161616161,uddannelse
-Danmarksdemokraterne,Socialdemokratiet,65,735,452.0,0.6149659863945578,uddannelse
-Danmarksdemokraterne,Socialistisk Folkeparti,65,157,88.0,0.5605095541401274,uddannelse
-Danmarksdemokraterne,Venstre,65,842,842.0,1.0,uddannelse
-Dansk Folkeparti,Dansk Folkeparti,65,1629,1629.0,1.0,uddannelse
-Dansk Folkeparti,Det Konservative Folkeparti,65,2063,2063.0,1.0,uddannelse
-Dansk Folkeparti,Enhedslisten,65,264,84.0,0.3181818181818182,uddannelse
-Dansk Folkeparti,Inuit Ataqatigiit,65,13,0.0,0.0,uddannelse
-Dansk Folkeparti,Kristendemokraterne,65,475,249.0,0.5242105263157895,uddannelse
-Dansk Folkeparti,Radikale Venstre,65,1047,576.0,0.5501432664756447,uddannelse
-Dansk Folkeparti,Socialdemokratiet,65,7794,4286.0,0.5499101873235822,uddannelse
-Dansk Folkeparti,Socialistisk Folkeparti,65,1642,784.0,0.4774665042630938,uddannelse
-Dansk Folkeparti,Venstre,65,8825,8825.0,1.0,uddannelse
+Dansk Folkeparti,Dansk Folkeparti,65,1725,1725.0,1.0,uddannelse
+Dansk Folkeparti,Det Konservative Folkeparti,65,2117,2117.0,1.0,uddannelse
+Dansk Folkeparti,Enhedslisten,65,272,86.0,0.3161764705882353,uddannelse
+Dansk Folkeparti,Inuit Ataqatigiit,65,14,0.0,0.0,uddannelse
+Dansk Folkeparti,Kristendemokraterne,65,487,255.0,0.5236139630390144,uddannelse
+Dansk Folkeparti,Radikale Venstre,65,1075,596.0,0.5544186046511628,uddannelse
+Dansk Folkeparti,Socialdemokratiet,65,7999,4432.0,0.5540692586573321,uddannelse
+Dansk Folkeparti,Socialistisk Folkeparti,65,1690,816.0,0.48284023668639053,uddannelse
+Dansk Folkeparti,Venstre,65,9314,9314.0,1.0,uddannelse
 Det Konservative Folkeparti,Det Konservative Folkeparti,65,549,549.0,1.0,uddannelse
 Det Konservative Folkeparti,Enhedslisten,65,159,52.0,0.3270440251572327,uddannelse
 Det Konservative Folkeparti,Inuit Ataqatigiit,65,11,0.0,0.0,uddannelse
@@ -25,14 +15,14 @@ Det Konservative Folkeparti,Kristendemokraterne,65,282,152.0,0.5390070921985816,
 Det Konservative Folkeparti,Radikale Venstre,65,619,340.0,0.5492730210016155,uddannelse
 Det Konservative Folkeparti,Socialdemokratiet,65,4591,2522.0,0.5493356567196689,uddannelse
 Det Konservative Folkeparti,Socialistisk Folkeparti,65,973,458.0,0.47070914696813976,uddannelse
-Det Konservative Folkeparti,Venstre,65,5209,5209.0,1.0,uddannelse
+Det Konservative Folkeparti,Venstre,65,5346,5346.0,1.0,uddannelse
 Enhedslisten,Enhedslisten,65,1,1.0,1.0,uddannelse
 Enhedslisten,Inuit Ataqatigiit,65,2,2.0,1.0,uddannelse
 Enhedslisten,Kristendemokraterne,65,36,28.0,0.7777777777777778,uddannelse
 Enhedslisten,Radikale Venstre,65,79,62.0,0.7848101265822784,uddannelse
 Enhedslisten,Socialdemokratiet,65,586,437.0,0.7457337883959044,uddannelse
 Enhedslisten,Socialistisk Folkeparti,65,127,106.0,0.8346456692913385,uddannelse
-Enhedslisten,Venstre,65,667,205.0,0.3073463268365817,uddannelse
+Enhedslisten,Venstre,65,684,211.0,0.3084795321637427,uddannelse
 Inuit Ataqatigiit,Kristendemokraterne,65,2,2.0,1.0,uddannelse
 Inuit Ataqatigiit,Radikale Venstre,65,4,4.0,1.0,uddannelse
 Inuit Ataqatigiit,Socialdemokratiet,65,28,28.0,1.0,uddannelse
@@ -42,47 +32,38 @@ Kristendemokraterne,Kristendemokraterne,65,16,16.0,1.0,uddannelse
 Kristendemokraterne,Radikale Venstre,65,143,125.0,0.8741258741258742,uddannelse
 Kristendemokraterne,Socialdemokratiet,65,1058,940.0,0.888468809073724,uddannelse
 Kristendemokraterne,Socialistisk Folkeparti,65,225,183.0,0.8133333333333334,uddannelse
-Kristendemokraterne,Venstre,65,1201,623.0,0.5187343880099917,uddannelse
+Kristendemokraterne,Venstre,65,1233,641.0,0.5198702351987023,uddannelse
 Radikale Venstre,Radikale Venstre,65,121,121.0,1.0,uddannelse
 Radikale Venstre,Socialdemokratiet,65,2325,2180.0,0.9376344086021505,uddannelse
 Radikale Venstre,Socialistisk Folkeparti,65,493,465.0,0.9432048681541582,uddannelse
-Radikale Venstre,Venstre,65,2631,1444.0,0.548840744963892,uddannelse
+Radikale Venstre,Venstre,65,2702,1485.0,0.5495928941524797,uddannelse
 Socialdemokratiet,Socialdemokratiet,65,8399,8399.0,1.0,uddannelse
 Socialdemokratiet,Socialistisk Folkeparti,65,3648,3221.0,0.8829495614035088,uddannelse
-Socialdemokratiet,Venstre,65,19619,10754.0,0.5481421071410367,uddannelse
+Socialdemokratiet,Venstre,65,20149,11060.0,0.5489106159114596,uddannelse
 Socialistisk Folkeparti,Socialistisk Folkeparti,65,334,334.0,1.0,uddannelse
-Socialistisk Folkeparti,Venstre,65,4148,1954.0,0.4710703953712633,uddannelse
-Venstre,Venstre,65,10844,10844.0,1.0,uddannelse
-Danmarksdemokraterne,Danmarksdemokraterne,66,67,62.0,0.9253731343283582,uddannelse
-Danmarksdemokraterne,Dansk Folkeparti,66,4371,4154.0,0.950354609929078,uddannelse
-Danmarksdemokraterne,Det Konservative Folkeparti,66,3116,2986.0,0.9582798459563543,uddannelse
-Danmarksdemokraterne,Enhedslisten,66,745,149.0,0.2,uddannelse
-Danmarksdemokraterne,Inuit Ataqatigiit,66,1,1.0,1.0,uddannelse
-Danmarksdemokraterne,Radikale Venstre,66,2572,1252.0,0.4867807153965785,uddannelse
-Danmarksdemokraterne,Siumut,66,3,2.0,0.6666666666666666,uddannelse
-Danmarksdemokraterne,Socialdemokratiet,66,7859,5092.0,0.6479195826441023,uddannelse
-Danmarksdemokraterne,Socialistisk Folkeparti,66,2194,752.0,0.34275296262534183,uddannelse
-Danmarksdemokraterne,Tjóðveldi,66,2,0.0,0.0,uddannelse
-Danmarksdemokraterne,Venstre,66,9210,8827.0,0.958414766558089,uddannelse
-Dansk Folkeparti,Dansk Folkeparti,66,27357,27235.0,0.9955404466864056,uddannelse
-Dansk Folkeparti,Det Konservative Folkeparti,66,41296,38273.0,0.9267967841921736,uddannelse
-Dansk Folkeparti,Enhedslisten,66,9945,1907.0,0.19175465057818,uddannelse
+Socialistisk Folkeparti,Venstre,65,4257,2010.0,0.47216349541930935,uddannelse
+Venstre,Venstre,65,11441,11441.0,1.0,uddannelse
+Dansk Folkeparti,Dansk Folkeparti,66,28538,28415.0,0.9956899572499824,uddannelse
+Dansk Folkeparti,Det Konservative Folkeparti,66,39108,36187.0,0.9253093996113327,uddannelse
+Dansk Folkeparti,Enhedslisten,66,10154,1942.0,0.19125467795942486,uddannelse
 Dansk Folkeparti,Inuit Ataqatigiit,66,16,0.0,0.0,uddannelse
-Dansk Folkeparti,Radikale Venstre,66,33717,16237.0,0.4815671619657739,uddannelse
-Dansk Folkeparti,Siumut,66,33,17.0,0.5151515151515151,uddannelse
-Dansk Folkeparti,Socialdemokratiet,66,104926,64095.0,0.6108590816384881,uddannelse
-Dansk Folkeparti,Socialistisk Folkeparti,66,28957,10530.0,0.363642642538937,uddannelse
+Dansk Folkeparti,Radikale Venstre,66,34452,16537.0,0.4800011610356438,uddannelse
+Dansk Folkeparti,Siumut,66,34,18.0,0.5294117647058824,uddannelse
+Dansk Folkeparti,Socialdemokratiet,66,107057,65323.0,0.610170283120207,uddannelse
+Dansk Folkeparti,Socialistisk Folkeparti,66,29565,10697.0,0.36181295450701845,uddannelse
 Dansk Folkeparti,Tjóðveldi,66,32,0.0,0.0,uddannelse
-Dansk Folkeparti,Venstre,66,121932,112540.0,0.9229734606173933,uddannelse
-Det Konservative Folkeparti,Det Konservative Folkeparti,66,13528,13321.0,0.9846984033116499,uddannelse
-Det Konservative Folkeparti,Enhedslisten,66,7103,1390.0,0.19569196114317894,uddannelse
-Det Konservative Folkeparti,Inuit Ataqatigiit,66,10,10.0,1.0,uddannelse
-Det Konservative Folkeparti,Radikale Venstre,66,23933,12154.0,0.5078343709522417,uddannelse
-Det Konservative Folkeparti,Siumut,66,24,13.0,0.5416666666666666,uddannelse
-Det Konservative Folkeparti,Socialdemokratiet,66,74492,49715.0,0.6673871019706814,uddannelse
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,20623,7957.0,0.3858313533433545,uddannelse
-Det Konservative Folkeparti,Tjóðveldi,66,21,0.0,0.0,uddannelse
-Det Konservative Folkeparti,Venstre,66,86693,85055.0,0.9811057409479428,uddannelse
+Dansk Folkeparti,Uden for Folketingsgrupperne,66,3043,2847.0,0.9355898784094644,uddannelse
+Dansk Folkeparti,Venstre,66,127749,117833.0,0.9223790401490423,uddannelse
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,11581,11392.0,0.983680165788792,uddannelse
+Det Konservative Folkeparti,Enhedslisten,66,6584,1295.0,0.19668894289185906,uddannelse
+Det Konservative Folkeparti,Inuit Ataqatigiit,66,9,9.0,1.0,uddannelse
+Det Konservative Folkeparti,Radikale Venstre,66,22221,11290.0,0.5080779442869358,uddannelse
+Det Konservative Folkeparti,Siumut,66,22,12.0,0.5454545454545454,uddannelse
+Det Konservative Folkeparti,Socialdemokratiet,66,69140,46111.0,0.6669221868672259,uddannelse
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,19144,7386.0,0.3858127872962808,uddannelse
+Det Konservative Folkeparti,Tjóðveldi,66,19,0.0,0.0,uddannelse
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,66,1947,1929.0,0.9907550077041603,uddannelse
+Det Konservative Folkeparti,Venstre,66,82548,80948.0,0.9806173377913456,uddannelse
 Enhedslisten,Enhedslisten,66,582,582.0,1.0,uddannelse
 Enhedslisten,Inuit Ataqatigiit,66,1,1.0,1.0,uddannelse
 Enhedslisten,Radikale Venstre,66,5799,3634.0,0.6266597689256769,uddannelse
@@ -90,169 +71,174 @@ Enhedslisten,Siumut,66,5,3.0,0.6,uddannelse
 Enhedslisten,Socialdemokratiet,66,17929,8571.0,0.4780523174744827,uddannelse
 Enhedslisten,Socialistisk Folkeparti,66,4953,3809.0,0.7690288713910761,uddannelse
 Enhedslisten,Tjóðveldi,66,6,6.0,1.0,uddannelse
-Enhedslisten,Venstre,66,20844,4136.0,0.19842640568029168,uddannelse
+Enhedslisten,Uden for Folketingsgrupperne,66,519,95.0,0.18304431599229287,uddannelse
+Enhedslisten,Venstre,66,21380,4250.0,0.19878391019644528,uddannelse
 Inuit Ataqatigiit,Radikale Venstre,66,8,8.0,1.0,uddannelse
 Inuit Ataqatigiit,Socialdemokratiet,66,30,30.0,1.0,uddannelse
 Inuit Ataqatigiit,Socialistisk Folkeparti,66,8,8.0,1.0,uddannelse
-Inuit Ataqatigiit,Venstre,66,35,35.0,1.0,uddannelse
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,66,1,1.0,1.0,uddannelse
+Inuit Ataqatigiit,Venstre,66,36,36.0,1.0,uddannelse
 Radikale Venstre,Radikale Venstre,66,8824,8773.0,0.9942203082502267,uddannelse
 Radikale Venstre,Siumut,66,21,21.0,1.0,uddannelse
 Radikale Venstre,Socialdemokratiet,66,60810,48607.0,0.7993257687880283,uddannelse
 Radikale Venstre,Socialistisk Folkeparti,66,16782,13120.0,0.7817900131092838,uddannelse
 Radikale Venstre,Tjóðveldi,66,19,19.0,1.0,uddannelse
-Radikale Venstre,Venstre,66,70714,36766.0,0.5199253330316486,uddannelse
+Radikale Venstre,Uden for Folketingsgrupperne,66,1712,864.0,0.5046728971962616,uddannelse
+Radikale Venstre,Venstre,66,72551,37718.0,0.5198825653678102,uddannelse
 Siumut,Socialdemokratiet,66,59,59.0,1.0,uddannelse
 Siumut,Socialistisk Folkeparti,66,16,8.0,0.5,uddannelse
 Siumut,Tjóðveldi,66,1,1.0,1.0,uddannelse
-Siumut,Venstre,66,69,34.0,0.4927536231884058,uddannelse
+Siumut,Uden for Folketingsgrupperne,66,2,1.0,0.5,uddannelse
+Siumut,Venstre,66,71,35.0,0.49295774647887325,uddannelse
 Socialdemokratiet,Socialdemokratiet,66,91788,90449.0,0.9854120364317775,uddannelse
 Socialdemokratiet,Socialistisk Folkeparti,66,52289,36109.0,0.6905658934001415,uddannelse
 Socialdemokratiet,Tjóðveldi,66,57,57.0,1.0,uddannelse
-Socialdemokratiet,Venstre,66,220295,147675.0,0.6703511200889716,uddannelse
+Socialdemokratiet,Uden for Folketingsgrupperne,66,5352,3604.0,0.6733931240657698,uddannelse
+Socialdemokratiet,Venstre,66,226023,151539.0,0.6704583161890604,uddannelse
 Socialistisk Folkeparti,Socialistisk Folkeparti,66,6420,5940.0,0.9252336448598131,uddannelse
 Socialistisk Folkeparti,Tjóðveldi,66,14,14.0,1.0,uddannelse
-Socialistisk Folkeparti,Venstre,66,60898,23823.0,0.3911951131400046,uddannelse
-Tjóðveldi,Venstre,66,70,0.0,0.0,uddannelse
-Venstre,Venstre,66,124661,122391.0,0.9817906161510015,uddannelse
-Danmarksdemokraterne,Danmarksdemokraterne,67,43,41.0,0.9534883720930233,uddannelse
-Danmarksdemokraterne,Dansk Folkeparti,67,3712,3565.0,0.9603987068965517,uddannelse
-Danmarksdemokraterne,Det Konservative Folkeparti,67,2279,2241.0,0.9833260201842914,uddannelse
-Danmarksdemokraterne,Enhedslisten,67,472,161.0,0.3411016949152542,uddannelse
-Danmarksdemokraterne,Liberal Alliance,67,561,485.0,0.8645276292335116,uddannelse
-Danmarksdemokraterne,Radikale Venstre,67,980,531.0,0.5418367346938775,uddannelse
-Danmarksdemokraterne,Sambandsflokkurin,67,7,7.0,1.0,uddannelse
-Danmarksdemokraterne,Siumut,67,10,9.0,0.9,uddannelse
-Danmarksdemokraterne,Socialdemokratiet,67,6279,3799.0,0.6050326485109094,uddannelse
-Danmarksdemokraterne,Socialistisk Folkeparti,67,2965,1525.0,0.5143338954468802,uddannelse
-Danmarksdemokraterne,Venstre,67,6257,6170.0,0.9860955729582868,uddannelse
-Dansk Folkeparti,Dansk Folkeparti,67,36506,35905.0,0.9835369528296718,uddannelse
-Dansk Folkeparti,Det Konservative Folkeparti,67,46927,42933.0,0.9148890830438766,uddannelse
-Dansk Folkeparti,Enhedslisten,67,9908,3468.0,0.3500201857085184,uddannelse
-Dansk Folkeparti,Liberal Alliance,67,12048,9868.0,0.8190571049136787,uddannelse
-Dansk Folkeparti,Radikale Venstre,67,19788,10554.0,0.5333535476046088,uddannelse
-Dansk Folkeparti,Sambandsflokkurin,67,232,196.0,0.8448275862068966,uddannelse
-Dansk Folkeparti,Siumut,67,80,64.0,0.8,uddannelse
-Dansk Folkeparti,Socialdemokratiet,67,129376,73895.0,0.5711646673262429,uddannelse
-Dansk Folkeparti,Socialistisk Folkeparti,67,61351,30341.0,0.4945477661325814,uddannelse
-Dansk Folkeparti,Venstre,67,129904,119146.0,0.9171849981524818,uddannelse
-Det Konservative Folkeparti,Det Konservative Folkeparti,67,13113,13047.0,0.9949668268130862,uddannelse
-Det Konservative Folkeparti,Enhedslisten,67,6003,2316.0,0.38580709645177413,uddannelse
-Det Konservative Folkeparti,Liberal Alliance,67,7235,6390.0,0.8832066344160332,uddannelse
-Det Konservative Folkeparti,Radikale Venstre,67,12132,7273.0,0.5994889548302011,uddannelse
-Det Konservative Folkeparti,Sambandsflokkurin,67,134,133.0,0.9925373134328358,uddannelse
-Det Konservative Folkeparti,Siumut,67,52,51.0,0.9807692307692307,uddannelse
-Det Konservative Folkeparti,Socialdemokratiet,67,78785,50815.0,0.6449831820778067,uddannelse
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,37362,20218.0,0.541138054707992,uddannelse
-Det Konservative Folkeparti,Venstre,67,79231,79037.0,0.9975514634423395,uddannelse
-Enhedslisten,Enhedslisten,67,386,360.0,0.9326424870466321,uddannelse
-Enhedslisten,Liberal Alliance,67,1557,735.0,0.4720616570327553,uddannelse
-Enhedslisten,Radikale Venstre,67,2548,1918.0,0.7527472527472527,uddannelse
-Enhedslisten,Sambandsflokkurin,67,36,4.0,0.1111111111111111,uddannelse
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,66,1479,571.0,0.3860716700473293,uddannelse
+Socialistisk Folkeparti,Venstre,66,62484,24408.0,0.39062800076819665,uddannelse
+Tjóðveldi,Uden for Folketingsgrupperne,66,2,0.0,0.0,uddannelse
+Tjóðveldi,Venstre,66,72,0.0,0.0,uddannelse
+Uden for Folketingsgrupperne,Venstre,66,6406,6332.0,0.9884483296909148,uddannelse
+Venstre,Venstre,66,131311,128961.0,0.9821035556807883,uddannelse
+Dansk Folkeparti,Dansk Folkeparti,67,37469,36863.0,0.983826630014145,uddannelse
+Dansk Folkeparti,Det Konservative Folkeparti,67,43438,39715.0,0.9142916340531332,uddannelse
+Dansk Folkeparti,Enhedslisten,67,8766,2989.0,0.3409765001140771,uddannelse
+Dansk Folkeparti,Liberal Alliance,67,12190,9988.0,0.8193601312551272,uddannelse
+Dansk Folkeparti,Radikale Venstre,67,20061,10688.0,0.5327750361397737,uddannelse
+Dansk Folkeparti,Sambandsflokkurin,67,235,199.0,0.8468085106382979,uddannelse
+Dansk Folkeparti,Siumut,67,85,68.0,0.8,uddannelse
+Dansk Folkeparti,Socialdemokratiet,67,127577,73003.0,0.5722269688109926,uddannelse
+Dansk Folkeparti,Socialistisk Folkeparti,67,66875,33163.0,0.49589532710280376,uddannelse
+Dansk Folkeparti,Uden for Folketingsgrupperne,67,4102,3798.0,0.9258898098488543,uddannelse
+Dansk Folkeparti,Venstre,67,134364,123375.0,0.9182147003661695,uddannelse
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,10884,10823.0,0.9943954428518927,uddannelse
+Det Konservative Folkeparti,Enhedslisten,67,4828,1845.0,0.38214581607290804,uddannelse
+Det Konservative Folkeparti,Liberal Alliance,67,6600,5827.0,0.8828787878787879,uddannelse
+Det Konservative Folkeparti,Radikale Venstre,67,11101,6670.0,0.6008467705612107,uddannelse
+Det Konservative Folkeparti,Sambandsflokkurin,67,121,120.0,0.9917355371900827,uddannelse
+Det Konservative Folkeparti,Siumut,67,47,46.0,0.9787234042553191,uddannelse
+Det Konservative Folkeparti,Socialdemokratiet,67,70088,45448.0,0.6484419586805159,uddannelse
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,36742,19972.0,0.5435741113711828,uddannelse
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,67,2229,2224.0,0.9977568416330193,uddannelse
+Det Konservative Folkeparti,Venstre,67,73927,73729.0,0.9973216822000082,uddannelse
+Enhedslisten,Enhedslisten,67,244,244.0,1.0,uddannelse
+Enhedslisten,Liberal Alliance,67,1345,628.0,0.46691449814126396,uddannelse
+Enhedslisten,Radikale Venstre,67,2231,1655.0,0.7418198117436128,uddannelse
+Enhedslisten,Sambandsflokkurin,67,27,2.0,0.07407407407407407,uddannelse
 Enhedslisten,Siumut,67,6,2.0,0.3333333333333333,uddannelse
-Enhedslisten,Socialdemokratiet,67,16561,11731.0,0.7083509449912445,uddannelse
-Enhedslisten,Socialistisk Folkeparti,67,7830,6332.0,0.8086845466155811,uddannelse
-Enhedslisten,Venstre,67,16629,6342.0,0.38138192314631064,uddannelse
+Enhedslisten,Socialdemokratiet,67,14132,9805.0,0.6938154542881404,uddannelse
+Enhedslisten,Socialistisk Folkeparti,67,7412,5801.0,0.7826497571505666,uddannelse
+Enhedslisten,Uden for Folketingsgrupperne,67,452,166.0,0.3672566371681416,uddannelse
+Enhedslisten,Venstre,67,14884,5576.0,0.37463047567858104,uddannelse
 Liberal Alliance,Liberal Alliance,67,719,559.0,0.7774687065368567,uddannelse
 Liberal Alliance,Radikale Venstre,67,2975,2010.0,0.6756302521008404,uddannelse
 Liberal Alliance,Sambandsflokkurin,67,51,44.0,0.8627450980392157,uddannelse
 Liberal Alliance,Siumut,67,11,11.0,1.0,uddannelse
-Liberal Alliance,Socialdemokratiet,67,20109,13832.0,0.6878512109005918,uddannelse
-Liberal Alliance,Socialistisk Folkeparti,67,9575,5753.0,0.6008355091383812,uddannelse
-Liberal Alliance,Venstre,67,20091,17799.0,0.8859190682395103,uddannelse
+Liberal Alliance,Socialdemokratiet,67,19582,13500.0,0.6894086405882953,uddannelse
+Liberal Alliance,Socialistisk Folkeparti,67,10314,6192.0,0.6003490401396161,uddannelse
+Liberal Alliance,Uden for Folketingsgrupperne,67,635,563.0,0.8866141732283465,uddannelse
+Liberal Alliance,Venstre,67,20510,18164.0,0.8856167723061921,uddannelse
 Radikale Venstre,Radikale Venstre,67,2067,1973.0,0.9545234639574263,uddannelse
 Radikale Venstre,Sambandsflokkurin,67,46,23.0,0.5,uddannelse
 Radikale Venstre,Siumut,67,23,19.0,0.8260869565217391,uddannelse
-Radikale Venstre,Socialdemokratiet,67,33276,28931.0,0.869425411708138,uddannelse
-Radikale Venstre,Socialistisk Folkeparti,67,15758,13280.0,0.842746541439269,uddannelse
-Radikale Venstre,Venstre,67,33475,19927.0,0.5952800597460791,uddannelse
-Sambandsflokkurin,Socialdemokratiet,67,400,290.0,0.725,uddannelse
-Sambandsflokkurin,Socialistisk Folkeparti,67,185,55.0,0.2972972972972973,uddannelse
-Sambandsflokkurin,Venstre,67,355,355.0,1.0,uddannelse
-Siumut,Socialdemokratiet,67,150,150.0,1.0,uddannelse
-Siumut,Socialistisk Folkeparti,67,66,65.0,0.9848484848484849,uddannelse
-Siumut,Venstre,67,153,153.0,1.0,uddannelse
-Socialdemokratiet,Socialdemokratiet,67,104868,103830.0,0.9901018423160545,uddannelse
-Socialdemokratiet,Socialistisk Folkeparti,67,102818,89372.0,0.8692252329358673,uddannelse
-Socialdemokratiet,Venstre,67,218033,140226.0,0.6431411758770461,uddannelse
-Socialistisk Folkeparti,Socialistisk Folkeparti,67,22784,22603.0,0.9920558286516854,uddannelse
-Socialistisk Folkeparti,Venstre,67,103271,55591.0,0.5383021370956028,uddannelse
-Venstre,Venstre,67,106179,106151.0,0.9997362943708267,uddannelse
-Danmarksdemokraterne,Danmarksdemokraterne,68,131,112.0,0.8549618320610687,uddannelse
-Danmarksdemokraterne,Dansk Folkeparti,68,4682,4383.0,0.9361384023921401,uddannelse
-Danmarksdemokraterne,Det Konservative Folkeparti,68,1921,1634.0,0.8505986465382613,uddannelse
-Danmarksdemokraterne,Enhedslisten,68,3179,1415.0,0.44510852469329976,uddannelse
-Danmarksdemokraterne,Inuit Ataqatigiit,68,3,0.0,0.0,uddannelse
-Danmarksdemokraterne,Liberal Alliance,68,1932,1408.0,0.7287784679089027,uddannelse
-Danmarksdemokraterne,Radikale Venstre,68,4150,2900.0,0.6987951807228916,uddannelse
-Danmarksdemokraterne,Sambandsflokkurin,68,9,9.0,1.0,uddannelse
-Danmarksdemokraterne,Siumut,68,2,0.0,0.0,uddannelse
-Danmarksdemokraterne,Socialdemokratiet,68,11148,7863.0,0.7053283100107642,uddannelse
-Danmarksdemokraterne,Socialistisk Folkeparti,68,3662,2421.0,0.6611141452758056,uddannelse
-Danmarksdemokraterne,Venstre,68,10695,9463.0,0.8848059841047219,uddannelse
-Dansk Folkeparti,Dansk Folkeparti,68,19325,19243.0,0.9957567917205692,uddannelse
-Dansk Folkeparti,Det Konservative Folkeparti,68,17149,13683.0,0.7978890897428421,uddannelse
-Dansk Folkeparti,Enhedslisten,68,28169,12413.0,0.44066172033086015,uddannelse
-Dansk Folkeparti,Inuit Ataqatigiit,68,24,1.0,0.041666666666666664,uddannelse
-Dansk Folkeparti,Liberal Alliance,68,17170,12471.0,0.7263249854397205,uddannelse
-Dansk Folkeparti,Radikale Venstre,68,36919,24955.0,0.6759392182886861,uddannelse
-Dansk Folkeparti,Sambandsflokkurin,68,88,75.0,0.8522727272727273,uddannelse
-Dansk Folkeparti,Siumut,68,12,1.0,0.08333333333333333,uddannelse
-Dansk Folkeparti,Socialdemokratiet,68,98780,67163.0,0.6799250860498076,uddannelse
-Dansk Folkeparti,Socialistisk Folkeparti,68,32776,20445.0,0.6237795948254821,uddannelse
-Dansk Folkeparti,Venstre,68,94776,77672.0,0.8195323710644045,uddannelse
-Det Konservative Folkeparti,Det Konservative Folkeparti,68,2848,2848.0,1.0,uddannelse
-Det Konservative Folkeparti,Enhedslisten,68,11508,5361.0,0.4658498435870699,uddannelse
-Det Konservative Folkeparti,Inuit Ataqatigiit,68,9,0.0,0.0,uddannelse
-Det Konservative Folkeparti,Liberal Alliance,68,7013,5660.0,0.8070725794952232,uddannelse
-Det Konservative Folkeparti,Radikale Venstre,68,15076,11658.0,0.7732820376757761,uddannelse
-Det Konservative Folkeparti,Sambandsflokkurin,68,35,35.0,1.0,uddannelse
-Det Konservative Folkeparti,Siumut,68,5,0.0,0.0,uddannelse
-Det Konservative Folkeparti,Socialdemokratiet,68,40343,31202.0,0.7734179411545993,uddannelse
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,13342,9716.0,0.7282266526757608,uddannelse
-Det Konservative Folkeparti,Venstre,68,38687,36669.0,0.9478377749631659,uddannelse
-Enhedslisten,Enhedslisten,68,8357,8144.0,0.974512384827091,uddannelse
+Radikale Venstre,Socialdemokratiet,67,32391,28183.0,0.8700873699484425,uddannelse
+Radikale Venstre,Socialistisk Folkeparti,67,16960,14291.0,0.8426297169811321,uddannelse
+Radikale Venstre,Uden for Folketingsgrupperne,67,1031,603.0,0.5848690591658584,uddannelse
+Radikale Venstre,Venstre,67,34182,20324.0,0.5945819437130654,uddannelse
+Sambandsflokkurin,Socialdemokratiet,67,388,286.0,0.7371134020618557,uddannelse
+Sambandsflokkurin,Socialistisk Folkeparti,67,206,61.0,0.2961165048543689,uddannelse
+Sambandsflokkurin,Uden for Folketingsgrupperne,67,13,13.0,1.0,uddannelse
+Sambandsflokkurin,Venstre,67,359,359.0,1.0,uddannelse
+Siumut,Socialdemokratiet,67,145,145.0,1.0,uddannelse
+Siumut,Socialistisk Folkeparti,67,71,70.0,0.9859154929577465,uddannelse
+Siumut,Uden for Folketingsgrupperne,67,5,5.0,1.0,uddannelse
+Siumut,Venstre,67,158,158.0,1.0,uddannelse
+Socialdemokratiet,Socialdemokratiet,67,99280,99022.0,0.9974012892828364,uddannelse
+Socialdemokratiet,Socialistisk Folkeparti,67,107698,93070.0,0.8641757507103196,uddannelse
+Socialdemokratiet,Uden for Folketingsgrupperne,67,6598,4119.0,0.6242800848742043,uddannelse
+Socialdemokratiet,Venstre,67,216730,139523.0,0.6437641304849352,uddannelse
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,26481,26286.0,0.9926362297496318,uddannelse
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,67,3442,1799.0,0.5226612434631028,uddannelse
+Socialistisk Folkeparti,Venstre,67,113452,61094.0,0.5385008638014315,uddannelse
+Uden for Folketingsgrupperne,Venstre,67,6970,6969.0,0.9998565279770445,uddannelse
+Venstre,Venstre,67,110768,110740.0,0.999747219413549,uddannelse
+Dansk Folkeparti,Dansk Folkeparti,68,22335,22239.0,0.9957018132975151,uddannelse
+Dansk Folkeparti,Det Konservative Folkeparti,68,15294,12193.0,0.7972407480057538,uddannelse
+Dansk Folkeparti,Enhedslisten,68,29077,12673.0,0.4358427623207346,uddannelse
+Dansk Folkeparti,Inuit Ataqatigiit,68,26,1.0,0.038461538461538464,uddannelse
+Dansk Folkeparti,Liberal Alliance,68,18411,13373.0,0.7263592417576449,uddannelse
+Dansk Folkeparti,Radikale Venstre,68,39595,26728.0,0.6750347266068948,uddannelse
+Dansk Folkeparti,Sambandsflokkurin,68,90,77.0,0.8555555555555555,uddannelse
+Dansk Folkeparti,Siumut,68,13,1.0,0.07692307692307693,uddannelse
+Dansk Folkeparti,Socialdemokratiet,68,102912,69875.0,0.6789781560945274,uddannelse
+Dansk Folkeparti,Socialistisk Folkeparti,68,39320,24635.0,0.6265259409969481,uddannelse
+Dansk Folkeparti,Uden for Folketingsgrupperne,68,3097,2485.0,0.8023894091055861,uddannelse
+Dansk Folkeparti,Venstre,68,103472,84832.0,0.8198546466676976,uddannelse
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,1903,1903.0,1.0,uddannelse
+Det Konservative Folkeparti,Enhedslisten,68,9212,4211.0,0.45712114633087275,uddannelse
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,7,0.0,0.0,uddannelse
+Det Konservative Folkeparti,Liberal Alliance,68,5834,4742.0,0.8128213918409325,uddannelse
+Det Konservative Folkeparti,Radikale Venstre,68,12531,9644.0,0.769611363817732,uddannelse
+Det Konservative Folkeparti,Sambandsflokkurin,68,33,33.0,1.0,uddannelse
+Det Konservative Folkeparti,Siumut,68,4,0.0,0.0,uddannelse
+Det Konservative Folkeparti,Socialdemokratiet,68,32580,25066.0,0.7693677102516882,uddannelse
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,12425,9034.0,0.7270824949698189,uddannelse
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,68,945,945.0,1.0,uddannelse
+Det Konservative Folkeparti,Venstre,68,32744,31037.0,0.9478683117517713,uddannelse
+Enhedslisten,Enhedslisten,68,7674,7659.0,0.9980453479280688,uddannelse
 Enhedslisten,Inuit Ataqatigiit,68,16,16.0,1.0,uddannelse
-Enhedslisten,Liberal Alliance,68,11525,4929.0,0.4276789587852495,uddannelse
-Enhedslisten,Radikale Venstre,68,24757,16418.0,0.6631659732600881,uddannelse
+Enhedslisten,Liberal Alliance,68,11093,4705.0,0.42414135040115386,uddannelse
+Enhedslisten,Radikale Venstre,68,23857,15696.0,0.6579201073060318,uddannelse
 Enhedslisten,Sambandsflokkurin,68,55,8.0,0.14545454545454545,uddannelse
 Enhedslisten,Siumut,68,8,8.0,1.0,uddannelse
-Enhedslisten,Socialdemokratiet,68,66360,43725.0,0.6589059674502713,uddannelse
-Enhedslisten,Socialistisk Folkeparti,68,21970,15852.0,0.7215293582157487,uddannelse
-Enhedslisten,Venstre,68,63679,28474.0,0.4471489816108921,uddannelse
+Enhedslisten,Socialdemokratiet,68,62028,40518.0,0.6532211259431224,uddannelse
+Enhedslisten,Socialistisk Folkeparti,68,23673,16764.0,0.7081485236345203,uddannelse
+Enhedslisten,Uden for Folketingsgrupperne,68,1862,866.0,0.46509129967776586,uddannelse
+Enhedslisten,Venstre,68,62369,27402.0,0.43935288364411806,uddannelse
 Inuit Ataqatigiit,Liberal Alliance,68,10,0.0,0.0,uddannelse
 Inuit Ataqatigiit,Radikale Venstre,68,23,11.0,0.4782608695652174,uddannelse
 Inuit Ataqatigiit,Siumut,68,1,1.0,1.0,uddannelse
-Inuit Ataqatigiit,Socialdemokratiet,68,56,29.0,0.5178571428571429,uddannelse
-Inuit Ataqatigiit,Socialistisk Folkeparti,68,21,9.0,0.42857142857142855,uddannelse
-Inuit Ataqatigiit,Venstre,68,57,0.0,0.0,uddannelse
+Inuit Ataqatigiit,Socialdemokratiet,68,55,28.0,0.509090909090909,uddannelse
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,22,10.0,0.45454545454545453,uddannelse
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,68,2,0.0,0.0,uddannelse
+Inuit Ataqatigiit,Venstre,68,58,0.0,0.0,uddannelse
 Liberal Alliance,Liberal Alliance,68,2823,2815.0,0.9971661353170386,uddannelse
 Liberal Alliance,Radikale Venstre,68,15095,9840.0,0.6518714806227227,uddannelse
 Liberal Alliance,Sambandsflokkurin,68,35,30.0,0.8571428571428571,uddannelse
 Liberal Alliance,Siumut,68,5,0.0,0.0,uddannelse
-Liberal Alliance,Socialdemokratiet,68,40448,26380.0,0.6521954113924051,uddannelse
-Liberal Alliance,Socialistisk Folkeparti,68,13394,8066.0,0.6022099447513812,uddannelse
-Liberal Alliance,Venstre,68,38788,30260.0,0.7801381870681654,uddannelse
+Liberal Alliance,Socialdemokratiet,68,39281,25568.0,0.6508999261729589,uddannelse
+Liberal Alliance,Socialistisk Folkeparti,68,14993,9102.0,0.6070833055425865,uddannelse
+Liberal Alliance,Uden for Folketingsgrupperne,68,1179,918.0,0.7786259541984732,uddannelse
+Liberal Alliance,Venstre,68,39479,30766.0,0.7793003875478103,uddannelse
 Radikale Venstre,Radikale Venstre,68,14860,14747.0,0.9923956931359353,uddannelse
 Radikale Venstre,Sambandsflokkurin,68,77,66.0,0.8571428571428571,uddannelse
 Radikale Venstre,Siumut,68,11,11.0,1.0,uddannelse
-Radikale Venstre,Socialdemokratiet,68,86884,86560.0,0.9962708899221951,uddannelse
-Radikale Venstre,Socialistisk Folkeparti,68,28782,27291.0,0.9481967896602043,uddannelse
-Radikale Venstre,Venstre,68,83451,63299.0,0.7585169740326658,uddannelse
-Sambandsflokkurin,Socialdemokratiet,68,207,178.0,0.8599033816425121,uddannelse
-Sambandsflokkurin,Socialistisk Folkeparti,68,66,57.0,0.8636363636363636,uddannelse
-Sambandsflokkurin,Venstre,68,184,184.0,1.0,uddannelse
-Siumut,Socialdemokratiet,68,29,29.0,1.0,uddannelse
-Siumut,Socialistisk Folkeparti,68,9,9.0,1.0,uddannelse
-Siumut,Venstre,68,28,0.0,0.0,uddannelse
-Socialdemokratiet,Socialdemokratiet,68,112662,112605.0,0.9994940618842201,uddannelse
-Socialdemokratiet,Socialistisk Folkeparti,68,76978,72767.0,0.9452960586141494,uddannelse
-Socialdemokratiet,Venstre,68,223366,169667.0,0.7595918805906002,uddannelse
-Socialistisk Folkeparti,Socialistisk Folkeparti,68,11599,11386.0,0.9816363479610312,uddannelse
-Socialistisk Folkeparti,Venstre,68,73966,52589.0,0.7109888327069194,uddannelse
-Venstre,Venstre,68,103626,103475.0,0.9985428367398144,uddannelse
+Radikale Venstre,Socialdemokratiet,68,84387,84071.0,0.9962553473876308,uddannelse
+Radikale Venstre,Socialistisk Folkeparti,68,32179,30502.0,0.9478852667888996,uddannelse
+Radikale Venstre,Uden for Folketingsgrupperne,68,2545,2014.0,0.7913555992141453,uddannelse
+Radikale Venstre,Venstre,68,84925,64426.0,0.7586223138062996,uddannelse
+Sambandsflokkurin,Socialdemokratiet,68,200,172.0,0.86,uddannelse
+Sambandsflokkurin,Socialistisk Folkeparti,68,73,63.0,0.863013698630137,uddannelse
+Sambandsflokkurin,Uden for Folketingsgrupperne,68,2,2.0,1.0,uddannelse
+Sambandsflokkurin,Venstre,68,191,191.0,1.0,uddannelse
+Siumut,Socialdemokratiet,68,28,28.0,1.0,uddannelse
+Siumut,Socialistisk Folkeparti,68,10,10.0,1.0,uddannelse
+Siumut,Uden for Folketingsgrupperne,68,1,0.0,0.0,uddannelse
+Siumut,Venstre,68,29,0.0,0.0,uddannelse
+Socialdemokratiet,Socialdemokratiet,68,106168,106113.0,0.999481953130887,uddannelse
+Socialdemokratiet,Socialistisk Folkeparti,68,83664,79094.0,0.9453767450755403,uddannelse
+Socialdemokratiet,Uden for Folketingsgrupperne,68,6609,5239.0,0.7927069148131336,uddannelse
+Socialdemokratiet,Venstre,68,220751,167698.0,0.7596703978690923,uddannelse
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,14719,14331.0,0.9736395135539099,uddannelse
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,68,2505,1863.0,0.7437125748502994,uddannelse
+Socialistisk Folkeparti,Venstre,68,84296,60167.0,0.7137586599601404,uddannelse
+Uden for Folketingsgrupperne,Venstre,68,6622,6271.0,0.9469948655995167,uddannelse
+Venstre,Venstre,68,107428,107277.0,0.9985944074170607,uddannelse
 Alternativet,Alternativet,69,4203,4203.0,1.0,uddannelse
-Alternativet,Danmarksdemokraterne,69,2452,1077.0,0.4392332789559543,uddannelse
-Alternativet,Dansk Folkeparti,69,41905,15726.0,0.3752774131965159,uddannelse
+Alternativet,Dansk Folkeparti,69,43076,16169.0,0.37535982913919586,uddannelse
 Alternativet,Det Konservative Folkeparti,69,7492,3291.0,0.4392685531233316,uddannelse
 Alternativet,Enhedslisten,69,17133,13995.0,0.8168446856942742,uddannelse
 Alternativet,Inuit Ataqatigiit,69,60,6.0,0.1,uddannelse
@@ -261,28 +247,17 @@ Alternativet,Radikale Venstre,69,9142,6485.0,0.7093633778166704,uddannelse
 Alternativet,Socialdemokratiet,69,55707,31836.0,0.5714901179384997,uddannelse
 Alternativet,Socialistisk Folkeparti,69,7563,6096.0,0.8060293534311781,uddannelse
 Alternativet,Tjóðveldi,69,15,0.0,0.0,uddannelse
-Alternativet,Venstre,69,36420,15706.0,0.4312465678198792,uddannelse
-Danmarksdemokraterne,Danmarksdemokraterne,69,158,132.0,0.8354430379746836,uddannelse
-Danmarksdemokraterne,Dansk Folkeparti,69,10141,9221.0,0.9092791637905532,uddannelse
-Danmarksdemokraterne,Det Konservative Folkeparti,69,1817,1648.0,0.906989543203082,uddannelse
-Danmarksdemokraterne,Enhedslisten,69,4188,1346.0,0.3213944603629417,uddannelse
-Danmarksdemokraterne,Inuit Ataqatigiit,69,14,2.0,0.14285714285714285,uddannelse
-Danmarksdemokraterne,Liberal Alliance,69,3739,3285.0,0.8785771596683605,uddannelse
-Danmarksdemokraterne,Radikale Venstre,69,2218,1395.0,0.6289449954914337,uddannelse
-Danmarksdemokraterne,Socialdemokratiet,69,13570,9854.0,0.7261606484893147,uddannelse
-Danmarksdemokraterne,Socialistisk Folkeparti,69,1852,968.0,0.5226781857451404,uddannelse
-Danmarksdemokraterne,Tjóðveldi,69,4,1.0,0.25,uddannelse
-Danmarksdemokraterne,Venstre,69,8756,8020.0,0.9159433531292828,uddannelse
-Dansk Folkeparti,Dansk Folkeparti,69,82664,82602.0,0.9992499758056711,uddannelse
-Dansk Folkeparti,Det Konservative Folkeparti,69,30925,25957.0,0.8393532740501213,uddannelse
-Dansk Folkeparti,Enhedslisten,69,70772,21461.0,0.30324139490193863,uddannelse
-Dansk Folkeparti,Inuit Ataqatigiit,69,214,22.0,0.102803738317757,uddannelse
-Dansk Folkeparti,Liberal Alliance,69,63219,52533.0,0.8309685379395435,uddannelse
-Dansk Folkeparti,Radikale Venstre,69,37789,22134.0,0.5857260049220673,uddannelse
-Dansk Folkeparti,Socialdemokratiet,69,230129,155580.0,0.6760556035962438,uddannelse
-Dansk Folkeparti,Socialistisk Folkeparti,69,31195,14323.0,0.45914409360474434,uddannelse
-Dansk Folkeparti,Tjóðveldi,69,66,22.0,0.3333333333333333,uddannelse
-Dansk Folkeparti,Venstre,69,149928,127274.0,0.848900805720079,uddannelse
+Alternativet,Venstre,69,37701,16340.0,0.4334102543699106,uddannelse
+Dansk Folkeparti,Dansk Folkeparti,69,87459,87394.0,0.9992567946123326,uddannelse
+Dansk Folkeparti,Det Konservative Folkeparti,69,31803,26674.0,0.8387259063610352,uddannelse
+Dansk Folkeparti,Enhedslisten,69,72778,22046.0,0.30292121245431314,uddannelse
+Dansk Folkeparti,Inuit Ataqatigiit,69,223,23.0,0.1031390134529148,uddannelse
+Dansk Folkeparti,Liberal Alliance,69,65017,53980.0,0.8302443976190842,uddannelse
+Dansk Folkeparti,Radikale Venstre,69,38843,22673.0,0.5837087763561002,uddannelse
+Dansk Folkeparti,Socialdemokratiet,69,236634,159581.0,0.6743789987913825,uddannelse
+Dansk Folkeparti,Socialistisk Folkeparti,69,32083,14712.0,0.45856060842190566,uddannelse
+Dansk Folkeparti,Tjóðveldi,69,69,23.0,0.3333333333333333,uddannelse
+Dansk Folkeparti,Venstre,69,159641,135310.0,0.8475892784435076,uddannelse
 Det Konservative Folkeparti,Det Konservative Folkeparti,69,2109,2109.0,1.0,uddannelse
 Det Konservative Folkeparti,Enhedslisten,69,12670,3999.0,0.3156274664561957,uddannelse
 Det Konservative Folkeparti,Inuit Ataqatigiit,69,40,4.0,0.1,uddannelse
@@ -291,7 +266,7 @@ Det Konservative Folkeparti,Radikale Venstre,69,6759,4678.0,0.6921142180795976,u
 Det Konservative Folkeparti,Socialdemokratiet,69,41124,32754.0,0.796469215056901,uddannelse
 Det Konservative Folkeparti,Socialistisk Folkeparti,69,5574,2938.0,0.5270900609974883,uddannelse
 Det Konservative Folkeparti,Tjóðveldi,69,11,0.0,0.0,uddannelse
-Det Konservative Folkeparti,Venstre,69,26699,26551.0,0.9944567212255141,uddannelse
+Det Konservative Folkeparti,Venstre,69,27638,27482.0,0.9943555973659455,uddannelse
 Enhedslisten,Enhedslisten,69,12876,12847.0,0.9977477477477478,uddannelse
 Enhedslisten,Inuit Ataqatigiit,69,90,27.0,0.3,uddannelse
 Enhedslisten,Liberal Alliance,69,25869,8827.0,0.34121921991572923,uddannelse
@@ -299,36 +274,35 @@ Enhedslisten,Radikale Venstre,69,15453,8950.0,0.5791755646152851,uddannelse
 Enhedslisten,Socialdemokratiet,69,94190,42596.0,0.4522348444633188,uddannelse
 Enhedslisten,Socialistisk Folkeparti,69,12762,9365.0,0.7338191506033537,uddannelse
 Enhedslisten,Tjóðveldi,69,27,0.0,0.0,uddannelse
-Enhedslisten,Venstre,69,61331,19095.0,0.31134336632371884,uddannelse
+Enhedslisten,Venstre,69,63513,19856.0,0.31262891061672415,uddannelse
 Inuit Ataqatigiit,Liberal Alliance,69,80,8.0,0.1,uddannelse
 Inuit Ataqatigiit,Radikale Venstre,69,42,5.0,0.11904761904761904,uddannelse
 Inuit Ataqatigiit,Socialdemokratiet,69,293,29.0,0.09897610921501707,uddannelse
 Inuit Ataqatigiit,Socialistisk Folkeparti,69,40,8.0,0.2,uddannelse
 Inuit Ataqatigiit,Tjóðveldi,69,1,1.0,1.0,uddannelse
-Inuit Ataqatigiit,Venstre,69,199,20.0,0.10050251256281408,uddannelse
+Inuit Ataqatigiit,Venstre,69,204,21.0,0.10294117647058823,uddannelse
 Liberal Alliance,Liberal Alliance,69,10137,10087.0,0.9950675742330078,uddannelse
 Liberal Alliance,Radikale Venstre,69,13807,9541.0,0.6910262910118056,uddannelse
 Liberal Alliance,Socialdemokratiet,69,84127,64651.0,0.7684928738692691,uddannelse
 Liberal Alliance,Socialistisk Folkeparti,69,11410,6158.0,0.5397020157756354,uddannelse
 Liberal Alliance,Tjóðveldi,69,24,0.0,0.0,uddannelse
-Liberal Alliance,Venstre,69,54792,52716.0,0.9621112571178274,uddannelse
+Liberal Alliance,Venstre,69,56733,54554.0,0.9615920187545167,uddannelse
 Radikale Venstre,Radikale Venstre,69,3302,3274.0,0.9915202907328892,uddannelse
 Radikale Venstre,Socialdemokratiet,69,50231,40563.0,0.8075292150265773,uddannelse
 Radikale Venstre,Socialistisk Folkeparti,69,6814,5329.0,0.7820663340181978,uddannelse
 Radikale Venstre,Tjóðveldi,69,13,0.0,0.0,uddannelse
-Radikale Venstre,Venstre,69,32731,22844.0,0.6979316244538817,uddannelse
+Radikale Venstre,Venstre,69,33895,23700.0,0.6992181737719427,uddannelse
 Socialdemokratiet,Socialdemokratiet,69,148237,144929.0,0.9776843837908215,uddannelse
 Socialdemokratiet,Socialistisk Folkeparti,69,41510,27834.0,0.6705372199470008,uddannelse
 Socialdemokratiet,Tjóðveldi,69,89,0.0,0.0,uddannelse
-Socialdemokratiet,Venstre,69,200109,159117.0,0.7951516423549165,uddannelse
+Socialdemokratiet,Venstre,69,207174,164970.0,0.7962871788931043,uddannelse
 Socialistisk Folkeparti,Socialistisk Folkeparti,69,2111,2102.0,0.995736617716722,uddannelse
 Socialistisk Folkeparti,Tjóðveldi,69,12,4.0,0.3333333333333333,uddannelse
-Socialistisk Folkeparti,Venstre,69,27058,13942.0,0.5152635080198092,uddannelse
-Tjóðveldi,Venstre,69,58,0.0,0.0,uddannelse
-Venstre,Venstre,69,62121,62090.0,0.9995009739057645,uddannelse
+Socialistisk Folkeparti,Venstre,69,28022,14521.0,0.5181999857255014,uddannelse
+Tjóðveldi,Venstre,69,59,0.0,0.0,uddannelse
+Venstre,Venstre,69,66668,66635.0,0.999505009899802,uddannelse
 Alternativet,Alternativet,70,710,629.0,0.8859154929577465,uddannelse
-Alternativet,Danmarksdemokraterne,70,1107,601.0,0.5429087624209575,uddannelse
-Alternativet,Dansk Folkeparti,70,5665,3192.0,0.563459841129744,uddannelse
+Alternativet,Dansk Folkeparti,70,6573,3657.0,0.5563669557279781,uddannelse
 Alternativet,Det Konservative Folkeparti,70,4868,2682.0,0.5509449465899754,uddannelse
 Alternativet,Enhedslisten,70,5356,4622.0,0.862957430918596,uddannelse
 Alternativet,Liberal Alliance,70,1445,877.0,0.6069204152249135,uddannelse
@@ -337,28 +311,17 @@ Alternativet,Radikale Venstre,70,6593,5554.0,0.8424086151979372,uddannelse
 Alternativet,Sambandsflokkurin,70,27,20.0,0.7407407407407407,uddannelse
 Alternativet,Socialdemokratiet,70,20277,15325.0,0.7557824135720275,uddannelse
 Alternativet,Socialistisk Folkeparti,70,5953,5036.0,0.8459600201579036,uddannelse
-Alternativet,Venstre,70,17340,10240.0,0.5905420991926182,uddannelse
-Danmarksdemokraterne,Danmarksdemokraterne,70,160,144.0,0.9,uddannelse
-Danmarksdemokraterne,Dansk Folkeparti,70,3086,2836.0,0.9189889825016202,uddannelse
-Danmarksdemokraterne,Det Konservative Folkeparti,70,2813,2272.0,0.8076786349093494,uddannelse
-Danmarksdemokraterne,Enhedslisten,70,3011,1400.0,0.46496180670873466,uddannelse
-Danmarksdemokraterne,Liberal Alliance,70,801,557.0,0.6953807740324595,uddannelse
-Danmarksdemokraterne,Nye Borgerlige,70,885,663.0,0.7491525423728813,uddannelse
-Danmarksdemokraterne,Radikale Venstre,70,3744,2025.0,0.5408653846153846,uddannelse
-Danmarksdemokraterne,Sambandsflokkurin,70,13,11.0,0.8461538461538461,uddannelse
-Danmarksdemokraterne,Socialdemokratiet,70,11268,6970.0,0.6185658501952431,uddannelse
-Danmarksdemokraterne,Socialistisk Folkeparti,70,3391,1746.0,0.5148923621350634,uddannelse
-Danmarksdemokraterne,Venstre,70,9602,7761.0,0.8082691106019579,uddannelse
-Dansk Folkeparti,Dansk Folkeparti,70,7169,6934.0,0.9672199748918957,uddannelse
-Dansk Folkeparti,Det Konservative Folkeparti,70,14026,10502.0,0.7487523171253386,uddannelse
-Dansk Folkeparti,Enhedslisten,70,15398,7807.0,0.5070138979088193,uddannelse
-Dansk Folkeparti,Liberal Alliance,70,4114,2787.0,0.6774428779776374,uddannelse
-Dansk Folkeparti,Nye Borgerlige,70,4502,3361.0,0.7465570857396713,uddannelse
-Dansk Folkeparti,Radikale Venstre,70,18978,11206.0,0.5904731794709663,uddannelse
-Dansk Folkeparti,Sambandsflokkurin,70,77,61.0,0.7922077922077922,uddannelse
-Dansk Folkeparti,Socialdemokratiet,70,58419,36916.0,0.6319176980092094,uddannelse
-Dansk Folkeparti,Socialistisk Folkeparti,70,17270,9640.0,0.5581933989577301,uddannelse
-Dansk Folkeparti,Venstre,70,49873,38001.0,0.7619553666312433,uddannelse
+Alternativet,Venstre,70,17539,10376.0,0.5915958720565596,uddannelse
+Dansk Folkeparti,Dansk Folkeparti,70,9820,9473.0,0.9646639511201629,uddannelse
+Dansk Folkeparti,Det Konservative Folkeparti,70,16407,12381.0,0.7546169317974035,uddannelse
+Dansk Folkeparti,Enhedslisten,70,17926,8940.0,0.4987169474506304,uddannelse
+Dansk Folkeparti,Liberal Alliance,70,4782,3245.0,0.678586365537432,uddannelse
+Dansk Folkeparti,Nye Borgerlige,70,5223,3914.0,0.749377752249665,uddannelse
+Dansk Folkeparti,Radikale Venstre,70,22133,12842.0,0.5802195816202051,uddannelse
+Dansk Folkeparti,Sambandsflokkurin,70,87,69.0,0.7931034482758621,uddannelse
+Dansk Folkeparti,Socialdemokratiet,70,67823,42630.0,0.6285478377541542,uddannelse
+Dansk Folkeparti,Socialistisk Folkeparti,70,20137,11061.0,0.5492873814371555,uddannelse
+Dansk Folkeparti,Venstre,70,58523,44771.0,0.7650154640056046,uddannelse
 Det Konservative Folkeparti,Det Konservative Folkeparti,70,5468,5367.0,0.981528895391368,uddannelse
 Det Konservative Folkeparti,Enhedslisten,70,13425,6623.0,0.49333333333333335,uddannelse
 Det Konservative Folkeparti,Liberal Alliance,70,3555,2802.0,0.7881856540084389,uddannelse
@@ -367,7 +330,7 @@ Det Konservative Folkeparti,Radikale Venstre,70,16621,10250.0,0.6166897298598158
 Det Konservative Folkeparti,Sambandsflokkurin,70,57,57.0,1.0,uddannelse
 Det Konservative Folkeparti,Socialdemokratiet,70,50399,34103.0,0.6766602511954602,uddannelse
 Det Konservative Folkeparti,Socialistisk Folkeparti,70,15157,8840.0,0.5832288711486442,uddannelse
-Det Konservative Folkeparti,Venstre,70,42783,38950.0,0.9104083397611201,uddannelse
+Det Konservative Folkeparti,Venstre,70,43215,39343.0,0.9104014809672567,uddannelse
 Enhedslisten,Enhedslisten,70,6393,6374.0,0.9970279993743156,uddannelse
 Enhedslisten,Liberal Alliance,70,3858,2132.0,0.5526179367547952,uddannelse
 Enhedslisten,Nye Borgerlige,70,4283,1463.0,0.34158300256829327,uddannelse
@@ -375,34 +338,34 @@ Enhedslisten,Radikale Venstre,70,18142,15129.0,0.8339212876198876,uddannelse
 Enhedslisten,Sambandsflokkurin,70,72,56.0,0.7777777777777778,uddannelse
 Enhedslisten,Socialdemokratiet,70,55710,42023.0,0.7543169987434931,uddannelse
 Enhedslisten,Socialistisk Folkeparti,70,16537,14260.0,0.8623087621696801,uddannelse
-Enhedslisten,Venstre,70,47627,25437.0,0.5340878073361749,uddannelse
+Enhedslisten,Venstre,70,48110,25704.0,0.5342756183745583,uddannelse
 Liberal Alliance,Liberal Alliance,70,292,278.0,0.952054794520548,uddannelse
 Liberal Alliance,Nye Borgerlige,70,1119,755.0,0.6747095621090259,uddannelse
 Liberal Alliance,Radikale Venstre,70,4813,3201.0,0.6650737585705381,uddannelse
 Liberal Alliance,Sambandsflokkurin,70,18,18.0,1.0,uddannelse
 Liberal Alliance,Socialdemokratiet,70,14728,9770.0,0.6633623030961434,uddannelse
 Liberal Alliance,Socialistisk Folkeparti,70,4356,2624.0,0.6023875114784206,uddannelse
-Liberal Alliance,Venstre,70,12561,9990.0,0.7953188440410796,uddannelse
+Liberal Alliance,Venstre,70,12694,10089.0,0.7947849377658737,uddannelse
 Nye Borgerlige,Nye Borgerlige,70,354,353.0,0.9971751412429378,uddannelse
 Nye Borgerlige,Radikale Venstre,70,5275,2231.0,0.4229383886255924,uddannelse
 Nye Borgerlige,Sambandsflokkurin,70,20,13.0,0.65,uddannelse
 Nye Borgerlige,Socialdemokratiet,70,16240,7580.0,0.4667487684729064,uddannelse
 Nye Borgerlige,Socialistisk Folkeparti,70,4800,1835.0,0.38229166666666664,uddannelse
-Nye Borgerlige,Venstre,70,13845,9417.0,0.6801733477789815,uddannelse
+Nye Borgerlige,Venstre,70,14009,9527.0,0.6800628167606538,uddannelse
 Radikale Venstre,Radikale Venstre,70,10043,9718.0,0.9676391516479139,uddannelse
 Radikale Venstre,Sambandsflokkurin,70,85,65.0,0.7647058823529411,uddannelse
 Radikale Venstre,Socialdemokratiet,70,68419,58452.0,0.8543240912611993,uddannelse
 Radikale Venstre,Socialistisk Folkeparti,70,20397,18261.0,0.8952787174584498,uddannelse
-Radikale Venstre,Venstre,70,58491,38467.0,0.6576567335145578,uddannelse
+Radikale Venstre,Venstre,70,59080,38856.0,0.6576844955991875,uddannelse
 Sambandsflokkurin,Socialdemokratiet,70,244,188.0,0.7704918032786885,uddannelse
 Sambandsflokkurin,Socialistisk Folkeparti,70,78,62.0,0.7948717948717948,uddannelse
-Sambandsflokkurin,Venstre,70,209,208.0,0.9952153110047847,uddannelse
+Sambandsflokkurin,Venstre,70,212,211.0,0.9952830188679245,uddannelse
 Socialdemokratiet,Socialdemokratiet,70,102356,102274.0,0.9991988745163938,uddannelse
 Socialdemokratiet,Socialistisk Folkeparti,70,62391,53648.0,0.8598676091102884,uddannelse
-Socialdemokratiet,Venstre,70,181253,127928.0,0.7057979729990675,uddannelse
+Socialdemokratiet,Venstre,70,183117,129184.0,0.7054724574998498,uddannelse
 Socialistisk Folkeparti,Socialistisk Folkeparti,70,8205,8164.0,0.9950030469226082,uddannelse
-Socialistisk Folkeparti,Venstre,70,53344,32344.0,0.6063287342531494,uddannelse
-Venstre,Venstre,70,74486,73906.0,0.9922133018285315,uddannelse
+Socialistisk Folkeparti,Venstre,70,53868,32669.0,0.6064639489121556,uddannelse
+Venstre,Venstre,70,76033,75338.0,0.9908592321755028,uddannelse
 Alternativet,Alternativet,71,920,801.0,0.8706521739130435,uddannelse
 Alternativet,Danmarksdemokraterne,71,6663,3550.0,0.5327930361698935,uddannelse
 Alternativet,Dansk Folkeparti,71,1733,879.0,0.5072129255626082,uddannelse

@@ -1,79 +1,61 @@
 source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
-Danmarksdemokraterne,Danmarksdemokraterne,65,4,4.0,1.0,transport_infrastruktur
-Danmarksdemokraterne,Dansk Folkeparti,65,322,322.0,1.0,transport_infrastruktur
-Danmarksdemokraterne,Det Konservative Folkeparti,65,185,185.0,1.0,transport_infrastruktur
-Danmarksdemokraterne,Enhedslisten,65,29,4.0,0.13793103448275862,transport_infrastruktur
-Danmarksdemokraterne,Kristendemokraterne,65,43,29.0,0.6744186046511628,transport_infrastruktur
-Danmarksdemokraterne,Radikale Venstre,65,96,56.0,0.5833333333333334,transport_infrastruktur
-Danmarksdemokraterne,Socialdemokratiet,65,724,396.0,0.5469613259668509,transport_infrastruktur
-Danmarksdemokraterne,Socialistisk Folkeparti,65,157,79.0,0.5031847133757962,transport_infrastruktur
-Danmarksdemokraterne,Venstre,65,820,820.0,1.0,transport_infrastruktur
-Dansk Folkeparti,Dansk Folkeparti,65,1807,1807.0,1.0,transport_infrastruktur
-Dansk Folkeparti,Det Konservative Folkeparti,65,2293,2293.0,1.0,transport_infrastruktur
-Dansk Folkeparti,Enhedslisten,65,369,43.0,0.11653116531165311,transport_infrastruktur
-Dansk Folkeparti,Kristendemokraterne,65,513,367.0,0.7153996101364523,transport_infrastruktur
-Dansk Folkeparti,Radikale Venstre,65,1177,709.0,0.6023789294817332,transport_infrastruktur
-Dansk Folkeparti,Socialdemokratiet,65,8655,4818.0,0.5566724436741768,transport_infrastruktur
-Dansk Folkeparti,Socialistisk Folkeparti,65,1913,935.0,0.4887611082070047,transport_infrastruktur
-Dansk Folkeparti,Venstre,65,9778,9778.0,1.0,transport_infrastruktur
+Dansk Folkeparti,Dansk Folkeparti,65,1880,1880.0,1.0,transport_infrastruktur
+Dansk Folkeparti,Det Konservative Folkeparti,65,2331,2331.0,1.0,transport_infrastruktur
+Dansk Folkeparti,Enhedslisten,65,374,44.0,0.11764705882352941,transport_infrastruktur
+Dansk Folkeparti,Kristendemokraterne,65,523,373.0,0.7131931166347992,transport_infrastruktur
+Dansk Folkeparti,Radikale Venstre,65,1198,722.0,0.6026711185308848,transport_infrastruktur
+Dansk Folkeparti,Socialdemokratiet,65,8822,4917.0,0.557356608478803,transport_infrastruktur
+Dansk Folkeparti,Socialistisk Folkeparti,65,1947,957.0,0.4915254237288136,transport_infrastruktur
+Dansk Folkeparti,Venstre,65,10219,10219.0,1.0,transport_infrastruktur
 Det Konservative Folkeparti,Det Konservative Folkeparti,65,618,618.0,1.0,transport_infrastruktur
 Det Konservative Folkeparti,Enhedslisten,65,225,25.0,0.1111111111111111,transport_infrastruktur
 Det Konservative Folkeparti,Kristendemokraterne,65,301,225.0,0.7475083056478405,transport_infrastruktur
 Det Konservative Folkeparti,Radikale Venstre,65,703,405.0,0.5761024182076814,transport_infrastruktur
 Det Konservative Folkeparti,Socialdemokratiet,65,5105,2698.0,0.5285014691478942,transport_infrastruktur
 Det Konservative Folkeparti,Socialistisk Folkeparti,65,1121,502.0,0.44781445138269405,transport_infrastruktur
-Det Konservative Folkeparti,Venstre,65,5773,5773.0,1.0,transport_infrastruktur
+Det Konservative Folkeparti,Venstre,65,5920,5920.0,1.0,transport_infrastruktur
 Enhedslisten,Enhedslisten,65,7,7.0,1.0,transport_infrastruktur
 Enhedslisten,Kristendemokraterne,65,48,18.0,0.375,transport_infrastruktur
 Enhedslisten,Radikale Venstre,65,114,64.0,0.5614035087719298,transport_infrastruktur
 Enhedslisten,Socialdemokratiet,65,813,516.0,0.6346863468634686,transport_infrastruktur
 Enhedslisten,Socialistisk Folkeparti,65,184,134.0,0.7282608695652174,transport_infrastruktur
-Enhedslisten,Venstre,65,924,112.0,0.12121212121212122,transport_infrastruktur
+Enhedslisten,Venstre,65,948,115.0,0.12130801687763713,transport_infrastruktur
 Kristendemokraterne,Kristendemokraterne,65,17,17.0,1.0,transport_infrastruktur
 Kristendemokraterne,Radikale Venstre,65,155,102.0,0.6580645161290323,transport_infrastruktur
 Kristendemokraterne,Socialdemokratiet,65,1148,852.0,0.7421602787456446,transport_infrastruktur
 Kristendemokraterne,Socialistisk Folkeparti,65,253,164.0,0.6482213438735178,transport_infrastruktur
-Kristendemokraterne,Venstre,65,1298,928.0,0.7149460708782742,transport_infrastruktur
+Kristendemokraterne,Venstre,65,1331,951.0,0.7145003756574004,transport_infrastruktur
 Radikale Venstre,Radikale Venstre,65,140,140.0,1.0,transport_infrastruktur
 Radikale Venstre,Socialdemokratiet,65,2620,2445.0,0.933206106870229,transport_infrastruktur
 Radikale Venstre,Socialistisk Folkeparti,65,580,495.0,0.853448275862069,transport_infrastruktur
-Radikale Venstre,Venstre,65,2960,1768.0,0.5972972972972973,transport_infrastruktur
+Radikale Venstre,Venstre,65,3035,1811.0,0.5967051070840198,transport_infrastruktur
 Socialdemokratiet,Socialdemokratiet,65,9389,9358.0,0.9966982639258707,transport_infrastruktur
 Socialdemokratiet,Socialistisk Folkeparti,65,4259,3980.0,0.9344916647100259,transport_infrastruktur
-Socialdemokratiet,Venstre,65,21871,12179.0,0.556856110831695,transport_infrastruktur
+Socialdemokratiet,Venstre,65,22428,12476.0,0.5562689495273765,transport_infrastruktur
 Socialistisk Folkeparti,Socialistisk Folkeparti,65,415,415.0,1.0,transport_infrastruktur
-Socialistisk Folkeparti,Venstre,65,4805,2359.0,0.4909469302809573,transport_infrastruktur
-Venstre,Venstre,65,12045,12045.0,1.0,transport_infrastruktur
-Danmarksdemokraterne,Danmarksdemokraterne,66,23,22.0,0.9565217391304348,transport_infrastruktur
-Danmarksdemokraterne,Dansk Folkeparti,66,2312,2248.0,0.972318339100346,transport_infrastruktur
-Danmarksdemokraterne,Det Konservative Folkeparti,66,1700,1688.0,0.9929411764705882,transport_infrastruktur
-Danmarksdemokraterne,Enhedslisten,66,380,106.0,0.2789473684210526,transport_infrastruktur
-Danmarksdemokraterne,Fólkaflokkurin,66,1,1.0,1.0,transport_infrastruktur
-Danmarksdemokraterne,Inuit Ataqatigiit,66,1,0.0,0.0,transport_infrastruktur
-Danmarksdemokraterne,Radikale Venstre,66,1287,879.0,0.682983682983683,transport_infrastruktur
-Danmarksdemokraterne,Siumut,66,2,1.0,0.5,transport_infrastruktur
-Danmarksdemokraterne,Socialdemokratiet,66,4185,2857.0,0.6826762246117085,transport_infrastruktur
-Danmarksdemokraterne,Socialistisk Folkeparti,66,1157,509.0,0.4399308556611927,transport_infrastruktur
-Danmarksdemokraterne,Venstre,66,4886,4849.0,0.9924273434302088,transport_infrastruktur
-Dansk Folkeparti,Dansk Folkeparti,66,15920,15920.0,1.0,transport_infrastruktur
-Dansk Folkeparti,Det Konservative Folkeparti,66,24843,24156.0,0.9723463349836976,transport_infrastruktur
-Dansk Folkeparti,Enhedslisten,66,5639,1465.0,0.2597978364958326,transport_infrastruktur
+Socialistisk Folkeparti,Venstre,65,4928,2416.0,0.4902597402597403,transport_infrastruktur
+Venstre,Venstre,65,12677,12677.0,1.0,transport_infrastruktur
+Dansk Folkeparti,Dansk Folkeparti,66,16314,16314.0,1.0,transport_infrastruktur
+Dansk Folkeparti,Det Konservative Folkeparti,66,23235,22602.0,0.9727566171723693,transport_infrastruktur
+Dansk Folkeparti,Enhedslisten,66,5701,1492.0,0.26170847219786003,transport_infrastruktur
 Dansk Folkeparti,Fólkaflokkurin,66,16,16.0,1.0,transport_infrastruktur
 Dansk Folkeparti,Inuit Ataqatigiit,66,15,0.0,0.0,transport_infrastruktur
-Dansk Folkeparti,Radikale Venstre,66,18601,12843.0,0.6904467501747218,transport_infrastruktur
-Dansk Folkeparti,Siumut,66,31,16.0,0.5161290322580645,transport_infrastruktur
-Dansk Folkeparti,Socialdemokratiet,66,60978,42174.0,0.691626488241661,transport_infrastruktur
-Dansk Folkeparti,Socialistisk Folkeparti,66,16859,7465.0,0.4427902010795421,transport_infrastruktur
-Dansk Folkeparti,Venstre,66,70739,68562.0,0.9692248971571552,transport_infrastruktur
-Det Konservative Folkeparti,Det Konservative Folkeparti,66,8416,8406.0,0.9988117870722434,transport_infrastruktur
-Det Konservative Folkeparti,Enhedslisten,66,4147,1093.0,0.26356402218471187,transport_infrastruktur
-Det Konservative Folkeparti,Fólkaflokkurin,66,11,11.0,1.0,transport_infrastruktur
+Dansk Folkeparti,Radikale Venstre,66,18837,13014.0,0.6908743430482561,transport_infrastruktur
+Dansk Folkeparti,Siumut,66,32,17.0,0.53125,transport_infrastruktur
+Dansk Folkeparti,Socialdemokratiet,66,61693,42632.0,0.6910346392621529,transport_infrastruktur
+Dansk Folkeparti,Socialistisk Folkeparti,66,17058,7568.0,0.44366279751436277,transport_infrastruktur
+Dansk Folkeparti,Uden for Folketingsgrupperne,66,1897,1832.0,0.9657353716394307,transport_infrastruktur
+Dansk Folkeparti,Venstre,66,73530,71252.0,0.9690194478444173,transport_infrastruktur
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,7165,7156.0,0.9987438939288207,transport_infrastruktur
+Det Konservative Folkeparti,Enhedslisten,66,3833,1002.0,0.26141403600313073,transport_infrastruktur
+Det Konservative Folkeparti,Fólkaflokkurin,66,10,10.0,1.0,transport_infrastruktur
 Det Konservative Folkeparti,Inuit Ataqatigiit,66,12,0.0,0.0,transport_infrastruktur
-Det Konservative Folkeparti,Radikale Venstre,66,13578,9567.0,0.7045956694653115,transport_infrastruktur
-Det Konservative Folkeparti,Siumut,66,25,13.0,0.52,transport_infrastruktur
-Det Konservative Folkeparti,Socialdemokratiet,66,44776,32160.0,0.7182419153117742,transport_infrastruktur
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,12379,5708.0,0.4611034817028839,transport_infrastruktur
-Det Konservative Folkeparti,Venstre,66,51943,51898.0,0.9991336657489941,transport_infrastruktur
+Det Konservative Folkeparti,Radikale Venstre,66,12559,8821.0,0.7023648379648061,transport_infrastruktur
+Det Konservative Folkeparti,Siumut,66,23,12.0,0.5217391304347826,transport_infrastruktur
+Det Konservative Folkeparti,Socialdemokratiet,66,41416,29537.0,0.713178481746185,transport_infrastruktur
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,11447,5237.0,0.45749978160216653,transport_infrastruktur
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,66,1251,1250.0,0.9992006394884093,transport_infrastruktur
+Det Konservative Folkeparti,Venstre,66,49343,49298.0,0.9990880165373002,transport_infrastruktur
 Enhedslisten,Enhedslisten,66,309,309.0,1.0,transport_infrastruktur
 Enhedslisten,Fólkaflokkurin,66,3,0.0,0.0,transport_infrastruktur
 Enhedslisten,Inuit Ataqatigiit,66,2,2.0,1.0,transport_infrastruktur
@@ -81,180 +63,184 @@ Enhedslisten,Radikale Venstre,66,3089,1404.0,0.45451602460343155,transport_infra
 Enhedslisten,Siumut,66,5,5.0,1.0,transport_infrastruktur
 Enhedslisten,Socialdemokratiet,66,10132,4732.0,0.4670351362021319,transport_infrastruktur
 Enhedslisten,Socialistisk Folkeparti,66,2791,2012.0,0.7208885704048728,transport_infrastruktur
-Enhedslisten,Venstre,66,11762,3129.0,0.2660261860227852,transport_infrastruktur
+Enhedslisten,Uden for Folketingsgrupperne,66,314,91.0,0.2898089171974522,transport_infrastruktur
+Enhedslisten,Venstre,66,12080,3208.0,0.26556291390728476,transport_infrastruktur
 Fólkaflokkurin,Radikale Venstre,66,8,8.0,1.0,transport_infrastruktur
 Fólkaflokkurin,Socialdemokratiet,66,30,30.0,1.0,transport_infrastruktur
 Fólkaflokkurin,Socialistisk Folkeparti,66,7,7.0,1.0,transport_infrastruktur
-Fólkaflokkurin,Venstre,66,33,33.0,1.0,transport_infrastruktur
+Fólkaflokkurin,Uden for Folketingsgrupperne,66,1,1.0,1.0,transport_infrastruktur
+Fólkaflokkurin,Venstre,66,34,34.0,1.0,transport_infrastruktur
 Inuit Ataqatigiit,Radikale Venstre,66,9,9.0,1.0,transport_infrastruktur
 Inuit Ataqatigiit,Socialdemokratiet,66,27,27.0,1.0,transport_infrastruktur
 Inuit Ataqatigiit,Socialistisk Folkeparti,66,8,8.0,1.0,transport_infrastruktur
-Inuit Ataqatigiit,Venstre,66,31,0.0,0.0,transport_infrastruktur
+Inuit Ataqatigiit,Venstre,66,32,0.0,0.0,transport_infrastruktur
 Radikale Venstre,Radikale Venstre,66,4572,4509.0,0.9862204724409449,transport_infrastruktur
 Radikale Venstre,Siumut,66,18,17.0,0.9444444444444444,transport_infrastruktur
 Radikale Venstre,Socialdemokratiet,66,33413,26968.0,0.80711100469877,transport_infrastruktur
 Radikale Venstre,Socialistisk Folkeparti,66,9218,6369.0,0.6909307875894988,transport_infrastruktur
-Radikale Venstre,Venstre,66,38764,27166.0,0.7008048704984006,transport_infrastruktur
+Radikale Venstre,Uden for Folketingsgrupperne,66,1019,746.0,0.732090284592738,transport_infrastruktur
+Radikale Venstre,Venstre,66,39815,27874.0,0.7000879065678765,transport_infrastruktur
 Siumut,Socialdemokratiet,66,59,59.0,1.0,transport_infrastruktur
 Siumut,Socialistisk Folkeparti,66,15,15.0,1.0,transport_infrastruktur
-Siumut,Venstre,66,72,34.0,0.4722222222222222,transport_infrastruktur
+Siumut,Uden for Folketingsgrupperne,66,2,1.0,0.5,transport_infrastruktur
+Siumut,Venstre,66,73,34.0,0.4657534246575342,transport_infrastruktur
 Socialdemokratiet,Socialdemokratiet,66,53205,53093.0,0.9978949346865896,transport_infrastruktur
 Socialdemokratiet,Socialistisk Folkeparti,66,30382,21702.0,0.7143045224145876,transport_infrastruktur
-Socialdemokratiet,Venstre,66,127568,91770.0,0.7193810359964882,transport_infrastruktur
+Socialdemokratiet,Uden for Folketingsgrupperne,66,3360,2623.0,0.7806547619047619,transport_infrastruktur
+Socialdemokratiet,Venstre,66,131038,94169.0,0.7186388681145928,transport_infrastruktur
 Socialistisk Folkeparti,Socialistisk Folkeparti,66,3719,3425.0,0.9209464909922022,transport_infrastruktur
-Socialistisk Folkeparti,Venstre,66,35250,16311.0,0.46272340425531916,transport_infrastruktur
-Venstre,Venstre,66,72013,71978.0,0.9995139766431062,transport_infrastruktur
-Danmarksdemokraterne,Danmarksdemokraterne,67,40,37.0,0.925,transport_infrastruktur
-Danmarksdemokraterne,Dansk Folkeparti,67,2795,2628.0,0.9402504472271914,transport_infrastruktur
-Danmarksdemokraterne,Det Konservative Folkeparti,67,1683,1619.0,0.9619726678550208,transport_infrastruktur
-Danmarksdemokraterne,Enhedslisten,67,364,139.0,0.38186813186813184,transport_infrastruktur
-Danmarksdemokraterne,Inuit Ataqatigiit,67,1,1.0,1.0,transport_infrastruktur
-Danmarksdemokraterne,Liberal Alliance,67,434,375.0,0.8640552995391705,transport_infrastruktur
-Danmarksdemokraterne,Radikale Venstre,67,735,437.0,0.5945578231292517,transport_infrastruktur
-Danmarksdemokraterne,Sambandsflokkurin,67,4,4.0,1.0,transport_infrastruktur
-Danmarksdemokraterne,Siumut,67,7,6.0,0.8571428571428571,transport_infrastruktur
-Danmarksdemokraterne,Socialdemokratiet,67,4765,2928.0,0.6144805876180482,transport_infrastruktur
-Danmarksdemokraterne,Socialistisk Folkeparti,67,2259,1227.0,0.5431606905710491,transport_infrastruktur
-Danmarksdemokraterne,Tjóðveldi,67,1,1.0,1.0,transport_infrastruktur
-Danmarksdemokraterne,Venstre,67,4705,4553.0,0.9676939426142401,transport_infrastruktur
-Dansk Folkeparti,Dansk Folkeparti,67,27324,26976.0,0.9872639437856829,transport_infrastruktur
-Dansk Folkeparti,Det Konservative Folkeparti,67,34924,31248.0,0.8947428702325049,transport_infrastruktur
-Dansk Folkeparti,Enhedslisten,67,7628,2624.0,0.34399580492920817,transport_infrastruktur
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,66,932,471.0,0.5053648068669528,transport_infrastruktur
+Socialistisk Folkeparti,Venstre,66,36208,16717.0,0.46169354838709675,transport_infrastruktur
+Uden for Folketingsgrupperne,Venstre,66,4011,4010.0,0.9997506856145599,transport_infrastruktur
+Venstre,Venstre,66,76049,76013.0,0.9995266209943588,transport_infrastruktur
+Dansk Folkeparti,Dansk Folkeparti,67,28144,27794.0,0.9875639567936327,transport_infrastruktur
+Dansk Folkeparti,Det Konservative Folkeparti,67,32409,28981.0,0.8942269122774538,transport_infrastruktur
+Dansk Folkeparti,Enhedslisten,67,6680,2243.0,0.3357784431137725,transport_infrastruktur
 Dansk Folkeparti,Inuit Ataqatigiit,67,18,18.0,1.0,transport_infrastruktur
-Dansk Folkeparti,Liberal Alliance,67,8650,6967.0,0.8054335260115607,transport_infrastruktur
-Dansk Folkeparti,Radikale Venstre,67,14972,8504.0,0.5679935880309912,transport_infrastruktur
-Dansk Folkeparti,Sambandsflokkurin,67,156,156.0,1.0,transport_infrastruktur
-Dansk Folkeparti,Siumut,67,101,84.0,0.8316831683168316,transport_infrastruktur
-Dansk Folkeparti,Socialdemokratiet,67,97147,53126.0,0.5468619720629562,transport_infrastruktur
-Dansk Folkeparti,Socialistisk Folkeparti,67,45608,21533.0,0.47213208209086127,transport_infrastruktur
+Dansk Folkeparti,Liberal Alliance,67,8779,7072.0,0.8055587196719444,transport_infrastruktur
+Dansk Folkeparti,Radikale Venstre,67,15198,8620.0,0.5671798920910646,transport_infrastruktur
+Dansk Folkeparti,Sambandsflokkurin,67,157,157.0,1.0,transport_infrastruktur
+Dansk Folkeparti,Siumut,67,104,87.0,0.8365384615384616,transport_infrastruktur
+Dansk Folkeparti,Socialdemokratiet,67,95900,52645.0,0.5489572471324297,transport_infrastruktur
+Dansk Folkeparti,Socialistisk Folkeparti,67,50018,23537.0,0.4705705945859491,transport_infrastruktur
 Dansk Folkeparti,Tjóðveldi,67,18,18.0,1.0,transport_infrastruktur
-Dansk Folkeparti,Venstre,67,96667,86876.0,0.8987141423650263,transport_infrastruktur
-Det Konservative Folkeparti,Det Konservative Folkeparti,67,9724,9652.0,0.9925956396544632,transport_infrastruktur
-Det Konservative Folkeparti,Enhedslisten,67,4602,1782.0,0.38722294654498046,transport_infrastruktur
-Det Konservative Folkeparti,Inuit Ataqatigiit,67,9,9.0,1.0,transport_infrastruktur
-Det Konservative Folkeparti,Liberal Alliance,67,5164,4591.0,0.8890395042602633,transport_infrastruktur
-Det Konservative Folkeparti,Radikale Venstre,67,9145,6174.0,0.6751230180426463,transport_infrastruktur
-Det Konservative Folkeparti,Sambandsflokkurin,67,86,86.0,1.0,transport_infrastruktur
-Det Konservative Folkeparti,Siumut,67,57,48.0,0.8421052631578947,transport_infrastruktur
-Det Konservative Folkeparti,Socialdemokratiet,67,58754,37769.0,0.6428328284031726,transport_infrastruktur
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,27543,16028.0,0.581926442290237,transport_infrastruktur
-Det Konservative Folkeparti,Tjóðveldi,67,9,9.0,1.0,transport_infrastruktur
-Det Konservative Folkeparti,Venstre,67,58554,58319.0,0.9959866106499983,transport_infrastruktur
-Enhedslisten,Enhedslisten,67,307,277.0,0.9022801302931596,transport_infrastruktur
+Dansk Folkeparti,Uden for Folketingsgrupperne,67,3021,2716.0,0.8990400529625951,transport_infrastruktur
+Dansk Folkeparti,Venstre,67,100102,89994.0,0.8990229965435256,transport_infrastruktur
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,8092,8023.0,0.9914730598121602,transport_infrastruktur
+Det Konservative Folkeparti,Enhedslisten,67,3637,1357.0,0.3731097058014847,transport_infrastruktur
+Det Konservative Folkeparti,Inuit Ataqatigiit,67,8,8.0,1.0,transport_infrastruktur
+Det Konservative Folkeparti,Liberal Alliance,67,4718,4193.0,0.8887240356083086,transport_infrastruktur
+Det Konservative Folkeparti,Radikale Venstre,67,8376,5668.0,0.6766953199617957,transport_infrastruktur
+Det Konservative Folkeparti,Sambandsflokkurin,67,78,78.0,1.0,transport_infrastruktur
+Det Konservative Folkeparti,Siumut,67,52,44.0,0.8461538461538461,transport_infrastruktur
+Det Konservative Folkeparti,Socialdemokratiet,67,52266,33754.0,0.6458118088240922,transport_infrastruktur
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,27253,15865.0,0.5821377463031593,transport_infrastruktur
+Det Konservative Folkeparti,Tjóðveldi,67,8,8.0,1.0,transport_infrastruktur
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,67,1632,1629.0,0.9981617647058824,transport_infrastruktur
+Det Konservative Folkeparti,Venstre,67,54613,54375.0,0.9956420632450149,transport_infrastruktur
+Enhedslisten,Enhedslisten,67,187,187.0,1.0,transport_infrastruktur
 Enhedslisten,Inuit Ataqatigiit,67,2,0.0,0.0,transport_infrastruktur
-Enhedslisten,Liberal Alliance,67,1148,493.0,0.4294425087108014,transport_infrastruktur
-Enhedslisten,Radikale Venstre,67,1976,1298.0,0.6568825910931174,transport_infrastruktur
-Enhedslisten,Sambandsflokkurin,67,22,4.0,0.18181818181818182,transport_infrastruktur
-Enhedslisten,Siumut,67,14,8.0,0.5714285714285714,transport_infrastruktur
-Enhedslisten,Socialdemokratiet,67,12774,8994.0,0.7040864255519023,transport_infrastruktur
-Enhedslisten,Socialistisk Folkeparti,67,5987,4619.0,0.7715049273425756,transport_infrastruktur
+Enhedslisten,Liberal Alliance,67,988,406.0,0.4109311740890688,transport_infrastruktur
+Enhedslisten,Radikale Venstre,67,1705,1071.0,0.6281524926686217,transport_infrastruktur
+Enhedslisten,Sambandsflokkurin,67,17,3.0,0.17647058823529413,transport_infrastruktur
+Enhedslisten,Siumut,67,12,6.0,0.5,transport_infrastruktur
+Enhedslisten,Socialdemokratiet,67,10757,7251.0,0.6740726968485637,transport_infrastruktur
+Enhedslisten,Socialistisk Folkeparti,67,5617,4139.0,0.7368702154174827,transport_infrastruktur
 Enhedslisten,Tjóðveldi,67,2,0.0,0.0,transport_infrastruktur
-Enhedslisten,Venstre,67,12720,4836.0,0.38018867924528305,transport_infrastruktur
+Enhedslisten,Uden for Folketingsgrupperne,67,340,124.0,0.36470588235294116,transport_infrastruktur
+Enhedslisten,Venstre,67,11234,4103.0,0.36523055011572014,transport_infrastruktur
 Inuit Ataqatigiit,Liberal Alliance,67,3,2.0,0.6666666666666666,transport_infrastruktur
 Inuit Ataqatigiit,Radikale Venstre,67,6,6.0,1.0,transport_infrastruktur
 Inuit Ataqatigiit,Sambandsflokkurin,67,1,1.0,1.0,transport_infrastruktur
-Inuit Ataqatigiit,Socialdemokratiet,67,30,30.0,1.0,transport_infrastruktur
-Inuit Ataqatigiit,Socialistisk Folkeparti,67,13,13.0,1.0,transport_infrastruktur
+Inuit Ataqatigiit,Socialdemokratiet,67,29,29.0,1.0,transport_infrastruktur
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,14,14.0,1.0,transport_infrastruktur
 Inuit Ataqatigiit,Tjóðveldi,67,1,1.0,1.0,transport_infrastruktur
-Inuit Ataqatigiit,Venstre,67,35,35.0,1.0,transport_infrastruktur
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,67,1,1.0,1.0,transport_infrastruktur
+Inuit Ataqatigiit,Venstre,67,36,36.0,1.0,transport_infrastruktur
 Liberal Alliance,Liberal Alliance,67,485,382.0,0.7876288659793814,transport_infrastruktur
 Liberal Alliance,Radikale Venstre,67,2157,1527.0,0.7079276773296245,transport_infrastruktur
 Liberal Alliance,Sambandsflokkurin,67,34,32.0,0.9411764705882353,transport_infrastruktur
 Liberal Alliance,Siumut,67,16,16.0,1.0,transport_infrastruktur
-Liberal Alliance,Socialdemokratiet,67,14551,9503.0,0.6530822623874648,transport_infrastruktur
-Liberal Alliance,Socialistisk Folkeparti,67,6864,4159.0,0.6059149184149184,transport_infrastruktur
+Liberal Alliance,Socialdemokratiet,67,14149,9253.0,0.6539684783376917,transport_infrastruktur
+Liberal Alliance,Socialistisk Folkeparti,67,7426,4496.0,0.6054403447347159,transport_infrastruktur
 Liberal Alliance,Tjóðveldi,67,3,2.0,0.6666666666666666,transport_infrastruktur
-Liberal Alliance,Venstre,67,14399,12802.0,0.8890895201055629,transport_infrastruktur
+Liberal Alliance,Uden for Folketingsgrupperne,67,446,398.0,0.8923766816143498,transport_infrastruktur
+Liberal Alliance,Venstre,67,14704,13072.0,0.8890097932535365,transport_infrastruktur
 Radikale Venstre,Radikale Venstre,67,1571,1498.0,0.9535327816677276,transport_infrastruktur
 Radikale Venstre,Sambandsflokkurin,67,30,26.0,0.8666666666666667,transport_infrastruktur
 Radikale Venstre,Siumut,67,25,24.0,0.96,transport_infrastruktur
-Radikale Venstre,Socialdemokratiet,67,25133,20168.0,0.8024509608880754,transport_infrastruktur
-Radikale Venstre,Socialistisk Folkeparti,67,11785,9614.0,0.815782774713619,transport_infrastruktur
+Radikale Venstre,Socialdemokratiet,67,24459,19616.0,0.8019951755999837,transport_infrastruktur
+Radikale Venstre,Socialistisk Folkeparti,67,12730,10393.0,0.8164179104477612,transport_infrastruktur
 Radikale Venstre,Tjóðveldi,67,6,6.0,1.0,transport_infrastruktur
-Radikale Venstre,Venstre,67,25106,16759.0,0.6675296741814706,transport_infrastruktur
+Radikale Venstre,Uden for Folketingsgrupperne,67,769,506.0,0.657997399219766,transport_infrastruktur
+Radikale Venstre,Venstre,67,25615,17080.0,0.666796798750732,transport_infrastruktur
 Sambandsflokkurin,Siumut,67,1,1.0,1.0,transport_infrastruktur
-Sambandsflokkurin,Socialdemokratiet,67,267,204.0,0.7640449438202247,transport_infrastruktur
-Sambandsflokkurin,Socialistisk Folkeparti,67,119,53.0,0.44537815126050423,transport_infrastruktur
+Sambandsflokkurin,Socialdemokratiet,67,258,200.0,0.7751937984496124,transport_infrastruktur
+Sambandsflokkurin,Socialistisk Folkeparti,67,133,58.0,0.43609022556390975,transport_infrastruktur
 Sambandsflokkurin,Tjóðveldi,67,1,1.0,1.0,transport_infrastruktur
-Sambandsflokkurin,Venstre,67,241,241.0,1.0,transport_infrastruktur
-Siumut,Socialdemokratiet,67,176,176.0,1.0,transport_infrastruktur
-Siumut,Socialistisk Folkeparti,67,80,80.0,1.0,transport_infrastruktur
-Siumut,Venstre,67,174,144.0,0.8275862068965517,transport_infrastruktur
-Socialdemokratiet,Socialdemokratiet,67,78939,78201.0,0.9906510090069547,transport_infrastruktur
-Socialdemokratiet,Socialistisk Folkeparti,67,76624,70044.0,0.9141261223637502,transport_infrastruktur
-Socialdemokratiet,Tjóðveldi,67,30,30.0,1.0,transport_infrastruktur
-Socialdemokratiet,Venstre,67,162513,104132.0,0.640761046808563,transport_infrastruktur
-Socialistisk Folkeparti,Socialistisk Folkeparti,67,16814,16748.0,0.9960746996550494,transport_infrastruktur
-Socialistisk Folkeparti,Tjóðveldi,67,13,13.0,1.0,transport_infrastruktur
-Socialistisk Folkeparti,Venstre,67,76157,43833.0,0.5755610121197001,transport_infrastruktur
-Tjóðveldi,Venstre,67,35,35.0,1.0,transport_infrastruktur
-Venstre,Venstre,67,78518,78403.0,0.9985353676863904,transport_infrastruktur
-Danmarksdemokraterne,Danmarksdemokraterne,68,103,68.0,0.6601941747572816,transport_infrastruktur
-Danmarksdemokraterne,Dansk Folkeparti,68,3565,3076.0,0.8628330995792426,transport_infrastruktur
-Danmarksdemokraterne,Det Konservative Folkeparti,68,1481,1149.0,0.7758271438217421,transport_infrastruktur
-Danmarksdemokraterne,Enhedslisten,68,2440,1049.0,0.42991803278688523,transport_infrastruktur
-Danmarksdemokraterne,Javnaðarflokkurin,68,6,2.0,0.3333333333333333,transport_infrastruktur
-Danmarksdemokraterne,Liberal Alliance,68,1472,952.0,0.6467391304347826,transport_infrastruktur
-Danmarksdemokraterne,Radikale Venstre,68,3184,2030.0,0.6375628140703518,transport_infrastruktur
-Danmarksdemokraterne,Sambandsflokkurin,68,7,7.0,1.0,transport_infrastruktur
-Danmarksdemokraterne,Socialdemokratiet,68,8453,5417.0,0.6408375724594818,transport_infrastruktur
-Danmarksdemokraterne,Socialistisk Folkeparti,68,2816,1780.0,0.6321022727272727,transport_infrastruktur
-Danmarksdemokraterne,Venstre,68,8112,6610.0,0.8148422090729783,transport_infrastruktur
-Dansk Folkeparti,Dansk Folkeparti,68,13982,13919.0,0.9954942068373623,transport_infrastruktur
-Dansk Folkeparti,Det Konservative Folkeparti,68,12599,8756.0,0.6949757917295023,transport_infrastruktur
-Dansk Folkeparti,Enhedslisten,68,20782,9390.0,0.45183331729381193,transport_infrastruktur
-Dansk Folkeparti,Javnaðarflokkurin,68,26,0.0,0.0,transport_infrastruktur
-Dansk Folkeparti,Liberal Alliance,68,12547,7904.0,0.6299513828006695,transport_infrastruktur
-Dansk Folkeparti,Radikale Venstre,68,27012,16115.0,0.5965867022064267,transport_infrastruktur
-Dansk Folkeparti,Sambandsflokkurin,68,49,49.0,1.0,transport_infrastruktur
-Dansk Folkeparti,Socialdemokratiet,68,71890,43178.0,0.6006120461816664,transport_infrastruktur
-Dansk Folkeparti,Socialistisk Folkeparti,68,23871,14339.0,0.6006870260986134,transport_infrastruktur
-Dansk Folkeparti,Venstre,68,68823,49647.0,0.7213722156837103,transport_infrastruktur
-Det Konservative Folkeparti,Det Konservative Folkeparti,68,2140,2131.0,0.9957943925233644,transport_infrastruktur
-Det Konservative Folkeparti,Enhedslisten,68,8619,3833.0,0.44471516417217777,transport_infrastruktur
-Det Konservative Folkeparti,Javnaðarflokkurin,68,6,6.0,1.0,transport_infrastruktur
-Det Konservative Folkeparti,Liberal Alliance,68,5205,3638.0,0.6989433237271854,transport_infrastruktur
-Det Konservative Folkeparti,Radikale Venstre,68,11186,8539.0,0.7633649204362596,transport_infrastruktur
-Det Konservative Folkeparti,Sambandsflokkurin,68,20,20.0,1.0,transport_infrastruktur
-Det Konservative Folkeparti,Socialdemokratiet,68,29815,22844.0,0.7661915143384203,transport_infrastruktur
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,9860,7377.0,0.7481744421906694,transport_infrastruktur
-Det Konservative Folkeparti,Venstre,68,28501,26596.0,0.9331602399915793,transport_infrastruktur
-Enhedslisten,Enhedslisten,68,6275,6032.0,0.9612749003984064,transport_infrastruktur
-Enhedslisten,Javnaðarflokkurin,68,16,16.0,1.0,transport_infrastruktur
-Enhedslisten,Liberal Alliance,68,8570,2882.0,0.33628938156359395,transport_infrastruktur
-Enhedslisten,Radikale Venstre,68,18418,12039.0,0.6536540340970789,transport_infrastruktur
+Sambandsflokkurin,Uden for Folketingsgrupperne,67,8,8.0,1.0,transport_infrastruktur
+Sambandsflokkurin,Venstre,67,244,244.0,1.0,transport_infrastruktur
+Siumut,Socialdemokratiet,67,171,171.0,1.0,transport_infrastruktur
+Siumut,Socialistisk Folkeparti,67,87,87.0,1.0,transport_infrastruktur
+Siumut,Uden for Folketingsgrupperne,67,5,4.0,0.8,transport_infrastruktur
+Siumut,Venstre,67,178,147.0,0.8258426966292135,transport_infrastruktur
+Socialdemokratiet,Socialdemokratiet,67,74643,74359.0,0.9961952225928754,transport_infrastruktur
+Socialdemokratiet,Socialistisk Folkeparti,67,80528,73314.0,0.910416252731969,transport_infrastruktur
+Socialdemokratiet,Tjóðveldi,67,29,29.0,1.0,transport_infrastruktur
+Socialdemokratiet,Uden for Folketingsgrupperne,67,4879,3071.0,0.6294322607091617,transport_infrastruktur
+Socialdemokratiet,Venstre,67,161352,103659.0,0.6424401308939461,transport_infrastruktur
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,19713,19633.0,0.9959417643179628,transport_infrastruktur
+Socialistisk Folkeparti,Tjóðveldi,67,14,14.0,1.0,transport_infrastruktur
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,67,2524,1408.0,0.5578446909667195,transport_infrastruktur
+Socialistisk Folkeparti,Venstre,67,83977,48191.0,0.5738595091513152,transport_infrastruktur
+Tjóðveldi,Uden for Folketingsgrupperne,67,1,1.0,1.0,transport_infrastruktur
+Tjóðveldi,Venstre,67,36,36.0,1.0,transport_infrastruktur
+Uden for Folketingsgrupperne,Venstre,67,5118,5114.0,0.9992184447049629,transport_infrastruktur
+Venstre,Venstre,67,81803,81685.0,0.9985575101157659,transport_infrastruktur
+Dansk Folkeparti,Dansk Folkeparti,68,16305,16230.0,0.9954001839926403,transport_infrastruktur
+Dansk Folkeparti,Det Konservative Folkeparti,68,11410,7941.0,0.695968448729185,transport_infrastruktur
+Dansk Folkeparti,Enhedslisten,68,21370,9447.0,0.4420683200748713,transport_infrastruktur
+Dansk Folkeparti,Liberal Alliance,68,13508,8506.0,0.6297009179745336,transport_infrastruktur
+Dansk Folkeparti,Radikale Venstre,68,29101,17341.0,0.5958901755953404,transport_infrastruktur
+Dansk Folkeparti,Sambandsflokkurin,68,52,52.0,1.0,transport_infrastruktur
+Dansk Folkeparti,Socialdemokratiet,68,75522,45347.0,0.6004475517067874,transport_infrastruktur
+Dansk Folkeparti,Socialistisk Folkeparti,68,28609,17171.0,0.600195742598483,transport_infrastruktur
+Dansk Folkeparti,Tjóðveldi,68,30,0.0,0.0,transport_infrastruktur
+Dansk Folkeparti,Uden for Folketingsgrupperne,68,2155,1484.0,0.688631090487239,transport_infrastruktur
+Dansk Folkeparti,Venstre,68,75480,54292.0,0.7192898781134075,transport_infrastruktur
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,1475,1468.0,0.9952542372881356,transport_infrastruktur
+Det Konservative Folkeparti,Enhedslisten,68,6914,3005.0,0.4346253977437084,transport_infrastruktur
+Det Konservative Folkeparti,Liberal Alliance,68,4380,3074.0,0.7018264840182649,transport_infrastruktur
+Det Konservative Folkeparti,Radikale Venstre,68,9414,7189.0,0.7636498831527512,transport_infrastruktur
+Det Konservative Folkeparti,Sambandsflokkurin,68,17,17.0,1.0,transport_infrastruktur
+Det Konservative Folkeparti,Socialdemokratiet,68,24453,18774.0,0.7677585572322414,transport_infrastruktur
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,9243,6888.0,0.7452125933138591,transport_infrastruktur
+Det Konservative Folkeparti,Tjóðveldi,68,4,4.0,1.0,transport_infrastruktur
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,68,665,663.0,0.9969924812030075,transport_infrastruktur
+Det Konservative Folkeparti,Venstre,68,24409,22769.0,0.9328116678274407,transport_infrastruktur
+Enhedslisten,Enhedslisten,68,5673,5659.0,0.9975321699277279,transport_infrastruktur
+Enhedslisten,Liberal Alliance,68,8186,2722.0,0.3325189347666748,transport_infrastruktur
+Enhedslisten,Radikale Venstre,68,17617,11285.0,0.6405744451382188,transport_infrastruktur
 Enhedslisten,Sambandsflokkurin,68,30,14.0,0.4666666666666667,transport_infrastruktur
-Enhedslisten,Socialdemokratiet,68,49111,31502.0,0.6414448901468103,transport_infrastruktur
-Enhedslisten,Socialistisk Folkeparti,68,16307,10917.0,0.669467100018397,transport_infrastruktur
-Enhedslisten,Venstre,68,47015,19011.0,0.40436031053918964,transport_infrastruktur
-Javnaðarflokkurin,Liberal Alliance,68,8,0.0,0.0,transport_infrastruktur
-Javnaðarflokkurin,Radikale Venstre,68,22,22.0,1.0,transport_infrastruktur
-Javnaðarflokkurin,Socialdemokratiet,68,55,55.0,1.0,transport_infrastruktur
-Javnaðarflokkurin,Socialistisk Folkeparti,68,17,17.0,1.0,transport_infrastruktur
-Javnaðarflokkurin,Venstre,68,54,54.0,1.0,transport_infrastruktur
+Enhedslisten,Socialdemokratiet,68,45791,28704.0,0.6268480705815553,transport_infrastruktur
+Enhedslisten,Socialistisk Folkeparti,68,17334,11322.0,0.6531671858774662,transport_infrastruktur
+Enhedslisten,Tjóðveldi,68,16,16.0,1.0,transport_infrastruktur
+Enhedslisten,Uden for Folketingsgrupperne,68,1308,551.0,0.4212538226299694,transport_infrastruktur
+Enhedslisten,Venstre,68,45706,17883.0,0.3912615411543342,transport_infrastruktur
 Liberal Alliance,Liberal Alliance,68,2075,2063.0,0.9942168674698795,transport_infrastruktur
 Liberal Alliance,Radikale Venstre,68,11148,5926.0,0.5315751704341586,transport_infrastruktur
 Liberal Alliance,Sambandsflokkurin,68,20,20.0,1.0,transport_infrastruktur
-Liberal Alliance,Socialdemokratiet,68,29656,15471.0,0.521681953061775,transport_infrastruktur
-Liberal Alliance,Socialistisk Folkeparti,68,9852,5152.0,0.5229395046691028,transport_infrastruktur
-Liberal Alliance,Venstre,68,28390,20788.0,0.732229658330398,transport_infrastruktur
+Liberal Alliance,Socialdemokratiet,68,28931,15091.0,0.5216204071756939,transport_infrastruktur
+Liberal Alliance,Socialistisk Folkeparti,68,10961,5692.0,0.5192956847003011,transport_infrastruktur
+Liberal Alliance,Tjóðveldi,68,8,0.0,0.0,transport_infrastruktur
+Liberal Alliance,Uden for Folketingsgrupperne,68,825,564.0,0.6836363636363636,transport_infrastruktur
+Liberal Alliance,Venstre,68,28901,21138.0,0.7313933773917858,transport_infrastruktur
 Radikale Venstre,Radikale Venstre,68,10997,10838.0,0.9855415113212694,transport_infrastruktur
 Radikale Venstre,Sambandsflokkurin,68,44,33.0,0.75,transport_infrastruktur
-Radikale Venstre,Socialdemokratiet,68,63840,63368.0,0.9926065162907268,transport_infrastruktur
-Radikale Venstre,Socialistisk Folkeparti,68,21194,20670.0,0.9752760215155233,transport_infrastruktur
-Radikale Venstre,Venstre,68,61222,44704.0,0.7301950279311359,transport_infrastruktur
-Sambandsflokkurin,Socialdemokratiet,68,117,87.0,0.7435897435897436,transport_infrastruktur
-Sambandsflokkurin,Socialistisk Folkeparti,68,39,29.0,0.7435897435897436,transport_infrastruktur
-Sambandsflokkurin,Venstre,68,104,103.0,0.9903846153846154,transport_infrastruktur
-Socialdemokratiet,Socialdemokratiet,68,82240,82160.0,0.9990272373540856,transport_infrastruktur
-Socialdemokratiet,Socialistisk Folkeparti,68,56393,55104.0,0.9771425531537602,transport_infrastruktur
-Socialdemokratiet,Venstre,68,162716,119683.0,0.7355330760343175,transport_infrastruktur
-Socialistisk Folkeparti,Socialistisk Folkeparti,68,8499,8389.0,0.9870573008589246,transport_infrastruktur
-Socialistisk Folkeparti,Venstre,68,54073,38333.0,0.7089120263347697,transport_infrastruktur
-Venstre,Venstre,68,75287,75236.0,0.9993225922137952,transport_infrastruktur
+Radikale Venstre,Socialdemokratiet,68,62279,61817.0,0.9925817691356638,transport_infrastruktur
+Radikale Venstre,Socialistisk Folkeparti,68,23556,22975.0,0.9753353710307353,transport_infrastruktur
+Radikale Venstre,Tjóðveldi,68,22,22.0,1.0,transport_infrastruktur
+Radikale Venstre,Uden for Folketingsgrupperne,68,1772,1350.0,0.7618510158013544,transport_infrastruktur
+Radikale Venstre,Venstre,68,62317,45508.0,0.7302662194906687,transport_infrastruktur
+Sambandsflokkurin,Socialdemokratiet,68,113,84.0,0.7433628318584071,transport_infrastruktur
+Sambandsflokkurin,Socialistisk Folkeparti,68,43,32.0,0.7441860465116279,transport_infrastruktur
+Sambandsflokkurin,Uden for Folketingsgrupperne,68,3,3.0,1.0,transport_infrastruktur
+Sambandsflokkurin,Venstre,68,108,107.0,0.9907407407407407,transport_infrastruktur
+Socialdemokratiet,Socialdemokratiet,68,78223,78145.0,0.9990028508239265,transport_infrastruktur
+Socialdemokratiet,Socialistisk Folkeparti,68,61134,59753.0,0.977410279059116,transport_infrastruktur
+Socialdemokratiet,Tjóðveldi,68,53,53.0,1.0,transport_infrastruktur
+Socialdemokratiet,Uden for Folketingsgrupperne,68,4644,3555.0,0.7655038759689923,transport_infrastruktur
+Socialdemokratiet,Venstre,68,161581,119008.0,0.7365222396197573,transport_infrastruktur
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,10670,10521.0,0.9860356138706654,transport_infrastruktur
+Socialistisk Folkeparti,Tjóðveldi,68,19,19.0,1.0,transport_infrastruktur
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,68,1732,1281.0,0.7396073903002309,transport_infrastruktur
+Socialistisk Folkeparti,Venstre,68,61268,43324.0,0.7071228047267741,transport_infrastruktur
+Tjóðveldi,Uden for Folketingsgrupperne,68,2,2.0,1.0,transport_infrastruktur
+Tjóðveldi,Venstre,68,56,56.0,1.0,transport_infrastruktur
+Uden for Folketingsgrupperne,Venstre,68,4607,4307.0,0.9348817017581941,transport_infrastruktur
+Venstre,Venstre,68,78087,78034.0,0.9993212698656626,transport_infrastruktur
 Alternativet,Alternativet,69,2378,2378.0,1.0,transport_infrastruktur
-Alternativet,Danmarksdemokraterne,69,1475,689.0,0.46711864406779663,transport_infrastruktur
-Alternativet,Dansk Folkeparti,69,23588,11226.0,0.4759199593013397,transport_infrastruktur
+Alternativet,Dansk Folkeparti,69,24399,11582.0,0.4746915857207263,transport_infrastruktur
 Alternativet,Det Konservative Folkeparti,69,4285,2063.0,0.48144690781796967,transport_infrastruktur
 Alternativet,Enhedslisten,69,9751,7479.0,0.7669982565890678,transport_infrastruktur
 Alternativet,Inuit Ataqatigiit,69,35,0.0,0.0,transport_infrastruktur
@@ -263,28 +249,17 @@ Alternativet,Radikale Venstre,69,5178,3500.0,0.6759366550791811,transport_infras
 Alternativet,Socialdemokratiet,69,31866,19960.0,0.6263729366723153,transport_infrastruktur
 Alternativet,Socialistisk Folkeparti,69,4268,3495.0,0.8188847235238987,transport_infrastruktur
 Alternativet,Tjóðveldi,69,10,0.0,0.0,transport_infrastruktur
-Alternativet,Venstre,69,20983,10440.0,0.4975456321784302,transport_infrastruktur
-Danmarksdemokraterne,Danmarksdemokraterne,69,98,89.0,0.9081632653061225,transport_infrastruktur
-Danmarksdemokraterne,Dansk Folkeparti,69,6058,5798.0,0.9570815450643777,transport_infrastruktur
-Danmarksdemokraterne,Det Konservative Folkeparti,69,1096,1008.0,0.9197080291970803,transport_infrastruktur
-Danmarksdemokraterne,Enhedslisten,69,2517,930.0,0.3694874851013111,transport_infrastruktur
-Danmarksdemokraterne,Inuit Ataqatigiit,69,10,6.0,0.6,transport_infrastruktur
-Danmarksdemokraterne,Liberal Alliance,69,2243,1993.0,0.8885421310744539,transport_infrastruktur
-Danmarksdemokraterne,Radikale Venstre,69,1339,911.0,0.6803584764749814,transport_infrastruktur
-Danmarksdemokraterne,Socialdemokratiet,69,8186,6653.0,0.8127290495968728,transport_infrastruktur
-Danmarksdemokraterne,Socialistisk Folkeparti,69,1103,619.0,0.5611967361740707,transport_infrastruktur
-Danmarksdemokraterne,Tjóðveldi,69,3,1.0,0.3333333333333333,transport_infrastruktur
-Danmarksdemokraterne,Venstre,69,5319,4887.0,0.9187817258883249,transport_infrastruktur
-Dansk Folkeparti,Dansk Folkeparti,69,46490,46470.0,0.99956979995698,transport_infrastruktur
-Dansk Folkeparti,Det Konservative Folkeparti,69,17651,15507.0,0.8785337941193133,transport_infrastruktur
-Dansk Folkeparti,Enhedslisten,69,40184,15400.0,0.3832371092972327,transport_infrastruktur
-Dansk Folkeparti,Inuit Ataqatigiit,69,127,63.0,0.49606299212598426,transport_infrastruktur
-Dansk Folkeparti,Liberal Alliance,69,35950,30332.0,0.8437273991655077,transport_infrastruktur
-Dansk Folkeparti,Radikale Venstre,69,21405,13330.0,0.6227516935295492,transport_infrastruktur
-Dansk Folkeparti,Socialdemokratiet,69,131287,101182.0,0.7706932141034527,transport_infrastruktur
-Dansk Folkeparti,Socialistisk Folkeparti,69,17589,9607.0,0.5461936437546193,transport_infrastruktur
-Dansk Folkeparti,Tjóðveldi,69,44,22.0,0.5,transport_infrastruktur
-Dansk Folkeparti,Venstre,69,86062,74531.0,0.8660151983453789,transport_infrastruktur
+Alternativet,Venstre,69,21647,10773.0,0.49766711322585117,transport_infrastruktur
+Dansk Folkeparti,Dansk Folkeparti,69,49754,49733.0,0.9995779233830446,transport_infrastruktur
+Dansk Folkeparti,Det Konservative Folkeparti,69,18248,16024.0,0.8781236299868479,transport_infrastruktur
+Dansk Folkeparti,Enhedslisten,69,41546,15909.0,0.38292495065710297,transport_infrastruktur
+Dansk Folkeparti,Inuit Ataqatigiit,69,133,66.0,0.49624060150375937,transport_infrastruktur
+Dansk Folkeparti,Liberal Alliance,69,37175,31363.0,0.8436583725622058,transport_infrastruktur
+Dansk Folkeparti,Radikale Venstre,69,22128,13778.0,0.62265003615329,transport_infrastruktur
+Dansk Folkeparti,Socialdemokratiet,69,135722,104614.0,0.7707961863220406,transport_infrastruktur
+Dansk Folkeparti,Socialistisk Folkeparti,69,18184,9938.0,0.5465244170699516,transport_infrastruktur
+Dansk Folkeparti,Tjóðveldi,69,46,23.0,0.5,transport_infrastruktur
+Dansk Folkeparti,Venstre,69,91855,79625.0,0.8668553698764356,transport_infrastruktur
 Det Konservative Folkeparti,Det Konservative Folkeparti,69,1213,1210.0,0.9975267930750206,transport_infrastruktur
 Det Konservative Folkeparti,Enhedslisten,69,7291,2505.0,0.34357426964751064,transport_infrastruktur
 Det Konservative Folkeparti,Inuit Ataqatigiit,69,24,12.0,0.5,transport_infrastruktur
@@ -293,7 +268,7 @@ Det Konservative Folkeparti,Radikale Venstre,69,3880,2713.0,0.6992268041237113,t
 Det Konservative Folkeparti,Socialdemokratiet,69,23795,18855.0,0.7923933599495693,transport_infrastruktur
 Det Konservative Folkeparti,Socialistisk Folkeparti,69,3187,1667.0,0.5230624411672419,transport_infrastruktur
 Det Konservative Folkeparti,Tjóðveldi,69,8,0.0,0.0,transport_infrastruktur
-Det Konservative Folkeparti,Venstre,69,15572,14921.0,0.958194194708451,transport_infrastruktur
+Det Konservative Folkeparti,Venstre,69,16071,15412.0,0.9589944620745442,transport_infrastruktur
 Enhedslisten,Enhedslisten,69,7378,7370.0,0.9989156953103823,transport_infrastruktur
 Enhedslisten,Inuit Ataqatigiit,69,54,0.0,0.0,transport_infrastruktur
 Enhedslisten,Liberal Alliance,69,14840,5105.0,0.34400269541778977,transport_infrastruktur
@@ -301,36 +276,35 @@ Enhedslisten,Radikale Venstre,69,8833,4573.0,0.517717649722631,transport_infrast
 Enhedslisten,Socialdemokratiet,69,54195,25573.0,0.4718700987175939,transport_infrastruktur
 Enhedslisten,Socialistisk Folkeparti,69,7259,5331.0,0.7343986775037884,transport_infrastruktur
 Enhedslisten,Tjóðveldi,69,18,0.0,0.0,transport_infrastruktur
-Enhedslisten,Venstre,69,35516,11567.0,0.3256841986710215,transport_infrastruktur
+Enhedslisten,Venstre,69,36671,11988.0,0.32690682010307875,transport_infrastruktur
 Inuit Ataqatigiit,Liberal Alliance,69,48,24.0,0.5,transport_infrastruktur
 Inuit Ataqatigiit,Radikale Venstre,69,26,12.0,0.46153846153846156,transport_infrastruktur
 Inuit Ataqatigiit,Socialdemokratiet,69,179,90.0,0.5027932960893855,transport_infrastruktur
 Inuit Ataqatigiit,Socialistisk Folkeparti,69,22,0.0,0.0,transport_infrastruktur
 Inuit Ataqatigiit,Tjóðveldi,69,1,1.0,1.0,transport_infrastruktur
-Inuit Ataqatigiit,Venstre,69,125,60.0,0.48,transport_infrastruktur
+Inuit Ataqatigiit,Venstre,69,129,63.0,0.4883720930232558,transport_infrastruktur
 Liberal Alliance,Liberal Alliance,69,5840,5809.0,0.9946917808219178,transport_infrastruktur
 Liberal Alliance,Radikale Venstre,69,7910,5554.0,0.7021491782553729,transport_infrastruktur
 Liberal Alliance,Socialdemokratiet,69,48535,37452.0,0.771649325229216,transport_infrastruktur
 Liberal Alliance,Socialistisk Folkeparti,69,6501,3317.0,0.5102291955083833,transport_infrastruktur
 Liberal Alliance,Tjóðveldi,69,16,0.0,0.0,transport_infrastruktur
-Liberal Alliance,Venstre,69,31853,29927.0,0.9395347377013155,transport_infrastruktur
+Liberal Alliance,Venstre,69,32871,30889.0,0.939703690182836,transport_infrastruktur
 Radikale Venstre,Radikale Venstre,69,1880,1860.0,0.9893617021276596,transport_infrastruktur
 Radikale Venstre,Socialdemokratiet,69,28867,21915.0,0.7591713721550559,transport_infrastruktur
 Radikale Venstre,Socialistisk Folkeparti,69,3874,2729.0,0.7044398554465668,transport_infrastruktur
 Radikale Venstre,Tjóðveldi,69,10,0.0,0.0,transport_infrastruktur
-Radikale Venstre,Venstre,69,18927,13967.0,0.737940508268611,transport_infrastruktur
+Radikale Venstre,Venstre,69,19543,14430.0,0.7383717955278105,transport_infrastruktur
 Socialdemokratiet,Socialdemokratiet,69,85734,84570.0,0.9864231226817832,transport_infrastruktur
 Socialdemokratiet,Socialistisk Folkeparti,69,23712,16006.0,0.6750168690958165,transport_infrastruktur
 Socialdemokratiet,Tjóðveldi,69,59,0.0,0.0,transport_infrastruktur
-Socialdemokratiet,Venstre,69,116461,96527.0,0.8288354041267033,transport_infrastruktur
+Socialdemokratiet,Venstre,69,120212,99748.0,0.8297674109073969,transport_infrastruktur
 Socialistisk Folkeparti,Socialistisk Folkeparti,69,1192,1190.0,0.9983221476510067,transport_infrastruktur
 Socialistisk Folkeparti,Tjóðveldi,69,8,0.0,0.0,transport_infrastruktur
-Socialistisk Folkeparti,Venstre,69,15552,8323.0,0.5351723251028807,transport_infrastruktur
-Tjóðveldi,Venstre,69,39,0.0,0.0,transport_infrastruktur
-Venstre,Venstre,69,36424,36407.0,0.999533274763892,transport_infrastruktur
+Socialistisk Folkeparti,Venstre,69,16060,8611.0,0.5361768368617683,transport_infrastruktur
+Tjóðveldi,Venstre,69,40,0.0,0.0,transport_infrastruktur
+Venstre,Venstre,69,38842,38824.0,0.999536584109984,transport_infrastruktur
 Alternativet,Alternativet,70,431,378.0,0.877030162412993,transport_infrastruktur
-Alternativet,Danmarksdemokraterne,70,670,317.0,0.47313432835820896,transport_infrastruktur
-Alternativet,Dansk Folkeparti,70,3382,1652.0,0.488468361916026,transport_infrastruktur
+Alternativet,Dansk Folkeparti,70,3912,1897.0,0.48491820040899797,transport_infrastruktur
 Alternativet,Det Konservative Folkeparti,70,2869,1342.0,0.4677588009759498,transport_infrastruktur
 Alternativet,Enhedslisten,70,3305,2876.0,0.870196671709531,transport_infrastruktur
 Alternativet,Inuit Ataqatigiit,70,4,1.0,0.25,transport_infrastruktur
@@ -340,30 +314,18 @@ Alternativet,Radikale Venstre,70,4088,3008.0,0.735812133072407,transport_infrast
 Alternativet,Sambandsflokkurin,70,2,0.0,0.0,transport_infrastruktur
 Alternativet,Socialdemokratiet,70,12573,7799.0,0.6202974628171478,transport_infrastruktur
 Alternativet,Socialistisk Folkeparti,70,3627,3001.0,0.8274055693410532,transport_infrastruktur
-Alternativet,Venstre,70,10980,4981.0,0.4536429872495446,transport_infrastruktur
-Danmarksdemokraterne,Danmarksdemokraterne,70,97,94.0,0.9690721649484536,transport_infrastruktur
-Danmarksdemokraterne,Dansk Folkeparti,70,1773,1727.0,0.9740552735476593,transport_infrastruktur
-Danmarksdemokraterne,Det Konservative Folkeparti,70,1570,1387.0,0.8834394904458599,transport_infrastruktur
-Danmarksdemokraterne,Enhedslisten,70,1814,832.0,0.45865490628445427,transport_infrastruktur
-Danmarksdemokraterne,Inuit Ataqatigiit,70,2,0.0,0.0,transport_infrastruktur
-Danmarksdemokraterne,Liberal Alliance,70,462,326.0,0.7056277056277056,transport_infrastruktur
-Danmarksdemokraterne,Nye Borgerlige,70,512,373.0,0.728515625,transport_infrastruktur
-Danmarksdemokraterne,Radikale Venstre,70,2230,1318.0,0.5910313901345291,transport_infrastruktur
-Danmarksdemokraterne,Sambandsflokkurin,70,1,1.0,1.0,transport_infrastruktur
-Danmarksdemokraterne,Socialdemokratiet,70,6817,5012.0,0.7352207716004108,transport_infrastruktur
-Danmarksdemokraterne,Socialistisk Folkeparti,70,1999,1025.0,0.5127563781890946,transport_infrastruktur
-Danmarksdemokraterne,Venstre,70,5950,5233.0,0.8794957983193278,transport_infrastruktur
-Dansk Folkeparti,Dansk Folkeparti,70,4195,4124.0,0.9830750893921335,transport_infrastruktur
-Dansk Folkeparti,Det Konservative Folkeparti,70,7990,7015.0,0.8779724655819775,transport_infrastruktur
-Dansk Folkeparti,Enhedslisten,70,9151,4465.0,0.4879248169598951,transport_infrastruktur
-Dansk Folkeparti,Inuit Ataqatigiit,70,8,0.0,0.0,transport_infrastruktur
-Dansk Folkeparti,Liberal Alliance,70,2373,1688.0,0.7113358617783396,transport_infrastruktur
-Dansk Folkeparti,Nye Borgerlige,70,2612,1811.0,0.6933384379785605,transport_infrastruktur
-Dansk Folkeparti,Radikale Venstre,70,11309,7242.0,0.6403749226279954,transport_infrastruktur
-Dansk Folkeparti,Sambandsflokkurin,70,8,8.0,1.0,transport_infrastruktur
-Dansk Folkeparti,Socialdemokratiet,70,35102,25920.0,0.7384194632784457,transport_infrastruktur
-Dansk Folkeparti,Socialistisk Folkeparti,70,10177,5768.0,0.5667682028102584,transport_infrastruktur
-Dansk Folkeparti,Venstre,70,30436,26581.0,0.8733407806544881,transport_infrastruktur
+Alternativet,Venstre,70,11120,5053.0,0.4544064748201439,transport_infrastruktur
+Dansk Folkeparti,Dansk Folkeparti,70,5646,5542.0,0.981579879560751,transport_infrastruktur
+Dansk Folkeparti,Det Konservative Folkeparti,70,9250,8097.0,0.8753513513513513,transport_infrastruktur
+Dansk Folkeparti,Enhedslisten,70,10622,5145.0,0.48437205799284505,transport_infrastruktur
+Dansk Folkeparti,Inuit Ataqatigiit,70,10,0.0,0.0,transport_infrastruktur
+Dansk Folkeparti,Liberal Alliance,70,2743,1941.0,0.7076193948231863,transport_infrastruktur
+Dansk Folkeparti,Nye Borgerlige,70,3003,2089.0,0.6956376956376956,transport_infrastruktur
+Dansk Folkeparti,Radikale Venstre,70,13118,8292.0,0.6321085531330995,transport_infrastruktur
+Dansk Folkeparti,Sambandsflokkurin,70,9,9.0,1.0,transport_infrastruktur
+Dansk Folkeparti,Socialdemokratiet,70,40573,30062.0,0.7409360905035368,transport_infrastruktur
+Dansk Folkeparti,Socialistisk Folkeparti,70,11793,6600.0,0.5596540320529128,transport_infrastruktur
+Dansk Folkeparti,Venstre,70,35696,31152.0,0.8727028238458091,transport_infrastruktur
 Det Konservative Folkeparti,Det Konservative Folkeparti,70,2958,2921.0,0.9874915483434753,transport_infrastruktur
 Det Konservative Folkeparti,Enhedslisten,70,7791,3460.0,0.44410216916955464,transport_infrastruktur
 Det Konservative Folkeparti,Inuit Ataqatigiit,70,5,5.0,1.0,transport_infrastruktur
@@ -373,7 +335,7 @@ Det Konservative Folkeparti,Radikale Venstre,70,9601,6270.0,0.653056973231955,tr
 Det Konservative Folkeparti,Sambandsflokkurin,70,6,6.0,1.0,transport_infrastruktur
 Det Konservative Folkeparti,Socialdemokratiet,70,29639,21788.0,0.7351125206653396,transport_infrastruktur
 Det Konservative Folkeparti,Socialistisk Folkeparti,70,8643,4741.0,0.5485363878283004,transport_infrastruktur
-Det Konservative Folkeparti,Venstre,70,25642,24370.0,0.9503938850323688,transport_infrastruktur
+Det Konservative Folkeparti,Venstre,70,25952,24675.0,0.9507937731196054,transport_infrastruktur
 Enhedslisten,Enhedslisten,70,3916,3905.0,0.9971910112359551,transport_infrastruktur
 Enhedslisten,Inuit Ataqatigiit,70,7,7.0,1.0,transport_infrastruktur
 Enhedslisten,Liberal Alliance,70,2315,1077.0,0.4652267818574514,transport_infrastruktur
@@ -382,7 +344,7 @@ Enhedslisten,Radikale Venstre,70,11118,8320.0,0.7483360316603705,transport_infra
 Enhedslisten,Sambandsflokkurin,70,8,8.0,1.0,transport_infrastruktur
 Enhedslisten,Socialdemokratiet,70,34396,22368.0,0.650308175369229,transport_infrastruktur
 Enhedslisten,Socialistisk Folkeparti,70,9991,8771.0,0.8778901010909819,transport_infrastruktur
-Enhedslisten,Venstre,70,30036,12884.0,0.42895192435743773,transport_infrastruktur
+Enhedslisten,Venstre,70,30379,13036.0,0.429112215675302,transport_infrastruktur
 Inuit Ataqatigiit,Liberal Alliance,70,2,2.0,1.0,transport_infrastruktur
 Inuit Ataqatigiit,Nye Borgerlige,70,2,0.0,0.0,transport_infrastruktur
 Inuit Ataqatigiit,Radikale Venstre,70,10,10.0,1.0,transport_infrastruktur
@@ -395,27 +357,27 @@ Liberal Alliance,Radikale Venstre,70,2868,1879.0,0.655160390516039,transport_inf
 Liberal Alliance,Sambandsflokkurin,70,2,2.0,1.0,transport_infrastruktur
 Liberal Alliance,Socialdemokratiet,70,8889,5095.0,0.5731803352458095,transport_infrastruktur
 Liberal Alliance,Socialistisk Folkeparti,70,2563,1379.0,0.5380413577838471,transport_infrastruktur
-Liberal Alliance,Venstre,70,7731,5613.0,0.7260380287155608,transport_infrastruktur
+Liberal Alliance,Venstre,70,7823,5686.0,0.7268311389492522,transport_infrastruktur
 Nye Borgerlige,Nye Borgerlige,70,215,215.0,1.0,transport_infrastruktur
 Nye Borgerlige,Radikale Venstre,70,3084,1447.0,0.4691958495460441,transport_infrastruktur
 Nye Borgerlige,Sambandsflokkurin,70,2,2.0,1.0,transport_infrastruktur
 Nye Borgerlige,Socialdemokratiet,70,9638,4874.0,0.5057065781282424,transport_infrastruktur
 Nye Borgerlige,Socialistisk Folkeparti,70,2793,993.0,0.35553168635875404,transport_infrastruktur
-Nye Borgerlige,Venstre,70,8309,5911.0,0.7113972800577687,transport_infrastruktur
+Nye Borgerlige,Venstre,70,8430,6006.0,0.7124555160142348,transport_infrastruktur
 Radikale Venstre,Radikale Venstre,70,6166,5912.0,0.958806357444048,transport_infrastruktur
 Radikale Venstre,Sambandsflokkurin,70,10,10.0,1.0,transport_infrastruktur
 Radikale Venstre,Socialdemokratiet,70,42326,32261.0,0.7622029012899872,transport_infrastruktur
 Radikale Venstre,Socialistisk Folkeparti,70,12326,10104.0,0.8197306506571475,transport_infrastruktur
-Radikale Venstre,Venstre,70,37017,23710.0,0.6405165194370154,transport_infrastruktur
+Radikale Venstre,Venstre,70,37438,23978.0,0.6404722474491159,transport_infrastruktur
 Sambandsflokkurin,Socialdemokratiet,70,27,27.0,1.0,transport_infrastruktur
 Sambandsflokkurin,Socialistisk Folkeparti,70,9,9.0,1.0,transport_infrastruktur
 Sambandsflokkurin,Venstre,70,24,24.0,1.0,transport_infrastruktur
 Socialdemokratiet,Socialdemokratiet,70,63817,63765.0,0.9991851700957425,transport_infrastruktur
 Socialdemokratiet,Socialistisk Folkeparti,70,38094,29146.0,0.7651073659893947,transport_infrastruktur
-Socialdemokratiet,Venstre,70,115058,84936.0,0.7382016026699577,transport_infrastruktur
+Socialdemokratiet,Venstre,70,116404,85806.0,0.7371396171952854,transport_infrastruktur
 Socialistisk Folkeparti,Socialistisk Folkeparti,70,4880,4872.0,0.9983606557377049,transport_infrastruktur
-Socialistisk Folkeparti,Venstre,70,33233,17152.0,0.5161135016399362,transport_infrastruktur
-Venstre,Venstre,70,48415,48013.0,0.9916967881854797,transport_infrastruktur
+Socialistisk Folkeparti,Venstre,70,33616,17345.0,0.5159745359352689,transport_infrastruktur
+Venstre,Venstre,70,49524,49078.0,0.9909942654066715,transport_infrastruktur
 Alternativet,Alternativet,71,421,373.0,0.8859857482185273,transport_infrastruktur
 Alternativet,Danmarksdemokraterne,71,3176,1575.0,0.4959068010075567,transport_infrastruktur
 Alternativet,Dansk Folkeparti,71,868,359.0,0.41359447004608296,transport_infrastruktur

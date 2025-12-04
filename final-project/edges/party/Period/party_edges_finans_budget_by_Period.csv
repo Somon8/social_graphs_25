@@ -1,25 +1,14 @@
 source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
-Danmarksdemokraterne,Danmarksdemokraterne,65,90,89.0,0.9888888888888889,finans_budget
-Danmarksdemokraterne,Dansk Folkeparti,65,4238,4196.0,0.9900896649362907,finans_budget
-Danmarksdemokraterne,Det Konservative Folkeparti,65,2098,2091.0,0.9966634890371783,finans_budget
-Danmarksdemokraterne,Enhedslisten,65,299,90.0,0.3010033444816054,finans_budget
-Danmarksdemokraterne,Inuit Ataqatigiit,65,19,2.0,0.10526315789473684,finans_budget
-Danmarksdemokraterne,Kristendemokraterne,65,588,263.0,0.44727891156462585,finans_budget
-Danmarksdemokraterne,Radikale Venstre,65,1421,588.0,0.41379310344827586,finans_budget
-Danmarksdemokraterne,Socialdemokratiet,65,9665,2982.0,0.30853595447490945,finans_budget
-Danmarksdemokraterne,Socialistisk Folkeparti,65,2056,584.0,0.2840466926070039,finans_budget
-Danmarksdemokraterne,Tjóðveldi,65,16,0.0,0.0,finans_budget
-Danmarksdemokraterne,Venstre,65,10279,10241.0,0.9963031423290203,finans_budget
-Dansk Folkeparti,Dansk Folkeparti,65,20222,20196.0,0.998714271585402,finans_budget
-Dansk Folkeparti,Det Konservative Folkeparti,65,21258,20971.0,0.9864992003010631,finans_budget
-Dansk Folkeparti,Enhedslisten,65,3021,813.0,0.26911618669314796,finans_budget
-Dansk Folkeparti,Inuit Ataqatigiit,65,155,14.0,0.09032258064516129,finans_budget
-Dansk Folkeparti,Kristendemokraterne,65,5964,2761.0,0.4629443326626425,finans_budget
-Dansk Folkeparti,Radikale Venstre,65,14489,5659.0,0.39057215818897095,finans_budget
-Dansk Folkeparti,Socialdemokratiet,65,97944,28096.0,0.28685779629175856,finans_budget
-Dansk Folkeparti,Socialistisk Folkeparti,65,20816,5216.0,0.25057647963105306,finans_budget
-Dansk Folkeparti,Tjóðveldi,65,128,0.0,0.0,finans_budget
-Dansk Folkeparti,Venstre,65,104000,102536.0,0.9859230769230769,finans_budget
+Dansk Folkeparti,Dansk Folkeparti,65,21507,21480.0,0.9987445947830939,finans_budget
+Dansk Folkeparti,Det Konservative Folkeparti,65,21913,21619.0,0.9865833067129102,finans_budget
+Dansk Folkeparti,Enhedslisten,65,3115,846.0,0.2715890850722311,finans_budget
+Dansk Folkeparti,Inuit Ataqatigiit,65,164,15.0,0.09146341463414634,finans_budget
+Dansk Folkeparti,Kristendemokraterne,65,6146,2830.0,0.4604620891636837,finans_budget
+Dansk Folkeparti,Radikale Venstre,65,14924,5850.0,0.39198606271777003,finans_budget
+Dansk Folkeparti,Socialdemokratiet,65,100938,29062.0,0.28791931680833777,finans_budget
+Dansk Folkeparti,Socialistisk Folkeparti,65,21457,5423.0,0.25273803420795077,finans_budget
+Dansk Folkeparti,Tjóðveldi,65,135,0.0,0.0,finans_budget
+Dansk Folkeparti,Venstre,65,110242,108700.0,0.9860125904827561,finans_budget
 Det Konservative Folkeparti,Det Konservative Folkeparti,65,4527,4527.0,1.0,finans_budget
 Det Konservative Folkeparti,Enhedslisten,65,1493,408.0,0.2732752846617549,finans_budget
 Det Konservative Folkeparti,Inuit Ataqatigiit,65,81,7.0,0.08641975308641975,finans_budget
@@ -28,7 +17,7 @@ Det Konservative Folkeparti,Radikale Venstre,65,7086,2937.0,0.4144792548687553,f
 Det Konservative Folkeparti,Socialdemokratiet,65,48022,14866.0,0.30956644871100747,finans_budget
 Det Konservative Folkeparti,Socialistisk Folkeparti,65,10214,2760.0,0.27021734873702763,finans_budget
 Det Konservative Folkeparti,Tjóðveldi,65,63,0.0,0.0,finans_budget
-Det Konservative Folkeparti,Venstre,65,51017,51000.0,0.9996667777407531,finans_budget
+Det Konservative Folkeparti,Venstre,65,52460,52443.0,0.9996759435760579,finans_budget
 Enhedslisten,Enhedslisten,65,3,3.0,1.0,finans_budget
 Enhedslisten,Inuit Ataqatigiit,65,12,11.0,0.9166666666666666,finans_budget
 Enhedslisten,Kristendemokraterne,65,416,215.0,0.5168269230769231,finans_budget
@@ -36,66 +25,56 @@ Enhedslisten,Radikale Venstre,65,1008,603.0,0.5982142857142857,finans_budget
 Enhedslisten,Socialdemokratiet,65,6827,4576.0,0.6702797714955324,finans_budget
 Enhedslisten,Socialistisk Folkeparti,65,1455,1233.0,0.8474226804123711,finans_budget
 Enhedslisten,Tjóðveldi,65,9,9.0,1.0,finans_budget
-Enhedslisten,Venstre,65,7249,1987.0,0.274106773348048,finans_budget
+Enhedslisten,Venstre,65,7454,2044.0,0.2742151864770593,finans_budget
 Inuit Ataqatigiit,Kristendemokraterne,65,22,15.0,0.6818181818181818,finans_budget
 Inuit Ataqatigiit,Radikale Venstre,65,54,49.0,0.9074074074074074,finans_budget
 Inuit Ataqatigiit,Socialdemokratiet,65,355,290.0,0.8169014084507042,finans_budget
 Inuit Ataqatigiit,Socialistisk Folkeparti,65,79,72.0,0.9113924050632911,finans_budget
 Inuit Ataqatigiit,Tjóðveldi,65,5,5.0,1.0,finans_budget
-Inuit Ataqatigiit,Venstre,65,375,34.0,0.09066666666666667,finans_budget
+Inuit Ataqatigiit,Venstre,65,385,35.0,0.09090909090909091,finans_budget
 Kristendemokraterne,Kristendemokraterne,65,205,199.0,0.9707317073170731,finans_budget
 Kristendemokraterne,Radikale Venstre,65,1991,1076.0,0.5404319437468609,finans_budget
 Kristendemokraterne,Socialdemokratiet,65,13469,7629.0,0.5664117603385552,finans_budget
 Kristendemokraterne,Socialistisk Folkeparti,65,2864,1585.0,0.5534217877094972,finans_budget
 Kristendemokraterne,Tjóðveldi,65,18,14.0,0.7777777777777778,finans_budget
-Kristendemokraterne,Venstre,65,14303,6815.0,0.4764734671048032,finans_budget
+Kristendemokraterne,Venstre,65,14709,7009.0,0.4765109796723095,finans_budget
 Radikale Venstre,Radikale Venstre,65,1933,1925.0,0.9958613554061045,finans_budget
 Radikale Venstre,Socialdemokratiet,65,32712,21133.0,0.6460320371729029,finans_budget
 Radikale Venstre,Socialistisk Folkeparti,65,6953,4595.0,0.6608658133179922,finans_budget
 Radikale Venstre,Tjóðveldi,65,45,45.0,1.0,finans_budget
-Radikale Venstre,Venstre,65,34663,14162.0,0.4085624441046649,finans_budget
+Radikale Venstre,Venstre,65,35649,14559.0,0.4083985525540688,finans_budget
 Socialdemokratiet,Socialdemokratiet,65,107269,107079.0,0.9982287520159598,finans_budget
 Socialdemokratiet,Socialistisk Folkeparti,65,46989,35178.0,0.7486432994956267,finans_budget
 Socialdemokratiet,Tjóðveldi,65,296,231.0,0.7804054054054054,finans_budget
-Socialdemokratiet,Venstre,65,234837,71552.0,0.30468793248082715,finans_budget
+Socialdemokratiet,Venstre,65,241508,73568.0,0.30461930867714526,finans_budget
 Socialistisk Folkeparti,Socialistisk Folkeparti,65,4296,4284.0,0.9972067039106145,finans_budget
 Socialistisk Folkeparti,Tjóðveldi,65,63,63.0,1.0,finans_budget
-Socialistisk Folkeparti,Venstre,65,49879,13449.0,0.26963251067583555,finans_budget
-Tjóðveldi,Venstre,65,305,0.0,0.0,finans_budget
-Venstre,Venstre,65,121294,121224.0,0.9994228898379145,finans_budget
-Danmarksdemokraterne,Danmarksdemokraterne,66,67,64.0,0.9552238805970149,finans_budget
-Danmarksdemokraterne,Dansk Folkeparti,66,6990,6902.0,0.9874105865522175,finans_budget
-Danmarksdemokraterne,Det Konservative Folkeparti,66,4738,4649.0,0.9812157028281976,finans_budget
-Danmarksdemokraterne,Enhedslisten,66,1124,232.0,0.20640569395017794,finans_budget
-Danmarksdemokraterne,Fólkaflokkurin,66,1,1.0,1.0,finans_budget
-Danmarksdemokraterne,Inuit Ataqatigiit,66,1,1.0,1.0,finans_budget
-Danmarksdemokraterne,Radikale Venstre,66,3983,2070.0,0.5197087622395179,finans_budget
-Danmarksdemokraterne,Siumut,66,12,8.0,0.6666666666666666,finans_budget
-Danmarksdemokraterne,Socialdemokratiet,66,12405,7245.0,0.5840386940749698,finans_budget
-Danmarksdemokraterne,Socialistisk Folkeparti,66,3300,1279.0,0.3875757575757576,finans_budget
-Danmarksdemokraterne,Tjóðveldi,66,4,0.0,0.0,finans_budget
-Danmarksdemokraterne,Venstre,66,14158,13910.0,0.9824834016103969,finans_budget
-Dansk Folkeparti,Dansk Folkeparti,66,48410,48360.0,0.9989671555463747,finans_budget
-Dansk Folkeparti,Det Konservative Folkeparti,66,69012,67738.0,0.9815394424158117,finans_budget
-Dansk Folkeparti,Enhedslisten,66,16322,3232.0,0.19801494914838869,finans_budget
+Socialistisk Folkeparti,Venstre,65,51294,13826.0,0.26954419620228487,finans_budget
+Tjóðveldi,Venstre,65,314,0.0,0.0,finans_budget
+Venstre,Venstre,65,128374,128302.0,0.9994391387664169,finans_budget
+Dansk Folkeparti,Dansk Folkeparti,66,49627,49575.0,0.9989521832873234,finans_budget
+Dansk Folkeparti,Det Konservative Folkeparti,66,64005,62761.0,0.9805640184360597,finans_budget
+Dansk Folkeparti,Enhedslisten,66,16533,3280.0,0.1983910965946894,finans_budget
 Dansk Folkeparti,Fólkaflokkurin,66,16,16.0,1.0,finans_budget
 Dansk Folkeparti,Inuit Ataqatigiit,66,16,0.0,0.0,finans_budget
-Dansk Folkeparti,Radikale Venstre,66,57557,29890.0,0.5193112914154664,finans_budget
-Dansk Folkeparti,Siumut,66,112,82.0,0.7321428571428571,finans_budget
-Dansk Folkeparti,Socialdemokratiet,66,181599,101112.0,0.556787206978012,finans_budget
-Dansk Folkeparti,Socialistisk Folkeparti,66,47941,18342.0,0.38259527335683446,finans_budget
+Dansk Folkeparti,Radikale Venstre,66,58316,30296.0,0.5195143699842238,finans_budget
+Dansk Folkeparti,Siumut,66,118,86.0,0.7288135593220338,finans_budget
+Dansk Folkeparti,Socialdemokratiet,66,183829,102596.0,0.558105630776428,finans_budget
+Dansk Folkeparti,Socialistisk Folkeparti,66,48564,18617.0,0.3833498064409851,finans_budget
 Dansk Folkeparti,Tjóðveldi,66,64,0.0,0.0,finans_budget
-Dansk Folkeparti,Venstre,66,206263,201881.0,0.9787552784551762,finans_budget
-Det Konservative Folkeparti,Det Konservative Folkeparti,66,21529,21309.0,0.9897812253239816,finans_budget
-Det Konservative Folkeparti,Enhedslisten,66,11133,2221.0,0.1994969909278721,finans_budget
-Det Konservative Folkeparti,Fólkaflokkurin,66,11,11.0,1.0,finans_budget
-Det Konservative Folkeparti,Inuit Ataqatigiit,66,10,10.0,1.0,finans_budget
-Det Konservative Folkeparti,Radikale Venstre,66,38769,20662.0,0.532951585029276,finans_budget
-Det Konservative Folkeparti,Siumut,66,84,61.0,0.7261904761904762,finans_budget
-Det Konservative Folkeparti,Socialdemokratiet,66,122083,70523.0,0.577664375875429,finans_budget
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,32451,12798.0,0.39437921789775354,finans_budget
-Det Konservative Folkeparti,Tjóðveldi,66,42,0.0,0.0,finans_budget
-Det Konservative Folkeparti,Venstre,66,139463,137688.0,0.9872726099395539,finans_budget
+Dansk Folkeparti,Uden for Folketingsgrupperne,66,5894,5812.0,0.9860875466576179,finans_budget
+Dansk Folkeparti,Venstre,66,214725,210091.0,0.9784189079054605,finans_budget
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,17985,17784.0,0.9888240200166806,finans_budget
+Det Konservative Folkeparti,Enhedslisten,66,10205,2036.0,0.19951004409603135,finans_budget
+Det Konservative Folkeparti,Fólkaflokkurin,66,10,10.0,1.0,finans_budget
+Det Konservative Folkeparti,Inuit Ataqatigiit,66,9,9.0,1.0,finans_budget
+Det Konservative Folkeparti,Radikale Venstre,66,35531,18909.0,0.5321831639976359,finans_budget
+Det Konservative Folkeparti,Siumut,66,77,56.0,0.7272727272727273,finans_budget
+Det Konservative Folkeparti,Socialdemokratiet,66,111815,64488.0,0.5767383624737289,finans_budget
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,29741,11718.0,0.39400154668639253,finans_budget
+Det Konservative Folkeparti,Tjóðveldi,66,38,0.0,0.0,finans_budget
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,66,3544,3525.0,0.9946388261851016,finans_budget
+Det Konservative Folkeparti,Venstre,66,131349,129618.0,0.9868213690245072,finans_budget
 Enhedslisten,Enhedslisten,66,874,871.0,0.9965675057208238,finans_budget
 Enhedslisten,Fólkaflokkurin,66,3,0.0,0.0,finans_budget
 Enhedslisten,Inuit Ataqatigiit,66,1,1.0,1.0,finans_budget
@@ -104,196 +83,202 @@ Enhedslisten,Siumut,66,17,8.0,0.47058823529411764,finans_budget
 Enhedslisten,Socialdemokratiet,66,28800,16784.0,0.5827777777777777,finans_budget
 Enhedslisten,Socialistisk Folkeparti,66,7655,5843.0,0.763291966035271,finans_budget
 Enhedslisten,Tjóðveldi,66,12,12.0,1.0,finans_budget
-Enhedslisten,Venstre,66,32888,6869.0,0.20886037460471904,finans_budget
+Enhedslisten,Uden for Folketingsgrupperne,66,928,185.0,0.19935344827586207,finans_budget
+Enhedslisten,Venstre,66,33801,7053.0,0.2086624656075264,finans_budget
 Fólkaflokkurin,Radikale Venstre,66,8,8.0,1.0,finans_budget
 Fólkaflokkurin,Socialdemokratiet,66,30,30.0,1.0,finans_budget
 Fólkaflokkurin,Socialistisk Folkeparti,66,7,7.0,1.0,finans_budget
-Fólkaflokkurin,Venstre,66,33,33.0,1.0,finans_budget
+Fólkaflokkurin,Uden for Folketingsgrupperne,66,1,1.0,1.0,finans_budget
+Fólkaflokkurin,Venstre,66,34,34.0,1.0,finans_budget
 Inuit Ataqatigiit,Radikale Venstre,66,8,8.0,1.0,finans_budget
 Inuit Ataqatigiit,Socialdemokratiet,66,30,30.0,1.0,finans_budget
 Inuit Ataqatigiit,Socialistisk Folkeparti,66,8,8.0,1.0,finans_budget
-Inuit Ataqatigiit,Venstre,66,35,35.0,1.0,finans_budget
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,66,1,1.0,1.0,finans_budget
+Inuit Ataqatigiit,Venstre,66,36,36.0,1.0,finans_budget
 Radikale Venstre,Radikale Venstre,66,14506,14377.0,0.9911071280849304,finans_budget
 Radikale Venstre,Siumut,66,69,49.0,0.7101449275362319,finans_budget
 Radikale Venstre,Socialdemokratiet,66,101632,78157.0,0.7690196001259446,finans_budget
 Radikale Venstre,Socialistisk Folkeparti,66,26908,19984.0,0.7426787572469155,finans_budget
 Radikale Venstre,Tjóðveldi,66,36,36.0,1.0,finans_budget
-Radikale Venstre,Venstre,66,115617,61749.0,0.5340823581307247,finans_budget
+Radikale Venstre,Uden for Folketingsgrupperne,66,3238,1753.0,0.541383570105003,finans_budget
+Radikale Venstre,Venstre,66,118841,63413.0,0.5335953080165936,finans_budget
 Siumut,Socialdemokratiet,66,203,144.0,0.7093596059113301,finans_budget
 Siumut,Socialistisk Folkeparti,66,54,31.0,0.5740740740740741,finans_budget
-Siumut,Venstre,66,234,167.0,0.7136752136752137,finans_budget
+Siumut,Uden for Folketingsgrupperne,66,7,5.0,0.7142857142857143,finans_budget
+Siumut,Venstre,66,240,171.0,0.7125,finans_budget
 Socialdemokratiet,Socialdemokratiet,66,155363,154174.0,0.9923469551952524,finans_budget
 Socialdemokratiet,Socialistisk Folkeparti,66,84845,64832.0,0.7641228121869291,finans_budget
 Socialdemokratiet,Tjóðveldi,66,116,116.0,1.0,finans_budget
-Socialdemokratiet,Venstre,66,364893,211034.0,0.5783448846648196,finans_budget
+Socialdemokratiet,Uden for Folketingsgrupperne,66,10268,6035.0,0.5877483443708609,finans_budget
+Socialdemokratiet,Venstre,66,375068,216795.0,0.5780151865795002,finans_budget
 Socialistisk Folkeparti,Socialistisk Folkeparti,66,9911,9431.0,0.9515689637776208,finans_budget
 Socialistisk Folkeparti,Tjóðveldi,66,28,28.0,1.0,finans_budget
-Socialistisk Folkeparti,Venstre,66,96674,38604.0,0.3993214307880092,finans_budget
-Tjóðveldi,Venstre,66,124,0.0,0.0,finans_budget
-Venstre,Venstre,66,202057,199546.0,0.9875728136120006,finans_budget
-Danmarksdemokraterne,Danmarksdemokraterne,67,255,247.0,0.9686274509803922,finans_budget
-Danmarksdemokraterne,Dansk Folkeparti,67,13678,13325.0,0.9741921333528294,finans_budget
-Danmarksdemokraterne,Det Konservative Folkeparti,67,8456,8248.0,0.9754020813623463,finans_budget
-Danmarksdemokraterne,Enhedslisten,67,1678,514.0,0.3063170441001192,finans_budget
-Danmarksdemokraterne,Inuit Ataqatigiit,67,2,2.0,1.0,finans_budget
-Danmarksdemokraterne,Liberal Alliance,67,2199,1935.0,0.8799454297407913,finans_budget
-Danmarksdemokraterne,Radikale Venstre,67,3653,1789.0,0.4897344648234328,finans_budget
-Danmarksdemokraterne,Sambandsflokkurin,67,9,9.0,1.0,finans_budget
-Danmarksdemokraterne,Siumut,67,21,20.0,0.9523809523809523,finans_budget
-Danmarksdemokraterne,Socialdemokratiet,67,23200,11019.0,0.47495689655172413,finans_budget
-Danmarksdemokraterne,Socialistisk Folkeparti,67,10924,4932.0,0.45148297326986453,finans_budget
-Danmarksdemokraterne,Tjóðveldi,67,2,1.0,0.5,finans_budget
-Danmarksdemokraterne,Venstre,67,23254,22995.0,0.9888621312462372,finans_budget
-Dansk Folkeparti,Dansk Folkeparti,67,101186,100240.0,0.9906508805565988,finans_budget
-Dansk Folkeparti,Det Konservative Folkeparti,67,130814,123646.0,0.9452046417050163,finans_budget
-Dansk Folkeparti,Enhedslisten,67,25347,7927.0,0.3127391801791139,finans_budget
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,66,2710,1080.0,0.3985239852398524,finans_budget
+Socialistisk Folkeparti,Venstre,66,99351,39608.0,0.39866735110869544,finans_budget
+Tjóðveldi,Uden for Folketingsgrupperne,66,4,0.0,0.0,finans_budget
+Tjóðveldi,Venstre,66,128,0.0,0.0,finans_budget
+Uden for Folketingsgrupperne,Venstre,66,11965,11884.0,0.9932302549101546,finans_budget
+Venstre,Venstre,66,213593,210997.0,0.9878460436437524,finans_budget
+Dansk Folkeparti,Dansk Folkeparti,67,105963,104982.0,0.9907420514707964,finans_budget
+Dansk Folkeparti,Det Konservative Folkeparti,67,124083,117281.0,0.9451818540815422,finans_budget
+Dansk Folkeparti,Enhedslisten,67,24006,7287.0,0.30354911272181956,finans_budget
 Dansk Folkeparti,Inuit Ataqatigiit,67,53,35.0,0.660377358490566,finans_budget
-Dansk Folkeparti,Liberal Alliance,67,35258,29485.0,0.8362641102728459,finans_budget
-Dansk Folkeparti,Radikale Venstre,67,54891,26839.0,0.4889508298263832,finans_budget
-Dansk Folkeparti,Sambandsflokkurin,67,279,224.0,0.8028673835125448,finans_budget
-Dansk Folkeparti,Siumut,67,211,177.0,0.8388625592417062,finans_budget
-Dansk Folkeparti,Socialdemokratiet,67,362338,171112.0,0.47224414772946804,finans_budget
-Dansk Folkeparti,Socialistisk Folkeparti,67,169955,77387.0,0.4553381777529346,finans_budget
+Dansk Folkeparti,Liberal Alliance,67,36041,30190.0,0.837657112732721,finans_budget
+Dansk Folkeparti,Radikale Venstre,67,56202,27470.0,0.4887726415430056,finans_budget
+Dansk Folkeparti,Sambandsflokkurin,67,281,226.0,0.8042704626334519,finans_budget
+Dansk Folkeparti,Siumut,67,222,187.0,0.8423423423423423,finans_budget
+Dansk Folkeparti,Socialdemokratiet,67,361270,170691.0,0.47247488028344453,finans_budget
+Dansk Folkeparti,Socialistisk Folkeparti,67,184949,84156.0,0.4550227359974912,finans_budget
 Dansk Folkeparti,Tjóðveldi,67,72,19.0,0.2638888888888889,finans_budget
-Dansk Folkeparti,Venstre,67,364637,347743.0,0.9536689913530443,finans_budget
-Det Konservative Folkeparti,Det Konservative Folkeparti,67,36590,36014.0,0.9842579939874283,finans_budget
-Det Konservative Folkeparti,Enhedslisten,67,15446,5256.0,0.340282273727826,finans_budget
-Det Konservative Folkeparti,Inuit Ataqatigiit,67,34,34.0,1.0,finans_budget
-Det Konservative Folkeparti,Liberal Alliance,67,21267,18407.0,0.8655193492265012,finans_budget
-Det Konservative Folkeparti,Radikale Venstre,67,33656,18170.0,0.539874019491324,finans_budget
-Det Konservative Folkeparti,Sambandsflokkurin,67,170,170.0,1.0,finans_budget
-Det Konservative Folkeparti,Siumut,67,134,134.0,1.0,finans_budget
-Det Konservative Folkeparti,Socialdemokratiet,67,221311,116328.0,0.5256313513562363,finans_budget
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,103680,52163.0,0.5031153549382716,finans_budget
-Det Konservative Folkeparti,Tjóðveldi,67,44,20.0,0.45454545454545453,finans_budget
-Det Konservative Folkeparti,Venstre,67,222919,221158.0,0.9921002696046546,finans_budget
-Enhedslisten,Enhedslisten,67,848,791.0,0.9327830188679245,finans_budget
-Enhedslisten,Inuit Ataqatigiit,67,7,3.0,0.42857142857142855,finans_budget
-Enhedslisten,Liberal Alliance,67,4059,1643.0,0.40477950234047794,finans_budget
-Enhedslisten,Radikale Venstre,67,6592,4483.0,0.6800667475728155,finans_budget
-Enhedslisten,Sambandsflokkurin,67,35,10.0,0.2857142857142857,finans_budget
-Enhedslisten,Siumut,67,25,14.0,0.56,finans_budget
-Enhedslisten,Socialdemokratiet,67,42670,32748.0,0.7674712913053667,finans_budget
-Enhedslisten,Socialistisk Folkeparti,67,20048,16047.0,0.8004289704708699,finans_budget
-Enhedslisten,Tjóðveldi,67,9,5.0,0.5555555555555556,finans_budget
-Enhedslisten,Venstre,67,42996,14206.0,0.33040282817006233,finans_budget
+Dansk Folkeparti,Uden for Folketingsgrupperne,67,9703,9189.0,0.9470266927754303,finans_budget
+Dansk Folkeparti,Venstre,67,381979,364502.0,0.9542461758368915,finans_budget
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,31288,30723.0,0.9819419585783687,finans_budget
+Det Konservative Folkeparti,Enhedslisten,67,13330,4394.0,0.3296324081020255,finans_budget
+Det Konservative Folkeparti,Inuit Ataqatigiit,67,31,31.0,1.0,finans_budget
+Det Konservative Folkeparti,Liberal Alliance,67,19719,17084.0,0.8663725341041635,finans_budget
+Det Konservative Folkeparti,Radikale Venstre,67,31268,16854.0,0.5390175259050787,finans_budget
+Det Konservative Folkeparti,Sambandsflokkurin,67,155,155.0,1.0,finans_budget
+Det Konservative Folkeparti,Siumut,67,121,121.0,1.0,finans_budget
+Det Konservative Folkeparti,Socialdemokratiet,67,199962,104814.0,0.5241695922225222,finans_budget
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,102324,51342.0,0.5017591180954615,finans_budget
+Det Konservative Folkeparti,Tjóðveldi,67,40,18.0,0.45,finans_budget
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,67,5302,5291.0,0.9979253112033195,finans_budget
+Det Konservative Folkeparti,Venstre,67,211657,209838.0,0.9914059067264489,finans_budget
+Enhedslisten,Enhedslisten,67,635,634.0,0.9984251968503937,finans_budget
+Enhedslisten,Inuit Ataqatigiit,67,6,2.0,0.3333333333333333,finans_budget
+Enhedslisten,Liberal Alliance,67,3779,1484.0,0.3926964805504102,finans_budget
+Enhedslisten,Radikale Venstre,67,6078,4050.0,0.6663376110562685,finans_budget
+Enhedslisten,Sambandsflokkurin,67,31,8.0,0.25806451612903225,finans_budget
+Enhedslisten,Siumut,67,24,13.0,0.5416666666666666,finans_budget
+Enhedslisten,Socialdemokratiet,67,38574,29113.0,0.7547311660704101,finans_budget
+Enhedslisten,Socialistisk Folkeparti,67,19794,15530.0,0.7845811862180458,finans_budget
+Enhedslisten,Tjóðveldi,67,8,4.0,0.5,finans_budget
+Enhedslisten,Uden for Folketingsgrupperne,67,1024,349.0,0.3408203125,finans_budget
+Enhedslisten,Venstre,67,40850,13063.0,0.3197796817625459,finans_budget
 Inuit Ataqatigiit,Liberal Alliance,67,9,8.0,0.8888888888888888,finans_budget
 Inuit Ataqatigiit,Radikale Venstre,67,16,16.0,1.0,finans_budget
 Inuit Ataqatigiit,Sambandsflokkurin,67,2,2.0,1.0,finans_budget
 Inuit Ataqatigiit,Siumut,67,1,1.0,1.0,finans_budget
-Inuit Ataqatigiit,Socialdemokratiet,67,88,88.0,1.0,finans_budget
-Inuit Ataqatigiit,Socialistisk Folkeparti,67,41,41.0,1.0,finans_budget
+Inuit Ataqatigiit,Socialdemokratiet,67,85,85.0,1.0,finans_budget
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,45,45.0,1.0,finans_budget
 Inuit Ataqatigiit,Tjóðveldi,67,3,2.0,0.6666666666666666,finans_budget
-Inuit Ataqatigiit,Venstre,67,94,94.0,1.0,finans_budget
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,67,3,3.0,1.0,finans_budget
+Inuit Ataqatigiit,Venstre,67,96,96.0,1.0,finans_budget
 Liberal Alliance,Liberal Alliance,67,2170,1617.0,0.7451612903225806,finans_budget
 Liberal Alliance,Radikale Venstre,67,8705,5209.0,0.5983917288914417,finans_budget
 Liberal Alliance,Sambandsflokkurin,67,49,44.0,0.8979591836734694,finans_budget
 Liberal Alliance,Siumut,67,36,36.0,1.0,finans_budget
-Liberal Alliance,Socialdemokratiet,67,59520,33280.0,0.5591397849462365,finans_budget
-Liberal Alliance,Socialistisk Folkeparti,67,27901,15332.0,0.5495143543242178,finans_budget
+Liberal Alliance,Socialdemokratiet,67,58026,32429.0,0.5588701616516734,finans_budget
+Liberal Alliance,Socialistisk Folkeparti,67,29675,16342.0,0.5506992417860151,finans_budget
 Liberal Alliance,Tjóðveldi,67,12,6.0,0.5,finans_budget
-Liberal Alliance,Venstre,67,59691,51915.0,0.8697291048901844,finans_budget
+Liberal Alliance,Uden for Folketingsgrupperne,67,1548,1323.0,0.8546511627906976,finans_budget
+Liberal Alliance,Venstre,67,61107,53145.0,0.8697039619028917,finans_budget
 Radikale Venstre,Radikale Venstre,67,5645,5387.0,0.954295837023915,finans_budget
 Radikale Venstre,Sambandsflokkurin,67,66,52.0,0.7878787878787878,finans_budget
 Radikale Venstre,Siumut,67,57,57.0,1.0,finans_budget
-Radikale Venstre,Socialdemokratiet,67,92662,72944.0,0.7872051110487579,finans_budget
-Radikale Venstre,Socialistisk Folkeparti,67,43568,35169.0,0.8072208960705105,finans_budget
+Radikale Venstre,Socialdemokratiet,67,90418,71150.0,0.7869008383286513,finans_budget
+Radikale Venstre,Socialistisk Folkeparti,67,46326,37396.0,0.8072356775892587,finans_budget
 Radikale Venstre,Tjóðveldi,67,20,11.0,0.55,finans_budget
-Radikale Venstre,Venstre,67,93295,49529.0,0.5308858995658932,finans_budget
+Radikale Venstre,Uden for Folketingsgrupperne,67,2388,1316.0,0.5510887772194305,finans_budget
+Radikale Venstre,Venstre,67,95637,50687.0,0.5299936217154448,finans_budget
 Sambandsflokkurin,Siumut,67,1,1.0,1.0,finans_budget
-Sambandsflokkurin,Socialdemokratiet,67,468,411.0,0.8782051282051282,finans_budget
-Sambandsflokkurin,Socialistisk Folkeparti,67,222,172.0,0.7747747747747747,finans_budget
+Sambandsflokkurin,Socialdemokratiet,67,455,401.0,0.8813186813186813,finans_budget
+Sambandsflokkurin,Socialistisk Folkeparti,67,239,184.0,0.7698744769874477,finans_budget
 Sambandsflokkurin,Tjóðveldi,67,3,1.0,0.3333333333333333,finans_budget
-Sambandsflokkurin,Venstre,67,473,473.0,1.0,finans_budget
-Siumut,Socialdemokratiet,67,391,391.0,1.0,finans_budget
-Siumut,Socialistisk Folkeparti,67,174,174.0,1.0,finans_budget
+Sambandsflokkurin,Uden for Folketingsgrupperne,67,15,15.0,1.0,finans_budget
+Sambandsflokkurin,Venstre,67,480,480.0,1.0,finans_budget
+Siumut,Socialdemokratiet,67,378,378.0,1.0,finans_budget
+Siumut,Socialistisk Folkeparti,67,188,188.0,1.0,finans_budget
 Siumut,Tjóðveldi,67,1,1.0,1.0,finans_budget
-Siumut,Venstre,67,387,387.0,1.0,finans_budget
-Socialdemokratiet,Socialdemokratiet,67,295934,294628.0,0.9955868538255152,finans_budget
-Socialdemokratiet,Socialistisk Folkeparti,67,286873,270559.0,0.9431316296758496,finans_budget
-Socialdemokratiet,Tjóðveldi,67,116,59.0,0.5086206896551724,finans_budget
-Socialdemokratiet,Venstre,67,616423,318224.0,0.516242904628802,finans_budget
-Socialistisk Folkeparti,Socialistisk Folkeparti,67,62685,62533.0,0.997575177474675,finans_budget
-Socialistisk Folkeparti,Tjóðveldi,67,56,26.0,0.4642857142857143,finans_budget
-Socialistisk Folkeparti,Venstre,67,288426,142427.0,0.4938077704506528,finans_budget
-Tjóðveldi,Venstre,67,125,66.0,0.528,finans_budget
-Venstre,Venstre,67,300472,300414.0,0.9998069703666231,finans_budget
-Danmarksdemokraterne,Danmarksdemokraterne,68,454,335.0,0.737885462555066,finans_budget
-Danmarksdemokraterne,Dansk Folkeparti,68,12313,10857.0,0.8817509948834565,finans_budget
-Danmarksdemokraterne,Det Konservative Folkeparti,68,4734,3385.0,0.7150401351922264,finans_budget
-Danmarksdemokraterne,Enhedslisten,68,8274,3885.0,0.46954314720812185,finans_budget
-Danmarksdemokraterne,Inuit Ataqatigiit,68,2,0.0,0.0,finans_budget
-Danmarksdemokraterne,Liberal Alliance,68,5072,2697.0,0.5317429022082019,finans_budget
-Danmarksdemokraterne,Radikale Venstre,68,10971,5954.0,0.5427034910217847,finans_budget
-Danmarksdemokraterne,Sambandsflokkurin,68,17,17.0,1.0,finans_budget
-Danmarksdemokraterne,Siumut,68,2,0.0,0.0,finans_budget
-Danmarksdemokraterne,Socialdemokratiet,68,29553,16006.0,0.5416032213311678,finans_budget
-Danmarksdemokraterne,Socialistisk Folkeparti,68,9454,5015.0,0.5304632959593822,finans_budget
-Danmarksdemokraterne,Venstre,68,28234,22001.0,0.7792377983990932,finans_budget
-Dansk Folkeparti,Dansk Folkeparti,68,46412,46352.0,0.9987072308885633,finans_budget
-Dansk Folkeparti,Det Konservative Folkeparti,68,38954,24096.0,0.618575756019921,finans_budget
-Dansk Folkeparti,Enhedslisten,68,66372,31801.0,0.4791327668293859,finans_budget
-Dansk Folkeparti,Inuit Ataqatigiit,68,12,1.0,0.08333333333333333,finans_budget
-Dansk Folkeparti,Liberal Alliance,68,40831,21105.0,0.5168866792388136,finans_budget
-Dansk Folkeparti,Radikale Venstre,68,87684,43850.0,0.5000912367136535,finans_budget
-Dansk Folkeparti,Sambandsflokkurin,68,136,97.0,0.7132352941176471,finans_budget
-Dansk Folkeparti,Siumut,68,12,1.0,0.08333333333333333,finans_budget
-Dansk Folkeparti,Socialdemokratiet,68,234969,116766.0,0.49694214981550755,finans_budget
-Dansk Folkeparti,Socialistisk Folkeparti,68,75719,37351.0,0.49328438040650296,finans_budget
-Dansk Folkeparti,Venstre,68,224556,148175.0,0.6598576747002974,finans_budget
-Det Konservative Folkeparti,Det Konservative Folkeparti,68,6121,6101.0,0.9967325600392093,finans_budget
-Det Konservative Folkeparti,Enhedslisten,68,25764,10476.0,0.40661387983232417,finans_budget
-Det Konservative Folkeparti,Inuit Ataqatigiit,68,5,0.0,0.0,finans_budget
-Det Konservative Folkeparti,Liberal Alliance,68,15795,9609.0,0.6083570750237417,finans_budget
-Det Konservative Folkeparti,Radikale Venstre,68,34084,20339.0,0.596731604271799,finans_budget
-Det Konservative Folkeparti,Sambandsflokkurin,68,55,55.0,1.0,finans_budget
-Det Konservative Folkeparti,Siumut,68,5,0.0,0.0,finans_budget
-Det Konservative Folkeparti,Socialdemokratiet,68,91156,54623.0,0.599225503532406,finans_budget
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,29439,17181.0,0.5836135738306328,finans_budget
-Det Konservative Folkeparti,Venstre,68,87185,73214.0,0.839754544933188,finans_budget
-Enhedslisten,Enhedslisten,68,19375,18988.0,0.9800258064516129,finans_budget
+Siumut,Uden for Folketingsgrupperne,67,13,13.0,1.0,finans_budget
+Siumut,Venstre,67,397,397.0,1.0,finans_budget
+Socialdemokratiet,Socialdemokratiet,67,280999,280811.0,0.9993309584731618,finans_budget
+Socialdemokratiet,Socialistisk Folkeparti,67,297777,280110.0,0.9406703674226015,finans_budget
+Socialdemokratiet,Tjóðveldi,67,113,57.0,0.504424778761062,finans_budget
+Socialdemokratiet,Uden for Folketingsgrupperne,67,15736,8669.0,0.550902389425521,finans_budget
+Socialdemokratiet,Venstre,67,615468,317455.0,0.5157944848473032,finans_budget
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,71279,71108.0,0.9976009764446752,finans_budget
+Socialistisk Folkeparti,Tjóðveldi,67,60,29.0,0.48333333333333334,finans_budget
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,67,8061,4179.0,0.5184220320059546,finans_budget
+Socialistisk Folkeparti,Venstre,67,314744,155096.0,0.49276872632996976,finans_budget
+Tjóðveldi,Uden for Folketingsgrupperne,67,4,2.0,0.5,finans_budget
+Tjóðveldi,Venstre,67,127,67.0,0.5275590551181102,finans_budget
+Uden for Folketingsgrupperne,Venstre,67,16746,16744.0,0.9998805684939687,finans_budget
+Venstre,Venstre,67,315540,315480.0,0.9998098497813273,finans_budget
+Dansk Folkeparti,Dansk Folkeparti,68,54460,54379.0,0.9985126698494308,finans_budget
+Dansk Folkeparti,Det Konservative Folkeparti,68,34546,21491.0,0.6220980721357031,finans_budget
+Dansk Folkeparti,Enhedslisten,68,69817,33357.0,0.47777761863156537,finans_budget
+Dansk Folkeparti,Inuit Ataqatigiit,68,13,1.0,0.07692307692307693,finans_budget
+Dansk Folkeparti,Liberal Alliance,68,44131,22749.0,0.5154879789716978,finans_budget
+Dansk Folkeparti,Radikale Venstre,68,94831,47392.0,0.4997521907393152,finans_budget
+Dansk Folkeparti,Sambandsflokkurin,68,143,104.0,0.7272727272727273,finans_budget
+Dansk Folkeparti,Siumut,68,13,1.0,0.07692307692307693,finans_budget
+Dansk Folkeparti,Socialdemokratiet,68,247105,122759.0,0.4967888144715809,finans_budget
+Dansk Folkeparti,Socialistisk Folkeparti,68,90846,44853.0,0.49372564559804505,finans_budget
+Dansk Folkeparti,Uden for Folketingsgrupperne,68,7493,4523.0,0.6036300547177366,finans_budget
+Dansk Folkeparti,Venstre,68,247643,163478.0,0.6601357599447591,finans_budget
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,4004,3989.0,0.9962537462537463,finans_budget
+Det Konservative Folkeparti,Enhedslisten,68,20557,8205.0,0.39913411490003403,finans_budget
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,4,0.0,0.0,finans_budget
+Det Konservative Folkeparti,Liberal Alliance,68,12981,7925.0,0.6105076650489176,finans_budget
+Det Konservative Folkeparti,Radikale Venstre,68,28020,16793.0,0.5993219129193433,finans_budget
+Det Konservative Folkeparti,Sambandsflokkurin,68,52,52.0,1.0,finans_budget
+Det Konservative Folkeparti,Siumut,68,4,0.0,0.0,finans_budget
+Det Konservative Folkeparti,Socialdemokratiet,68,72812,43872.0,0.6025380431796956,finans_budget
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,26923,15807.0,0.5871188203394867,finans_budget
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,68,2117,2112.0,0.997638167217761,finans_budget
+Det Konservative Folkeparti,Venstre,68,72977,61640.0,0.84464968414706,finans_budget
+Enhedslisten,Enhedslisten,68,18209,18194.0,0.9991762315338569,finans_budget
 Enhedslisten,Inuit Ataqatigiit,68,8,8.0,1.0,finans_budget
-Enhedslisten,Liberal Alliance,68,26971,9625.0,0.35686478069037114,finans_budget
-Enhedslisten,Radikale Venstre,68,57970,45103.0,0.7780403657063999,finans_budget
-Enhedslisten,Sambandsflokkurin,68,92,9.0,0.09782608695652174,finans_budget
+Enhedslisten,Liberal Alliance,68,26239,9278.0,0.3535957925225809,finans_budget
+Enhedslisten,Radikale Venstre,68,56397,43675.0,0.7744206252105609,finans_budget
+Enhedslisten,Sambandsflokkurin,68,88,8.0,0.09090909090909091,finans_budget
 Enhedslisten,Siumut,68,8,8.0,1.0,finans_budget
-Enhedslisten,Socialdemokratiet,68,155332,119868.0,0.7716890273736255,finans_budget
-Enhedslisten,Socialistisk Folkeparti,68,50100,39215.0,0.7827345309381237,finans_budget
-Enhedslisten,Venstre,68,148489,64999.0,0.4377361286021187,finans_budget
+Enhedslisten,Socialdemokratiet,68,146993,112788.0,0.7673018443055112,finans_budget
+Enhedslisten,Socialistisk Folkeparti,68,54104,41993.0,0.7761533343190892,finans_budget
+Enhedslisten,Uden for Folketingsgrupperne,68,4449,1773.0,0.3985165205664194,finans_budget
+Enhedslisten,Venstre,68,147240,63633.0,0.4321719641401793,finans_budget
 Inuit Ataqatigiit,Liberal Alliance,68,5,0.0,0.0,finans_budget
 Inuit Ataqatigiit,Radikale Venstre,68,11,11.0,1.0,finans_budget
 Inuit Ataqatigiit,Siumut,68,1,1.0,1.0,finans_budget
-Inuit Ataqatigiit,Socialdemokratiet,68,29,29.0,1.0,finans_budget
-Inuit Ataqatigiit,Socialistisk Folkeparti,68,9,9.0,1.0,finans_budget
-Inuit Ataqatigiit,Venstre,68,28,0.0,0.0,finans_budget
+Inuit Ataqatigiit,Socialdemokratiet,68,28,28.0,1.0,finans_budget
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,10,10.0,1.0,finans_budget
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,68,1,0.0,0.0,finans_budget
+Inuit Ataqatigiit,Venstre,68,29,0.0,0.0,finans_budget
 Liberal Alliance,Liberal Alliance,68,6675,6643.0,0.9952059925093633,finans_budget
 Liberal Alliance,Radikale Venstre,68,35609,14948.0,0.41978151590889945,finans_budget
 Liberal Alliance,Sambandsflokkurin,68,55,40.0,0.7272727272727273,finans_budget
 Liberal Alliance,Siumut,68,5,0.0,0.0,finans_budget
-Liberal Alliance,Socialdemokratiet,68,95516,39846.0,0.41716571045688683,finans_budget
-Liberal Alliance,Socialistisk Folkeparti,68,30791,12583.0,0.4086583742002533,finans_budget
-Liberal Alliance,Venstre,68,91247,54825.0,0.6008416715070084,finans_budget
+Liberal Alliance,Socialdemokratiet,68,92857,38730.0,0.4170929493737683,finans_budget
+Liberal Alliance,Socialistisk Folkeparti,68,34182,14046.0,0.4109180270317711,finans_budget
+Liberal Alliance,Uden for Folketingsgrupperne,68,2814,1684.0,0.5984363894811656,finans_budget
+Liberal Alliance,Venstre,68,93019,55878.0,0.6007159827562111,finans_budget
 Radikale Venstre,Radikale Venstre,68,35100,34768.0,0.9905413105413106,finans_budget
 Radikale Venstre,Sambandsflokkurin,68,119,73.0,0.6134453781512605,finans_budget
 Radikale Venstre,Siumut,68,11,11.0,1.0,finans_budget
-Radikale Venstre,Socialdemokratiet,68,205813,204819.0,0.9951703731056833,finans_budget
-Radikale Venstre,Socialistisk Folkeparti,68,66275,64766.0,0.9772312334967936,finans_budget
-Radikale Venstre,Venstre,68,196998,124377.0,0.6313617397130935,finans_budget
-Sambandsflokkurin,Socialdemokratiet,68,322,206.0,0.639751552795031,finans_budget
-Sambandsflokkurin,Socialistisk Folkeparti,68,96,54.0,0.5625,finans_budget
-Sambandsflokkurin,Venstre,68,297,296.0,0.9966329966329966,finans_budget
-Siumut,Socialdemokratiet,68,29,29.0,1.0,finans_budget
-Siumut,Socialistisk Folkeparti,68,9,9.0,1.0,finans_budget
-Siumut,Venstre,68,28,0.0,0.0,finans_budget
-Socialdemokratiet,Socialdemokratiet,68,266916,266774.0,0.99946799742241,finans_budget
-Socialdemokratiet,Socialistisk Folkeparti,68,177553,173764.0,0.9786598931023412,finans_budget
-Socialdemokratiet,Venstre,68,527600,335265.0,0.6354529946929492,finans_budget
-Socialistisk Folkeparti,Socialistisk Folkeparti,68,25893,25571.0,0.9875642065423087,finans_budget
-Socialistisk Folkeparti,Venstre,68,169782,104271.0,0.6141463759409125,finans_budget
-Venstre,Venstre,68,243933,243750.0,0.9992497940008117,finans_budget
+Radikale Venstre,Socialdemokratiet,68,200108,199141.0,0.9951676094908749,finans_budget
+Radikale Venstre,Socialistisk Folkeparti,68,73553,71872.0,0.9771457316492869,finans_budget
+Radikale Venstre,Uden for Folketingsgrupperne,68,6064,3546.0,0.5847625329815304,finans_budget
+Radikale Venstre,Venstre,68,200822,126789.0,0.6313501508798837,finans_budget
+Sambandsflokkurin,Socialdemokratiet,68,311,199.0,0.639871382636656,finans_budget
+Sambandsflokkurin,Socialistisk Folkeparti,68,111,62.0,0.5585585585585585,finans_budget
+Sambandsflokkurin,Uden for Folketingsgrupperne,68,3,3.0,1.0,finans_budget
+Sambandsflokkurin,Venstre,68,307,306.0,0.996742671009772,finans_budget
+Siumut,Socialdemokratiet,68,28,28.0,1.0,finans_budget
+Siumut,Socialistisk Folkeparti,68,10,10.0,1.0,finans_budget
+Siumut,Uden for Folketingsgrupperne,68,1,0.0,0.0,finans_budget
+Siumut,Venstre,68,29,0.0,0.0,finans_budget
+Socialdemokratiet,Socialdemokratiet,68,252045,251906.0,0.9994485111785594,finans_budget
+Socialdemokratiet,Socialistisk Folkeparti,68,191564,187483.0,0.9786964147752187,finans_budget
+Socialdemokratiet,Uden for Folketingsgrupperne,68,15843,9274.0,0.5853689326516442,finans_budget
+Socialdemokratiet,Venstre,68,522933,332278.0,0.6354121847349469,finans_budget
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,32254,31816.0,0.9864202889564085,finans_budget
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,68,5775,3349.0,0.5799134199134199,finans_budget
+Socialistisk Folkeparti,Venstre,68,192271,118479.0,0.616208372557484,finans_budget
+Uden for Folketingsgrupperne,Venstre,68,15857,13041.0,0.8224128145298606,finans_budget
+Venstre,Venstre,68,253799,253613.0,0.9992671365923428,finans_budget
 Alternativet,Alternativet,69,9163,9163.0,1.0,finans_budget
-Alternativet,Danmarksdemokraterne,69,5887,1940.0,0.3295396636657041,finans_budget
-Alternativet,Dansk Folkeparti,69,90360,28963.0,0.32052899513058875,finans_budget
+Alternativet,Dansk Folkeparti,69,93149,29845.0,0.32040064842349353,finans_budget
 Alternativet,Det Konservative Folkeparti,69,15972,5782.0,0.3620085149010769,finans_budget
 Alternativet,Enhedslisten,69,36449,30224.0,0.8292134214930451,finans_budget
 Alternativet,Inuit Ataqatigiit,69,521,71.0,0.1362763915547025,finans_budget
@@ -302,28 +287,17 @@ Alternativet,Radikale Venstre,69,19815,14446.0,0.729043653797628,finans_budget
 Alternativet,Socialdemokratiet,69,119909,59918.0,0.49969560249856143,finans_budget
 Alternativet,Socialistisk Folkeparti,69,16238,13192.0,0.8124153220840005,finans_budget
 Alternativet,Tjóðveldi,69,40,10.0,0.25,finans_budget
-Alternativet,Venstre,69,78834,27681.0,0.35113022300022834,finans_budget
-Danmarksdemokraterne,Danmarksdemokraterne,69,434,384.0,0.8847926267281107,finans_budget
-Danmarksdemokraterne,Dansk Folkeparti,69,23913,22446.0,0.9386526157320286,finans_budget
-Danmarksdemokraterne,Det Konservative Folkeparti,69,4258,3999.0,0.9391733208078911,finans_budget
-Danmarksdemokraterne,Enhedslisten,69,9642,2449.0,0.25399294752126117,finans_budget
-Danmarksdemokraterne,Inuit Ataqatigiit,69,97,6.0,0.061855670103092786,finans_budget
-Danmarksdemokraterne,Liberal Alliance,69,8754,8092.0,0.9243774274617318,finans_budget
-Danmarksdemokraterne,Radikale Venstre,69,5272,2619.0,0.49677541729893776,finans_budget
-Danmarksdemokraterne,Socialdemokratiet,69,31869,20812.0,0.6530484169569174,finans_budget
-Danmarksdemokraterne,Socialistisk Folkeparti,69,4329,1592.0,0.36775236775236775,finans_budget
-Danmarksdemokraterne,Tjóðveldi,69,12,1.0,0.08333333333333333,finans_budget
-Danmarksdemokraterne,Venstre,69,20695,19549.0,0.9446243053877749,finans_budget
-Dansk Folkeparti,Dansk Folkeparti,69,176437,176333.0,0.9994105544755352,finans_budget
-Dansk Folkeparti,Det Konservative Folkeparti,69,65318,58029.0,0.8884074833889586,finans_budget
-Dansk Folkeparti,Enhedslisten,69,149041,39595.0,0.26566515254191797,finans_budget
-Dansk Folkeparti,Inuit Ataqatigiit,69,1994,88.0,0.044132397191574725,finans_budget
-Dansk Folkeparti,Liberal Alliance,69,134698,118769.0,0.881742861809381,finans_budget
-Dansk Folkeparti,Radikale Venstre,69,81004,37299.0,0.4604587427781344,finans_budget
-Dansk Folkeparti,Socialdemokratiet,69,490089,297841.0,0.60772839218999,finans_budget
-Dansk Folkeparti,Socialistisk Folkeparti,69,66355,23668.0,0.356687514128551,finans_budget
-Dansk Folkeparti,Tjóðveldi,69,178,23.0,0.12921348314606743,finans_budget
-Dansk Folkeparti,Venstre,69,320815,285951.0,0.8913267771145365,finans_budget
+Alternativet,Venstre,69,81932,28739.0,0.35076648928379633,finans_budget
+Dansk Folkeparti,Dansk Folkeparti,69,187687,187580.0,0.9994299019111607,finans_budget
+Dansk Folkeparti,Det Konservative Folkeparti,69,67371,59846.0,0.888305057072034,finans_budget
+Dansk Folkeparti,Enhedslisten,69,153583,40877.0,0.26615575942649905,finans_budget
+Dansk Folkeparti,Inuit Ataqatigiit,69,2011,90.0,0.04475385380407757,finans_budget
+Dansk Folkeparti,Liberal Alliance,69,138851,122414.0,0.8816213062923566,finans_budget
+Dansk Folkeparti,Radikale Venstre,69,83494,38463.0,0.460667832419096,finans_budget
+Dansk Folkeparti,Socialdemokratiet,69,505209,307269.0,0.6082017541255204,finans_budget
+Dansk Folkeparti,Socialistisk Folkeparti,69,68400,24424.0,0.3570760233918129,finans_budget
+Dansk Folkeparti,Tjóðveldi,69,186,24.0,0.12903225806451613,finans_budget
+Dansk Folkeparti,Venstre,69,343746,306223.0,0.890840911603335,finans_budget
 Det Konservative Folkeparti,Det Konservative Folkeparti,69,4410,4407.0,0.9993197278911564,finans_budget
 Det Konservative Folkeparti,Enhedslisten,69,26386,6802.0,0.25778822102630183,finans_budget
 Det Konservative Folkeparti,Inuit Ataqatigiit,69,349,16.0,0.045845272206303724,finans_budget
@@ -332,7 +306,7 @@ Det Konservative Folkeparti,Radikale Venstre,69,14330,7683.0,0.5361479413817167,
 Det Konservative Folkeparti,Socialdemokratiet,69,86784,60421.0,0.6962228060471977,finans_budget
 Det Konservative Folkeparti,Socialistisk Folkeparti,69,11739,4467.0,0.38052645029389215,finans_budget
 Det Konservative Folkeparti,Tjóðveldi,69,31,3.0,0.0967741935483871,finans_budget
-Det Konservative Folkeparti,Venstre,69,56641,55924.0,0.9873413251884677,finans_budget
+Det Konservative Folkeparti,Venstre,69,58846,58106.0,0.9874248037249771,finans_budget
 Enhedslisten,Enhedslisten,69,26758,26742.0,0.9994020479856491,finans_budget
 Enhedslisten,Inuit Ataqatigiit,69,789,107.0,0.13561470215462612,finans_budget
 Enhedslisten,Liberal Alliance,69,54398,13771.0,0.25315268943711167,finans_budget
@@ -340,36 +314,35 @@ Enhedslisten,Radikale Venstre,69,32678,20942.0,0.6408592937144256,finans_budget
 Enhedslisten,Socialdemokratiet,69,197996,83777.0,0.42312470959009274,finans_budget
 Enhedslisten,Socialistisk Folkeparti,69,26788,21374.0,0.7978945796625355,finans_budget
 Enhedslisten,Tjóðveldi,69,72,18.0,0.25,finans_budget
-Enhedslisten,Venstre,69,129563,31681.0,0.24452197000686923,finans_budget
+Enhedslisten,Venstre,69,134663,32848.0,0.24392743366774838,finans_budget
 Inuit Ataqatigiit,Liberal Alliance,69,704,33.0,0.046875,finans_budget
 Inuit Ataqatigiit,Radikale Venstre,69,428,78.0,0.1822429906542056,finans_budget
 Inuit Ataqatigiit,Socialdemokratiet,69,2548,1067.0,0.41875981161695447,finans_budget
 Inuit Ataqatigiit,Socialistisk Folkeparti,69,352,89.0,0.2528409090909091,finans_budget
 Inuit Ataqatigiit,Tjóðveldi,69,4,4.0,1.0,finans_budget
-Inuit Ataqatigiit,Venstre,69,1775,85.0,0.04788732394366197,finans_budget
+Inuit Ataqatigiit,Venstre,69,1855,89.0,0.04797843665768194,finans_budget
 Liberal Alliance,Liberal Alliance,69,21581,21506.0,0.9965247208192392,finans_budget
 Liberal Alliance,Radikale Venstre,69,29541,15632.0,0.5291628584001896,finans_budget
 Liberal Alliance,Socialdemokratiet,69,178924,120750.0,0.674867541526011,finans_budget
 Liberal Alliance,Socialistisk Folkeparti,69,24218,8886.0,0.3669171690478157,finans_budget
 Liberal Alliance,Tjóðveldi,69,64,8.0,0.125,finans_budget
-Liberal Alliance,Venstre,69,117113,113314.0,0.9675612442683562,finans_budget
+Liberal Alliance,Venstre,69,121714,117761.0,0.9675222242305733,finans_budget
 Radikale Venstre,Radikale Venstre,69,7109,7079.0,0.9957799971866648,finans_budget
 Radikale Venstre,Socialdemokratiet,69,107450,70260.0,0.6538855281526291,finans_budget
 Radikale Venstre,Socialistisk Folkeparti,69,14556,10658.0,0.7322066501786205,finans_budget
 Radikale Venstre,Tjóðveldi,69,38,10.0,0.2631578947368421,finans_budget
-Radikale Venstre,Venstre,69,70340,38129.0,0.5420671026442991,finans_budget
+Radikale Venstre,Venstre,69,73122,39584.0,0.5413418670167665,finans_budget
 Socialdemokratiet,Socialdemokratiet,69,315060,310834.0,0.9865866819018599,finans_budget
 Socialdemokratiet,Socialistisk Folkeparti,69,88098,47852.0,0.5431678358192014,finans_budget
 Socialdemokratiet,Tjóðveldi,69,238,58.0,0.24369747899159663,finans_budget
-Socialdemokratiet,Venstre,69,427048,296125.0,0.6934232217455649,finans_budget
+Socialdemokratiet,Venstre,69,443797,307509.0,0.6929046388326194,finans_budget
 Socialistisk Folkeparti,Socialistisk Folkeparti,69,4481,4473.0,0.9982146842222718,finans_budget
 Socialistisk Folkeparti,Tjóðveldi,69,32,12.0,0.375,finans_budget
-Socialistisk Folkeparti,Venstre,69,57691,21461.0,0.371999098646236,finans_budget
-Tjóðveldi,Venstre,69,157,19.0,0.12101910828025478,finans_budget
-Venstre,Venstre,69,133153,133139.0,0.999894857795168,finans_budget
+Socialistisk Folkeparti,Venstre,69,59975,22297.0,0.37177157148812007,finans_budget
+Tjóðveldi,Venstre,69,161,19.0,0.11801242236024845,finans_budget
+Venstre,Venstre,69,144014,143999.0,0.9998958434596636,finans_budget
 Alternativet,Alternativet,70,1900,1660.0,0.8736842105263158,finans_budget
-Alternativet,Danmarksdemokraterne,70,2696,1114.0,0.4132047477744807,finans_budget
-Alternativet,Dansk Folkeparti,70,13624,6033.0,0.4428214914856136,finans_budget
+Alternativet,Dansk Folkeparti,70,15826,6905.0,0.43630734234803487,finans_budget
 Alternativet,Det Konservative Folkeparti,70,10516,5158.0,0.4904906808672499,finans_budget
 Alternativet,Enhedslisten,70,12402,10862.0,0.8758264796000645,finans_budget
 Alternativet,Inuit Ataqatigiit,70,388,332.0,0.8556701030927835,finans_budget
@@ -380,32 +353,19 @@ Alternativet,Sambandsflokkurin,70,16,13.0,0.8125,finans_budget
 Alternativet,Siumut,70,147,147.0,1.0,finans_budget
 Alternativet,Socialdemokratiet,70,47515,36741.0,0.7732505524571188,finans_budget
 Alternativet,Socialistisk Folkeparti,70,13519,11655.0,0.8621199792884089,finans_budget
-Alternativet,Venstre,70,41281,20914.0,0.5066253239989341,finans_budget
-Danmarksdemokraterne,Danmarksdemokraterne,70,335,298.0,0.8895522388059701,finans_budget
-Danmarksdemokraterne,Dansk Folkeparti,70,6892,6458.0,0.937028438769588,finans_budget
-Danmarksdemokraterne,Det Konservative Folkeparti,70,5500,3568.0,0.6487272727272727,finans_budget
-Danmarksdemokraterne,Enhedslisten,70,6330,2657.0,0.41974723538704584,finans_budget
-Danmarksdemokraterne,Inuit Ataqatigiit,70,193,22.0,0.11398963730569948,finans_budget
-Danmarksdemokraterne,Liberal Alliance,70,1780,1050.0,0.5898876404494382,finans_budget
-Danmarksdemokraterne,Nye Borgerlige,70,1848,1244.0,0.6731601731601732,finans_budget
-Danmarksdemokraterne,Radikale Venstre,70,7886,3438.0,0.43596246512807507,finans_budget
-Danmarksdemokraterne,Sambandsflokkurin,70,7,6.0,0.8571428571428571,finans_budget
-Danmarksdemokraterne,Siumut,70,96,43.0,0.4479166666666667,finans_budget
-Danmarksdemokraterne,Socialdemokratiet,70,24089,11818.0,0.4905973680933206,finans_budget
-Danmarksdemokraterne,Socialistisk Folkeparti,70,6973,3192.0,0.45776566757493187,finans_budget
-Danmarksdemokraterne,Venstre,70,20828,14626.0,0.7022277703091991,finans_budget
-Dansk Folkeparti,Dansk Folkeparti,70,15767,15558.0,0.9867444662903533,finans_budget
-Dansk Folkeparti,Det Konservative Folkeparti,70,28055,17097.0,0.6094100873284619,finans_budget
-Dansk Folkeparti,Enhedslisten,70,32535,15002.0,0.4611034270785308,finans_budget
-Dansk Folkeparti,Inuit Ataqatigiit,70,775,88.0,0.1135483870967742,finans_budget
-Dansk Folkeparti,Liberal Alliance,70,9218,5356.0,0.5810371013234975,finans_budget
-Dansk Folkeparti,Nye Borgerlige,70,9368,6604.0,0.7049530315969257,finans_budget
-Dansk Folkeparti,Radikale Venstre,70,40444,18542.0,0.458461081989912,finans_budget
-Dansk Folkeparti,Sambandsflokkurin,70,41,35.0,0.8536585365853658,finans_budget
-Dansk Folkeparti,Siumut,70,487,268.0,0.5503080082135524,finans_budget
-Dansk Folkeparti,Socialdemokratiet,70,124431,61657.0,0.4955115686605428,finans_budget
-Dansk Folkeparti,Socialistisk Folkeparti,70,35959,17392.0,0.48366194833004256,finans_budget
-Dansk Folkeparti,Venstre,70,107742,71911.0,0.667437025486811,finans_budget
+Alternativet,Venstre,70,41775,21156.0,0.506427289048474,finans_budget
+Dansk Folkeparti,Dansk Folkeparti,70,21444,21168.0,0.987129266927812,finans_budget
+Dansk Folkeparti,Det Konservative Folkeparti,70,32409,19756.0,0.609583757598198,finans_budget
+Dansk Folkeparti,Enhedslisten,70,37662,17096.0,0.45393234560033985,finans_budget
+Dansk Folkeparti,Inuit Ataqatigiit,70,968,110.0,0.11363636363636363,finans_budget
+Dansk Folkeparti,Liberal Alliance,70,10628,6157.0,0.5793187805796011,finans_budget
+Dansk Folkeparti,Nye Borgerlige,70,10838,7604.0,0.70160546226241,finans_budget
+Dansk Folkeparti,Radikale Venstre,70,46838,21237.0,0.4534138947008839,finans_budget
+Dansk Folkeparti,Sambandsflokkurin,70,47,40.0,0.851063829787234,finans_budget
+Dansk Folkeparti,Siumut,70,535,294.0,0.5495327102803739,finans_budget
+Dansk Folkeparti,Socialdemokratiet,70,143882,70782.0,0.4919447880902406,finans_budget
+Dansk Folkeparti,Socialistisk Folkeparti,70,41558,19954.0,0.48014822657490736,finans_budget
+Dansk Folkeparti,Venstre,70,126260,84307.0,0.6677253286868366,finans_budget
 Det Konservative Folkeparti,Det Konservative Folkeparti,70,9694,9642.0,0.9946358572312771,finans_budget
 Det Konservative Folkeparti,Enhedslisten,70,25734,12081.0,0.4694567498251341,finans_budget
 Det Konservative Folkeparti,Inuit Ataqatigiit,70,483,304.0,0.629399585921325,finans_budget
@@ -416,7 +376,7 @@ Det Konservative Folkeparti,Sambandsflokkurin,70,31,31.0,1.0,finans_budget
 Det Konservative Folkeparti,Siumut,70,390,142.0,0.3641025641025641,finans_budget
 Det Konservative Folkeparti,Socialdemokratiet,70,97695,64597.0,0.6612109115103127,finans_budget
 Det Konservative Folkeparti,Socialistisk Folkeparti,70,28553,15718.0,0.5504850628655483,finans_budget
-Det Konservative Folkeparti,Venstre,70,84117,72390.0,0.8605870394807232,finans_budget
+Det Konservative Folkeparti,Venstre,70,85263,73299.0,0.8596812216318919,finans_budget
 Enhedslisten,Enhedslisten,70,12953,12912.0,0.996834710105767,finans_budget
 Enhedslisten,Inuit Ataqatigiit,70,679,672.0,0.9896907216494846,finans_budget
 Enhedslisten,Liberal Alliance,70,8349,3909.0,0.468199784405318,finans_budget
@@ -426,7 +386,7 @@ Enhedslisten,Sambandsflokkurin,70,40,32.0,0.8,finans_budget
 Enhedslisten,Siumut,70,390,390.0,1.0,finans_budget
 Enhedslisten,Socialdemokratiet,70,114134,90246.0,0.7907021571135683,finans_budget
 Enhedslisten,Socialistisk Folkeparti,70,33032,29724.0,0.8998546863647372,finans_budget
-Enhedslisten,Venstre,70,98934,47647.0,0.4816038975478602,finans_budget
+Enhedslisten,Venstre,70,100137,48210.0,0.4814404266155367,finans_budget
 Inuit Ataqatigiit,Liberal Alliance,70,194,88.0,0.4536082474226804,finans_budget
 Inuit Ataqatigiit,Nye Borgerlige,70,194,26.0,0.13402061855670103,finans_budget
 Inuit Ataqatigiit,Radikale Venstre,70,870,870.0,1.0,finans_budget
@@ -440,32 +400,32 @@ Liberal Alliance,Sambandsflokkurin,70,10,10.0,1.0,finans_budget
 Liberal Alliance,Siumut,70,143,70.0,0.48951048951048953,finans_budget
 Liberal Alliance,Socialdemokratiet,70,31957,19257.0,0.6025909816315674,finans_budget
 Liberal Alliance,Socialistisk Folkeparti,70,9267,4852.0,0.5235782885507716,finans_budget
-Liberal Alliance,Venstre,70,27650,19793.0,0.7158408679927667,finans_budget
+Liberal Alliance,Venstre,70,28020,20042.0,0.7152748037116345,finans_budget
 Nye Borgerlige,Nye Borgerlige,70,706,705.0,0.9985835694050992,finans_budget
 Nye Borgerlige,Radikale Venstre,70,10694,3901.0,0.3647839910230036,finans_budget
 Nye Borgerlige,Sambandsflokkurin,70,10,8.0,0.8,finans_budget
 Nye Borgerlige,Siumut,70,97,42.0,0.4329896907216495,finans_budget
 Nye Borgerlige,Socialdemokratiet,70,32981,13096.0,0.3970771049998484,finans_budget
 Nye Borgerlige,Socialistisk Folkeparti,70,9488,3276.0,0.34527824620573355,finans_budget
-Nye Borgerlige,Venstre,70,28510,16007.0,0.5614521220624342,finans_budget
+Nye Borgerlige,Venstre,70,28888,16251.0,0.5625519246746054,finans_budget
 Radikale Venstre,Radikale Venstre,70,20659,20211.0,0.9783145360375624,finans_budget
 Radikale Venstre,Sambandsflokkurin,70,48,37.0,0.7708333333333334,finans_budget
 Radikale Venstre,Siumut,70,488,488.0,1.0,finans_budget
 Radikale Venstre,Socialdemokratiet,70,141697,125877.0,0.8883533172897098,finans_budget
 Radikale Venstre,Socialistisk Folkeparti,70,41033,37275.0,0.9084151780274413,finans_budget
-Radikale Venstre,Venstre,70,122892,72447.0,0.589517625231911,finans_budget
+Radikale Venstre,Venstre,70,124384,73190.0,0.5884197324414716,finans_budget
 Sambandsflokkurin,Socialdemokratiet,70,137,108.0,0.7883211678832117,finans_budget
 Sambandsflokkurin,Socialistisk Folkeparti,70,42,34.0,0.8095238095238095,finans_budget
-Sambandsflokkurin,Venstre,70,116,115.0,0.9913793103448276,finans_budget
+Sambandsflokkurin,Venstre,70,117,116.0,0.9914529914529915,finans_budget
 Siumut,Socialdemokratiet,70,1417,1417.0,1.0,finans_budget
 Siumut,Socialistisk Folkeparti,70,486,486.0,1.0,finans_budget
-Siumut,Venstre,70,1219,450.0,0.36915504511895,finans_budget
+Siumut,Venstre,70,1267,467.0,0.3685872138910813,finans_budget
 Socialdemokratiet,Socialdemokratiet,70,211245,211112.0,0.9993703992993918,finans_budget
 Socialdemokratiet,Socialistisk Folkeparti,70,125759,111688.0,0.8881113876541639,finans_budget
-Socialdemokratiet,Venstre,70,379315,248253.0,0.6544771495986186,finans_budget
+Socialdemokratiet,Venstre,70,383953,250946.0,0.653585204439085,finans_budget
 Socialistisk Folkeparti,Socialistisk Folkeparti,70,16106,16067.0,0.997578542158202,finans_budget
-Socialistisk Folkeparti,Venstre,70,109049,60280.0,0.5527790259424662,finans_budget
-Venstre,Venstre,70,158172,155655.0,0.9840869433275169,finans_budget
+Socialistisk Folkeparti,Venstre,70,110423,60910.0,0.5516060965559711,finans_budget
+Venstre,Venstre,70,162032,159031.0,0.9814789671176064,finans_budget
 Alternativet,Alternativet,71,1249,1167.0,0.9343474779823859,finans_budget
 Alternativet,Danmarksdemokraterne,71,9600,5085.0,0.5296875,finans_budget
 Alternativet,Dansk Folkeparti,71,2824,1561.0,0.5527620396600567,finans_budget

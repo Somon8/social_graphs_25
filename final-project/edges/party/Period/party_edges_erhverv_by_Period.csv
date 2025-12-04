@@ -1,82 +1,63 @@
 source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
-Danmarksdemokraterne,Danmarksdemokraterne,65,15,14.0,0.9333333333333333,erhverv
-Danmarksdemokraterne,Dansk Folkeparti,65,905,876.0,0.9679558011049724,erhverv
-Danmarksdemokraterne,Det Konservative Folkeparti,65,496,487.0,0.9818548387096774,erhverv
-Danmarksdemokraterne,Enhedslisten,65,66,22.0,0.3333333333333333,erhverv
-Danmarksdemokraterne,Kristendemokraterne,65,126,74.0,0.5873015873015873,erhverv
-Danmarksdemokraterne,Radikale Venstre,65,258,160.0,0.6201550387596899,erhverv
-Danmarksdemokraterne,Socialdemokratiet,65,2116,1183.0,0.5590737240075614,erhverv
-Danmarksdemokraterne,Socialistisk Folkeparti,65,428,217.0,0.5070093457943925,erhverv
-Danmarksdemokraterne,Venstre,65,2315,2280.0,0.9848812095032398,erhverv
-Dansk Folkeparti,Dansk Folkeparti,65,4609,4609.0,1.0,erhverv
-Dansk Folkeparti,Det Konservative Folkeparti,65,5478,5247.0,0.9578313253012049,erhverv
-Dansk Folkeparti,Enhedslisten,65,726,212.0,0.29201101928374656,erhverv
-Dansk Folkeparti,Kristendemokraterne,65,1379,767.0,0.5562001450326324,erhverv
-Dansk Folkeparti,Radikale Venstre,65,2860,1696.0,0.593006993006993,erhverv
-Dansk Folkeparti,Socialdemokratiet,65,23025,12102.0,0.5256026058631922,erhverv
-Dansk Folkeparti,Socialistisk Folkeparti,65,4718,2278.0,0.4828317083509962,erhverv
-Dansk Folkeparti,Venstre,65,25116,24070.0,0.9583532409619366,erhverv
+Dansk Folkeparti,Dansk Folkeparti,65,4833,4833.0,1.0,erhverv
+Dansk Folkeparti,Det Konservative Folkeparti,65,5597,5357.0,0.9571198856530284,erhverv
+Dansk Folkeparti,Enhedslisten,65,742,217.0,0.29245283018867924,erhverv
+Dansk Folkeparti,Kristendemokraterne,65,1410,785.0,0.5567375886524822,erhverv
+Dansk Folkeparti,Radikale Venstre,65,2922,1735.0,0.5937713894592744,erhverv
+Dansk Folkeparti,Socialdemokratiet,65,23554,12393.0,0.52615267045937,erhverv
+Dansk Folkeparti,Socialistisk Folkeparti,65,4822,2331.0,0.48340937370385734,erhverv
+Dansk Folkeparti,Venstre,65,26395,25285.0,0.9579465807918166,erhverv
 Det Konservative Folkeparti,Det Konservative Folkeparti,65,1377,1377.0,1.0,erhverv
 Det Konservative Folkeparti,Enhedslisten,65,403,132.0,0.32754342431761785,erhverv
 Det Konservative Folkeparti,Kristendemokraterne,65,766,464.0,0.6057441253263708,erhverv
 Det Konservative Folkeparti,Radikale Venstre,65,1592,1021.0,0.6413316582914573,erhverv
 Det Konservative Folkeparti,Socialdemokratiet,65,12735,7177.0,0.5635649784059678,erhverv
 Det Konservative Folkeparti,Socialistisk Folkeparti,65,2565,1297.0,0.5056530214424951,erhverv
-Det Konservative Folkeparti,Venstre,65,13946,13936.0,0.9992829485157034,erhverv
+Det Konservative Folkeparti,Venstre,65,14323,14313.0,0.9993018222439433,erhverv
 Enhedslisten,Enhedslisten,65,2,2.0,1.0,erhverv
 Enhedslisten,Kristendemokraterne,65,101,66.0,0.6534653465346535,erhverv
 Enhedslisten,Radikale Venstre,65,210,123.0,0.5857142857142857,erhverv
 Enhedslisten,Socialdemokratiet,65,1684,1217.0,0.7226840855106889,erhverv
 Enhedslisten,Socialistisk Folkeparti,65,347,284.0,0.8184438040345822,erhverv
-Enhedslisten,Venstre,65,1840,613.0,0.33315217391304347,erhverv
+Enhedslisten,Venstre,65,1890,630.0,0.3333333333333333,erhverv
 Kristendemokraterne,Kristendemokraterne,65,48,47.0,0.9791666666666666,erhverv
 Kristendemokraterne,Radikale Venstre,65,399,317.0,0.7944862155388471,erhverv
 Kristendemokraterne,Socialdemokratiet,65,3210,2594.0,0.8080996884735202,erhverv
 Kristendemokraterne,Socialistisk Folkeparti,65,656,478.0,0.7286585365853658,erhverv
-Kristendemokraterne,Venstre,65,3503,2108.0,0.6017699115044248,erhverv
+Kristendemokraterne,Venstre,65,3598,2164.0,0.6014452473596442,erhverv
 Radikale Venstre,Radikale Venstre,65,319,319.0,1.0,erhverv
 Radikale Venstre,Socialdemokratiet,65,6646,5887.0,0.8857959674992477,erhverv
 Radikale Venstre,Socialistisk Folkeparti,65,1363,1056.0,0.7747615553925165,erhverv
-Radikale Venstre,Venstre,65,7245,4559.0,0.6292615596963423,erhverv
+Radikale Venstre,Venstre,65,7441,4680.0,0.6289477220803655,erhverv
 Socialdemokratiet,Socialdemokratiet,65,26040,26040.0,1.0,erhverv
 Socialdemokratiet,Socialistisk Folkeparti,65,10973,9752.0,0.888726875056958,erhverv
-Socialdemokratiet,Venstre,65,58419,33587.0,0.5749328129546895,erhverv
+Socialdemokratiet,Venstre,65,60006,34479.0,0.5745925407459254,erhverv
 Socialistisk Folkeparti,Socialistisk Folkeparti,65,988,988.0,1.0,erhverv
-Socialistisk Folkeparti,Venstre,65,11913,6195.0,0.5200201460589272,erhverv
-Venstre,Venstre,65,31089,31053.0,0.9988420341599923,erhverv
-Danmarksdemokraterne,Danmarksdemokraterne,66,78,72.0,0.9230769230769231,erhverv
-Danmarksdemokraterne,Dansk Folkeparti,66,6414,6121.0,0.954318677892111,erhverv
-Danmarksdemokraterne,Det Konservative Folkeparti,66,4582,4493.0,0.9805761676123963,erhverv
-Danmarksdemokraterne,Enhedslisten,66,1055,305.0,0.2890995260663507,erhverv
-Danmarksdemokraterne,Fólkaflokkurin,66,1,1.0,1.0,erhverv
-Danmarksdemokraterne,Inuit Ataqatigiit,66,4,1.0,0.25,erhverv
-Danmarksdemokraterne,Radikale Venstre,66,3654,2288.0,0.6261631089217297,erhverv
-Danmarksdemokraterne,Siumut,66,8,4.0,0.5,erhverv
-Danmarksdemokraterne,Socialdemokratiet,66,11637,7089.0,0.6091776230987368,erhverv
-Danmarksdemokraterne,Socialistisk Folkeparti,66,3174,1482.0,0.4669187145557656,erhverv
-Danmarksdemokraterne,Tjóðveldi,66,4,0.0,0.0,erhverv
-Danmarksdemokraterne,Venstre,66,13768,13484.0,0.9793724578733295,erhverv
-Dansk Folkeparti,Dansk Folkeparti,66,44987,44898.0,0.9980216506990909,erhverv
-Dansk Folkeparti,Det Konservative Folkeparti,66,67935,63893.0,0.9405019503937587,erhverv
-Dansk Folkeparti,Enhedslisten,66,15587,4322.0,0.2772823506768461,erhverv
+Socialistisk Folkeparti,Venstre,65,12237,6359.0,0.5196535098471847,erhverv
+Venstre,Venstre,65,32821,32784.0,0.9988726729837604,erhverv
+Dansk Folkeparti,Dansk Folkeparti,66,46503,46413.0,0.9980646409909039,erhverv
+Dansk Folkeparti,Det Konservative Folkeparti,66,63465,59694.0,0.9405814228314819,erhverv
+Dansk Folkeparti,Enhedslisten,66,15837,4416.0,0.27884068952453117,erhverv
 Dansk Folkeparti,Fólkaflokkurin,66,15,1.0,0.06666666666666667,erhverv
 Dansk Folkeparti,Inuit Ataqatigiit,66,62,14.0,0.22580645161290322,erhverv
-Dansk Folkeparti,Radikale Venstre,66,53724,33337.0,0.6205234159779615,erhverv
-Dansk Folkeparti,Siumut,66,78,48.0,0.6153846153846154,erhverv
-Dansk Folkeparti,Socialdemokratiet,66,172166,99169.0,0.5760080387532962,erhverv
-Dansk Folkeparti,Socialistisk Folkeparti,66,47245,21489.0,0.45484178219917454,erhverv
-Dansk Folkeparti,Tjóðveldi,66,63,14.0,0.2222222222222222,erhverv
-Dansk Folkeparti,Venstre,66,202677,189933.0,0.9371216270223064,erhverv
-Det Konservative Folkeparti,Det Konservative Folkeparti,66,22319,22319.0,1.0,erhverv
-Det Konservative Folkeparti,Enhedslisten,66,11149,2905.0,0.2605614853350076,erhverv
-Det Konservative Folkeparti,Fólkaflokkurin,66,13,13.0,1.0,erhverv
-Det Konservative Folkeparti,Inuit Ataqatigiit,66,44,10.0,0.22727272727272727,erhverv
-Det Konservative Folkeparti,Radikale Venstre,66,38047,25253.0,0.6637317002654611,erhverv
-Det Konservative Folkeparti,Siumut,66,61,26.0,0.4262295081967213,erhverv
-Det Konservative Folkeparti,Socialdemokratiet,66,122364,77160.0,0.630577620868883,erhverv
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,33587,16331.0,0.4862297912882961,erhverv
-Det Konservative Folkeparti,Tjóðveldi,66,46,0.0,0.0,erhverv
-Det Konservative Folkeparti,Venstre,66,144145,144017.0,0.9991120052724687,erhverv
+Dansk Folkeparti,Radikale Venstre,66,54651,33833.0,0.6190737589431118,erhverv
+Dansk Folkeparti,Siumut,66,81,50.0,0.6172839506172839,erhverv
+Dansk Folkeparti,Socialdemokratiet,66,174998,100708.0,0.5754808626384301,erhverv
+Dansk Folkeparti,Socialistisk Folkeparti,66,47998,21816.0,0.4545189382890954,erhverv
+Dansk Folkeparti,Tjóðveldi,66,65,14.0,0.2153846153846154,erhverv
+Dansk Folkeparti,Uden for Folketingsgrupperne,66,5567,5207.0,0.9353332135800252,erhverv
+Dansk Folkeparti,Venstre,66,211057,197738.0,0.9368938248909062,erhverv
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,18766,18766.0,1.0,erhverv
+Det Konservative Folkeparti,Enhedslisten,66,10255,2675.0,0.26084836665041444,erhverv
+Det Konservative Folkeparti,Fólkaflokkurin,66,12,12.0,1.0,erhverv
+Det Konservative Folkeparti,Inuit Ataqatigiit,66,40,9.0,0.225,erhverv
+Det Konservative Folkeparti,Radikale Venstre,66,34986,23294.0,0.6658091808151833,erhverv
+Det Konservative Folkeparti,Siumut,66,56,24.0,0.42857142857142855,erhverv
+Det Konservative Folkeparti,Socialdemokratiet,66,112542,71158.0,0.6322795045405271,erhverv
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,30871,15051.0,0.48754494509410123,erhverv
+Det Konservative Folkeparti,Tjóðveldi,66,42,0.0,0.0,erhverv
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,66,3553,3553.0,1.0,erhverv
+Det Konservative Folkeparti,Venstre,66,135781,135663.0,0.999130953520743,erhverv
 Enhedslisten,Enhedslisten,66,837,832.0,0.994026284348865,erhverv
 Enhedslisten,Fólkaflokkurin,66,3,0.0,0.0,erhverv
 Enhedslisten,Inuit Ataqatigiit,66,8,6.0,0.75,erhverv
@@ -85,211 +66,217 @@ Enhedslisten,Siumut,66,12,3.0,0.25,erhverv
 Enhedslisten,Socialdemokratiet,66,27991,15990.0,0.5712550462648709,erhverv
 Enhedslisten,Socialistisk Folkeparti,66,7663,5449.0,0.7110792117969463,erhverv
 Enhedslisten,Tjóðveldi,66,10,10.0,1.0,erhverv
-Enhedslisten,Venstre,66,33003,8615.0,0.2610368754355665,erhverv
+Enhedslisten,Uden for Folketingsgrupperne,66,894,230.0,0.25727069351230425,erhverv
+Enhedslisten,Venstre,66,33808,8826.0,0.26106247042120206,erhverv
 Fólkaflokkurin,Inuit Ataqatigiit,66,1,0.0,0.0,erhverv
 Fólkaflokkurin,Radikale Venstre,66,7,7.0,1.0,erhverv
 Fólkaflokkurin,Siumut,66,1,0.0,0.0,erhverv
 Fólkaflokkurin,Socialdemokratiet,66,29,29.0,1.0,erhverv
 Fólkaflokkurin,Socialistisk Folkeparti,66,7,2.0,0.2857142857142857,erhverv
 Fólkaflokkurin,Tjóðveldi,66,1,0.0,0.0,erhverv
-Fólkaflokkurin,Venstre,66,34,34.0,1.0,erhverv
+Fólkaflokkurin,Uden for Folketingsgrupperne,66,1,1.0,1.0,erhverv
+Fólkaflokkurin,Venstre,66,35,35.0,1.0,erhverv
 Inuit Ataqatigiit,Radikale Venstre,66,30,9.0,0.3,erhverv
 Inuit Ataqatigiit,Siumut,66,2,2.0,1.0,erhverv
 Inuit Ataqatigiit,Socialdemokratiet,66,118,30.0,0.2542372881355932,erhverv
 Inuit Ataqatigiit,Socialistisk Folkeparti,66,34,21.0,0.6176470588235294,erhverv
 Inuit Ataqatigiit,Tjóðveldi,66,1,1.0,1.0,erhverv
-Inuit Ataqatigiit,Venstre,66,135,35.0,0.25925925925925924,erhverv
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,66,4,1.0,0.25,erhverv
+Inuit Ataqatigiit,Venstre,66,139,36.0,0.2589928057553957,erhverv
 Radikale Venstre,Radikale Venstre,66,13572,13473.0,0.9927055702917772,erhverv
 Radikale Venstre,Siumut,66,45,22.0,0.4888888888888889,erhverv
 Radikale Venstre,Socialdemokratiet,66,96651,80147.0,0.8292412908298932,erhverv
 Radikale Venstre,Socialistisk Folkeparti,66,26483,19807.0,0.7479137559944115,erhverv
 Radikale Venstre,Tjóðveldi,66,36,9.0,0.25,erhverv
-Radikale Venstre,Venstre,66,113882,74272.0,0.6521838394127255,erhverv
+Radikale Venstre,Uden for Folketingsgrupperne,66,3061,1959.0,0.6399869323750408,erhverv
+Radikale Venstre,Venstre,66,116609,76064.0,0.6522995652136627,erhverv
 Siumut,Socialdemokratiet,66,147,62.0,0.4217687074829932,erhverv
 Siumut,Socialistisk Folkeparti,66,41,14.0,0.34146341463414637,erhverv
 Siumut,Tjóðveldi,66,1,1.0,1.0,erhverv
-Siumut,Venstre,66,165,67.0,0.40606060606060607,erhverv
+Siumut,Uden for Folketingsgrupperne,66,5,2.0,0.4,erhverv
+Siumut,Venstre,66,170,69.0,0.40588235294117647,erhverv
 Socialdemokratiet,Socialdemokratiet,66,150407,150099.0,0.9979522229683458,erhverv
 Socialdemokratiet,Socialistisk Folkeparti,66,85194,71083.0,0.8343662699251121,erhverv
 Socialdemokratiet,Tjóðveldi,66,117,88.0,0.7521367521367521,erhverv
-Socialdemokratiet,Venstre,66,365713,227823.0,0.6229557057036529,erhverv
+Socialdemokratiet,Uden for Folketingsgrupperne,66,9822,6002.0,0.6110771736917124,erhverv
+Socialdemokratiet,Venstre,66,374518,233373.0,0.6231289283826145,erhverv
 Socialistisk Folkeparti,Socialistisk Folkeparti,66,10411,9924.0,0.9532225530688695,erhverv
 Socialistisk Folkeparti,Tjóðveldi,66,25,23.0,0.92,erhverv
-Socialistisk Folkeparti,Venstre,66,100248,48327.0,0.4820744553507302,erhverv
-Tjóðveldi,Venstre,66,144,0.0,0.0,erhverv
-Venstre,Venstre,66,209662,209310.0,0.998321107306045,erhverv
-Danmarksdemokraterne,Danmarksdemokraterne,67,100,93.0,0.93,erhverv
-Danmarksdemokraterne,Dansk Folkeparti,67,8051,7671.0,0.9528008942988448,erhverv
-Danmarksdemokraterne,Det Konservative Folkeparti,67,4996,4886.0,0.977982385908727,erhverv
-Danmarksdemokraterne,Enhedslisten,67,1042,409.0,0.3925143953934741,erhverv
-Danmarksdemokraterne,Inuit Ataqatigiit,67,3,2.0,0.6666666666666666,erhverv
-Danmarksdemokraterne,Liberal Alliance,67,1224,1060.0,0.8660130718954249,erhverv
-Danmarksdemokraterne,Radikale Venstre,67,2147,1306.0,0.608290638099674,erhverv
-Danmarksdemokraterne,Sambandsflokkurin,67,15,15.0,1.0,erhverv
-Danmarksdemokraterne,Siumut,67,25,22.0,0.88,erhverv
-Danmarksdemokraterne,Socialdemokratiet,67,13789,8308.0,0.602509246500834,erhverv
-Danmarksdemokraterne,Socialistisk Folkeparti,67,6499,3723.0,0.5728573626711801,erhverv
-Danmarksdemokraterne,Tjóðveldi,67,5,3.0,0.6,erhverv
-Danmarksdemokraterne,Venstre,67,13691,13429.0,0.9808633408808707,erhverv
-Dansk Folkeparti,Dansk Folkeparti,67,77502,76517.0,0.9872906505638565,erhverv
-Dansk Folkeparti,Det Konservative Folkeparti,67,101295,93018.0,0.9182881682215311,erhverv
-Dansk Folkeparti,Enhedslisten,67,21150,8356.0,0.39508274231678486,erhverv
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,66,2716,1280.0,0.47128129602356406,erhverv
+Socialistisk Folkeparti,Venstre,66,102669,49482.0,0.4819565789089209,erhverv
+Tjóðveldi,Uden for Folketingsgrupperne,66,4,0.0,0.0,erhverv
+Tjóðveldi,Venstre,66,146,0.0,0.0,erhverv
+Uden for Folketingsgrupperne,Venstre,66,11849,11839.0,0.999156046923791,erhverv
+Venstre,Venstre,66,220026,219667.0,0.9983683746466326,erhverv
+Dansk Folkeparti,Dansk Folkeparti,67,79699,78696.0,0.9874151494999938,erhverv
+Dansk Folkeparti,Det Konservative Folkeparti,67,94050,86382.0,0.9184688995215311,erhverv
+Dansk Folkeparti,Enhedslisten,67,18678,7190.0,0.38494485490951924,erhverv
 Dansk Folkeparti,Inuit Ataqatigiit,67,52,35.0,0.6730769230769231,erhverv
-Dansk Folkeparti,Liberal Alliance,67,24827,20424.0,0.8226527570789866,erhverv
-Dansk Folkeparti,Radikale Venstre,67,42997,25223.0,0.5866223224876154,erhverv
-Dansk Folkeparti,Sambandsflokkurin,67,387,333.0,0.8604651162790697,erhverv
-Dansk Folkeparti,Siumut,67,277,210.0,0.7581227436823105,erhverv
-Dansk Folkeparti,Socialdemokratiet,67,277497,154669.0,0.557371791406754,erhverv
-Dansk Folkeparti,Socialistisk Folkeparti,67,130653,70428.0,0.5390461757479736,erhverv
-Dansk Folkeparti,Tjóðveldi,67,69,35.0,0.5072463768115942,erhverv
-Dansk Folkeparti,Venstre,67,277444,255495.0,0.9208885396692665,erhverv
-Det Konservative Folkeparti,Det Konservative Folkeparti,67,28830,28732.0,0.9966007630939993,erhverv
-Det Konservative Folkeparti,Enhedslisten,67,13010,5151.0,0.3959262106072252,erhverv
-Det Konservative Folkeparti,Inuit Ataqatigiit,67,36,23.0,0.6388888888888888,erhverv
-Det Konservative Folkeparti,Liberal Alliance,67,15113,13355.0,0.8836763051677364,erhverv
-Det Konservative Folkeparti,Radikale Venstre,67,26792,17467.0,0.6519483427888922,erhverv
-Det Konservative Folkeparti,Sambandsflokkurin,67,231,231.0,1.0,erhverv
-Det Konservative Folkeparti,Siumut,67,177,153.0,0.864406779661017,erhverv
-Det Konservative Folkeparti,Socialdemokratiet,67,171631,105748.0,0.6161357796668434,erhverv
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,80713,46980.0,0.5820623691350836,erhverv
-Det Konservative Folkeparti,Tjóðveldi,67,46,19.0,0.41304347826086957,erhverv
-Det Konservative Folkeparti,Venstre,67,171690,171392.0,0.9982643135884443,erhverv
-Enhedslisten,Enhedslisten,67,829,752.0,0.9071170084439083,erhverv
-Enhedslisten,Inuit Ataqatigiit,67,7,0.0,0.0,erhverv
-Enhedslisten,Liberal Alliance,67,3238,1526.0,0.471278567016677,erhverv
-Enhedslisten,Radikale Venstre,67,5561,3775.0,0.6788347419528862,erhverv
-Enhedslisten,Sambandsflokkurin,67,49,16.0,0.32653061224489793,erhverv
-Enhedslisten,Siumut,67,34,17.0,0.5,erhverv
-Enhedslisten,Socialdemokratiet,67,35682,25580.0,0.7168880668123984,erhverv
-Enhedslisten,Socialistisk Folkeparti,67,16753,13016.0,0.7769354742434191,erhverv
-Enhedslisten,Tjóðveldi,67,10,5.0,0.5,erhverv
-Enhedslisten,Venstre,67,35740,13997.0,0.3916340235030778,erhverv
+Dansk Folkeparti,Liberal Alliance,67,25166,20713.0,0.8230549153619964,erhverv
+Dansk Folkeparti,Radikale Venstre,67,43608,25562.0,0.5861768482847184,erhverv
+Dansk Folkeparti,Sambandsflokkurin,67,390,336.0,0.8615384615384616,erhverv
+Dansk Folkeparti,Siumut,67,289,220.0,0.7612456747404844,erhverv
+Dansk Folkeparti,Socialdemokratiet,67,273453,152869.0,0.5590320822956779,erhverv
+Dansk Folkeparti,Socialistisk Folkeparti,67,143118,76913.0,0.5374096899062312,erhverv
+Dansk Folkeparti,Tjóðveldi,67,70,36.0,0.5142857142857142,erhverv
+Dansk Folkeparti,Uden for Folketingsgrupperne,67,8640,7930.0,0.9178240740740741,erhverv
+Dansk Folkeparti,Venstre,67,287253,264674.0,0.9213968174396786,erhverv
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,24039,23947.0,0.9961728857273597,erhverv
+Det Konservative Folkeparti,Enhedslisten,67,10433,4020.0,0.3853158247867344,erhverv
+Det Konservative Folkeparti,Inuit Ataqatigiit,67,33,21.0,0.6363636363636364,erhverv
+Det Konservative Folkeparti,Liberal Alliance,67,13842,12232.0,0.8836873284207485,erhverv
+Det Konservative Folkeparti,Radikale Venstre,67,24560,16028.0,0.6526058631921824,erhverv
+Det Konservative Folkeparti,Sambandsflokkurin,67,210,210.0,1.0,erhverv
+Det Konservative Folkeparti,Siumut,67,161,139.0,0.8633540372670807,erhverv
+Det Konservative Folkeparti,Socialdemokratiet,67,152788,94351.0,0.6175288635233134,erhverv
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,79879,46391.0,0.5807659084365102,erhverv
+Det Konservative Folkeparti,Tjóðveldi,67,43,18.0,0.4186046511627907,erhverv
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,67,4791,4785.0,0.9987476518472135,erhverv
+Det Konservative Folkeparti,Venstre,67,160531,160225.0,0.9980938261145822,erhverv
+Enhedslisten,Enhedslisten,67,517,517.0,1.0,erhverv
+Enhedslisten,Inuit Ataqatigiit,67,6,0.0,0.0,erhverv
+Enhedslisten,Liberal Alliance,67,2779,1268.0,0.4562792371356603,erhverv
+Enhedslisten,Radikale Venstre,67,4846,3190.0,0.6582748658687577,erhverv
+Enhedslisten,Sambandsflokkurin,67,40,12.0,0.3,erhverv
+Enhedslisten,Siumut,67,31,16.0,0.5161290322580645,erhverv
+Enhedslisten,Socialdemokratiet,67,30285,20856.0,0.6886577513620604,erhverv
+Enhedslisten,Socialistisk Folkeparti,67,15860,11816.0,0.7450189155107187,erhverv
+Enhedslisten,Tjóðveldi,67,8,4.0,0.5,erhverv
+Enhedslisten,Uden for Folketingsgrupperne,67,954,365.0,0.38259958071278827,erhverv
+Enhedslisten,Venstre,67,31838,12107.0,0.38026886110936614,erhverv
 Inuit Ataqatigiit,Liberal Alliance,67,9,4.0,0.4444444444444444,erhverv
 Inuit Ataqatigiit,Radikale Venstre,67,16,11.0,0.6875,erhverv
 Inuit Ataqatigiit,Sambandsflokkurin,67,2,2.0,1.0,erhverv
 Inuit Ataqatigiit,Siumut,67,1,1.0,1.0,erhverv
-Inuit Ataqatigiit,Socialdemokratiet,67,88,59.0,0.6704545454545454,erhverv
-Inuit Ataqatigiit,Socialistisk Folkeparti,67,42,28.0,0.6666666666666666,erhverv
+Inuit Ataqatigiit,Socialdemokratiet,67,85,57.0,0.6705882352941176,erhverv
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,46,30.0,0.6521739130434783,erhverv
 Inuit Ataqatigiit,Tjóðveldi,67,3,2.0,0.6666666666666666,erhverv
-Inuit Ataqatigiit,Venstre,67,95,63.0,0.6631578947368421,erhverv
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,67,3,2.0,0.6666666666666666,erhverv
+Inuit Ataqatigiit,Venstre,67,98,65.0,0.6632653061224489,erhverv
 Liberal Alliance,Liberal Alliance,67,1435,1099.0,0.7658536585365854,erhverv
 Liberal Alliance,Radikale Venstre,67,6293,4419.0,0.7022088034323852,erhverv
 Liberal Alliance,Sambandsflokkurin,67,70,61.0,0.8714285714285714,erhverv
 Liberal Alliance,Siumut,67,50,42.0,0.84,erhverv
-Liberal Alliance,Socialdemokratiet,67,41834,27179.0,0.6496868575799589,erhverv
-Liberal Alliance,Socialistisk Folkeparti,67,19871,12360.0,0.6220119772532837,erhverv
+Liberal Alliance,Socialdemokratiet,67,40652,26439.0,0.6503739053429105,erhverv
+Liberal Alliance,Socialistisk Folkeparti,67,21512,13358.0,0.6209557456303458,erhverv
 Liberal Alliance,Tjóðveldi,67,13,6.0,0.46153846153846156,erhverv
-Liberal Alliance,Venstre,67,41650,36789.0,0.8832893157262905,erhverv
+Liberal Alliance,Uden for Folketingsgrupperne,67,1271,1123.0,0.8835562549173879,erhverv
+Liberal Alliance,Venstre,67,42535,37560.0,0.8830374985306219,erhverv
 Radikale Venstre,Radikale Venstre,67,4563,4367.0,0.9570458031996494,erhverv
 Radikale Venstre,Sambandsflokkurin,67,85,63.0,0.7411764705882353,erhverv
 Radikale Venstre,Siumut,67,71,63.0,0.8873239436619719,erhverv
-Radikale Venstre,Socialdemokratiet,67,72809,61930.0,0.8505816588608551,erhverv
-Radikale Venstre,Socialistisk Folkeparti,67,34260,28625.0,0.8355224751897257,erhverv
+Radikale Venstre,Socialdemokratiet,67,70775,60208.0,0.8506958671847403,erhverv
+Radikale Venstre,Socialistisk Folkeparti,67,37009,30932.0,0.8357966981004621,erhverv
 Radikale Venstre,Tjóðveldi,67,21,11.0,0.5238095238095238,erhverv
-Radikale Venstre,Venstre,67,72931,47223.0,0.6475024338072973,erhverv
+Radikale Venstre,Uden for Folketingsgrupperne,67,2232,1439.0,0.6447132616487455,erhverv
+Radikale Venstre,Venstre,67,74467,48190.0,0.6471322867847503,erhverv
 Sambandsflokkurin,Siumut,67,2,1.0,0.5,erhverv
-Sambandsflokkurin,Socialdemokratiet,67,650,560.0,0.8615384615384616,erhverv
-Sambandsflokkurin,Socialistisk Folkeparti,67,306,227.0,0.7418300653594772,erhverv
+Sambandsflokkurin,Socialdemokratiet,67,630,545.0,0.8650793650793651,erhverv
+Sambandsflokkurin,Socialistisk Folkeparti,67,335,246.0,0.7343283582089553,erhverv
 Sambandsflokkurin,Tjóðveldi,67,2,1.0,0.5,erhverv
-Sambandsflokkurin,Venstre,67,622,622.0,1.0,erhverv
-Siumut,Socialdemokratiet,67,513,453.0,0.8830409356725146,erhverv
-Siumut,Socialistisk Folkeparti,67,225,185.0,0.8222222222222222,erhverv
+Sambandsflokkurin,Uden for Folketingsgrupperne,67,21,21.0,1.0,erhverv
+Sambandsflokkurin,Venstre,67,634,634.0,1.0,erhverv
+Siumut,Socialdemokratiet,67,496,439.0,0.8850806451612904,erhverv
+Siumut,Socialistisk Folkeparti,67,245,200.0,0.8163265306122449,erhverv
 Siumut,Tjóðveldi,67,1,1.0,1.0,erhverv
-Siumut,Venstre,67,497,438.0,0.8812877263581489,erhverv
-Socialdemokratiet,Socialdemokratiet,67,226921,225647.0,0.9943857113268494,erhverv
-Socialdemokratiet,Socialistisk Folkeparti,67,220780,203158.0,0.9201829875894556,erhverv
-Socialdemokratiet,Tjóðveldi,67,116,58.0,0.5,erhverv
-Socialdemokratiet,Venstre,67,469383,285727.0,0.6087289058189155,erhverv
-Socialistisk Folkeparti,Socialistisk Folkeparti,67,48571,48380.0,0.9960676123612855,erhverv
-Socialistisk Folkeparti,Tjóðveldi,67,56,27.0,0.48214285714285715,erhverv
-Socialistisk Folkeparti,Venstre,67,220654,126719.0,0.5742882521957454,erhverv
-Tjóðveldi,Venstre,67,121,61.0,0.5041322314049587,erhverv
-Venstre,Venstre,67,227602,227574.0,0.9998769782339346,erhverv
-Danmarksdemokraterne,Danmarksdemokraterne,68,273,217.0,0.7948717948717948,erhverv
-Danmarksdemokraterne,Dansk Folkeparti,68,11023,10200.0,0.9253379297831806,erhverv
-Danmarksdemokraterne,Det Konservative Folkeparti,68,4556,3707.0,0.8136523266022827,erhverv
-Danmarksdemokraterne,Enhedslisten,68,7519,3325.0,0.44221306024737334,erhverv
-Danmarksdemokraterne,Inuit Ataqatigiit,68,2,0.0,0.0,erhverv
-Danmarksdemokraterne,Javnaðarflokkurin,68,9,3.0,0.3333333333333333,erhverv
-Danmarksdemokraterne,Liberal Alliance,68,4538,3043.0,0.6705597179374173,erhverv
-Danmarksdemokraterne,Radikale Venstre,68,9853,6744.0,0.6844615853039684,erhverv
-Danmarksdemokraterne,Sambandsflokkurin,68,19,19.0,1.0,erhverv
-Danmarksdemokraterne,Siumut,68,2,0.0,0.0,erhverv
-Danmarksdemokraterne,Socialdemokratiet,68,26229,18076.0,0.689160852491517,erhverv
-Danmarksdemokraterne,Socialistisk Folkeparti,68,8704,5640.0,0.6479779411764706,erhverv
-Danmarksdemokraterne,Venstre,68,25131,21057.0,0.8378894592336159,erhverv
-Dansk Folkeparti,Dansk Folkeparti,68,47381,47232.0,0.9968552795424326,erhverv
-Dansk Folkeparti,Det Konservative Folkeparti,68,42351,32235.0,0.7611390522065594,erhverv
-Dansk Folkeparti,Enhedslisten,68,69325,32077.0,0.4627046520014425,erhverv
-Dansk Folkeparti,Inuit Ataqatigiit,68,12,1.0,0.08333333333333333,erhverv
-Dansk Folkeparti,Javnaðarflokkurin,68,39,0.0,0.0,erhverv
-Dansk Folkeparti,Liberal Alliance,68,42020,27160.0,0.6463588767253688,erhverv
-Dansk Folkeparti,Radikale Venstre,68,91134,60282.0,0.6614655342682204,erhverv
-Dansk Folkeparti,Sambandsflokkurin,68,175,162.0,0.9257142857142857,erhverv
-Dansk Folkeparti,Siumut,68,12,1.0,0.08333333333333333,erhverv
-Dansk Folkeparti,Socialdemokratiet,68,241594,161327.0,0.6677607887613103,erhverv
-Dansk Folkeparti,Socialistisk Folkeparti,68,80412,50668.0,0.6301049594587872,erhverv
-Dansk Folkeparti,Venstre,68,231507,176718.0,0.7633376096619109,erhverv
-Det Konservative Folkeparti,Det Konservative Folkeparti,68,7098,7098.0,1.0,erhverv
-Det Konservative Folkeparti,Enhedslisten,68,28551,11896.0,0.41665791040594025,erhverv
-Det Konservative Folkeparti,Inuit Ataqatigiit,68,5,0.0,0.0,erhverv
-Det Konservative Folkeparti,Javnaðarflokkurin,68,9,9.0,1.0,erhverv
-Det Konservative Folkeparti,Liberal Alliance,68,17291,12752.0,0.7374934937250592,erhverv
-Det Konservative Folkeparti,Radikale Venstre,68,37478,29713.0,0.7928117829126421,erhverv
-Det Konservative Folkeparti,Sambandsflokkurin,68,68,68.0,1.0,erhverv
-Det Konservative Folkeparti,Siumut,68,5,0.0,0.0,erhverv
-Det Konservative Folkeparti,Socialdemokratiet,68,99469,79582.0,0.8000683630075702,erhverv
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,33064,24333.0,0.7359363658359546,erhverv
-Det Konservative Folkeparti,Venstre,68,95238,89652.0,0.9413469413469413,erhverv
-Enhedslisten,Enhedslisten,68,20642,20047.0,0.9711752737137874,erhverv
+Siumut,Uden for Folketingsgrupperne,67,16,14.0,0.875,erhverv
+Siumut,Venstre,67,510,450.0,0.8823529411764706,erhverv
+Socialdemokratiet,Socialdemokratiet,67,214115,213846.0,0.9987436657870771,erhverv
+Socialdemokratiet,Socialistisk Folkeparti,67,231799,212758.0,0.9178555558910954,erhverv
+Socialdemokratiet,Tjóðveldi,67,113,57.0,0.504424778761062,erhverv
+Socialdemokratiet,Uden for Folketingsgrupperne,67,13998,8595.0,0.6140162880411487,erhverv
+Socialdemokratiet,Venstre,67,465805,283983.0,0.6096606949259883,erhverv
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,56960,56740.0,0.9961376404494382,erhverv
+Socialistisk Folkeparti,Tjóðveldi,67,61,29.0,0.47540983606557374,erhverv
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,67,7302,4157.0,0.5692960832648589,erhverv
+Socialistisk Folkeparti,Venstre,67,243515,139274.0,0.571931913845143,erhverv
+Tjóðveldi,Uden for Folketingsgrupperne,67,3,1.0,0.3333333333333333,erhverv
+Tjóðveldi,Venstre,67,125,63.0,0.504,erhverv
+Uden for Folketingsgrupperne,Venstre,67,14760,14759.0,0.9999322493224932,erhverv
+Venstre,Venstre,67,237438,237409.0,0.9998778628526184,erhverv
+Dansk Folkeparti,Dansk Folkeparti,68,54959,54784.0,0.9968158081478921,erhverv
+Dansk Folkeparti,Det Konservative Folkeparti,68,38280,29239.0,0.7638192267502613,erhverv
+Dansk Folkeparti,Enhedslisten,68,71609,32633.0,0.4557108743314388,erhverv
+Dansk Folkeparti,Inuit Ataqatigiit,68,13,1.0,0.07692307692307693,erhverv
+Dansk Folkeparti,Liberal Alliance,68,45140,29203.0,0.6469428444838281,erhverv
+Dansk Folkeparti,Radikale Venstre,68,97926,64622.0,0.6599064599799849,erhverv
+Dansk Folkeparti,Sambandsflokkurin,68,181,168.0,0.9281767955801105,erhverv
+Dansk Folkeparti,Siumut,68,13,1.0,0.07692307692307693,erhverv
+Dansk Folkeparti,Socialdemokratiet,68,252410,168138.0,0.666130501961095,erhverv
+Dansk Folkeparti,Socialistisk Folkeparti,68,96506,60912.0,0.6311731913041676,erhverv
+Dansk Folkeparti,Tjóðveldi,68,45,0.0,0.0,erhverv
+Dansk Folkeparti,Uden for Folketingsgrupperne,68,7225,5420.0,0.7501730103806228,erhverv
+Dansk Folkeparti,Venstre,68,252508,192794.0,0.7635164034406831,erhverv
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,4885,4885.0,1.0,erhverv
+Det Konservative Folkeparti,Enhedslisten,68,23069,9340.0,0.40487233950322943,erhverv
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,4,0.0,0.0,erhverv
+Det Konservative Folkeparti,Liberal Alliance,68,14545,10719.0,0.7369542798212444,erhverv
+Det Konservative Folkeparti,Radikale Venstre,68,31525,24923.0,0.790578905630452,erhverv
+Det Konservative Folkeparti,Sambandsflokkurin,68,65,65.0,1.0,erhverv
+Det Konservative Folkeparti,Siumut,68,4,0.0,0.0,erhverv
+Det Konservative Folkeparti,Socialdemokratiet,68,81286,64844.0,0.7977265457766405,erhverv
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,31088,22873.0,0.7357501286670097,erhverv
+Det Konservative Folkeparti,Tjóðveldi,68,6,6.0,1.0,erhverv
+Det Konservative Folkeparti,Uden for Folketingsgrupperne,68,2213,2213.0,1.0,erhverv
+Det Konservative Folkeparti,Venstre,68,81314,76681.0,0.9430233416139903,erhverv
+Enhedslisten,Enhedslisten,68,18912,18893.0,0.9989953468697124,erhverv
 Enhedslisten,Inuit Ataqatigiit,68,8,8.0,1.0,erhverv
-Enhedslisten,Javnaðarflokkurin,68,24,24.0,1.0,erhverv
-Enhedslisten,Liberal Alliance,68,28318,9016.0,0.3183840666713751,erhverv
-Enhedslisten,Radikale Venstre,68,61341,36862.0,0.6009357525961428,erhverv
-Enhedslisten,Sambandsflokkurin,68,114,32.0,0.2807017543859649,erhverv
+Enhedslisten,Liberal Alliance,68,27220,8533.0,0.3134827332843497,erhverv
+Enhedslisten,Radikale Venstre,68,59031,34926.0,0.5916552319967475,erhverv
+Enhedslisten,Sambandsflokkurin,68,110,30.0,0.2727272727272727,erhverv
 Enhedslisten,Siumut,68,8,8.0,1.0,erhverv
-Enhedslisten,Socialdemokratiet,68,162944,96114.0,0.5898590926944226,erhverv
-Enhedslisten,Socialistisk Folkeparti,68,54115,35432.0,0.6547537651298161,erhverv
-Enhedslisten,Venstre,68,156065,64020.0,0.41021369301252686,erhverv
+Enhedslisten,Socialdemokratiet,68,152275,88479.0,0.581047447053029,erhverv
+Enhedslisten,Socialistisk Folkeparti,68,58180,37015.0,0.6362151942248195,erhverv
+Enhedslisten,Tjóðveldi,68,24,24.0,1.0,erhverv
+Enhedslisten,Uden for Folketingsgrupperne,68,4362,1812.0,0.4154057771664374,erhverv
+Enhedslisten,Venstre,68,152213,60982.0,0.4006359509371736,erhverv
 Inuit Ataqatigiit,Liberal Alliance,68,5,0.0,0.0,erhverv
 Inuit Ataqatigiit,Radikale Venstre,68,11,11.0,1.0,erhverv
 Inuit Ataqatigiit,Siumut,68,1,1.0,1.0,erhverv
-Inuit Ataqatigiit,Socialdemokratiet,68,29,29.0,1.0,erhverv
-Inuit Ataqatigiit,Socialistisk Folkeparti,68,9,9.0,1.0,erhverv
-Inuit Ataqatigiit,Venstre,68,28,0.0,0.0,erhverv
-Javnaðarflokkurin,Liberal Alliance,68,13,0.0,0.0,erhverv
-Javnaðarflokkurin,Radikale Venstre,68,33,33.0,1.0,erhverv
-Javnaðarflokkurin,Socialdemokratiet,68,83,83.0,1.0,erhverv
-Javnaðarflokkurin,Socialistisk Folkeparti,68,27,27.0,1.0,erhverv
-Javnaðarflokkurin,Venstre,68,81,81.0,1.0,erhverv
+Inuit Ataqatigiit,Socialdemokratiet,68,28,28.0,1.0,erhverv
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,10,10.0,1.0,erhverv
+Inuit Ataqatigiit,Uden for Folketingsgrupperne,68,1,0.0,0.0,erhverv
+Inuit Ataqatigiit,Venstre,68,29,0.0,0.0,erhverv
 Liberal Alliance,Liberal Alliance,68,6883,6840.0,0.9937527241028621,erhverv
 Liberal Alliance,Radikale Venstre,68,37212,22600.0,0.6073309685047834,erhverv
 Liberal Alliance,Sambandsflokkurin,68,70,45.0,0.6428571428571429,erhverv
 Liberal Alliance,Siumut,68,5,0.0,0.0,erhverv
-Liberal Alliance,Socialdemokratiet,68,98740,60431.0,0.6120214705286612,erhverv
-Liberal Alliance,Socialistisk Folkeparti,68,32816,18169.0,0.5536628473915164,erhverv
-Liberal Alliance,Venstre,68,94582,71553.0,0.756518153559874,erhverv
+Liberal Alliance,Socialdemokratiet,68,95988,58670.0,0.6112222361128474,erhverv
+Liberal Alliance,Socialistisk Folkeparti,68,36666,20413.0,0.5567283041509845,erhverv
+Liberal Alliance,Tjóðveldi,68,13,0.0,0.0,erhverv
+Liberal Alliance,Uden for Folketingsgrupperne,68,2746,2033.0,0.7403495994173344,erhverv
+Liberal Alliance,Venstre,68,96000,72553.0,0.7557604166666667,erhverv
 Radikale Venstre,Radikale Venstre,68,36914,36447.0,0.987348973289267,erhverv
 Radikale Venstre,Sambandsflokkurin,68,154,119.0,0.7727272727272727,erhverv
 Radikale Venstre,Siumut,68,11,11.0,1.0,erhverv
-Radikale Venstre,Socialdemokratiet,68,213942,212563.0,0.9935543278084714,erhverv
-Radikale Venstre,Socialistisk Folkeparti,68,71167,66975.0,0.9410962946309385,erhverv
-Radikale Venstre,Venstre,68,205164,162538.0,0.7922345050788637,erhverv
-Sambandsflokkurin,Socialdemokratiet,68,409,321.0,0.784841075794621,erhverv
-Sambandsflokkurin,Socialistisk Folkeparti,68,124,90.0,0.7258064516129032,erhverv
-Sambandsflokkurin,Venstre,68,370,369.0,0.9972972972972973,erhverv
-Siumut,Socialdemokratiet,68,29,29.0,1.0,erhverv
-Siumut,Socialistisk Folkeparti,68,9,9.0,1.0,erhverv
-Siumut,Venstre,68,28,0.0,0.0,erhverv
-Socialdemokratiet,Socialdemokratiet,68,274779,274665.0,0.9995851211337111,erhverv
-Socialdemokratiet,Socialistisk Folkeparti,68,188787,176983.0,0.9374745083083051,erhverv
-Socialdemokratiet,Venstre,68,544137,433879.0,0.7973708827004964,erhverv
-Socialistisk Folkeparti,Socialistisk Folkeparti,68,28507,27664.0,0.9704283158522469,erhverv
-Socialistisk Folkeparti,Venstre,68,181172,133281.0,0.7356600357671164,erhverv
-Venstre,Venstre,68,252085,251829.0,0.9989844695241684,erhverv
+Radikale Venstre,Socialdemokratiet,68,207994,206657.0,0.993571929959518,erhverv
+Radikale Venstre,Socialistisk Folkeparti,68,79425,74817.0,0.9419830028328612,erhverv
+Radikale Venstre,Tjóðveldi,68,33,33.0,1.0,erhverv
+Radikale Venstre,Uden for Folketingsgrupperne,68,5953,4790.0,0.8046363178229464,erhverv
+Radikale Venstre,Venstre,68,208225,164942.0,0.7921335094249009,erhverv
+Sambandsflokkurin,Socialdemokratiet,68,396,311.0,0.7853535353535354,erhverv
+Sambandsflokkurin,Socialistisk Folkeparti,68,141,102.0,0.723404255319149,erhverv
+Sambandsflokkurin,Uden for Folketingsgrupperne,68,3,3.0,1.0,erhverv
+Sambandsflokkurin,Venstre,68,383,382.0,0.9973890339425587,erhverv
+Siumut,Socialdemokratiet,68,28,28.0,1.0,erhverv
+Siumut,Socialistisk Folkeparti,68,10,10.0,1.0,erhverv
+Siumut,Uden for Folketingsgrupperne,68,1,0.0,0.0,erhverv
+Siumut,Venstre,68,29,0.0,0.0,erhverv
+Socialdemokratiet,Socialdemokratiet,68,259451,259340.0,0.9995721735510752,erhverv
+Socialdemokratiet,Socialistisk Folkeparti,68,204997,192506.0,0.9390674009863559,erhverv
+Socialdemokratiet,Tjóðveldi,68,80,80.0,1.0,erhverv
+Socialdemokratiet,Uden for Folketingsgrupperne,68,15436,12490.0,0.8091474475252656,erhverv
+Socialdemokratiet,Venstre,68,536927,427681.0,0.7965347244597496,erhverv
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,35959,34672.0,0.964209238299174,erhverv
+Socialistisk Folkeparti,Tjóðveldi,68,30,30.0,1.0,erhverv
+Socialistisk Folkeparti,Uden for Folketingsgrupperne,68,5843,4452.0,0.7619373609447202,erhverv
+Socialistisk Folkeparti,Venstre,68,205492,151947.0,0.7394302454596773,erhverv
+Tjóðveldi,Uden for Folketingsgrupperne,68,3,3.0,1.0,erhverv
+Tjóðveldi,Venstre,68,84,84.0,1.0,erhverv
+Uden for Folketingsgrupperne,Venstre,68,15326,14254.0,0.9300535038496672,erhverv
+Venstre,Venstre,68,259933,259675.0,0.9990074365317216,erhverv
 Alternativet,Alternativet,69,7789,7779.0,0.9987161381435358,erhverv
-Alternativet,Danmarksdemokraterne,69,4668,2277.0,0.4877892030848329,erhverv
-Alternativet,Dansk Folkeparti,69,77822,37028.0,0.4758037572922824,erhverv
+Alternativet,Dansk Folkeparti,69,80330,38199.0,0.4755259554338354,erhverv
 Alternativet,Det Konservative Folkeparti,69,14107,6816.0,0.48316438647479976,erhverv
 Alternativet,Enhedslisten,69,31897,24628.0,0.7721102298021758,erhverv
 Alternativet,Inuit Ataqatigiit,69,99,12.0,0.12121212121212122,erhverv
@@ -298,28 +285,17 @@ Alternativet,Radikale Venstre,69,17087,12565.0,0.7353543629659975,erhverv
 Alternativet,Socialdemokratiet,69,104223,64158.0,0.6155838922310815,erhverv
 Alternativet,Socialistisk Folkeparti,69,14002,11038.0,0.788315954863591,erhverv
 Alternativet,Tjóðveldi,69,45,0.0,0.0,erhverv
-Alternativet,Venstre,69,68343,33154.0,0.48511186222436825,erhverv
-Danmarksdemokraterne,Danmarksdemokraterne,69,281,250.0,0.8896797153024911,erhverv
-Danmarksdemokraterne,Dansk Folkeparti,69,19268,18310.0,0.9502802574216317,erhverv
-Danmarksdemokraterne,Det Konservative Folkeparti,69,3492,3259.0,0.9332760595647194,erhverv
-Danmarksdemokraterne,Enhedslisten,69,7936,2750.0,0.3465221774193548,erhverv
-Danmarksdemokraterne,Inuit Ataqatigiit,69,27,10.0,0.37037037037037035,erhverv
-Danmarksdemokraterne,Liberal Alliance,69,7134,6468.0,0.9066442388561816,erhverv
-Danmarksdemokraterne,Radikale Venstre,69,4243,2885.0,0.6799434362479377,erhverv
-Danmarksdemokraterne,Socialdemokratiet,69,25902,20118.0,0.7766967801714153,erhverv
-Danmarksdemokraterne,Socialistisk Folkeparti,69,3497,1840.0,0.5261652845295968,erhverv
-Danmarksdemokraterne,Tjóðveldi,69,12,2.0,0.16666666666666666,erhverv
-Danmarksdemokraterne,Venstre,69,16808,15802.0,0.9401475487862923,erhverv
-Dansk Folkeparti,Dansk Folkeparti,69,153790,153770.0,0.9998699525326744,erhverv
-Dansk Folkeparti,Det Konservative Folkeparti,69,58298,51700.0,0.8868228755703454,erhverv
-Dansk Folkeparti,Enhedslisten,69,131931,47361.0,0.3589831048047843,erhverv
-Dansk Folkeparti,Inuit Ataqatigiit,69,364,107.0,0.29395604395604397,erhverv
-Dansk Folkeparti,Liberal Alliance,69,118743,103996.0,0.875807416016102,erhverv
-Dansk Folkeparti,Radikale Venstre,69,70708,44359.0,0.6273547547660803,erhverv
-Dansk Folkeparti,Socialdemokratiet,69,431177,316980.0,0.7351505298288173,erhverv
-Dansk Folkeparti,Socialistisk Folkeparti,69,57950,28911.0,0.4988955996548749,erhverv
-Dansk Folkeparti,Tjóðveldi,69,199,44.0,0.22110552763819097,erhverv
-Dansk Folkeparti,Venstre,69,281674,251639.0,0.8933696400803766,erhverv
+Alternativet,Venstre,69,70503,34260.0,0.4859367686481426,erhverv
+Dansk Folkeparti,Dansk Folkeparti,69,164033,164012.0,0.9998719769802418,erhverv
+Dansk Folkeparti,Det Konservative Folkeparti,69,60181,53362.0,0.8866918130306908,erhverv
+Dansk Folkeparti,Enhedslisten,69,136185,48844.0,0.3586591768550134,erhverv
+Dansk Folkeparti,Inuit Ataqatigiit,69,381,112.0,0.29396325459317585,erhverv
+Dansk Folkeparti,Liberal Alliance,69,122583,107340.0,0.8756515993245393,erhverv
+Dansk Folkeparti,Radikale Venstre,69,72972,45787.0,0.627459847612783,erhverv
+Dansk Folkeparti,Socialdemokratiet,69,445104,327027.0,0.734720424889464,erhverv
+Dansk Folkeparti,Socialistisk Folkeparti,69,59818,29798.0,0.49814437125948713,erhverv
+Dansk Folkeparti,Tjóðveldi,69,208,46.0,0.22115384615384615,erhverv
+Dansk Folkeparti,Venstre,69,300071,268044.0,0.8932685930996331,erhverv
 Det Konservative Folkeparti,Det Konservative Folkeparti,69,4027,4027.0,1.0,erhverv
 Det Konservative Folkeparti,Enhedslisten,69,23911,7647.0,0.3198109656643386,erhverv
 Det Konservative Folkeparti,Inuit Ataqatigiit,69,68,20.0,0.29411764705882354,erhverv
@@ -328,7 +304,7 @@ Det Konservative Folkeparti,Radikale Venstre,69,12793,8998.0,0.70335339638865,er
 Det Konservative Folkeparti,Socialdemokratiet,69,78022,62771.0,0.8045294916818333,erhverv
 Det Konservative Folkeparti,Socialistisk Folkeparti,69,10489,5419.0,0.5166364763085137,erhverv
 Det Konservative Folkeparti,Tjóðveldi,69,35,0.0,0.0,erhverv
-Det Konservative Folkeparti,Venstre,69,50858,50355.0,0.9901097172519564,erhverv
+Det Konservative Folkeparti,Venstre,69,52467,51952.0,0.9901843063258811,erhverv
 Enhedslisten,Enhedslisten,69,24047,24019.0,0.9988356135900528,erhverv
 Enhedslisten,Inuit Ataqatigiit,69,151,35.0,0.23178807947019867,erhverv
 Enhedslisten,Liberal Alliance,69,48671,15528.0,0.31904008547184154,erhverv
@@ -336,36 +312,35 @@ Enhedslisten,Radikale Venstre,69,28961,16576.0,0.5723559269362246,erhverv
 Enhedslisten,Socialdemokratiet,69,176799,82739.0,0.467983416195793,erhverv
 Enhedslisten,Socialistisk Folkeparti,69,23747,17711.0,0.7458205246978565,erhverv
 Enhedslisten,Tjóðveldi,69,81,0.0,0.0,erhverv
-Enhedslisten,Venstre,69,115473,36866.0,0.319260779576178,erhverv
+Enhedslisten,Venstre,69,119155,38133.0,0.3200285342620956,erhverv
 Inuit Ataqatigiit,Liberal Alliance,69,136,40.0,0.29411764705882354,erhverv
 Inuit Ataqatigiit,Radikale Venstre,69,75,20.0,0.26666666666666666,erhverv
 Inuit Ataqatigiit,Socialdemokratiet,69,502,147.0,0.29282868525896416,erhverv
 Inuit Ataqatigiit,Socialistisk Folkeparti,69,66,8.0,0.12121212121212122,erhverv
 Inuit Ataqatigiit,Tjóðveldi,69,3,3.0,1.0,erhverv
-Inuit Ataqatigiit,Venstre,69,340,96.0,0.2823529411764706,erhverv
+Inuit Ataqatigiit,Venstre,69,350,101.0,0.2885714285714286,erhverv
 Liberal Alliance,Liberal Alliance,69,19247,19205.0,0.9978178417415701,erhverv
 Liberal Alliance,Radikale Venstre,69,26069,17904.0,0.6867927423376424,erhverv
 Liberal Alliance,Socialdemokratiet,69,159164,123397.0,0.7752820989671031,erhverv
 Liberal Alliance,Socialistisk Folkeparti,69,21385,10764.0,0.5033434650455927,erhverv
 Liberal Alliance,Tjóðveldi,69,72,0.0,0.0,erhverv
-Liberal Alliance,Venstre,69,103999,99687.0,0.9585380628659891,erhverv
+Liberal Alliance,Venstre,69,107293,102811.0,0.958226538543987,erhverv
 Radikale Venstre,Radikale Venstre,69,6208,6188.0,0.9967783505154639,erhverv
 Radikale Venstre,Socialdemokratiet,69,94653,75601.0,0.7987174204726739,erhverv
 Radikale Venstre,Socialistisk Folkeparti,69,12736,9732.0,0.7641331658291457,erhverv
 Radikale Venstre,Tjóðveldi,69,45,0.0,0.0,erhverv
-Radikale Venstre,Venstre,69,61900,43408.0,0.7012600969305331,erhverv
+Radikale Venstre,Venstre,69,63879,44865.0,0.7023434931667685,erhverv
 Socialdemokratiet,Socialdemokratiet,69,279785,275174.0,0.9835194881784227,erhverv
 Socialdemokratiet,Socialistisk Folkeparti,69,77605,51930.0,0.6691579150827911,erhverv
 Socialdemokratiet,Tjóðveldi,69,266,0.0,0.0,erhverv
-Socialdemokratiet,Venstre,69,378723,306253.0,0.8086464249596671,erhverv
+Socialdemokratiet,Venstre,69,390698,316324.0,0.8096381348253638,erhverv
 Socialistisk Folkeparti,Socialistisk Folkeparti,69,3923,3914.0,0.9977058373693601,erhverv
 Socialistisk Folkeparti,Tjóðveldi,69,36,0.0,0.0,erhverv
-Socialistisk Folkeparti,Venstre,69,50731,26091.0,0.5143009205416806,erhverv
-Tjóðveldi,Venstre,69,174,0.0,0.0,erhverv
-Venstre,Venstre,69,117954,117922.0,0.9997287078013463,erhverv
+Socialistisk Folkeparti,Venstre,69,52360,27044.0,0.5165011459129106,erhverv
+Tjóðveldi,Venstre,69,177,0.0,0.0,erhverv
+Venstre,Venstre,69,125671,125637.0,0.9997294523000533,erhverv
 Alternativet,Alternativet,70,1437,1308.0,0.9102296450939458,erhverv
-Alternativet,Danmarksdemokraterne,70,2080,1133.0,0.5447115384615384,erhverv
-Alternativet,Dansk Folkeparti,70,11318,6174.0,0.5455027389998233,erhverv
+Alternativet,Dansk Folkeparti,70,12968,7056.0,0.5441085749537322,erhverv
 Alternativet,Det Konservative Folkeparti,70,9534,5112.0,0.5361862806796728,erhverv
 Alternativet,Enhedslisten,70,10564,9366.0,0.8865959863687997,erhverv
 Alternativet,Inuit Ataqatigiit,70,4,1.0,0.25,erhverv
@@ -375,30 +350,18 @@ Alternativet,Radikale Venstre,70,12848,10110.0,0.786892901618929,erhverv
 Alternativet,Sambandsflokkurin,70,13,6.0,0.46153846153846156,erhverv
 Alternativet,Socialdemokratiet,70,40322,29577.0,0.7335201626903427,erhverv
 Alternativet,Socialistisk Folkeparti,70,11618,9856.0,0.8483387846445172,erhverv
-Alternativet,Venstre,70,34498,19276.0,0.5587570293930083,erhverv
-Danmarksdemokraterne,Danmarksdemokraterne,70,270,253.0,0.937037037037037,erhverv
-Danmarksdemokraterne,Dansk Folkeparti,70,5647,5375.0,0.9518328315919957,erhverv
-Danmarksdemokraterne,Det Konservative Folkeparti,70,4968,3994.0,0.8039452495974235,erhverv
-Danmarksdemokraterne,Enhedslisten,70,5402,2822.0,0.5223991114402073,erhverv
-Danmarksdemokraterne,Inuit Ataqatigiit,70,2,0.0,0.0,erhverv
-Danmarksdemokraterne,Liberal Alliance,70,1441,1099.0,0.7626648160999306,erhverv
-Danmarksdemokraterne,Nye Borgerlige,70,1625,1127.0,0.6935384615384615,erhverv
-Danmarksdemokraterne,Radikale Venstre,70,6612,4203.0,0.6356624319419237,erhverv
-Danmarksdemokraterne,Sambandsflokkurin,70,5,5.0,1.0,erhverv
-Danmarksdemokraterne,Socialdemokratiet,70,20403,14118.0,0.6919570651374798,erhverv
-Danmarksdemokraterne,Socialistisk Folkeparti,70,6009,3487.0,0.5802962223331669,erhverv
-Danmarksdemokraterne,Venstre,70,17412,14354.0,0.8243739949460143,erhverv
-Dansk Folkeparti,Dansk Folkeparti,70,13905,13491.0,0.9702265372168285,erhverv
-Dansk Folkeparti,Det Konservative Folkeparti,70,26537,20069.0,0.7562648377736745,erhverv
-Dansk Folkeparti,Enhedslisten,70,29387,15361.0,0.5227141252934971,erhverv
-Dansk Folkeparti,Inuit Ataqatigiit,70,8,0.0,0.0,erhverv
-Dansk Folkeparti,Liberal Alliance,70,7937,5753.0,0.7248330603502583,erhverv
-Dansk Folkeparti,Nye Borgerlige,70,8717,6166.0,0.7073534472869106,erhverv
-Dansk Folkeparti,Radikale Venstre,70,35764,22475.0,0.6284252320769489,erhverv
-Dansk Folkeparti,Sambandsflokkurin,70,34,34.0,1.0,erhverv
-Dansk Folkeparti,Socialdemokratiet,70,112315,75206.0,0.6695988959622491,erhverv
-Dansk Folkeparti,Socialistisk Folkeparti,70,32580,18698.0,0.5739103744628606,erhverv
-Dansk Folkeparti,Venstre,70,95968,73986.0,0.7709444814938313,erhverv
+Alternativet,Venstre,70,34928,19527.0,0.5590643609711407,erhverv
+Dansk Folkeparti,Dansk Folkeparti,70,18526,17958.0,0.9693403864838606,erhverv
+Dansk Folkeparti,Det Konservative Folkeparti,70,30526,23238.0,0.761252702614165,erhverv
+Dansk Folkeparti,Enhedslisten,70,33741,17582.0,0.521087104709404,erhverv
+Dansk Folkeparti,Inuit Ataqatigiit,70,10,0.0,0.0,erhverv
+Dansk Folkeparti,Liberal Alliance,70,9078,6617.0,0.728905045164133,erhverv
+Dansk Folkeparti,Nye Borgerlige,70,9992,7062.0,0.7067654123298639,erhverv
+Dansk Folkeparti,Radikale Venstre,70,41111,25837.0,0.6284692661331517,erhverv
+Dansk Folkeparti,Sambandsflokkurin,70,38,38.0,1.0,erhverv
+Dansk Folkeparti,Socialdemokratiet,70,128610,86332.0,0.6712697301920535,erhverv
+Dansk Folkeparti,Socialistisk Folkeparti,70,37437,21509.0,0.5745385581109598,erhverv
+Dansk Folkeparti,Venstre,70,111268,86455.0,0.7769978789948593,erhverv
 Det Konservative Folkeparti,Det Konservative Folkeparti,70,9941,9878.0,0.993662609395433,erhverv
 Det Konservative Folkeparti,Enhedslisten,70,24954,12412.0,0.49739520718121344,erhverv
 Det Konservative Folkeparti,Inuit Ataqatigiit,70,5,5.0,1.0,erhverv
@@ -408,7 +371,7 @@ Det Konservative Folkeparti,Radikale Venstre,70,30427,21048.0,0.6917540342459,er
 Det Konservative Folkeparti,Sambandsflokkurin,70,25,25.0,1.0,erhverv
 Det Konservative Folkeparti,Socialdemokratiet,70,94584,69669.0,0.7365833544785587,erhverv
 Det Konservative Folkeparti,Socialistisk Folkeparti,70,27749,16830.0,0.6065083426429781,erhverv
-Det Konservative Folkeparti,Venstre,70,80406,75106.0,0.9340845210556427,erhverv
+Det Konservative Folkeparti,Venstre,70,81385,75931.0,0.9329851938317871,erhverv
 Enhedslisten,Enhedslisten,70,11981,11920.0,0.9949086052917119,erhverv
 Enhedslisten,Inuit Ataqatigiit,70,7,7.0,1.0,erhverv
 Enhedslisten,Liberal Alliance,70,7357,3449.0,0.4688052195188256,erhverv
@@ -417,7 +380,7 @@ Enhedslisten,Radikale Venstre,70,33622,25981.0,0.7727380881565642,erhverv
 Enhedslisten,Sambandsflokkurin,70,32,24.0,0.75,erhverv
 Enhedslisten,Socialdemokratiet,70,105366,75955.0,0.7208682117571134,erhverv
 Enhedslisten,Socialistisk Folkeparti,70,30660,25925.0,0.8455642530984997,erhverv
-Enhedslisten,Venstre,70,90083,46945.0,0.5211305129713708,erhverv
+Enhedslisten,Venstre,70,91131,47546.0,0.5217324510868969,erhverv
 Inuit Ataqatigiit,Liberal Alliance,70,2,2.0,1.0,erhverv
 Inuit Ataqatigiit,Nye Borgerlige,70,2,0.0,0.0,erhverv
 Inuit Ataqatigiit,Radikale Venstre,70,10,10.0,1.0,erhverv
@@ -430,27 +393,27 @@ Liberal Alliance,Radikale Venstre,70,8991,5998.0,0.6671115560004449,erhverv
 Liberal Alliance,Sambandsflokkurin,70,8,8.0,1.0,erhverv
 Liberal Alliance,Socialdemokratiet,70,28260,19566.0,0.6923566878980891,erhverv
 Liberal Alliance,Socialistisk Folkeparti,70,8182,4602.0,0.5624541676851625,erhverv
-Liberal Alliance,Venstre,70,24076,20365.0,0.8458631001827546,erhverv
+Liberal Alliance,Venstre,70,24376,20600.0,0.8450935346242205,erhverv
 Nye Borgerlige,Nye Borgerlige,70,722,720.0,0.997229916897507,erhverv
 Nye Borgerlige,Radikale Venstre,70,9942,4373.0,0.43985113659223496,erhverv
 Nye Borgerlige,Sambandsflokkurin,70,9,9.0,1.0,erhverv
 Nye Borgerlige,Socialdemokratiet,70,31318,14423.0,0.46053387828086084,erhverv
 Nye Borgerlige,Socialistisk Folkeparti,70,9068,3641.0,0.40152183502426114,erhverv
-Nye Borgerlige,Venstre,70,26716,17623.0,0.6596421620002995,erhverv
+Nye Borgerlige,Venstre,70,27066,17854.0,0.6596467893297865,erhverv
 Radikale Venstre,Radikale Venstre,70,18321,17864.0,0.9750559467277987,erhverv
 Radikale Venstre,Sambandsflokkurin,70,40,30.0,0.75,erhverv
 Radikale Venstre,Socialdemokratiet,70,127930,112651.0,0.8805674978503869,erhverv
 Radikale Venstre,Socialistisk Folkeparti,70,37347,32018.0,0.857311162877875,erhverv
-Radikale Venstre,Venstre,70,109464,78496.0,0.7170942044873201,erhverv
+Radikale Venstre,Venstre,70,110729,79337.0,0.7164970332975101,erhverv
 Sambandsflokkurin,Socialdemokratiet,70,105,105.0,1.0,erhverv
 Sambandsflokkurin,Socialistisk Folkeparti,70,34,25.0,0.7352941176470589,erhverv
-Sambandsflokkurin,Venstre,70,91,91.0,1.0,erhverv
+Sambandsflokkurin,Venstre,70,92,92.0,1.0,erhverv
 Socialdemokratiet,Socialdemokratiet,70,195352,195242.0,0.9994369138785372,erhverv
 Socialdemokratiet,Socialistisk Folkeparti,70,116715,98976.0,0.8480143940367562,erhverv
-Socialdemokratiet,Venstre,70,345657,264596.0,0.7654871737010968,erhverv
+Socialdemokratiet,Venstre,70,349765,267588.0,0.7650508198361757,erhverv
 Socialistisk Folkeparti,Socialistisk Folkeparti,70,14987,14934.0,0.9964636017882165,erhverv
-Socialistisk Folkeparti,Venstre,70,99806,62627.0,0.6274873254112979,erhverv
-Venstre,Venstre,70,141972,141189.0,0.9944848279942524,erhverv
+Socialistisk Folkeparti,Venstre,70,100958,63303.0,0.627023118524535,erhverv
+Venstre,Venstre,70,145380,144235.0,0.9921240885954051,erhverv
 Alternativet,Alternativet,71,1301,1165.0,0.8954650269023828,erhverv
 Alternativet,Danmarksdemokraterne,71,9599,6264.0,0.6525679758308157,erhverv
 Alternativet,Dansk Folkeparti,71,2588,1546.0,0.5973724884080371,erhverv
