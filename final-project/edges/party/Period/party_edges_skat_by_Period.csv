@@ -1,509 +1,544 @@
 source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
-Dansk Folkeparti,Dansk Folkeparti,65,938,938.0,1.0,skat
-Dansk Folkeparti,Det Konservative Folkeparti,65,1280,1217.0,0.95078125,skat
-Dansk Folkeparti,Enhedslisten,65,206,56.0,0.27184466019417475,skat
-Dansk Folkeparti,Kristendemokraterne,65,448,233.0,0.5200892857142857,skat
-Dansk Folkeparti,Radikale Venstre,65,574,294.0,0.5121951219512195,skat
-Dansk Folkeparti,Socialdemokratiet,65,2583,1137.0,0.44018583042973286,skat
-Dansk Folkeparti,Socialistisk Folkeparti,65,898,402.0,0.44766146993318484,skat
-Dansk Folkeparti,Uden for Folketingsgrupperne,65,10,10.0,1.0,skat
-Dansk Folkeparti,Venstre,65,3722,3550.0,0.9537882858678131,skat
-Det Konservative Folkeparti,Det Konservative Folkeparti,65,347,347.0,1.0,skat
-Det Konservative Folkeparti,Enhedslisten,65,127,24.0,0.1889763779527559,skat
-Det Konservative Folkeparti,Kristendemokraterne,65,276,155.0,0.5615942028985508,skat
-Det Konservative Folkeparti,Radikale Venstre,65,348,181.0,0.5201149425287356,skat
-Det Konservative Folkeparti,Socialdemokratiet,65,1600,753.0,0.470625,skat
-Det Konservative Folkeparti,Socialistisk Folkeparti,65,527,190.0,0.3605313092979127,skat
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,65,7,7.0,1.0,skat
-Det Konservative Folkeparti,Venstre,65,2316,2310.0,0.9974093264248705,skat
-Enhedslisten,Enhedslisten,65,1,1.0,1.0,skat
-Enhedslisten,Kristendemokraterne,65,44,25.0,0.5681818181818182,skat
-Enhedslisten,Radikale Venstre,65,55,33.0,0.6,skat
-Enhedslisten,Socialdemokratiet,65,254,174.0,0.6850393700787402,skat
-Enhedslisten,Socialistisk Folkeparti,65,91,75.0,0.8241758241758241,skat
-Enhedslisten,Uden for Folketingsgrupperne,65,1,0.0,0.0,skat
-Enhedslisten,Venstre,65,371,80.0,0.215633423180593,skat
+Danmarksdemokraterne,Danmarksdemokraterne,65,14,13.0,0.9285714285714286,skat
+Danmarksdemokraterne,Dansk Folkeparti,65,538,524.0,0.9739776951672863,skat
+Danmarksdemokraterne,Det Konservative Folkeparti,65,282,274.0,0.9716312056737588,skat
+Danmarksdemokraterne,Enhedslisten,65,41,11.0,0.2682926829268293,skat
+Danmarksdemokraterne,Inuit Ataqatigiit,65,1,0.0,0.0,skat
+Danmarksdemokraterne,Kristendemokraterne,65,76,42.0,0.5526315789473685,skat
+Danmarksdemokraterne,Radikale Venstre,65,150,75.0,0.5,skat
+Danmarksdemokraterne,Socialdemokratiet,65,1269,608.0,0.4791174152876281,skat
+Danmarksdemokraterne,Socialistisk Folkeparti,65,259,110.0,0.4247104247104247,skat
+Danmarksdemokraterne,Venstre,65,1398,1359.0,0.9721030042918455,skat
+Dansk Folkeparti,Dansk Folkeparti,65,2272,2272.0,1.0,skat
+Dansk Folkeparti,Det Konservative Folkeparti,65,2560,2448.0,0.95625,skat
+Dansk Folkeparti,Enhedslisten,65,386,112.0,0.29015544041450775,skat
+Dansk Folkeparti,Inuit Ataqatigiit,65,13,0.0,0.0,skat
+Dansk Folkeparti,Kristendemokraterne,65,684,358.0,0.5233918128654971,skat
+Dansk Folkeparti,Radikale Venstre,65,1386,710.0,0.5122655122655123,skat
+Dansk Folkeparti,Socialdemokratiet,65,11445,5253.0,0.45897771952817823,skat
+Dansk Folkeparti,Socialistisk Folkeparti,65,2450,1123.0,0.4583673469387755,skat
+Dansk Folkeparti,Venstre,65,12528,11981.0,0.956337803320562,skat
+Det Konservative Folkeparti,Det Konservative Folkeparti,65,621,621.0,1.0,skat
+Det Konservative Folkeparti,Enhedslisten,65,210,49.0,0.23333333333333334,skat
+Det Konservative Folkeparti,Inuit Ataqatigiit,65,11,0.0,0.0,skat
+Det Konservative Folkeparti,Kristendemokraterne,65,360,196.0,0.5444444444444444,skat
+Det Konservative Folkeparti,Radikale Venstre,65,734,388.0,0.5286103542234333,skat
+Det Konservative Folkeparti,Socialdemokratiet,65,5968,2829.0,0.47402815013404825,skat
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,1261,473.0,0.37509912767644726,skat
+Det Konservative Folkeparti,Venstre,65,6617,6607.0,0.9984887411213541,skat
+Enhedslisten,Enhedslisten,65,3,3.0,1.0,skat
+Enhedslisten,Inuit Ataqatigiit,65,2,2.0,1.0,skat
+Enhedslisten,Kristendemokraterne,65,54,31.0,0.5740740740740741,skat
+Enhedslisten,Radikale Venstre,65,111,64.0,0.5765765765765766,skat
+Enhedslisten,Socialdemokratiet,65,896,656.0,0.7321428571428571,skat
+Enhedslisten,Socialistisk Folkeparti,65,196,167.0,0.8520408163265306,skat
+Enhedslisten,Venstre,65,991,250.0,0.2522704339051463,skat
+Inuit Ataqatigiit,Kristendemokraterne,65,2,2.0,1.0,skat
+Inuit Ataqatigiit,Radikale Venstre,65,4,4.0,1.0,skat
+Inuit Ataqatigiit,Socialdemokratiet,65,28,28.0,1.0,skat
+Inuit Ataqatigiit,Socialistisk Folkeparti,65,9,9.0,1.0,skat
+Inuit Ataqatigiit,Venstre,65,35,0.0,0.0,skat
 Kristendemokraterne,Kristendemokraterne,65,24,23.0,0.9583333333333334,skat
-Kristendemokraterne,Radikale Venstre,65,122,80.0,0.6557377049180327,skat
-Kristendemokraterne,Socialdemokratiet,65,554,382.0,0.6895306859205776,skat
-Kristendemokraterne,Socialistisk Folkeparti,65,190,115.0,0.6052631578947368,skat
-Kristendemokraterne,Uden for Folketingsgrupperne,65,2,2.0,1.0,skat
-Kristendemokraterne,Venstre,65,798,441.0,0.5526315789473685,skat
-Radikale Venstre,Radikale Venstre,65,51,51.0,1.0,skat
-Radikale Venstre,Socialdemokratiet,65,700,595.0,0.85,skat
-Radikale Venstre,Socialistisk Folkeparti,65,251,182.0,0.7250996015936255,skat
-Radikale Venstre,Uden for Folketingsgrupperne,65,4,0.0,0.0,skat
-Radikale Venstre,Venstre,65,1002,524.0,0.5229540918163673,skat
-Socialdemokratiet,Socialdemokratiet,65,1465,1465.0,1.0,skat
-Socialdemokratiet,Socialistisk Folkeparti,65,1092,957.0,0.8763736263736264,skat
-Socialdemokratiet,Uden for Folketingsgrupperne,65,11,0.0,0.0,skat
-Socialdemokratiet,Venstre,65,4621,2149.0,0.4650508547933348,skat
-Socialistisk Folkeparti,Socialistisk Folkeparti,65,159,159.0,1.0,skat
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,65,4,0.0,0.0,skat
-Socialistisk Folkeparti,Venstre,65,1565,609.0,0.3891373801916933,skat
-Uden for Folketingsgrupperne,Venstre,65,17,17.0,1.0,skat
-Venstre,Venstre,65,3156,3138.0,0.9942965779467681,skat
-Dansk Folkeparti,Dansk Folkeparti,66,12633,12610.0,0.9981793714873743,skat
-Dansk Folkeparti,Det Konservative Folkeparti,66,19142,17880.0,0.9340716748511128,skat
-Dansk Folkeparti,Enhedslisten,66,2299,677.0,0.2944758590691605,skat
-Dansk Folkeparti,Liberal Alliance,66,28,28.0,1.0,skat
-Dansk Folkeparti,Radikale Venstre,66,7279,4512.0,0.61986536612172,skat
-Dansk Folkeparti,Siumut,66,25,14.0,0.56,skat
-Dansk Folkeparti,Socialdemokratiet,66,18757,10276.0,0.5478488031135043,skat
-Dansk Folkeparti,Socialistisk Folkeparti,66,13860,5238.0,0.37792207792207794,skat
-Dansk Folkeparti,Uden for Folketingsgrupperne,66,13,13.0,1.0,skat
-Dansk Folkeparti,Venstre,66,36259,34126.0,0.9411732259576933,skat
-Det Konservative Folkeparti,Det Konservative Folkeparti,66,6201,6201.0,1.0,skat
-Det Konservative Folkeparti,Enhedslisten,66,1662,470.0,0.28279181708784595,skat
-Det Konservative Folkeparti,Liberal Alliance,66,16,16.0,1.0,skat
-Det Konservative Folkeparti,Radikale Venstre,66,5147,3475.0,0.6751505731494074,skat
-Det Konservative Folkeparti,Siumut,66,18,9.0,0.5,skat
-Det Konservative Folkeparti,Socialdemokratiet,66,13408,8062.0,0.601282816229117,skat
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,9895,4350.0,0.43961596766043454,skat
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,66,10,10.0,1.0,skat
-Det Konservative Folkeparti,Venstre,66,25598,25590.0,0.99968747558403,skat
-Enhedslisten,Enhedslisten,66,54,54.0,1.0,skat
-Enhedslisten,Liberal Alliance,66,6,0.0,0.0,skat
-Enhedslisten,Radikale Venstre,66,623,351.0,0.5634028892455859,skat
-Enhedslisten,Siumut,66,3,2.0,0.6666666666666666,skat
-Enhedslisten,Socialdemokratiet,66,1533,1011.0,0.6594911937377691,skat
-Enhedslisten,Socialistisk Folkeparti,66,1241,969.0,0.7808219178082192,skat
-Enhedslisten,Venstre,66,3117,842.0,0.2701315367340391,skat
-Liberal Alliance,Liberal Alliance,66,1,1.0,1.0,skat
-Liberal Alliance,Radikale Venstre,66,4,0.0,0.0,skat
-Liberal Alliance,Socialdemokratiet,66,20,0.0,0.0,skat
-Liberal Alliance,Socialistisk Folkeparti,66,12,0.0,0.0,skat
-Liberal Alliance,Venstre,66,32,32.0,1.0,skat
-Radikale Venstre,Radikale Venstre,66,760,755.0,0.993421052631579,skat
-Radikale Venstre,Siumut,66,8,4.0,0.5,skat
-Radikale Venstre,Socialdemokratiet,66,5096,3835.0,0.7525510204081632,skat
-Radikale Venstre,Socialistisk Folkeparti,66,3705,2639.0,0.712280701754386,skat
-Radikale Venstre,Uden for Folketingsgrupperne,66,3,3.0,1.0,skat
-Radikale Venstre,Venstre,66,9712,6515.0,0.6708196046128501,skat
-Siumut,Socialdemokratiet,66,16,11.0,0.6875,skat
-Siumut,Socialistisk Folkeparti,66,14,7.0,0.5,skat
-Siumut,Venstre,66,32,15.0,0.46875,skat
-Socialdemokratiet,Socialdemokratiet,66,6178,6160.0,0.9970864357397216,skat
-Socialdemokratiet,Socialistisk Folkeparti,66,9597,7870.0,0.8200479316453059,skat
-Socialdemokratiet,Uden for Folketingsgrupperne,66,13,13.0,1.0,skat
-Socialdemokratiet,Venstre,66,24867,14811.0,0.5956086379539148,skat
-Socialistisk Folkeparti,Socialistisk Folkeparti,66,3181,3022.0,0.9500157183275699,skat
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,66,7,7.0,1.0,skat
-Socialistisk Folkeparti,Venstre,66,18517,7918.0,0.4276070637792299,skat
-Uden for Folketingsgrupperne,Venstre,66,16,16.0,1.0,skat
-Venstre,Venstre,66,23156,23139.0,0.999265849024011,skat
-Dansk Folkeparti,Dansk Folkeparti,67,25911,25911.0,1.0,skat
-Dansk Folkeparti,Det Konservative Folkeparti,67,33597,33080.0,0.9846117212846385,skat
-Dansk Folkeparti,Enhedslisten,67,6302,2047.0,0.3248175182481752,skat
+Kristendemokraterne,Radikale Venstre,65,194,128.0,0.6597938144329897,skat
+Kristendemokraterne,Socialdemokratiet,65,1604,1114.0,0.6945137157107232,skat
+Kristendemokraterne,Socialistisk Folkeparti,65,342,214.0,0.6257309941520468,skat
+Kristendemokraterne,Venstre,65,1758,985.0,0.5602957906712173,skat
+Radikale Venstre,Radikale Venstre,65,151,151.0,1.0,skat
+Radikale Venstre,Socialdemokratiet,65,3239,2754.0,0.8502624266748997,skat
+Radikale Venstre,Socialistisk Folkeparti,65,694,507.0,0.7305475504322767,skat
+Radikale Venstre,Venstre,65,3555,1876.0,0.5277074542897328,skat
+Socialdemokratiet,Socialdemokratiet,65,13059,13059.0,1.0,skat
+Socialdemokratiet,Socialistisk Folkeparti,65,5726,4948.0,0.8641285365001746,skat
+Socialdemokratiet,Venstre,65,29382,14588.0,0.49649445238581447,skat
+Socialistisk Folkeparti,Socialistisk Folkeparti,65,553,553.0,1.0,skat
+Socialistisk Folkeparti,Venstre,65,6227,2570.0,0.4127188052031476,skat
+Venstre,Venstre,65,15695,15659.0,0.9977062758840395,skat
+Danmarksdemokraterne,Danmarksdemokraterne,66,44,37.0,0.8409090909090909,skat
+Danmarksdemokraterne,Dansk Folkeparti,66,2920,2763.0,0.9462328767123288,skat
+Danmarksdemokraterne,Det Konservative Folkeparti,66,2099,2016.0,0.9604573606479276,skat
+Danmarksdemokraterne,Enhedslisten,66,503,139.0,0.27634194831013914,skat
+Danmarksdemokraterne,Radikale Venstre,66,1691,1110.0,0.6564163217031342,skat
+Danmarksdemokraterne,Siumut,66,3,1.0,0.3333333333333333,skat
+Danmarksdemokraterne,Socialdemokratiet,66,5385,3153.0,0.5855153203342618,skat
+Danmarksdemokraterne,Socialistisk Folkeparti,66,1460,640.0,0.4383561643835616,skat
+Danmarksdemokraterne,Venstre,66,6420,6175.0,0.9618380062305296,skat
+Dansk Folkeparti,Dansk Folkeparti,66,18370,18328.0,0.997713663581927,skat
+Dansk Folkeparti,Det Konservative Folkeparti,66,27683,25837.0,0.9333164758154824,skat
+Dansk Folkeparti,Enhedslisten,66,6643,1743.0,0.2623814541622761,skat
+Dansk Folkeparti,Radikale Venstre,66,22115,13610.0,0.6154193985982365,skat
+Dansk Folkeparti,Siumut,66,31,17.0,0.5483870967741935,skat
+Dansk Folkeparti,Socialdemokratiet,66,70004,37257.0,0.5322124450031427,skat
+Dansk Folkeparti,Socialistisk Folkeparti,66,19572,7476.0,0.38197424892703863,skat
+Dansk Folkeparti,Venstre,66,83790,78399.0,0.9356605800214822,skat
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,9112,9112.0,1.0,skat
+Det Konservative Folkeparti,Enhedslisten,66,4721,1234.0,0.2613852997246346,skat
+Det Konservative Folkeparti,Radikale Venstre,66,15664,10531.0,0.672305924412666,skat
+Det Konservative Folkeparti,Siumut,66,22,11.0,0.5,skat
+Det Konservative Folkeparti,Socialdemokratiet,66,49787,28844.0,0.5793480225761745,skat
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,13869,6026.0,0.43449419568822556,skat
+Det Konservative Folkeparti,Venstre,66,59679,59646.0,0.9994470416729503,skat
+Enhedslisten,Enhedslisten,66,372,372.0,1.0,skat
+Enhedslisten,Radikale Venstre,66,3744,1818.0,0.4855769230769231,skat
+Enhedslisten,Siumut,66,5,2.0,0.4,skat
+Enhedslisten,Socialdemokratiet,66,11897,7539.0,0.6336891653357989,skat
+Enhedslisten,Socialistisk Folkeparti,66,3300,2524.0,0.7648484848484849,skat
+Enhedslisten,Venstre,66,14248,3675.0,0.2579309376754632,skat
+Radikale Venstre,Radikale Venstre,66,5621,5544.0,0.9863013698630136,skat
+Radikale Venstre,Siumut,66,19,11.0,0.5789473684210527,skat
+Radikale Venstre,Socialdemokratiet,66,39623,29968.0,0.7563283951240442,skat
+Radikale Venstre,Socialistisk Folkeparti,66,11041,7684.0,0.6959514536726745,skat
+Radikale Venstre,Venstre,66,47455,31774.0,0.6695606363923717,skat
+Siumut,Socialdemokratiet,66,59,31.0,0.5254237288135594,skat
+Siumut,Socialistisk Folkeparti,66,15,8.0,0.5333333333333333,skat
+Siumut,Venstre,66,66,34.0,0.5151515151515151,skat
+Socialdemokratiet,Socialdemokratiet,66,61050,60919.0,0.9978542178542179,skat
+Socialdemokratiet,Socialistisk Folkeparti,66,35148,28961.0,0.8239729145328326,skat
+Socialdemokratiet,Venstre,66,150776,87215.0,0.5784408659203056,skat
+Socialistisk Folkeparti,Socialistisk Folkeparti,66,4391,4192.0,0.9546800273286268,skat
+Socialistisk Folkeparti,Venstre,66,42003,18106.0,0.4310644477775397,skat
+Venstre,Venstre,66,87915,87814.0,0.9988511630552238,skat
+Danmarksdemokraterne,Danmarksdemokraterne,67,43,43.0,1.0,skat
+Danmarksdemokraterne,Dansk Folkeparti,67,3494,3455.0,0.9888380080137379,skat
+Danmarksdemokraterne,Det Konservative Folkeparti,67,2116,2112.0,0.998109640831758,skat
+Danmarksdemokraterne,Enhedslisten,67,434,140.0,0.3225806451612903,skat
+Danmarksdemokraterne,Inuit Ataqatigiit,67,1,1.0,1.0,skat
+Danmarksdemokraterne,Javnaðarflokkurin,67,1,1.0,1.0,skat
+Danmarksdemokraterne,Liberal Alliance,67,549,468.0,0.8524590163934426,skat
+Danmarksdemokraterne,Radikale Venstre,67,872,534.0,0.6123853211009175,skat
+Danmarksdemokraterne,Sambandsflokkurin,67,2,2.0,1.0,skat
+Danmarksdemokraterne,Siumut,67,25,25.0,1.0,skat
+Danmarksdemokraterne,Socialdemokratiet,67,5977,3564.0,0.596285762088004,skat
+Danmarksdemokraterne,Socialistisk Folkeparti,67,2849,1638.0,0.5749385749385749,skat
+Danmarksdemokraterne,Tjóðveldi,67,1,1.0,1.0,skat
+Danmarksdemokraterne,Venstre,67,5970,5968.0,0.9996649916247906,skat
+Dansk Folkeparti,Dansk Folkeparti,67,30622,30338.0,0.9907256221017569,skat
+Dansk Folkeparti,Det Konservative Folkeparti,67,38712,37998.0,0.9815561066336019,skat
+Dansk Folkeparti,Enhedslisten,67,8044,2837.0,0.35268523122824463,skat
 Dansk Folkeparti,Inuit Ataqatigiit,67,18,18.0,1.0,skat
-Dansk Folkeparti,Liberal Alliance,67,3374,2827.0,0.8378778897451097,skat
-Dansk Folkeparti,Radikale Venstre,67,13767,8478.0,0.6158204401830464,skat
-Dansk Folkeparti,Sambandsflokkurin,67,82,82.0,1.0,skat
-Dansk Folkeparti,Siumut,67,223,223.0,1.0,skat
-Dansk Folkeparti,Socialdemokratiet,67,81278,49754.0,0.6121459681586653,skat
-Dansk Folkeparti,Socialistisk Folkeparti,67,40040,23678.0,0.5913586413586414,skat
-Dansk Folkeparti,Uden for Folketingsgrupperne,67,1020,812.0,0.796078431372549,skat
-Dansk Folkeparti,Venstre,67,93009,91559.0,0.9844101108494877,skat
-Det Konservative Folkeparti,Det Konservative Folkeparti,67,9285,9285.0,1.0,skat
-Det Konservative Folkeparti,Enhedslisten,67,3834,1329.0,0.34663536776212833,skat
+Dansk Folkeparti,Javnaðarflokkurin,67,16,16.0,1.0,skat
+Dansk Folkeparti,Liberal Alliance,67,9831,8303.0,0.8445732885769505,skat
+Dansk Folkeparti,Radikale Venstre,67,15846,10057.0,0.634671210400101,skat
+Dansk Folkeparti,Sambandsflokkurin,67,86,86.0,1.0,skat
+Dansk Folkeparti,Siumut,67,242,224.0,0.9256198347107438,skat
+Dansk Folkeparti,Socialdemokratiet,67,109256,67267.0,0.6156824339166728,skat
+Dansk Folkeparti,Socialistisk Folkeparti,67,51702,31075.0,0.6010405787010173,skat
+Dansk Folkeparti,Tjóðveldi,67,18,18.0,1.0,skat
+Dansk Folkeparti,Venstre,67,110098,108084.0,0.9817072063071082,skat
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,10611,10592.0,0.9982094053340873,skat
+Det Konservative Folkeparti,Enhedslisten,67,4768,1746.0,0.3661912751677852,skat
 Det Konservative Folkeparti,Inuit Ataqatigiit,67,9,9.0,1.0,skat
-Det Konservative Folkeparti,Liberal Alliance,67,2054,1769.0,0.8612463485881208,skat
-Det Konservative Folkeparti,Radikale Venstre,67,8399,5269.0,0.6273365876890106,skat
-Det Konservative Folkeparti,Sambandsflokkurin,67,46,46.0,1.0,skat
-Det Konservative Folkeparti,Siumut,67,135,135.0,1.0,skat
-Det Konservative Folkeparti,Socialdemokratiet,67,49572,31073.0,0.6268256273702897,skat
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,24442,14667.0,0.6000736437280092,skat
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,67,623,499.0,0.8009630818619583,skat
-Det Konservative Folkeparti,Venstre,67,56643,56631.0,0.9997881468142578,skat
-Enhedslisten,Enhedslisten,67,177,177.0,1.0,skat
+Det Konservative Folkeparti,Javnaðarflokkurin,67,10,10.0,1.0,skat
+Det Konservative Folkeparti,Liberal Alliance,67,5792,5002.0,0.8636049723756906,skat
+Det Konservative Folkeparti,Radikale Venstre,67,9532,6206.0,0.6510700797314309,skat
+Det Konservative Folkeparti,Sambandsflokkurin,67,50,50.0,1.0,skat
+Det Konservative Folkeparti,Siumut,67,149,138.0,0.9261744966442953,skat
+Det Konservative Folkeparti,Socialdemokratiet,67,65453,41287.0,0.6307885047285838,skat
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,30927,18844.0,0.6093057845895172,skat
+Det Konservative Folkeparti,Tjóðveldi,67,9,9.0,1.0,skat
+Det Konservative Folkeparti,Venstre,67,65833,65770.0,0.9990430331292817,skat
+Enhedslisten,Enhedslisten,67,295,271.0,0.9186440677966101,skat
 Enhedslisten,Inuit Ataqatigiit,67,2,0.0,0.0,skat
-Enhedslisten,Liberal Alliance,67,389,152.0,0.390745501285347,skat
-Enhedslisten,Radikale Venstre,67,1582,971.0,0.6137800252844501,skat
-Enhedslisten,Sambandsflokkurin,67,10,2.0,0.2,skat
-Enhedslisten,Siumut,67,26,7.0,0.2692307692307692,skat
-Enhedslisten,Socialdemokratiet,67,9326,5868.0,0.6292086639502467,skat
-Enhedslisten,Socialistisk Folkeparti,67,4588,3013.0,0.6567131647776809,skat
-Enhedslisten,Uden for Folketingsgrupperne,67,122,40.0,0.32786885245901637,skat
-Enhedslisten,Venstre,67,10630,3638.0,0.342238946378175,skat
-Inuit Ataqatigiit,Liberal Alliance,67,1,0.0,0.0,skat
-Inuit Ataqatigiit,Radikale Venstre,67,5,5.0,1.0,skat
+Enhedslisten,Javnaðarflokkurin,67,2,2.0,1.0,skat
+Enhedslisten,Liberal Alliance,67,1238,532.0,0.4297253634894992,skat
+Enhedslisten,Radikale Venstre,67,1965,1234.0,0.6279898218829516,skat
+Enhedslisten,Sambandsflokkurin,67,11,2.0,0.18181818181818182,skat
+Enhedslisten,Siumut,67,29,7.0,0.2413793103448276,skat
+Enhedslisten,Socialdemokratiet,67,13525,9041.0,0.6684658040665434,skat
+Enhedslisten,Socialistisk Folkeparti,67,6399,4428.0,0.6919831223628692,skat
+Enhedslisten,Tjóðveldi,67,2,0.0,0.0,skat
+Enhedslisten,Venstre,67,13638,4976.0,0.3648628831206922,skat
+Inuit Ataqatigiit,Liberal Alliance,67,3,2.0,0.6666666666666666,skat
+Inuit Ataqatigiit,Radikale Venstre,67,6,6.0,1.0,skat
 Inuit Ataqatigiit,Sambandsflokkurin,67,1,1.0,1.0,skat
-Inuit Ataqatigiit,Socialdemokratiet,67,24,24.0,1.0,skat
-Inuit Ataqatigiit,Socialistisk Folkeparti,67,12,12.0,1.0,skat
+Inuit Ataqatigiit,Socialdemokratiet,67,30,30.0,1.0,skat
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,13,13.0,1.0,skat
+Inuit Ataqatigiit,Tjóðveldi,67,1,1.0,1.0,skat
 Inuit Ataqatigiit,Venstre,67,35,35.0,1.0,skat
-Liberal Alliance,Liberal Alliance,67,34,34.0,1.0,skat
-Liberal Alliance,Radikale Venstre,67,844,567.0,0.6718009478672986,skat
-Liberal Alliance,Sambandsflokkurin,67,5,3.0,0.6,skat
-Liberal Alliance,Siumut,67,14,14.0,1.0,skat
-Liberal Alliance,Socialdemokratiet,67,4963,3268.0,0.6584726979649406,skat
-Liberal Alliance,Socialistisk Folkeparti,67,2444,1564.0,0.6399345335515548,skat
-Liberal Alliance,Uden for Folketingsgrupperne,67,58,45.0,0.7758620689655172,skat
-Liberal Alliance,Venstre,67,5653,4834.0,0.8551211745975588,skat
-Radikale Venstre,Radikale Venstre,67,1371,1362.0,0.9934354485776805,skat
+Javnaðarflokkurin,Liberal Alliance,67,2,2.0,1.0,skat
+Javnaðarflokkurin,Radikale Venstre,67,5,5.0,1.0,skat
+Javnaðarflokkurin,Siumut,67,1,1.0,1.0,skat
+Javnaðarflokkurin,Socialdemokratiet,67,30,30.0,1.0,skat
+Javnaðarflokkurin,Socialistisk Folkeparti,67,15,15.0,1.0,skat
+Javnaðarflokkurin,Venstre,67,31,31.0,1.0,skat
+Liberal Alliance,Liberal Alliance,67,557,396.0,0.7109515260323159,skat
+Liberal Alliance,Radikale Venstre,67,2329,1634.0,0.7015886646629454,skat
+Liberal Alliance,Sambandsflokkurin,67,16,12.0,0.75,skat
+Liberal Alliance,Siumut,67,43,39.0,0.9069767441860465,skat
+Liberal Alliance,Socialdemokratiet,67,16520,10840.0,0.6561743341404358,skat
+Liberal Alliance,Socialistisk Folkeparti,67,7903,5161.0,0.6530431481715804,skat
+Liberal Alliance,Tjóðveldi,67,3,2.0,0.6666666666666666,skat
+Liberal Alliance,Venstre,67,16607,14290.0,0.8604805202625398,skat
+Radikale Venstre,Radikale Venstre,67,1550,1493.0,0.9632258064516129,skat
 Radikale Venstre,Sambandsflokkurin,67,19,13.0,0.6842105263157895,skat
-Radikale Venstre,Siumut,67,56,56.0,1.0,skat
-Radikale Venstre,Socialdemokratiet,67,20268,17089.0,0.8431517663311624,skat
-Radikale Venstre,Socialistisk Folkeparti,67,10030,8472.0,0.844666001994018,skat
-Radikale Venstre,Uden for Folketingsgrupperne,67,235,163.0,0.6936170212765957,skat
-Radikale Venstre,Venstre,67,23086,14576.0,0.6313783245256865,skat
-Sambandsflokkurin,Socialdemokratiet,67,118,74.0,0.6271186440677966,skat
-Sambandsflokkurin,Socialistisk Folkeparti,67,55,24.0,0.43636363636363634,skat
-Sambandsflokkurin,Uden for Folketingsgrupperne,67,1,1.0,1.0,skat
-Sambandsflokkurin,Venstre,67,143,143.0,1.0,skat
-Siumut,Socialdemokratiet,67,353,353.0,1.0,skat
-Siumut,Socialistisk Folkeparti,67,164,151.0,0.9207317073170732,skat
-Siumut,Uden for Folketingsgrupperne,67,5,5.0,1.0,skat
-Siumut,Venstre,67,407,407.0,1.0,skat
-Socialdemokratiet,Socialdemokratiet,67,57540,57496.0,0.9992353145637817,skat
-Socialdemokratiet,Socialistisk Folkeparti,67,59019,56519.0,0.957640759755333,skat
-Socialdemokratiet,Uden for Folketingsgrupperne,67,1533,948.0,0.6183953033268101,skat
-Socialdemokratiet,Venstre,67,136976,85286.0,0.6226346221235837,skat
-Socialistisk Folkeparti,Socialistisk Folkeparti,67,13529,13519.0,0.9992608470692587,skat
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,67,790,462.0,0.5848101265822785,skat
-Socialistisk Folkeparti,Venstre,67,67441,40312.0,0.5977372814756602,skat
-Uden for Folketingsgrupperne,Uden for Folketingsgrupperne,67,17,12.0,0.7058823529411765,skat
-Uden for Folketingsgrupperne,Venstre,67,1704,1350.0,0.7922535211267606,skat
-Venstre,Venstre,67,75864,75838.0,0.9996572814510176,skat
-Alternativet,Dansk Folkeparti,68,181,137.0,0.7569060773480663,skat
-Alternativet,Det Konservative Folkeparti,68,16,14.0,0.875,skat
-Alternativet,Enhedslisten,68,83,70.0,0.8433734939759037,skat
-Alternativet,Liberal Alliance,68,68,13.0,0.19117647058823528,skat
-Alternativet,Radikale Venstre,68,75,61.0,0.8133333333333334,skat
-Alternativet,Socialdemokratiet,68,325,260.0,0.8,skat
-Alternativet,Socialistisk Folkeparti,68,37,34.0,0.918918918918919,skat
-Alternativet,Venstre,68,295,238.0,0.8067796610169492,skat
-Dansk Folkeparti,Dansk Folkeparti,68,15153,15118.0,0.9976902263578169,skat
-Dansk Folkeparti,Det Konservative Folkeparti,68,11011,8217.0,0.7462537462537463,skat
-Dansk Folkeparti,Enhedslisten,68,20251,9047.0,0.44674337069774334,skat
-Dansk Folkeparti,Liberal Alliance,68,13745,8644.0,0.6288832302655512,skat
-Dansk Folkeparti,Radikale Venstre,68,25061,14743.0,0.5882845856111089,skat
-Dansk Folkeparti,Sambandsflokkurin,68,12,12.0,1.0,skat
-Dansk Folkeparti,Siumut,68,11,0.0,0.0,skat
-Dansk Folkeparti,Socialdemokratiet,68,59486,36057.0,0.6061426217933631,skat
-Dansk Folkeparti,Socialistisk Folkeparti,68,19651,11131.0,0.5664342781537836,skat
-Dansk Folkeparti,Uden for Folketingsgrupperne,68,858,483.0,0.5629370629370629,skat
-Dansk Folkeparti,Venstre,68,63305,49621.0,0.783840139009557,skat
-Det Konservative Folkeparti,Det Konservative Folkeparti,68,1637,1632.0,0.9969456322541234,skat
-Det Konservative Folkeparti,Enhedslisten,68,7181,3179.0,0.4426960033421529,skat
-Det Konservative Folkeparti,Liberal Alliance,68,4676,3107.0,0.6644568006843456,skat
-Det Konservative Folkeparti,Radikale Venstre,68,9131,5782.0,0.6332274668710984,skat
+Radikale Venstre,Siumut,67,62,59.0,0.9516129032258065,skat
+Radikale Venstre,Socialdemokratiet,67,26724,22261.0,0.8329965574015866,skat
+Radikale Venstre,Socialistisk Folkeparti,67,12643,10490.0,0.829708138891086,skat
+Radikale Venstre,Tjóðveldi,67,6,6.0,1.0,skat
+Radikale Venstre,Venstre,67,26988,17532.0,0.6496220542463317,skat
+Sambandsflokkurin,Siumut,67,1,0.0,0.0,skat
+Sambandsflokkurin,Socialdemokratiet,67,150,91.0,0.6066666666666667,skat
+Sambandsflokkurin,Socialistisk Folkeparti,67,65,27.0,0.4153846153846154,skat
+Sambandsflokkurin,Tjóðveldi,67,1,1.0,1.0,skat
+Sambandsflokkurin,Venstre,67,154,154.0,1.0,skat
+Siumut,Socialdemokratiet,67,454,423.0,0.9317180616740088,skat
+Siumut,Socialistisk Folkeparti,67,198,172.0,0.8686868686868687,skat
+Siumut,Venstre,67,443,416.0,0.9390519187358917,skat
+Socialdemokratiet,Socialdemokratiet,67,89177,88956.0,0.9975217825223993,skat
+Socialdemokratiet,Socialistisk Folkeparti,67,87157,83998.0,0.9637550627029384,skat
+Socialdemokratiet,Tjóðveldi,67,30,30.0,1.0,skat
+Socialdemokratiet,Venstre,67,185779,116021.0,0.6245108435291394,skat
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,19287,19275.0,0.999377819256494,skat
+Socialistisk Folkeparti,Tjóðveldi,67,13,13.0,1.0,skat
+Socialistisk Folkeparti,Venstre,67,87700,53046.0,0.6048574686431015,skat
+Tjóðveldi,Venstre,67,35,35.0,1.0,skat
+Venstre,Venstre,67,90767,90739.0,0.9996915178423876,skat
+Danmarksdemokraterne,Danmarksdemokraterne,68,129,93.0,0.7209302325581395,skat
+Danmarksdemokraterne,Dansk Folkeparti,68,4252,3889.0,0.9146284101599247,skat
+Danmarksdemokraterne,Det Konservative Folkeparti,68,1688,1303.0,0.7719194312796208,skat
+Danmarksdemokraterne,Enhedslisten,68,2858,1335.0,0.46710986703988805,skat
+Danmarksdemokraterne,Inuit Ataqatigiit,68,1,0.0,0.0,skat
+Danmarksdemokraterne,Javnaðarflokkurin,68,20,6.0,0.3,skat
+Danmarksdemokraterne,Liberal Alliance,68,1721,1051.0,0.610691458454387,skat
+Danmarksdemokraterne,Radikale Venstre,68,3809,2359.0,0.619322656865319,skat
+Danmarksdemokraterne,Sambandsflokkurin,68,1,1.0,1.0,skat
+Danmarksdemokraterne,Siumut,68,1,0.0,0.0,skat
+Danmarksdemokraterne,Socialdemokratiet,68,10073,6238.0,0.6192792613918395,skat
+Danmarksdemokraterne,Socialistisk Folkeparti,68,3363,2022.0,0.6012488849241748,skat
+Danmarksdemokraterne,Venstre,68,9659,7983.0,0.8264830727818615,skat
+Dansk Folkeparti,Dansk Folkeparti,68,16704,16663.0,0.9975454980842912,skat
+Dansk Folkeparti,Det Konservative Folkeparti,68,14345,10732.0,0.7481352387591496,skat
+Dansk Folkeparti,Enhedslisten,68,24259,11263.0,0.46428129766272314,skat
+Dansk Folkeparti,Inuit Ataqatigiit,68,12,0.0,0.0,skat
+Dansk Folkeparti,Javnaðarflokkurin,68,91,0.0,0.0,skat
+Dansk Folkeparti,Liberal Alliance,68,14749,9202.0,0.6239067055393586,skat
+Dansk Folkeparti,Radikale Venstre,68,32419,19947.0,0.6152873315031309,skat
+Dansk Folkeparti,Sambandsflokkurin,68,13,13.0,1.0,skat
+Dansk Folkeparti,Siumut,68,12,0.0,0.0,skat
+Dansk Folkeparti,Socialdemokratiet,68,85036,52040.0,0.611976104238205,skat
+Dansk Folkeparti,Socialistisk Folkeparti,68,28496,17094.0,0.5998736664795059,skat
+Dansk Folkeparti,Venstre,68,81871,64037.0,0.7821695105715089,skat
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,2313,2308.0,0.9978383052313013,skat
+Det Konservative Folkeparti,Enhedslisten,68,9613,4505.0,0.4686362217830022,skat
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,5,5.0,1.0,skat
+Det Konservative Folkeparti,Javnaðarflokkurin,68,23,23.0,1.0,skat
+Det Konservative Folkeparti,Liberal Alliance,68,5840,3868.0,0.6623287671232877,skat
+Det Konservative Folkeparti,Radikale Venstre,68,12838,8465.0,0.6593706184763982,skat
 Det Konservative Folkeparti,Sambandsflokkurin,68,4,4.0,1.0,skat
-Det Konservative Folkeparti,Siumut,68,1,1.0,1.0,skat
-Det Konservative Folkeparti,Socialdemokratiet,68,20251,12860.0,0.6350303688706731,skat
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,7479,4595.0,0.6143869501270224,skat
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,68,238,152.0,0.6386554621848739,skat
-Det Konservative Folkeparti,Venstre,68,22349,20548.0,0.9194147389144928,skat
-Enhedslisten,Enhedslisten,68,5585,5566.0,0.996598030438675,skat
-Enhedslisten,Liberal Alliance,68,8529,2297.0,0.2693164497596436,skat
-Enhedslisten,Radikale Venstre,68,16133,12342.0,0.7650158061116965,skat
+Det Konservative Folkeparti,Siumut,68,5,5.0,1.0,skat
+Det Konservative Folkeparti,Socialdemokratiet,68,33649,22120.0,0.657374661951321,skat
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,11267,7172.0,0.6365492145202805,skat
+Det Konservative Folkeparti,Venstre,68,32386,30090.0,0.929105168900142,skat
+Enhedslisten,Enhedslisten,68,7155,7043.0,0.9843466107617052,skat
+Enhedslisten,Inuit Ataqatigiit,68,8,8.0,1.0,skat
+Enhedslisten,Javnaðarflokkurin,68,56,40.0,0.7142857142857143,skat
+Enhedslisten,Liberal Alliance,68,9862,2877.0,0.2917258162644494,skat
+Enhedslisten,Radikale Venstre,68,21691,16896.0,0.778940574431792,skat
 Enhedslisten,Sambandsflokkurin,68,8,8.0,1.0,skat
-Enhedslisten,Siumut,68,6,6.0,1.0,skat
-Enhedslisten,Socialdemokratiet,68,36924,28260.0,0.7653558661033474,skat
-Enhedslisten,Socialistisk Folkeparti,68,13056,10106.0,0.7740502450980392,skat
-Enhedslisten,Uden for Folketingsgrupperne,68,455,355.0,0.7802197802197802,skat
-Enhedslisten,Venstre,68,40154,17672.0,0.44010559346515915,skat
-Liberal Alliance,Liberal Alliance,68,2300,2282.0,0.9921739130434782,skat
-Liberal Alliance,Radikale Venstre,68,10587,4333.0,0.4092755265892132,skat
+Enhedslisten,Siumut,68,8,8.0,1.0,skat
+Enhedslisten,Socialdemokratiet,68,56863,44051.0,0.7746865272672916,skat
+Enhedslisten,Socialistisk Folkeparti,68,19041,15015.0,0.7885615251299827,skat
+Enhedslisten,Venstre,68,54761,25248.0,0.4610580522634722,skat
+Inuit Ataqatigiit,Liberal Alliance,68,5,5.0,1.0,skat
+Inuit Ataqatigiit,Radikale Venstre,68,10,10.0,1.0,skat
+Inuit Ataqatigiit,Siumut,68,1,1.0,1.0,skat
+Inuit Ataqatigiit,Socialdemokratiet,68,29,29.0,1.0,skat
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,8,8.0,1.0,skat
+Inuit Ataqatigiit,Venstre,68,26,26.0,1.0,skat
+Javnaðarflokkurin,Liberal Alliance,68,30,0.0,0.0,skat
+Javnaðarflokkurin,Radikale Venstre,68,77,77.0,1.0,skat
+Javnaðarflokkurin,Socialdemokratiet,68,193,193.0,1.0,skat
+Javnaðarflokkurin,Socialistisk Folkeparti,68,61,61.0,1.0,skat
+Javnaðarflokkurin,Venstre,68,189,189.0,1.0,skat
+Liberal Alliance,Liberal Alliance,68,2408,2388.0,0.9916943521594684,skat
+Liberal Alliance,Radikale Venstre,68,13172,5563.0,0.42233525660491955,skat
 Liberal Alliance,Sambandsflokkurin,68,5,0.0,0.0,skat
 Liberal Alliance,Siumut,68,5,5.0,1.0,skat
-Liberal Alliance,Socialdemokratiet,68,24867,10280.0,0.4133992841919009,skat
-Liberal Alliance,Socialistisk Folkeparti,68,8377,3297.0,0.3935776530977677,skat
-Liberal Alliance,Uden for Folketingsgrupperne,68,349,156.0,0.4469914040114613,skat
-Liberal Alliance,Venstre,68,26644,17763.0,0.6666791773007056,skat
-Radikale Venstre,Radikale Venstre,68,9189,9189.0,1.0,skat
+Liberal Alliance,Socialdemokratiet,68,34585,14507.0,0.41945930316611246,skat
+Liberal Alliance,Socialistisk Folkeparti,68,11606,4699.0,0.40487678786834397,skat
+Liberal Alliance,Venstre,68,33302,22326.0,0.67041018557444,skat
+Radikale Venstre,Radikale Venstre,68,13243,13143.0,0.9924488408970777,skat
 Radikale Venstre,Sambandsflokkurin,68,11,11.0,1.0,skat
-Radikale Venstre,Siumut,68,4,4.0,1.0,skat
-Radikale Venstre,Socialdemokratiet,68,46023,45946.0,0.9983269234947744,skat
-Radikale Venstre,Socialistisk Folkeparti,68,16685,16632.0,0.9968234941564279,skat
-Radikale Venstre,Uden for Folketingsgrupperne,68,511,462.0,0.9041095890410958,skat
-Radikale Venstre,Venstre,68,50260,32694.0,0.6504974134500597,skat
-Sambandsflokkurin,Socialdemokratiet,68,20,20.0,1.0,skat
-Sambandsflokkurin,Socialistisk Folkeparti,68,8,8.0,1.0,skat
-Sambandsflokkurin,Venstre,68,24,24.0,1.0,skat
-Siumut,Socialdemokratiet,68,19,19.0,1.0,skat
-Siumut,Socialistisk Folkeparti,68,2,2.0,1.0,skat
-Siumut,Uden for Folketingsgrupperne,68,1,1.0,1.0,skat
-Siumut,Venstre,68,15,15.0,1.0,skat
-Socialdemokratiet,Socialdemokratiet,68,51763,51588.0,0.996619206769314,skat
-Socialdemokratiet,Socialistisk Folkeparti,68,36361,36114.0,0.9932070075080444,skat
-Socialdemokratiet,Uden for Folketingsgrupperne,68,1414,1274.0,0.900990099009901,skat
-Socialdemokratiet,Venstre,68,115520,76118.0,0.6589162049861496,skat
-Socialistisk Folkeparti,Socialistisk Folkeparti,68,6265,6249.0,0.9974461292897047,skat
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,68,306,280.0,0.9150326797385621,skat
-Socialistisk Folkeparti,Venstre,68,40628,25537.0,0.6285566604312297,skat
-Uden for Folketingsgrupperne,Venstre,68,1418,858.0,0.6050775740479548,skat
-Venstre,Venstre,68,60534,60430.0,0.9982819572471668,skat
-Alternativet,Alternativet,69,2642,2640.0,0.9992429977289932,skat
-Alternativet,Dansk Folkeparti,69,22880,11125.0,0.4862325174825175,skat
-Alternativet,Det Konservative Folkeparti,69,4441,2168.0,0.48817833821211437,skat
-Alternativet,Enhedslisten,69,10116,7470.0,0.7384341637010676,skat
-Alternativet,Liberal Alliance,69,7719,3553.0,0.46029278403938334,skat
-Alternativet,Radikale Venstre,69,4909,3391.0,0.690772051334284,skat
-Alternativet,Socialdemokratiet,69,23845,15803.0,0.6627385196057873,skat
-Alternativet,Socialistisk Folkeparti,69,3291,2727.0,0.8286235186873291,skat
-Alternativet,Venstre,69,19376,10073.0,0.5198699421965318,skat
-Dansk Folkeparti,Dansk Folkeparti,69,39966,39947.0,0.9995245959065205,skat
-Dansk Folkeparti,Det Konservative Folkeparti,69,16723,15231.0,0.910781558332835,skat
-Dansk Folkeparti,Enhedslisten,69,37792,13011.0,0.34427921253175275,skat
-Dansk Folkeparti,Liberal Alliance,69,28011,23842.0,0.8511656135089786,skat
-Dansk Folkeparti,Radikale Venstre,69,18365,12408.0,0.6756329975496869,skat
-Dansk Folkeparti,Socialdemokratiet,69,89424,61476.0,0.6874664519592056,skat
-Dansk Folkeparti,Socialistisk Folkeparti,69,12480,6355.0,0.5092147435897436,skat
-Dansk Folkeparti,Venstre,69,72414,64950.0,0.896926008782832,skat
-Det Konservative Folkeparti,Det Konservative Folkeparti,69,1316,1313.0,0.9977203647416414,skat
-Det Konservative Folkeparti,Enhedslisten,69,7812,2338.0,0.2992831541218638,skat
-Det Konservative Folkeparti,Liberal Alliance,69,5429,5121.0,0.9432676367655185,skat
-Det Konservative Folkeparti,Radikale Venstre,69,3856,2827.0,0.7331431535269709,skat
-Det Konservative Folkeparti,Socialdemokratiet,69,18500,13482.0,0.7287567567567568,skat
-Det Konservative Folkeparti,Socialistisk Folkeparti,69,2584,1261.0,0.48800309597523217,skat
-Det Konservative Folkeparti,Venstre,69,15011,14510.0,0.9666244753847179,skat
-Enhedslisten,Enhedslisten,69,7786,7786.0,1.0,skat
-Enhedslisten,Liberal Alliance,69,12320,3485.0,0.28287337662337664,skat
-Enhedslisten,Radikale Venstre,69,8666,4468.0,0.5155781213939534,skat
-Enhedslisten,Socialdemokratiet,69,41650,20950.0,0.503001200480192,skat
-Enhedslisten,Socialistisk Folkeparti,69,5773,4508.0,0.7808764940239044,skat
-Enhedslisten,Venstre,69,33973,10290.0,0.30288758720160125,skat
-Liberal Alliance,Liberal Alliance,69,4083,4040.0,0.9894685280431056,skat
-Liberal Alliance,Radikale Venstre,69,5882,4130.0,0.7021421285277116,skat
-Liberal Alliance,Socialdemokratiet,69,28942,19924.0,0.6884113053693595,skat
-Liberal Alliance,Socialistisk Folkeparti,69,4033,1806.0,0.44780560376890655,skat
-Liberal Alliance,Venstre,69,23418,21388.0,0.9133145443675805,skat
-Radikale Venstre,Radikale Venstre,69,1709,1701.0,0.9953188999414863,skat
-Radikale Venstre,Socialdemokratiet,69,20554,17396.0,0.8463559404495475,skat
-Radikale Venstre,Socialistisk Folkeparti,69,2842,1941.0,0.682969739619986,skat
-Radikale Venstre,Venstre,69,16868,12934.0,0.7667773298553474,skat
-Socialdemokratiet,Socialdemokratiet,69,47409,47409.0,1.0,skat
-Socialdemokratiet,Socialistisk Folkeparti,69,13755,9409.0,0.6840421664849146,skat
-Socialdemokratiet,Venstre,69,81062,61861.0,0.7631319237127138,skat
-Socialistisk Folkeparti,Socialistisk Folkeparti,69,657,655.0,0.9969558599695586,skat
-Socialistisk Folkeparti,Venstre,69,11117,5589.0,0.5027435459206621,skat
-Venstre,Venstre,69,31355,31335.0,0.9993621431988519,skat
-Alternativet,Alternativet,70,139,137.0,0.9856115107913669,skat
-Alternativet,Danmarksdemokraterne,70,20,20.0,1.0,skat
-Alternativet,Dansk Folkeparti,70,2267,1204.0,0.5310983678870754,skat
-Alternativet,Det Konservative Folkeparti,70,1671,891.0,0.533213644524237,skat
-Alternativet,Enhedslisten,70,2159,1800.0,0.8337193144974525,skat
-Alternativet,Frie Grønne,70,92,73.0,0.7934782608695652,skat
-Alternativet,Kristendemokraterne,70,23,19.0,0.8260869565217391,skat
-Alternativet,Liberal Alliance,70,254,119.0,0.468503937007874,skat
-Alternativet,Nye Borgerlige,70,522,189.0,0.3620689655172414,skat
-Alternativet,Radikale Venstre,70,2339,1867.0,0.798204360837965,skat
-Alternativet,Sambandsflokkurin,70,2,2.0,1.0,skat
-Alternativet,Socialdemokratiet,70,5669,4601.0,0.8116069853589698,skat
-Alternativet,Socialistisk Folkeparti,70,2264,1853.0,0.8184628975265018,skat
-Alternativet,Uden for Folketingsgrupperne,70,256,179.0,0.69921875,skat
-Alternativet,Venstre,70,5590,3154.0,0.5642218246869409,skat
-Danmarksdemokraterne,Danmarksdemokraterne,70,40,40.0,1.0,skat
-Danmarksdemokraterne,Dansk Folkeparti,70,75,19.0,0.25333333333333335,skat
-Danmarksdemokraterne,Det Konservative Folkeparti,70,165,165.0,1.0,skat
-Danmarksdemokraterne,Enhedslisten,70,195,195.0,1.0,skat
-Danmarksdemokraterne,Frie Grønne,70,20,8.0,0.4,skat
-Danmarksdemokraterne,Liberal Alliance,70,5,5.0,1.0,skat
-Danmarksdemokraterne,Nye Borgerlige,70,30,22.0,0.7333333333333333,skat
-Danmarksdemokraterne,Radikale Venstre,70,170,170.0,1.0,skat
-Danmarksdemokraterne,Socialdemokratiet,70,497,497.0,1.0,skat
-Danmarksdemokraterne,Socialistisk Folkeparti,70,180,180.0,1.0,skat
-Danmarksdemokraterne,Uden for Folketingsgrupperne,70,85,57.0,0.6705882352941176,skat
-Danmarksdemokraterne,Venstre,70,426,426.0,1.0,skat
-Dansk Folkeparti,Dansk Folkeparti,70,5194,5161.0,0.9936465152098575,skat
-Dansk Folkeparti,Det Konservative Folkeparti,70,8945,6292.0,0.7034097261039687,skat
-Dansk Folkeparti,Enhedslisten,70,11669,6392.0,0.5477761590539035,skat
-Dansk Folkeparti,Frie Grønne,70,559,300.0,0.5366726296958855,skat
-Dansk Folkeparti,Kristendemokraterne,70,205,144.0,0.7024390243902439,skat
-Dansk Folkeparti,Liberal Alliance,70,1367,909.0,0.6649597659107535,skat
-Dansk Folkeparti,Nye Borgerlige,70,2885,2018.0,0.6994800693240901,skat
-Dansk Folkeparti,Radikale Venstre,70,12206,7278.0,0.5962641323939046,skat
+Radikale Venstre,Siumut,68,10,10.0,1.0,skat
+Radikale Venstre,Socialdemokratiet,68,75957,75588.0,0.9951419882301829,skat
+Radikale Venstre,Socialistisk Folkeparti,68,25448,25138.0,0.9878182961332914,skat
+Radikale Venstre,Venstre,68,73169,48822.0,0.6672497915784007,skat
+Sambandsflokkurin,Socialdemokratiet,68,29,29.0,1.0,skat
+Sambandsflokkurin,Socialistisk Folkeparti,68,9,9.0,1.0,skat
+Sambandsflokkurin,Venstre,68,25,25.0,1.0,skat
+Siumut,Socialdemokratiet,68,29,29.0,1.0,skat
+Siumut,Socialistisk Folkeparti,68,8,8.0,1.0,skat
+Siumut,Venstre,68,26,26.0,1.0,skat
+Socialdemokratiet,Socialdemokratiet,68,96542,96278.0,0.997265438876344,skat
+Socialdemokratiet,Socialistisk Folkeparti,68,66833,66022.0,0.9878652761360406,skat
+Socialdemokratiet,Venstre,68,192075,127785.0,0.6652869972666927,skat
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,10151,10079.0,0.9929071027484977,skat
+Socialistisk Folkeparti,Venstre,68,64369,41420.0,0.6434774503254672,skat
+Venstre,Venstre,68,89448,89320.0,0.9985690009838118,skat
+Alternativet,Alternativet,69,2792,2790.0,0.9992836676217765,skat
+Alternativet,Danmarksdemokraterne,69,1793,872.0,0.48633575013943114,skat
+Alternativet,Dansk Folkeparti,69,28004,14268.0,0.5094986430509927,skat
+Alternativet,Det Konservative Folkeparti,69,5148,2634.0,0.5116550116550117,skat
+Alternativet,Enhedslisten,69,11560,8634.0,0.7468858131487889,skat
+Alternativet,Inuit Ataqatigiit,69,12,6.0,0.5,skat
+Alternativet,Liberal Alliance,69,10368,5016.0,0.4837962962962963,skat
+Alternativet,Radikale Venstre,69,6298,4395.0,0.6978405843124802,skat
+Alternativet,Socialdemokratiet,69,37886,25605.0,0.6758433194319802,skat
+Alternativet,Socialistisk Folkeparti,69,5095,4219.0,0.8280667320902846,skat
+Alternativet,Venstre,69,24972,13251.0,0.530634310427679,skat
+Danmarksdemokraterne,Danmarksdemokraterne,69,110,98.0,0.8909090909090909,skat
+Danmarksdemokraterne,Dansk Folkeparti,69,7476,7154.0,0.9569288389513109,skat
+Danmarksdemokraterne,Det Konservative Folkeparti,69,1369,1285.0,0.9386413440467495,skat
+Danmarksdemokraterne,Enhedslisten,69,3101,1035.0,0.33376330216059336,skat
+Danmarksdemokraterne,Inuit Ataqatigiit,69,3,2.0,0.6666666666666666,skat
+Danmarksdemokraterne,Liberal Alliance,69,2776,2475.0,0.8915706051873199,skat
+Danmarksdemokraterne,Radikale Venstre,69,1687,1178.0,0.6982809721398933,skat
+Danmarksdemokraterne,Socialdemokratiet,69,10168,7204.0,0.7084972462627852,skat
+Danmarksdemokraterne,Socialistisk Folkeparti,69,1370,643.0,0.46934306569343065,skat
+Danmarksdemokraterne,Venstre,69,6618,6214.0,0.938954366878211,skat
+Dansk Folkeparti,Dansk Folkeparti,69,55872,55852.0,0.9996420389461627,skat
+Dansk Folkeparti,Det Konservative Folkeparti,69,21473,19686.0,0.9167792111023145,skat
+Dansk Folkeparti,Enhedslisten,69,48237,17838.0,0.36979911686050126,skat
+Dansk Folkeparti,Inuit Ataqatigiit,69,42,21.0,0.5,skat
+Dansk Folkeparti,Liberal Alliance,69,43184,37669.0,0.8722906632085958,skat
+Dansk Folkeparti,Radikale Venstre,69,26279,17851.0,0.6792876441264888,skat
+Dansk Folkeparti,Socialdemokratiet,69,157912,109157.0,0.6912520897715183,skat
+Dansk Folkeparti,Socialistisk Folkeparti,69,21266,10589.0,0.4979309696228722,skat
+Dansk Folkeparti,Venstre,69,103471,93719.0,0.9057513699490679,skat
+Det Konservative Folkeparti,Det Konservative Folkeparti,69,1499,1496.0,0.9979986657771848,skat
+Det Konservative Folkeparti,Enhedslisten,69,8863,2760.0,0.3114069728083042,skat
+Det Konservative Folkeparti,Inuit Ataqatigiit,69,8,4.0,0.5,skat
+Det Konservative Folkeparti,Liberal Alliance,69,7929,7537.0,0.9505612309244545,skat
+Det Konservative Folkeparti,Radikale Venstre,69,4825,3513.0,0.7280829015544041,skat
+Det Konservative Folkeparti,Socialdemokratiet,69,28965,21024.0,0.7258415328845158,skat
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,3905,1843.0,0.47195902688860436,skat
+Det Konservative Folkeparti,Venstre,69,18949,18390.0,0.9704997625204497,skat
+Enhedslisten,Enhedslisten,69,8845,8845.0,1.0,skat
+Enhedslisten,Inuit Ataqatigiit,69,18,9.0,0.5,skat
+Enhedslisten,Liberal Alliance,69,17822,5560.0,0.3119739647626529,skat
+Enhedslisten,Radikale Venstre,69,10834,5716.0,0.5275983016429758,skat
+Enhedslisten,Socialdemokratiet,69,65178,33663.0,0.5164779526834208,skat
+Enhedslisten,Socialistisk Folkeparti,69,8770,6950.0,0.7924743443557583,skat
+Enhedslisten,Venstre,69,42688,13353.0,0.31280453523238383,skat
+Inuit Ataqatigiit,Liberal Alliance,69,15,0.0,0.0,skat
+Inuit Ataqatigiit,Radikale Venstre,69,9,4.0,0.4444444444444444,skat
+Inuit Ataqatigiit,Socialdemokratiet,69,57,30.0,0.5263157894736842,skat
+Inuit Ataqatigiit,Socialistisk Folkeparti,69,8,4.0,0.5,skat
+Inuit Ataqatigiit,Venstre,69,42,20.0,0.47619047619047616,skat
+Liberal Alliance,Liberal Alliance,69,7002,6951.0,0.9927163667523564,skat
+Liberal Alliance,Radikale Venstre,69,9707,6967.0,0.7177294735757701,skat
+Liberal Alliance,Socialdemokratiet,69,58360,41083.0,0.7039581905414668,skat
+Liberal Alliance,Socialistisk Folkeparti,69,7859,3459.0,0.44013233235780636,skat
+Liberal Alliance,Venstre,69,38253,35676.0,0.9326327346874755,skat
+Radikale Venstre,Radikale Venstre,69,2370,2356.0,0.9940928270042194,skat
+Radikale Venstre,Socialdemokratiet,69,35461,29695.0,0.8373988325202335,skat
+Radikale Venstre,Socialistisk Folkeparti,69,4786,3192.0,0.6669452569995821,skat
+Radikale Venstre,Venstre,69,23264,17603.0,0.7566626547455296,skat
+Socialdemokratiet,Socialdemokratiet,69,103323,101992.0,0.9871180666453743,skat
+Socialdemokratiet,Socialistisk Folkeparti,69,28707,19482.0,0.6786498066673634,skat
+Socialdemokratiet,Venstre,69,140241,106168.0,0.757039667429639,skat
+Socialistisk Folkeparti,Socialistisk Folkeparti,69,1449,1445.0,0.9972394755003451,skat
+Socialistisk Folkeparti,Venstre,69,18816,9107.0,0.48400297619047616,skat
+Venstre,Venstre,69,43796,43775.0,0.9995205041556307,skat
+Alternativet,Alternativet,70,699,607.0,0.8683834048640916,skat
+Alternativet,Danmarksdemokraterne,70,987,563.0,0.5704154002026343,skat
+Alternativet,Dansk Folkeparti,70,5552,3129.0,0.5635806916426513,skat
+Alternativet,Det Konservative Folkeparti,70,4474,2427.0,0.542467590523022,skat
+Alternativet,Enhedslisten,70,5057,4315.0,0.8532726913189638,skat
+Alternativet,Inuit Ataqatigiit,70,6,3.0,0.5,skat
+Alternativet,Liberal Alliance,70,1289,586.0,0.4546159813809154,skat
+Alternativet,Nye Borgerlige,70,1550,594.0,0.3832258064516129,skat
+Alternativet,Radikale Venstre,70,6090,4836.0,0.7940886699507389,skat
+Alternativet,Sambandsflokkurin,70,8,6.0,0.75,skat
+Alternativet,Siumut,70,2,2.0,1.0,skat
+Alternativet,Socialdemokratiet,70,19398,15825.0,0.8158057531704299,skat
+Alternativet,Socialistisk Folkeparti,70,5547,4579.0,0.8254912565350639,skat
+Alternativet,Venstre,70,16564,9487.0,0.5727481284713837,skat
+Danmarksdemokraterne,Danmarksdemokraterne,70,118,105.0,0.8898305084745762,skat
+Danmarksdemokraterne,Dansk Folkeparti,70,2732,2552.0,0.9341142020497804,skat
+Danmarksdemokraterne,Det Konservative Folkeparti,70,2260,1742.0,0.7707964601769911,skat
+Danmarksdemokraterne,Enhedslisten,70,2531,1342.0,0.5302252074278941,skat
+Danmarksdemokraterne,Inuit Ataqatigiit,70,3,0.0,0.0,skat
+Danmarksdemokraterne,Liberal Alliance,70,626,428.0,0.6837060702875399,skat
+Danmarksdemokraterne,Nye Borgerlige,70,805,543.0,0.6745341614906832,skat
+Danmarksdemokraterne,Radikale Venstre,70,3061,1928.0,0.629859523031689,skat
+Danmarksdemokraterne,Sambandsflokkurin,70,2,2.0,1.0,skat
+Danmarksdemokraterne,Siumut,70,1,0.0,0.0,skat
+Danmarksdemokraterne,Socialdemokratiet,70,9596,5983.0,0.6234889537307211,skat
+Danmarksdemokraterne,Socialistisk Folkeparti,70,2807,1572.0,0.5600285001781261,skat
+Danmarksdemokraterne,Venstre,70,8196,6680.0,0.8150317227916056,skat
+Dansk Folkeparti,Dansk Folkeparti,70,7005,6819.0,0.9734475374732334,skat
+Dansk Folkeparti,Det Konservative Folkeparti,70,12794,9139.0,0.7143192121306863,skat
+Dansk Folkeparti,Enhedslisten,70,14325,7832.0,0.5467364746945899,skat
+Dansk Folkeparti,Inuit Ataqatigiit,70,15,0.0,0.0,skat
+Dansk Folkeparti,Liberal Alliance,70,3700,2467.0,0.6667567567567567,skat
+Dansk Folkeparti,Nye Borgerlige,70,4440,3117.0,0.702027027027027,skat
+Dansk Folkeparti,Radikale Venstre,70,17201,10330.0,0.6005464798558223,skat
 Dansk Folkeparti,Sambandsflokkurin,70,16,16.0,1.0,skat
-Dansk Folkeparti,Socialdemokratiet,70,31534,18710.0,0.5933278366207902,skat
-Dansk Folkeparti,Socialistisk Folkeparti,70,12270,6679.0,0.5443357783211084,skat
-Dansk Folkeparti,Uden for Folketingsgrupperne,70,1929,1301.0,0.6744427164333852,skat
-Dansk Folkeparti,Venstre,70,30829,22781.0,0.738947095267443,skat
-Det Konservative Folkeparti,Det Konservative Folkeparti,70,3032,3014.0,0.9940633245382586,skat
-Det Konservative Folkeparti,Enhedslisten,70,9156,4467.0,0.4878768020969856,skat
-Det Konservative Folkeparti,Frie Grønne,70,567,289.0,0.5097001763668431,skat
-Det Konservative Folkeparti,Kristendemokraterne,70,169,86.0,0.5088757396449705,skat
-Det Konservative Folkeparti,Liberal Alliance,70,1045,838.0,0.8019138755980861,skat
-Det Konservative Folkeparti,Nye Borgerlige,70,2202,1394.0,0.6330608537693007,skat
-Det Konservative Folkeparti,Radikale Venstre,70,9687,6694.0,0.6910292144110664,skat
+Dansk Folkeparti,Siumut,70,7,0.0,0.0,skat
+Dansk Folkeparti,Socialdemokratiet,70,54682,33122.0,0.6057203467320141,skat
+Dansk Folkeparti,Socialistisk Folkeparti,70,15857,8568.0,0.5403291921548843,skat
+Dansk Folkeparti,Venstre,70,46582,34502.0,0.7406723627152119,skat
+Det Konservative Folkeparti,Det Konservative Folkeparti,70,4533,4504.0,0.9936024707699096,skat
+Det Konservative Folkeparti,Enhedslisten,70,11657,5584.0,0.47902547825340996,skat
+Det Konservative Folkeparti,Inuit Ataqatigiit,70,11,5.0,0.45454545454545453,skat
+Det Konservative Folkeparti,Liberal Alliance,70,3002,2335.0,0.7778147901399067,skat
+Det Konservative Folkeparti,Nye Borgerlige,70,3575,2300.0,0.6433566433566433,skat
+Det Konservative Folkeparti,Radikale Venstre,70,13958,9553.0,0.6844103739790801,skat
 Det Konservative Folkeparti,Sambandsflokkurin,70,12,12.0,1.0,skat
-Det Konservative Folkeparti,Socialdemokratiet,70,24927,16593.0,0.6656637381152967,skat
-Det Konservative Folkeparti,Socialistisk Folkeparti,70,9782,5927.0,0.6059088121038643,skat
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,70,1914,1187.0,0.6201671891327064,skat
-Det Konservative Folkeparti,Venstre,70,24295,21228.0,0.8737600329285862,skat
-Enhedslisten,Enhedslisten,70,5101,5083.0,0.9964712801411488,skat
-Enhedslisten,Frie Grønne,70,678,594.0,0.8761061946902655,skat
-Enhedslisten,Kristendemokraterne,70,197,137.0,0.6954314720812182,skat
-Enhedslisten,Liberal Alliance,70,1348,495.0,0.3672106824925816,skat
-Enhedslisten,Nye Borgerlige,70,2856,1080.0,0.37815126050420167,skat
-Enhedslisten,Radikale Venstre,70,12449,9062.0,0.7279299542131898,skat
+Det Konservative Folkeparti,Siumut,70,6,0.0,0.0,skat
+Det Konservative Folkeparti,Socialdemokratiet,70,44289,29885.0,0.6747725168777801,skat
+Det Konservative Folkeparti,Socialistisk Folkeparti,70,12917,7709.0,0.5968104048927769,skat
+Det Konservative Folkeparti,Venstre,70,37585,33032.0,0.8788612478382334,skat
+Enhedslisten,Enhedslisten,70,5689,5665.0,0.9957813323958516,skat
+Enhedslisten,Inuit Ataqatigiit,70,14,14.0,1.0,skat
+Enhedslisten,Liberal Alliance,70,3335,1270.0,0.3808095952023988,skat
+Enhedslisten,Nye Borgerlige,70,4045,1475.0,0.3646477132262052,skat
+Enhedslisten,Radikale Venstre,70,15751,11562.0,0.7340486318328995,skat
 Enhedslisten,Sambandsflokkurin,70,16,16.0,1.0,skat
-Enhedslisten,Socialdemokratiet,70,31951,24170.0,0.7564708459829114,skat
-Enhedslisten,Socialistisk Folkeparti,70,12553,10158.0,0.809208954034892,skat
-Enhedslisten,Uden for Folketingsgrupperne,70,2291,1650.0,0.7202095154954169,skat
-Enhedslisten,Venstre,70,31320,15678.0,0.5005747126436781,skat
-Frie Grønne,Frie Grønne,70,37,37.0,1.0,skat
-Frie Grønne,Kristendemokraterne,70,7,2.0,0.2857142857142857,skat
-Frie Grønne,Liberal Alliance,70,79,31.0,0.3924050632911392,skat
-Frie Grønne,Nye Borgerlige,70,106,51.0,0.4811320754716981,skat
-Frie Grønne,Radikale Venstre,70,780,541.0,0.6935897435897436,skat
-Frie Grønne,Sambandsflokkurin,70,4,2.0,0.5,skat
-Frie Grønne,Socialdemokratiet,70,1699,1257.0,0.7398469688051795,skat
-Frie Grønne,Socialistisk Folkeparti,70,751,553.0,0.7363515312916112,skat
-Frie Grønne,Uden for Folketingsgrupperne,70,183,79.0,0.43169398907103823,skat
-Frie Grønne,Venstre,70,1781,869.0,0.4879281302638967,skat
-Kristendemokraterne,Liberal Alliance,70,24,8.0,0.3333333333333333,skat
-Kristendemokraterne,Nye Borgerlige,70,57,35.0,0.6140350877192983,skat
-Kristendemokraterne,Radikale Venstre,70,172,96.0,0.5581395348837209,skat
-Kristendemokraterne,Socialdemokratiet,70,586,334.0,0.5699658703071673,skat
-Kristendemokraterne,Socialistisk Folkeparti,70,203,106.0,0.5221674876847291,skat
-Kristendemokraterne,Uden for Folketingsgrupperne,70,39,27.0,0.6923076923076923,skat
-Kristendemokraterne,Venstre,70,526,277.0,0.526615969581749,skat
-Liberal Alliance,Nye Borgerlige,70,319,210.0,0.658307210031348,skat
-Liberal Alliance,Radikale Venstre,70,1460,874.0,0.5986301369863014,skat
-Liberal Alliance,Sambandsflokkurin,70,2,2.0,1.0,skat
-Liberal Alliance,Socialdemokratiet,70,3648,2155.0,0.590734649122807,skat
-Liberal Alliance,Socialistisk Folkeparti,70,1451,727.0,0.5010337698139214,skat
-Liberal Alliance,Uden for Folketingsgrupperne,70,259,132.0,0.5096525096525096,skat
-Liberal Alliance,Venstre,70,3610,2755.0,0.7631578947368421,skat
-Nye Borgerlige,Nye Borgerlige,70,185,184.0,0.9945945945945946,skat
-Nye Borgerlige,Radikale Venstre,70,2968,1250.0,0.4211590296495957,skat
+Enhedslisten,Siumut,70,7,7.0,1.0,skat
+Enhedslisten,Socialdemokratiet,70,50086,38047.0,0.7596334304995408,skat
+Enhedslisten,Socialistisk Folkeparti,70,14535,11814.0,0.812796697626419,skat
+Enhedslisten,Venstre,70,42761,21328.0,0.49877224573793877,skat
+Inuit Ataqatigiit,Liberal Alliance,70,4,2.0,0.5,skat
+Inuit Ataqatigiit,Nye Borgerlige,70,4,0.0,0.0,skat
+Inuit Ataqatigiit,Radikale Venstre,70,17,17.0,1.0,skat
+Inuit Ataqatigiit,Siumut,70,1,1.0,1.0,skat
+Inuit Ataqatigiit,Socialdemokratiet,70,55,55.0,1.0,skat
+Inuit Ataqatigiit,Socialistisk Folkeparti,70,15,15.0,1.0,skat
+Inuit Ataqatigiit,Venstre,70,48,24.0,0.5,skat
+Liberal Alliance,Liberal Alliance,70,233,229.0,0.9828326180257511,skat
+Liberal Alliance,Nye Borgerlige,70,1010,687.0,0.6801980198019802,skat
+Liberal Alliance,Radikale Venstre,70,4004,2382.0,0.5949050949050949,skat
+Liberal Alliance,Sambandsflokkurin,70,4,4.0,1.0,skat
+Liberal Alliance,Siumut,70,2,0.0,0.0,skat
+Liberal Alliance,Socialdemokratiet,70,12791,7631.0,0.5965913532952858,skat
+Liberal Alliance,Socialistisk Folkeparti,70,3714,1818.0,0.4894991922455573,skat
+Liberal Alliance,Venstre,70,10871,8180.0,0.7524606751908748,skat
+Nye Borgerlige,Nye Borgerlige,70,386,384.0,0.9948186528497409,skat
+Nye Borgerlige,Radikale Venstre,70,4870,2129.0,0.4371663244353183,skat
 Nye Borgerlige,Sambandsflokkurin,70,4,4.0,1.0,skat
-Nye Borgerlige,Socialdemokratiet,70,7815,3044.0,0.38950735764555344,skat
-Nye Borgerlige,Socialistisk Folkeparti,70,3015,1063.0,0.35257048092868987,skat
-Nye Borgerlige,Uden for Folketingsgrupperne,70,542,252.0,0.46494464944649444,skat
-Nye Borgerlige,Venstre,70,7593,4368.0,0.5752666930067167,skat
-Radikale Venstre,Radikale Venstre,70,5830,5789.0,0.992967409948542,skat
-Radikale Venstre,Sambandsflokkurin,70,18,18.0,1.0,skat
-Radikale Venstre,Socialdemokratiet,70,33441,31951.0,0.9554439161508328,skat
-Radikale Venstre,Socialistisk Folkeparti,70,13280,11557.0,0.8702560240963856,skat
-Radikale Venstre,Uden for Folketingsgrupperne,70,2498,1842.0,0.7373899119295436,skat
-Radikale Venstre,Venstre,70,33043,23765.0,0.7192143570499047,skat
-Sambandsflokkurin,Socialdemokratiet,70,34,34.0,1.0,skat
+Nye Borgerlige,Siumut,70,2,0.0,0.0,skat
+Nye Borgerlige,Socialdemokratiet,70,15458,6295.0,0.40723250097037134,skat
+Nye Borgerlige,Socialistisk Folkeparti,70,4485,1617.0,0.3605351170568562,skat
+Nye Borgerlige,Venstre,70,13185,8077.0,0.6125900644671975,skat
+Radikale Venstre,Radikale Venstre,70,8463,8277.0,0.978021978021978,skat
+Radikale Venstre,Sambandsflokkurin,70,20,20.0,1.0,skat
+Radikale Venstre,Siumut,70,7,7.0,1.0,skat
+Radikale Venstre,Socialdemokratiet,70,60023,57042.0,0.9503357046465521,skat
+Radikale Venstre,Socialistisk Folkeparti,70,17469,15184.0,0.8691968630144828,skat
+Radikale Venstre,Venstre,70,51335,36199.0,0.7051524301159053,skat
+Sambandsflokkurin,Socialdemokratiet,70,52,52.0,1.0,skat
 Sambandsflokkurin,Socialistisk Folkeparti,70,16,16.0,1.0,skat
-Sambandsflokkurin,Venstre,70,36,36.0,1.0,skat
-Socialdemokratiet,Socialdemokratiet,70,41618,41618.0,1.0,skat
-Socialdemokratiet,Socialistisk Folkeparti,70,33948,30798.0,0.9072110286320254,skat
-Socialdemokratiet,Uden for Folketingsgrupperne,70,6498,4806.0,0.739612188365651,skat
-Socialdemokratiet,Venstre,70,85104,59409.0,0.698075296108291,skat
-Socialistisk Folkeparti,Socialistisk Folkeparti,70,5829,5822.0,0.9987991079087322,skat
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,70,2573,1835.0,0.7131752817722503,skat
-Socialistisk Folkeparti,Venstre,70,33296,20490.0,0.6153892359442575,skat
-Uden for Folketingsgrupperne,Uden for Folketingsgrupperne,70,301,249.0,0.8272425249169435,skat
-Uden for Folketingsgrupperne,Venstre,70,6206,3978.0,0.6409925878182404,skat
-Venstre,Venstre,70,39587,39521.0,0.9983327860156112,skat
-Alternativet,Alternativet,71,392,392.0,1.0,skat
-Alternativet,Borgernes Parti,71,31,5.0,0.16129032258064516,skat
-Alternativet,Danmarksdemokraterne,71,2159,1406.0,0.651227420101899,skat
-Alternativet,Dansk Folkeparti,71,1104,689.0,0.6240942028985508,skat
-Alternativet,Det Konservative Folkeparti,71,1547,936.0,0.6050420168067226,skat
-Alternativet,Enhedslisten,71,862,719.0,0.834106728538283,skat
-Alternativet,Liberal Alliance,71,3140,1719.0,0.5474522292993631,skat
-Alternativet,Moderaterne,71,3040,2015.0,0.662828947368421,skat
-Alternativet,Nye Borgerlige,71,174,75.0,0.43103448275862066,skat
-Alternativet,Radikale Venstre,71,868,597.0,0.6877880184331797,skat
-Alternativet,Sambandsflokkurin,71,42,32.0,0.7619047619047619,skat
-Alternativet,Socialdemokratiet,71,7907,5290.0,0.6690274440369293,skat
-Alternativet,Socialistisk Folkeparti,71,2562,1983.0,0.7740046838407494,skat
-Alternativet,Uden for Folketingsgrupperne,71,621,365.0,0.5877616747181964,skat
-Alternativet,Venstre,71,2651,1814.0,0.6842700867597133,skat
-Borgernes Parti,Danmarksdemokraterne,71,75,50.0,0.6666666666666666,skat
-Borgernes Parti,Dansk Folkeparti,71,36,26.0,0.7222222222222222,skat
-Borgernes Parti,Det Konservative Folkeparti,71,45,26.0,0.5777777777777777,skat
-Borgernes Parti,Enhedslisten,71,22,5.0,0.22727272727272727,skat
-Borgernes Parti,Liberal Alliance,71,106,71.0,0.6698113207547169,skat
-Borgernes Parti,Moderaterne,71,80,39.0,0.4875,skat
-Borgernes Parti,Radikale Venstre,71,29,12.0,0.41379310344827586,skat
-Borgernes Parti,Socialdemokratiet,71,255,129.0,0.5058823529411764,skat
-Borgernes Parti,Socialistisk Folkeparti,71,72,23.0,0.3194444444444444,skat
-Borgernes Parti,Uden for Folketingsgrupperne,71,31,18.0,0.5806451612903226,skat
-Borgernes Parti,Venstre,71,84,45.0,0.5357142857142857,skat
-Danmarksdemokraterne,Danmarksdemokraterne,71,1823,1818.0,0.9972572682391662,skat
-Danmarksdemokraterne,Dansk Folkeparti,71,2157,1852.0,0.8585999072786277,skat
-Danmarksdemokraterne,Det Konservative Folkeparti,71,2972,2454.0,0.8257065948855989,skat
-Danmarksdemokraterne,Enhedslisten,71,1678,892.0,0.531585220500596,skat
-Danmarksdemokraterne,Liberal Alliance,71,6217,4949.0,0.7960431076081711,skat
-Danmarksdemokraterne,Moderaterne,71,5901,4503.0,0.7630910015251652,skat
-Danmarksdemokraterne,Nye Borgerlige,71,295,235.0,0.7966101694915254,skat
-Danmarksdemokraterne,Radikale Venstre,71,1717,1295.0,0.7542224810716366,skat
-Danmarksdemokraterne,Sambandsflokkurin,71,73,47.0,0.6438356164383562,skat
-Danmarksdemokraterne,Socialdemokratiet,71,15556,11708.0,0.7526356389817433,skat
-Danmarksdemokraterne,Socialistisk Folkeparti,71,5055,3206.0,0.6342235410484669,skat
-Danmarksdemokraterne,Uden for Folketingsgrupperne,71,1388,994.0,0.7161383285302594,skat
-Danmarksdemokraterne,Venstre,71,5297,4001.0,0.7553332074759298,skat
-Dansk Folkeparti,Dansk Folkeparti,71,409,409.0,1.0,skat
-Dansk Folkeparti,Det Konservative Folkeparti,71,1537,1179.0,0.7670787247885491,skat
-Dansk Folkeparti,Enhedslisten,71,873,437.0,0.5005727376861397,skat
-Dansk Folkeparti,Liberal Alliance,71,3138,2360.0,0.7520713830465264,skat
-Dansk Folkeparti,Moderaterne,71,3016,2189.0,0.7257957559681698,skat
-Dansk Folkeparti,Nye Borgerlige,71,163,124.0,0.7607361963190185,skat
-Dansk Folkeparti,Radikale Venstre,71,867,596.0,0.6874279123414071,skat
-Dansk Folkeparti,Sambandsflokkurin,71,37,28.0,0.7567567567567568,skat
-Dansk Folkeparti,Socialdemokratiet,71,7947,5606.0,0.7054234302252422,skat
-Dansk Folkeparti,Socialistisk Folkeparti,71,2537,1505.0,0.5932203389830508,skat
-Dansk Folkeparti,Uden for Folketingsgrupperne,71,653,426.0,0.6523736600306279,skat
-Dansk Folkeparti,Venstre,71,2660,1871.0,0.7033834586466166,skat
-Det Konservative Folkeparti,Det Konservative Folkeparti,71,864,864.0,1.0,skat
-Det Konservative Folkeparti,Enhedslisten,71,1187,621.0,0.523167649536647,skat
-Det Konservative Folkeparti,Liberal Alliance,71,4344,3435.0,0.7907458563535912,skat
-Det Konservative Folkeparti,Moderaterne,71,4201,3232.0,0.7693406331825756,skat
-Det Konservative Folkeparti,Nye Borgerlige,71,223,178.0,0.7982062780269058,skat
-Det Konservative Folkeparti,Radikale Venstre,71,1184,963.0,0.8133445945945946,skat
-Det Konservative Folkeparti,Sambandsflokkurin,71,56,32.0,0.5714285714285714,skat
-Det Konservative Folkeparti,Socialdemokratiet,71,10917,8395.0,0.7689841531556288,skat
-Det Konservative Folkeparti,Socialistisk Folkeparti,71,3544,2224.0,0.6275395033860045,skat
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,71,864,591.0,0.6840277777777778,skat
-Det Konservative Folkeparti,Venstre,71,3640,2797.0,0.7684065934065935,skat
-Enhedslisten,Enhedslisten,71,225,224.0,0.9955555555555555,skat
-Enhedslisten,Liberal Alliance,71,2452,1115.0,0.45473083197389885,skat
-Enhedslisten,Moderaterne,71,2330,1452.0,0.623175965665236,skat
-Enhedslisten,Nye Borgerlige,71,131,45.0,0.3435114503816794,skat
-Enhedslisten,Radikale Venstre,71,692,458.0,0.661849710982659,skat
-Enhedslisten,Sambandsflokkurin,71,27,22.0,0.8148148148148148,skat
-Enhedslisten,Socialdemokratiet,71,6233,3923.0,0.629391946093374,skat
-Enhedslisten,Socialistisk Folkeparti,71,1988,1718.0,0.864185110663984,skat
-Enhedslisten,Uden for Folketingsgrupperne,71,533,273.0,0.5121951219512195,skat
-Enhedslisten,Venstre,71,2116,1333.0,0.6299621928166351,skat
-Liberal Alliance,Liberal Alliance,71,4015,3992.0,0.9942714819427149,skat
-Liberal Alliance,Moderaterne,71,8572,5969.0,0.6963369108726085,skat
-Liberal Alliance,Nye Borgerlige,71,416,312.0,0.75,skat
-Liberal Alliance,Radikale Venstre,71,2489,1829.0,0.7348332663720369,skat
-Liberal Alliance,Sambandsflokkurin,71,100,40.0,0.4,skat
-Liberal Alliance,Socialdemokratiet,71,22626,15824.0,0.6993724034296827,skat
-Liberal Alliance,Socialistisk Folkeparti,71,7355,4143.0,0.5632902787219578,skat
-Liberal Alliance,Uden for Folketingsgrupperne,71,2039,1369.0,0.6714075527219225,skat
-Liberal Alliance,Venstre,71,7703,5382.0,0.698688822536674,skat
-Moderaterne,Moderaterne,71,3678,3678.0,1.0,skat
-Moderaterne,Nye Borgerlige,71,470,260.0,0.5531914893617021,skat
-Moderaterne,Radikale Venstre,71,2329,2028.0,0.8707599828252469,skat
-Moderaterne,Sambandsflokkurin,71,109,109.0,1.0,skat
-Moderaterne,Socialdemokratiet,71,21466,21466.0,1.0,skat
-Moderaterne,Socialistisk Folkeparti,71,7070,5322.0,0.7527581329561528,skat
-Moderaterne,Uden for Folketingsgrupperne,71,1728,1233.0,0.7135416666666666,skat
-Moderaterne,Venstre,71,7233,7224.0,0.9987557030277893,skat
-Nye Borgerlige,Nye Borgerlige,71,9,9.0,1.0,skat
-Nye Borgerlige,Radikale Venstre,71,112,70.0,0.625,skat
-Nye Borgerlige,Sambandsflokkurin,71,7,4.0,0.5714285714285714,skat
-Nye Borgerlige,Socialdemokratiet,71,1085,602.0,0.5548387096774193,skat
-Nye Borgerlige,Socialistisk Folkeparti,71,371,173.0,0.46630727762803237,skat
-Nye Borgerlige,Uden for Folketingsgrupperne,71,19,9.0,0.47368421052631576,skat
-Nye Borgerlige,Venstre,71,325,181.0,0.556923076923077,skat
-Radikale Venstre,Radikale Venstre,71,217,217.0,1.0,skat
-Radikale Venstre,Sambandsflokkurin,71,28,22.0,0.7857142857142857,skat
-Radikale Venstre,Socialdemokratiet,71,6256,5505.0,0.8799552429667519,skat
-Radikale Venstre,Socialistisk Folkeparti,71,2011,1567.0,0.7792143212332173,skat
-Radikale Venstre,Uden for Folketingsgrupperne,71,564,388.0,0.6879432624113475,skat
-Radikale Venstre,Venstre,71,2115,1857.0,0.8780141843971632,skat
-Sambandsflokkurin,Socialdemokratiet,71,262,262.0,1.0,skat
-Sambandsflokkurin,Socialistisk Folkeparti,71,85,70.0,0.8235294117647058,skat
-Sambandsflokkurin,Uden for Folketingsgrupperne,71,9,7.0,0.7777777777777778,skat
-Sambandsflokkurin,Venstre,71,77,77.0,1.0,skat
-Socialdemokratiet,Socialdemokratiet,71,27313,27313.0,1.0,skat
-Socialdemokratiet,Socialistisk Folkeparti,71,18278,13663.0,0.7475106685633002,skat
-Socialdemokratiet,Uden for Folketingsgrupperne,71,4969,3542.0,0.7128194807808412,skat
-Socialdemokratiet,Venstre,71,19310,19290.0,0.9989642672190575,skat
-Socialistisk Folkeparti,Socialistisk Folkeparti,71,2633,2623.0,0.996202050892518,skat
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,71,1550,908.0,0.5858064516129032,skat
-Socialistisk Folkeparti,Venstre,71,6218,4622.0,0.7433258282405918,skat
-Uden for Folketingsgrupperne,Uden for Folketingsgrupperne,71,230,135.0,0.5869565217391305,skat
-Uden for Folketingsgrupperne,Venstre,71,1799,1289.0,0.7165091717620901,skat
-Venstre,Venstre,71,2911,2906.0,0.998282377189969,skat
+Sambandsflokkurin,Venstre,70,44,44.0,1.0,skat
+Siumut,Socialdemokratiet,70,27,27.0,1.0,skat
+Siumut,Socialistisk Folkeparti,70,8,8.0,1.0,skat
+Siumut,Venstre,70,24,0.0,0.0,skat
+Socialdemokratiet,Socialdemokratiet,70,92880,92854.0,0.9997200689061154,skat
+Socialdemokratiet,Socialistisk Folkeparti,70,55362,50137.0,0.9056211842057729,skat
+Socialdemokratiet,Venstre,70,164149,114507.0,0.6975796380118063,skat
+Socialistisk Folkeparti,Socialistisk Folkeparti,70,7099,7083.0,0.9977461614311874,skat
+Socialistisk Folkeparti,Venstre,70,47302,28290.0,0.598071963130523,skat
+Venstre,Venstre,70,67353,66760.0,0.9911956408771695,skat
+Alternativet,Alternativet,71,476,440.0,0.9243697478991597,skat
+Alternativet,Danmarksdemokraterne,71,3465,2193.0,0.6329004329004329,skat
+Alternativet,Dansk Folkeparti,71,949,601.0,0.6332982086406744,skat
+Alternativet,Det Konservative Folkeparti,71,2426,1437.0,0.5923330585325639,skat
+Alternativet,Enhedslisten,71,1979,1602.0,0.809499747347145,skat
+Alternativet,Liberal Alliance,71,3537,1919.0,0.5425501837715578,skat
+Alternativet,Moderaterne,71,3863,2515.0,0.651048407973078,skat
+Alternativet,Nye Borgerlige,71,1249,685.0,0.5484387510008006,skat
+Alternativet,Radikale Venstre,71,1654,1171.0,0.7079806529625151,skat
+Alternativet,Sambandsflokkurin,71,44,34.0,0.7727272727272727,skat
+Alternativet,Siumut,71,3,0.0,0.0,skat
+Alternativet,Socialdemokratiet,71,13319,8686.0,0.6521510623920714,skat
+Alternativet,Socialistisk Folkeparti,71,3617,2715.0,0.7506220624827205,skat
+Alternativet,Venstre,71,6096,3934.0,0.6453412073490814,skat
+Danmarksdemokraterne,Danmarksdemokraterne,71,4102,4094.0,0.9980497318381277,skat
+Danmarksdemokraterne,Dansk Folkeparti,71,2541,2137.0,0.8410074773711137,skat
+Danmarksdemokraterne,Det Konservative Folkeparti,71,6473,5327.0,0.8229568978835161,skat
+Danmarksdemokraterne,Enhedslisten,71,5282,2846.0,0.5388110564180235,skat
+Danmarksdemokraterne,Liberal Alliance,71,9411,7412.0,0.787588991605568,skat
+Danmarksdemokraterne,Moderaterne,71,10312,7907.0,0.7667765709852599,skat
+Danmarksdemokraterne,Nye Borgerlige,71,3392,2805.0,0.8269457547169812,skat
+Danmarksdemokraterne,Radikale Venstre,71,4483,3421.0,0.7631050635734999,skat
+Danmarksdemokraterne,Sambandsflokkurin,71,105,71.0,0.6761904761904762,skat
+Danmarksdemokraterne,Siumut,71,9,0.0,0.0,skat
+Danmarksdemokraterne,Socialdemokratiet,71,35618,26936.0,0.7562468414846426,skat
+Danmarksdemokraterne,Socialistisk Folkeparti,71,9703,6009.0,0.6192930021642791,skat
+Danmarksdemokraterne,Venstre,71,16288,12416.0,0.762278978388998,skat
+Dansk Folkeparti,Dansk Folkeparti,71,229,228.0,0.9956331877729258,skat
+Dansk Folkeparti,Det Konservative Folkeparti,71,1805,1339.0,0.7418282548476455,skat
+Dansk Folkeparti,Enhedslisten,71,1471,817.0,0.5554044867437118,skat
+Dansk Folkeparti,Liberal Alliance,71,2625,1916.0,0.729904761904762,skat
+Dansk Folkeparti,Moderaterne,71,2882,1999.0,0.693615544760583,skat
+Dansk Folkeparti,Nye Borgerlige,71,903,766.0,0.8482834994462901,skat
+Dansk Folkeparti,Radikale Venstre,71,1266,860.0,0.6793048973143759,skat
+Dansk Folkeparti,Sambandsflokkurin,71,26,16.0,0.6153846153846154,skat
+Dansk Folkeparti,Siumut,71,3,0.0,0.0,skat
+Dansk Folkeparti,Socialdemokratiet,71,9914,6770.0,0.6828727052652814,skat
+Dansk Folkeparti,Socialistisk Folkeparti,71,2704,1631.0,0.603180473372781,skat
+Dansk Folkeparti,Venstre,71,4521,3098.0,0.6852466268524663,skat
+Det Konservative Folkeparti,Det Konservative Folkeparti,71,1900,1900.0,1.0,skat
+Det Konservative Folkeparti,Enhedslisten,71,3714,1994.0,0.5368874528809908,skat
+Det Konservative Folkeparti,Liberal Alliance,71,6618,5198.0,0.7854336657600484,skat
+Det Konservative Folkeparti,Moderaterne,71,7263,5458.0,0.751480104639956,skat
+Det Konservative Folkeparti,Nye Borgerlige,71,2365,1729.0,0.7310782241014799,skat
+Det Konservative Folkeparti,Radikale Venstre,71,3159,2521.0,0.7980373535929092,skat
+Det Konservative Folkeparti,Sambandsflokkurin,71,72,42.0,0.5833333333333334,skat
+Det Konservative Folkeparti,Siumut,71,6,0.0,0.0,skat
+Det Konservative Folkeparti,Socialdemokratiet,71,25026,18710.0,0.7476224726284664,skat
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,6821,4247.0,0.6226359771294532,skat
+Det Konservative Folkeparti,Venstre,71,11441,8602.0,0.7518573551263001,skat
+Enhedslisten,Enhedslisten,71,1217,1209.0,0.9934264585045193,skat
+Enhedslisten,Liberal Alliance,71,5392,2536.0,0.47032640949554894,skat
+Enhedslisten,Moderaterne,71,5930,3725.0,0.6281618887015177,skat
+Enhedslisten,Nye Borgerlige,71,1947,901.0,0.46276322547508986,skat
+Enhedslisten,Radikale Venstre,71,2582,1710.0,0.6622773044151821,skat
+Enhedslisten,Sambandsflokkurin,71,58,42.0,0.7241379310344828,skat
+Enhedslisten,Siumut,71,6,0.0,0.0,skat
+Enhedslisten,Socialdemokratiet,71,20444,12842.0,0.6281549598904324,skat
+Enhedslisten,Socialistisk Folkeparti,71,5563,4807.0,0.8641021031817365,skat
+Enhedslisten,Venstre,71,9335,5806.0,0.6219603642206749,skat
+Liberal Alliance,Liberal Alliance,71,4280,4255.0,0.9941588785046729,skat
+Liberal Alliance,Moderaterne,71,10557,7416.0,0.7024722932651322,skat
+Liberal Alliance,Nye Borgerlige,71,3406,2545.0,0.7472108044627128,skat
+Liberal Alliance,Radikale Venstre,71,4586,3365.0,0.7337549062363715,skat
+Liberal Alliance,Sambandsflokkurin,71,106,43.0,0.4056603773584906,skat
+Liberal Alliance,Siumut,71,9,0.0,0.0,skat
+Liberal Alliance,Socialdemokratiet,71,36363,25424.0,0.6991722355141214,skat
+Liberal Alliance,Socialistisk Folkeparti,71,9910,5615.0,0.5665993945509586,skat
+Liberal Alliance,Venstre,71,16600,11738.0,0.7071084337349398,skat
+Moderaterne,Moderaterne,71,5224,5038.0,0.9643950995405819,skat
+Moderaterne,Nye Borgerlige,71,3771,2444.0,0.6481039512065765,skat
+Moderaterne,Radikale Venstre,71,5053,4431.0,0.876904809024342,skat
+Moderaterne,Sambandsflokkurin,71,117,116.0,0.9914529914529915,skat
+Moderaterne,Siumut,71,10,10.0,1.0,skat
+Moderaterne,Socialdemokratiet,71,39930,39154.0,0.9805659904833458,skat
+Moderaterne,Socialistisk Folkeparti,71,10882,8221.0,0.7554677448998346,skat
+Moderaterne,Venstre,71,18212,17833.0,0.9791895453547111,skat
+Nye Borgerlige,Nye Borgerlige,71,473,366.0,0.773784355179704,skat
+Nye Borgerlige,Radikale Venstre,71,1652,1080.0,0.6537530266343826,skat
+Nye Borgerlige,Sambandsflokkurin,71,34,22.0,0.6470588235294118,skat
+Nye Borgerlige,Siumut,71,3,0.0,0.0,skat
+Nye Borgerlige,Socialdemokratiet,71,13077,8360.0,0.6392903571155464,skat
+Nye Borgerlige,Socialistisk Folkeparti,71,3554,1864.0,0.5244794597636466,skat
+Nye Borgerlige,Venstre,71,6003,3870.0,0.6446776611694153,skat
+Radikale Venstre,Radikale Venstre,71,857,841.0,0.9813302217036173,skat
+Radikale Venstre,Sambandsflokkurin,71,48,40.0,0.8333333333333334,skat
+Radikale Venstre,Siumut,71,4,0.0,0.0,skat
+Radikale Venstre,Socialdemokratiet,71,17443,15533.0,0.8905004873014963,skat
+Radikale Venstre,Socialistisk Folkeparti,71,4753,3624.0,0.7624658110666948,skat
+Radikale Venstre,Venstre,71,7956,7059.0,0.8872549019607843,skat
+Sambandsflokkurin,Siumut,71,1,1.0,1.0,skat
+Sambandsflokkurin,Socialdemokratiet,71,397,397.0,1.0,skat
+Sambandsflokkurin,Socialistisk Folkeparti,71,109,91.0,0.8348623853211009,skat
+Sambandsflokkurin,Venstre,71,168,167.0,0.9940476190476191,skat
+Siumut,Socialdemokratiet,71,32,32.0,1.0,skat
+Siumut,Socialistisk Folkeparti,71,9,0.0,0.0,skat
+Siumut,Venstre,71,14,14.0,1.0,skat
+Socialdemokratiet,Socialdemokratiet,71,66898,66898.0,1.0,skat
+Socialdemokratiet,Socialistisk Folkeparti,71,37547,28213.0,0.751404905851333,skat
+Socialdemokratiet,Venstre,71,62945,62781.0,0.997394550798316,skat
+Socialistisk Folkeparti,Socialistisk Folkeparti,71,4557,4543.0,0.9969278033794163,skat
+Socialistisk Folkeparti,Venstre,71,17153,12814.0,0.7470413338774559,skat
+Venstre,Venstre,71,13503,13431.0,0.9946678515885359,skat

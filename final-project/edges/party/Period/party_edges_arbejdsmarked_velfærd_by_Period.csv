@@ -1,569 +1,552 @@
 source,target,Period,total_votes_shared,total_votes_agreed,weight,topic
-Dansk Folkeparti,Dansk Folkeparti,65,1597,1597.0,1.0,arbejdsmarked_velfærd
-Dansk Folkeparti,Det Konservative Folkeparti,65,2341,2341.0,1.0,arbejdsmarked_velfærd
-Dansk Folkeparti,Enhedslisten,65,255,126.0,0.49411764705882355,arbejdsmarked_velfærd
-Dansk Folkeparti,Kristendemokraterne,65,775,519.0,0.6696774193548387,arbejdsmarked_velfærd
-Dansk Folkeparti,Radikale Venstre,65,1025,641.0,0.6253658536585366,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialdemokratiet,65,4504,2685.0,0.5961367673179396,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialistisk Folkeparti,65,1515,888.0,0.5861386138613861,arbejdsmarked_velfærd
-Dansk Folkeparti,Uden for Folketingsgrupperne,65,9,9.0,1.0,arbejdsmarked_velfærd
-Dansk Folkeparti,Venstre,65,6284,6274.0,0.998408656906429,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Det Konservative Folkeparti,65,666,666.0,1.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Enhedslisten,65,164,79.0,0.4817073170731707,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Kristendemokraterne,65,510,340.0,0.6666666666666666,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Radikale Venstre,65,671,422.0,0.6289120715350224,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialdemokratiet,65,2961,1749.0,0.5906788247213779,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialistisk Folkeparti,65,979,563.0,0.575076608784474,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,65,6,6.0,1.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Venstre,65,4117,4111.0,0.9985426281272771,arbejdsmarked_velfærd
-Enhedslisten,Enhedslisten,65,1,1.0,1.0,arbejdsmarked_velfærd
-Enhedslisten,Kristendemokraterne,65,55,39.0,0.7090909090909091,arbejdsmarked_velfærd
-Enhedslisten,Radikale Venstre,65,67,54.0,0.8059701492537313,arbejdsmarked_velfærd
-Enhedslisten,Socialdemokratiet,65,316,249.0,0.7879746835443038,arbejdsmarked_velfærd
-Enhedslisten,Socialistisk Folkeparti,65,113,102.0,0.9026548672566371,arbejdsmarked_velfærd
-Enhedslisten,Uden for Folketingsgrupperne,65,1,1.0,1.0,arbejdsmarked_velfærd
-Enhedslisten,Venstre,65,472,236.0,0.5,arbejdsmarked_velfærd
+Danmarksdemokraterne,Danmarksdemokraterne,65,21,21.0,1.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Dansk Folkeparti,65,896,896.0,1.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Det Konservative Folkeparti,65,490,490.0,1.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Enhedslisten,65,66,33.0,0.5,arbejdsmarked_velfærd
+Danmarksdemokraterne,Inuit Ataqatigiit,65,1,0.0,0.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Kristendemokraterne,65,126,86.0,0.6825396825396826,arbejdsmarked_velfærd
+Danmarksdemokraterne,Radikale Venstre,65,256,162.0,0.6328125,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialdemokratiet,65,2034,1273.0,0.6258603736479843,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialistisk Folkeparti,65,427,265.0,0.6206088992974239,arbejdsmarked_velfærd
+Danmarksdemokraterne,Venstre,65,2321,2320.0,0.999569151227919,arbejdsmarked_velfærd
+Dansk Folkeparti,Dansk Folkeparti,65,3936,3936.0,1.0,arbejdsmarked_velfærd
+Dansk Folkeparti,Det Konservative Folkeparti,65,4731,4731.0,1.0,arbejdsmarked_velfærd
+Dansk Folkeparti,Enhedslisten,65,630,293.0,0.4650793650793651,arbejdsmarked_velfærd
+Dansk Folkeparti,Inuit Ataqatigiit,65,13,0.0,0.0,arbejdsmarked_velfærd
+Dansk Folkeparti,Kristendemokraterne,65,1192,800.0,0.6711409395973155,arbejdsmarked_velfærd
+Dansk Folkeparti,Radikale Venstre,65,2471,1543.0,0.6244435451234318,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialdemokratiet,65,19278,11707.0,0.6072725386450877,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialistisk Folkeparti,65,4028,2392.0,0.5938430983118173,arbejdsmarked_velfærd
+Dansk Folkeparti,Venstre,65,21775,21760.0,0.9993111366245695,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Det Konservative Folkeparti,65,1204,1204.0,1.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Enhedslisten,65,358,161.0,0.44972067039106145,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Inuit Ataqatigiit,65,11,0.0,0.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Kristendemokraterne,65,668,442.0,0.6616766467065869,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Radikale Venstre,65,1387,859.0,0.619322278298486,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialdemokratiet,65,10775,6396.0,0.5935962877030162,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialistisk Folkeparti,65,2231,1272.0,0.5701479157328552,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Venstre,65,12206,12196.0,0.999180730788137,arbejdsmarked_velfærd
+Enhedslisten,Enhedslisten,65,2,2.0,1.0,arbejdsmarked_velfærd
+Enhedslisten,Inuit Ataqatigiit,65,2,2.0,1.0,arbejdsmarked_velfærd
+Enhedslisten,Kristendemokraterne,65,89,61.0,0.6853932584269663,arbejdsmarked_velfærd
+Enhedslisten,Radikale Venstre,65,185,136.0,0.7351351351351352,arbejdsmarked_velfærd
+Enhedslisten,Socialdemokratiet,65,1432,1113.0,0.7772346368715084,arbejdsmarked_velfærd
+Enhedslisten,Socialistisk Folkeparti,65,304,264.0,0.868421052631579,arbejdsmarked_velfærd
+Enhedslisten,Venstre,65,1628,765.0,0.4699017199017199,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Kristendemokraterne,65,2,2.0,1.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Radikale Venstre,65,4,4.0,1.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Socialdemokratiet,65,28,28.0,1.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Socialistisk Folkeparti,65,9,9.0,1.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Venstre,65,35,0.0,0.0,arbejdsmarked_velfærd
 Kristendemokraterne,Kristendemokraterne,65,42,42.0,1.0,arbejdsmarked_velfærd
-Kristendemokraterne,Radikale Venstre,65,222,176.0,0.7927927927927928,arbejdsmarked_velfærd
-Kristendemokraterne,Socialdemokratiet,65,976,768.0,0.7868852459016393,arbejdsmarked_velfærd
-Kristendemokraterne,Socialistisk Folkeparti,65,327,247.0,0.7553516819571865,arbejdsmarked_velfærd
-Kristendemokraterne,Uden for Folketingsgrupperne,65,2,2.0,1.0,arbejdsmarked_velfærd
-Kristendemokraterne,Venstre,65,1361,909.0,0.6678912564290963,arbejdsmarked_velfærd
-Radikale Venstre,Radikale Venstre,65,96,96.0,1.0,arbejdsmarked_velfærd
-Radikale Venstre,Socialdemokratiet,65,1287,1149.0,0.8927738927738927,arbejdsmarked_velfærd
-Radikale Venstre,Socialistisk Folkeparti,65,434,372.0,0.8571428571428571,arbejdsmarked_velfærd
-Radikale Venstre,Uden for Folketingsgrupperne,65,4,4.0,1.0,arbejdsmarked_velfærd
-Radikale Venstre,Venstre,65,1770,1112.0,0.6282485875706215,arbejdsmarked_velfærd
-Socialdemokratiet,Socialdemokratiet,65,2610,2610.0,1.0,arbejdsmarked_velfærd
-Socialdemokratiet,Socialistisk Folkeparti,65,1914,1753.0,0.9158829676071055,arbejdsmarked_velfærd
-Socialdemokratiet,Uden for Folketingsgrupperne,65,10,10.0,1.0,arbejdsmarked_velfærd
-Socialdemokratiet,Venstre,65,7941,4794.0,0.6037023044956554,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Socialistisk Folkeparti,65,252,252.0,1.0,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,65,4,4.0,1.0,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Venstre,65,2681,1593.0,0.5941812756434166,arbejdsmarked_velfærd
-Uden for Folketingsgrupperne,Venstre,65,18,18.0,1.0,arbejdsmarked_velfærd
-Venstre,Venstre,65,5285,5267.0,0.9965941343424787,arbejdsmarked_velfærd
-Dansk Folkeparti,Dansk Folkeparti,66,22466,22442.0,0.9989317190421081,arbejdsmarked_velfærd
-Dansk Folkeparti,Det Konservative Folkeparti,66,33012,31350.0,0.9496546710287168,arbejdsmarked_velfærd
-Dansk Folkeparti,Enhedslisten,66,3549,1190.0,0.33530571992110453,arbejdsmarked_velfærd
-Dansk Folkeparti,Liberal Alliance,66,50,28.0,0.56,arbejdsmarked_velfærd
-Dansk Folkeparti,Radikale Venstre,66,12546,7197.0,0.5736489717838354,arbejdsmarked_velfærd
-Dansk Folkeparti,Siumut,66,41,28.0,0.6829268292682927,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialdemokratiet,66,34697,21404.0,0.6168833040320488,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialistisk Folkeparti,66,24629,10987.0,0.44610012586787934,arbejdsmarked_velfærd
-Dansk Folkeparti,Uden for Folketingsgrupperne,66,262,262.0,1.0,arbejdsmarked_velfærd
-Dansk Folkeparti,Venstre,66,62130,58911.0,0.9481892805408015,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Det Konservative Folkeparti,66,10329,10329.0,1.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Enhedslisten,66,2494,827.0,0.33159582999198073,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Liberal Alliance,66,28,16.0,0.5714285714285714,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Radikale Venstre,66,8604,5239.0,0.6089028358902836,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Siumut,66,32,22.0,0.6875,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialdemokratiet,66,23807,15710.0,0.6598899483345234,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialistisk Folkeparti,66,16974,8181.0,0.48197242841993637,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,66,194,194.0,1.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Venstre,66,42578,42509.0,0.9983794447836911,arbejdsmarked_velfærd
-Enhedslisten,Enhedslisten,66,67,67.0,1.0,arbejdsmarked_velfærd
-Enhedslisten,Liberal Alliance,66,8,0.0,0.0,arbejdsmarked_velfærd
-Enhedslisten,Radikale Venstre,66,914,560.0,0.612691466083151,arbejdsmarked_velfærd
+Kristendemokraterne,Radikale Venstre,65,348,274.0,0.7873563218390804,arbejdsmarked_velfærd
+Kristendemokraterne,Socialdemokratiet,65,2718,2156.0,0.7932303164091243,arbejdsmarked_velfærd
+Kristendemokraterne,Socialistisk Folkeparti,65,569,433.0,0.7609841827768014,arbejdsmarked_velfærd
+Kristendemokraterne,Venstre,65,3072,2068.0,0.6731770833333334,arbejdsmarked_velfærd
+Radikale Venstre,Radikale Venstre,65,279,279.0,1.0,arbejdsmarked_velfærd
+Radikale Venstre,Socialdemokratiet,65,5623,5067.0,0.9011203983638627,arbejdsmarked_velfærd
+Radikale Venstre,Socialistisk Folkeparti,65,1177,1021.0,0.8674596431605778,arbejdsmarked_velfærd
+Radikale Venstre,Venstre,65,6345,3989.0,0.6286840031520883,arbejdsmarked_velfærd
+Socialdemokratiet,Socialdemokratiet,65,21325,21325.0,1.0,arbejdsmarked_velfærd
+Socialdemokratiet,Socialistisk Folkeparti,65,9156,8321.0,0.9088029707295763,arbejdsmarked_velfærd
+Socialdemokratiet,Venstre,65,49608,30473.0,0.6142759232381874,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Socialistisk Folkeparti,65,833,833.0,1.0,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Venstre,65,10360,6201.0,0.5985521235521235,arbejdsmarked_velfærd
+Venstre,Venstre,65,27336,27300.0,0.9986830553116769,arbejdsmarked_velfærd
+Danmarksdemokraterne,Danmarksdemokraterne,66,54,50.0,0.9259259259259259,arbejdsmarked_velfærd
+Danmarksdemokraterne,Dansk Folkeparti,66,4401,4215.0,0.9577368779822768,arbejdsmarked_velfærd
+Danmarksdemokraterne,Det Konservative Folkeparti,66,3059,3009.0,0.98365478914678,arbejdsmarked_velfærd
+Danmarksdemokraterne,Enhedslisten,66,707,231.0,0.32673267326732675,arbejdsmarked_velfærd
+Danmarksdemokraterne,Radikale Venstre,66,2529,1632.0,0.6453143534994069,arbejdsmarked_velfærd
+Danmarksdemokraterne,Siumut,66,4,2.0,0.5,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialdemokratiet,66,7928,5444.0,0.6866801210898082,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialistisk Folkeparti,66,2170,1088.0,0.5013824884792627,arbejdsmarked_velfærd
+Danmarksdemokraterne,Venstre,66,9346,9169.0,0.9810614166488337,arbejdsmarked_velfærd
+Dansk Folkeparti,Dansk Folkeparti,66,32532,32473.0,0.9981864010820115,arbejdsmarked_velfærd
+Dansk Folkeparti,Det Konservative Folkeparti,66,47710,45407.0,0.9517291972332844,arbejdsmarked_velfærd
+Dansk Folkeparti,Enhedslisten,66,11305,3307.0,0.29252543122512165,arbejdsmarked_velfærd
+Dansk Folkeparti,Radikale Venstre,66,39163,22541.0,0.5755687766514312,arbejdsmarked_velfærd
+Dansk Folkeparti,Siumut,66,48,33.0,0.6875,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialdemokratiet,66,123327,76328.0,0.6189074574099751,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialistisk Folkeparti,66,34028,15220.0,0.44727871164923005,arbejdsmarked_velfærd
+Dansk Folkeparti,Venstre,66,144866,137651.0,0.9501953529468612,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Det Konservative Folkeparti,66,15218,15218.0,1.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Enhedslisten,66,7840,2302.0,0.29362244897959183,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Radikale Venstre,66,27019,16673.0,0.6170842740293867,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Siumut,66,38,26.0,0.6842105263157895,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialdemokratiet,66,85207,56420.0,0.6621521705963125,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialistisk Folkeparti,66,23498,11221.0,0.4775300025534088,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Venstre,66,100182,100079.0,0.9989718711944261,arbejdsmarked_velfærd
+Enhedslisten,Enhedslisten,66,610,609.0,0.9983606557377049,arbejdsmarked_velfærd
+Enhedslisten,Radikale Venstre,66,6396,3847.0,0.6014696685428392,arbejdsmarked_velfærd
 Enhedslisten,Siumut,66,6,4.0,0.6666666666666666,arbejdsmarked_velfærd
-Enhedslisten,Socialdemokratiet,66,2443,1508.0,0.6172738436348751,arbejdsmarked_velfærd
-Enhedslisten,Socialistisk Folkeparti,66,1833,1401.0,0.7643207855973814,arbejdsmarked_velfærd
-Enhedslisten,Uden for Folketingsgrupperne,66,9,5.0,0.5555555555555556,arbejdsmarked_velfærd
-Enhedslisten,Venstre,66,4626,1481.0,0.3201469952442715,arbejdsmarked_velfærd
-Liberal Alliance,Liberal Alliance,66,2,2.0,1.0,arbejdsmarked_velfærd
-Liberal Alliance,Radikale Venstre,66,14,10.0,0.7142857142857143,arbejdsmarked_velfærd
-Liberal Alliance,Socialdemokratiet,66,42,22.0,0.5238095238095238,arbejdsmarked_velfærd
-Liberal Alliance,Socialistisk Folkeparti,66,22,2.0,0.09090909090909091,arbejdsmarked_velfærd
-Liberal Alliance,Venstre,66,66,32.0,0.48484848484848486,arbejdsmarked_velfærd
-Radikale Venstre,Radikale Venstre,66,1303,1294.0,0.9930928626247122,arbejdsmarked_velfærd
-Radikale Venstre,Siumut,66,12,8.0,0.6666666666666666,arbejdsmarked_velfærd
-Radikale Venstre,Socialdemokratiet,66,9234,7894.0,0.8548841238899718,arbejdsmarked_velfærd
-Radikale Venstre,Socialistisk Folkeparti,66,6421,5175.0,0.8059492290920417,arbejdsmarked_velfærd
-Radikale Venstre,Uden for Folketingsgrupperne,66,72,44.0,0.6111111111111112,arbejdsmarked_velfærd
-Radikale Venstre,Venstre,66,16139,9750.0,0.6041266497304666,arbejdsmarked_velfærd
-Siumut,Socialdemokratiet,66,33,22.0,0.6666666666666666,arbejdsmarked_velfærd
-Siumut,Socialistisk Folkeparti,66,21,14.0,0.6666666666666666,arbejdsmarked_velfærd
-Siumut,Venstre,66,45,30.0,0.6666666666666666,arbejdsmarked_velfærd
-Socialdemokratiet,Socialdemokratiet,66,11871,11807.0,0.9946087103024177,arbejdsmarked_velfærd
-Socialdemokratiet,Socialistisk Folkeparti,66,17812,14178.0,0.7959802380417695,arbejdsmarked_velfærd
-Socialdemokratiet,Uden for Folketingsgrupperne,66,246,163.0,0.6626016260162602,arbejdsmarked_velfærd
-Socialdemokratiet,Venstre,66,44678,28811.0,0.6448587671784771,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Socialistisk Folkeparti,66,5576,5242.0,0.9401004304160688,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,66,155,84.0,0.5419354838709678,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Venstre,66,31755,14827.0,0.46691859549677217,arbejdsmarked_velfærd
-Uden for Folketingsgrupperne,Venstre,66,328,328.0,1.0,arbejdsmarked_velfærd
-Venstre,Venstre,66,38144,38038.0,0.9972210570469798,arbejdsmarked_velfærd
-Dansk Folkeparti,Dansk Folkeparti,67,45032,45016.0,0.9996446971042814,arbejdsmarked_velfærd
-Dansk Folkeparti,Det Konservative Folkeparti,67,58829,53808.0,0.914650937462816,arbejdsmarked_velfærd
-Dansk Folkeparti,Enhedslisten,67,10982,3926.0,0.3574940812238208,arbejdsmarked_velfærd
+Enhedslisten,Socialdemokratiet,66,20104,11691.0,0.5815260644647832,arbejdsmarked_velfærd
+Enhedslisten,Socialistisk Folkeparti,66,5533,4272.0,0.7720947045002711,arbejdsmarked_velfærd
+Enhedslisten,Venstre,66,23650,6885.0,0.2911205073995772,arbejdsmarked_velfærd
+Radikale Venstre,Radikale Venstre,66,9961,9898.0,0.9936753338018272,arbejdsmarked_velfærd
+Radikale Venstre,Siumut,66,33,22.0,0.6666666666666666,arbejdsmarked_velfærd
+Radikale Venstre,Socialdemokratiet,66,69819,59588.0,0.8534639568025896,arbejdsmarked_velfærd
+Radikale Venstre,Socialistisk Folkeparti,66,19255,15372.0,0.7983380940015581,arbejdsmarked_velfærd
+Radikale Venstre,Venstre,66,82080,50429.0,0.6143884015594542,arbejdsmarked_velfærd
+Siumut,Socialdemokratiet,66,93,62.0,0.6666666666666666,arbejdsmarked_velfærd
+Siumut,Socialistisk Folkeparti,66,24,16.0,0.6666666666666666,arbejdsmarked_velfærd
+Siumut,Venstre,66,101,68.0,0.6732673267326733,arbejdsmarked_velfærd
+Socialdemokratiet,Socialdemokratiet,66,106691,106127.0,0.9947137059358334,arbejdsmarked_velfærd
+Socialdemokratiet,Socialistisk Folkeparti,66,60781,48184.0,0.7927477336667709,arbejdsmarked_velfærd
+Socialdemokratiet,Venstre,66,259024,169527.0,0.6544837544011366,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Socialistisk Folkeparti,66,7461,7071.0,0.9477281865701649,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Venstre,66,71447,33792.0,0.47296597477850716,arbejdsmarked_velfærd
+Venstre,Venstre,66,148114,147841.0,0.9981568251481967,arbejdsmarked_velfærd
+Danmarksdemokraterne,Danmarksdemokraterne,67,73,71.0,0.9726027397260274,arbejdsmarked_velfærd
+Danmarksdemokraterne,Dansk Folkeparti,67,5714,5479.0,0.9588729436471823,arbejdsmarked_velfærd
+Danmarksdemokraterne,Det Konservative Folkeparti,67,3462,3381.0,0.9766031195840554,arbejdsmarked_velfærd
+Danmarksdemokraterne,Enhedslisten,67,727,234.0,0.3218707015130674,arbejdsmarked_velfærd
+Danmarksdemokraterne,Inuit Ataqatigiit,67,1,0.0,0.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Liberal Alliance,67,866,732.0,0.8452655889145496,arbejdsmarked_velfærd
+Danmarksdemokraterne,Radikale Venstre,67,1483,821.0,0.5536075522589345,arbejdsmarked_velfærd
+Danmarksdemokraterne,Sambandsflokkurin,67,10,10.0,1.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Siumut,67,20,18.0,0.9,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialdemokratiet,67,9615,5316.0,0.5528861154446177,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialistisk Folkeparti,67,4614,2220.0,0.4811443433029909,arbejdsmarked_velfærd
+Danmarksdemokraterne,Tjóðveldi,67,1,0.0,0.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Venstre,67,9558,9372.0,0.9805398618957941,arbejdsmarked_velfærd
+Dansk Folkeparti,Dansk Folkeparti,67,53470,52677.0,0.9851692537871704,arbejdsmarked_velfærd
+Dansk Folkeparti,Det Konservative Folkeparti,67,68804,62377.0,0.9065897331550491,arbejdsmarked_velfærd
+Dansk Folkeparti,Enhedslisten,67,14146,5240.0,0.3704227343418634,arbejdsmarked_velfærd
 Dansk Folkeparti,Inuit Ataqatigiit,67,17,0.0,0.0,arbejdsmarked_velfærd
-Dansk Folkeparti,Liberal Alliance,67,5803,4888.0,0.8423229364122006,arbejdsmarked_velfærd
-Dansk Folkeparti,Radikale Venstre,67,24603,13641.0,0.5544445799292769,arbejdsmarked_velfærd
-Dansk Folkeparti,Sambandsflokkurin,67,239,193.0,0.8075313807531381,arbejdsmarked_velfærd
+Dansk Folkeparti,Javnaðarflokkurin,67,17,17.0,1.0,arbejdsmarked_velfærd
+Dansk Folkeparti,Liberal Alliance,67,16834,13792.0,0.8192942853748366,arbejdsmarked_velfærd
+Dansk Folkeparti,Radikale Venstre,67,29051,16258.0,0.5596365013252556,arbejdsmarked_velfærd
+Dansk Folkeparti,Sambandsflokkurin,67,255,201.0,0.788235294117647,arbejdsmarked_velfærd
 Dansk Folkeparti,Siumut,67,177,144.0,0.8135593220338984,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialdemokratiet,67,141244,77581.0,0.5492693494944918,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialistisk Folkeparti,67,69234,34876.0,0.5037409365340728,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialdemokratiet,67,189393,102479.0,0.5410918038153469,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialistisk Folkeparti,67,90484,45193.0,0.49945846779541136,arbejdsmarked_velfærd
 Dansk Folkeparti,Tjóðveldi,67,17,0.0,0.0,arbejdsmarked_velfærd
-Dansk Folkeparti,Uden for Folketingsgrupperne,67,2214,1556.0,0.7028003613369467,arbejdsmarked_velfærd
-Dansk Folkeparti,Venstre,67,159589,146267.0,0.9165230686325498,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Det Konservative Folkeparti,67,16460,16455.0,0.9996962332928311,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Enhedslisten,67,6731,2414.0,0.35863913237260436,arbejdsmarked_velfærd
+Dansk Folkeparti,Venstre,67,190488,173387.0,0.9102253160304061,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Det Konservative Folkeparti,67,19260,19127.0,0.9930944963655244,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Enhedslisten,67,8567,3182.0,0.3714252363721256,arbejdsmarked_velfærd
 Det Konservative Folkeparti,Inuit Ataqatigiit,67,13,0.0,0.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Liberal Alliance,67,3551,3233.0,0.9104477611940298,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Radikale Venstre,67,15162,9438.0,0.6224772457459438,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Sambandsflokkurin,67,144,144.0,1.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Siumut,67,106,93.0,0.8773584905660378,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialdemokratiet,67,86727,53642.0,0.6185155718519031,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialistisk Folkeparti,67,42591,23464.0,0.5509145124556831,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Javnaðarflokkurin,67,11,11.0,1.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Liberal Alliance,67,10120,8973.0,0.8866600790513834,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Radikale Venstre,67,17828,11299.0,0.6337783262284048,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Sambandsflokkurin,67,156,156.0,1.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Siumut,67,113,99.0,0.8761061946902655,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialdemokratiet,67,115323,71115.0,0.6166592960640982,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialistisk Folkeparti,67,55050,30202.0,0.5486285195277021,arbejdsmarked_velfærd
 Det Konservative Folkeparti,Tjóðveldi,67,13,0.0,0.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,67,1378,1078.0,0.7822931785195936,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Venstre,67,98119,98040.0,0.9991948552268164,arbejdsmarked_velfærd
-Enhedslisten,Enhedslisten,67,312,312.0,1.0,arbejdsmarked_velfærd
-Enhedslisten,Inuit Ataqatigiit,67,2,0.0,0.0,arbejdsmarked_velfærd
-Enhedslisten,Liberal Alliance,67,666,235.0,0.35285285285285284,arbejdsmarked_velfærd
-Enhedslisten,Radikale Venstre,67,2826,1834.0,0.6489738145789101,arbejdsmarked_velfærd
-Enhedslisten,Sambandsflokkurin,67,30,6.0,0.2,arbejdsmarked_velfærd
-Enhedslisten,Siumut,67,19,7.0,0.3684210526315789,arbejdsmarked_velfærd
-Enhedslisten,Socialdemokratiet,67,16262,10736.0,0.6601893985979584,arbejdsmarked_velfærd
-Enhedslisten,Socialistisk Folkeparti,67,7934,5827.0,0.7344340811696496,arbejdsmarked_velfærd
-Enhedslisten,Tjóðveldi,67,2,0.0,0.0,arbejdsmarked_velfærd
-Enhedslisten,Uden for Folketingsgrupperne,67,258,128.0,0.49612403100775193,arbejdsmarked_velfærd
-Enhedslisten,Venstre,67,18304,6469.0,0.3534200174825175,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Liberal Alliance,67,1,0.0,0.0,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Radikale Venstre,67,4,0.0,0.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Venstre,67,116220,115771.0,0.9961366374118052,arbejdsmarked_velfærd
+Enhedslisten,Enhedslisten,67,525,478.0,0.9104761904761904,arbejdsmarked_velfærd
+Enhedslisten,Inuit Ataqatigiit,67,3,0.0,0.0,arbejdsmarked_velfærd
+Enhedslisten,Javnaðarflokkurin,67,2,0.0,0.0,arbejdsmarked_velfærd
+Enhedslisten,Liberal Alliance,67,2113,907.0,0.42924751538097494,arbejdsmarked_velfærd
+Enhedslisten,Radikale Venstre,67,3649,2412.0,0.6610030145245273,arbejdsmarked_velfærd
+Enhedslisten,Sambandsflokkurin,67,36,8.0,0.2222222222222222,arbejdsmarked_velfærd
+Enhedslisten,Siumut,67,20,7.0,0.35,arbejdsmarked_velfærd
+Enhedslisten,Socialdemokratiet,67,23686,16428.0,0.6935742632778856,arbejdsmarked_velfærd
+Enhedslisten,Socialistisk Folkeparti,67,11289,8640.0,0.7653467977677385,arbejdsmarked_velfærd
+Enhedslisten,Tjóðveldi,67,3,0.0,0.0,arbejdsmarked_velfærd
+Enhedslisten,Venstre,67,23805,8674.0,0.3643772316740181,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Liberal Alliance,67,4,0.0,0.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Radikale Venstre,67,5,0.0,0.0,arbejdsmarked_velfærd
 Inuit Ataqatigiit,Siumut,67,1,1.0,1.0,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Socialdemokratiet,67,24,0.0,0.0,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Socialistisk Folkeparti,67,13,0.0,0.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Socialdemokratiet,67,29,0.0,0.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Socialistisk Folkeparti,67,14,0.0,0.0,arbejdsmarked_velfærd
 Inuit Ataqatigiit,Tjóðveldi,67,1,1.0,1.0,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Uden for Folketingsgrupperne,67,1,0.0,0.0,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Venstre,67,31,0.0,0.0,arbejdsmarked_velfærd
-Liberal Alliance,Liberal Alliance,67,26,26.0,1.0,arbejdsmarked_velfærd
-Liberal Alliance,Radikale Venstre,67,1498,923.0,0.6161548731642189,arbejdsmarked_velfærd
-Liberal Alliance,Sambandsflokkurin,67,15,15.0,1.0,arbejdsmarked_velfærd
-Liberal Alliance,Siumut,67,11,10.0,0.9090909090909091,arbejdsmarked_velfærd
-Liberal Alliance,Socialdemokratiet,67,8518,5074.0,0.5956797370274712,arbejdsmarked_velfærd
-Liberal Alliance,Socialistisk Folkeparti,67,4199,2250.0,0.535841867111217,arbejdsmarked_velfærd
-Liberal Alliance,Tjóðveldi,67,1,0.0,0.0,arbejdsmarked_velfærd
-Liberal Alliance,Uden for Folketingsgrupperne,67,128,97.0,0.7578125,arbejdsmarked_velfærd
-Liberal Alliance,Venstre,67,9577,8675.0,0.9058160175420278,arbejdsmarked_velfærd
-Radikale Venstre,Radikale Venstre,67,2518,2495.0,0.9908657664813344,arbejdsmarked_velfærd
-Radikale Venstre,Sambandsflokkurin,67,57,39.0,0.6842105263157895,arbejdsmarked_velfærd
-Radikale Venstre,Siumut,67,44,37.0,0.8409090909090909,arbejdsmarked_velfærd
-Radikale Venstre,Socialdemokratiet,67,36309,31183.0,0.8588228813792723,arbejdsmarked_velfærd
-Radikale Venstre,Socialistisk Folkeparti,67,17834,14400.0,0.8074464505999775,arbejdsmarked_velfærd
-Radikale Venstre,Tjóðveldi,67,4,0.0,0.0,arbejdsmarked_velfærd
-Radikale Venstre,Uden for Folketingsgrupperne,67,545,385.0,0.7064220183486238,arbejdsmarked_velfærd
-Radikale Venstre,Venstre,67,40866,25500.0,0.6239906034356189,arbejdsmarked_velfærd
-Sambandsflokkurin,Socialdemokratiet,67,352,303.0,0.8607954545454546,arbejdsmarked_velfærd
-Sambandsflokkurin,Socialistisk Folkeparti,67,174,96.0,0.5517241379310345,arbejdsmarked_velfærd
-Sambandsflokkurin,Uden for Folketingsgrupperne,67,1,0.0,0.0,arbejdsmarked_velfærd
-Sambandsflokkurin,Venstre,67,376,376.0,1.0,arbejdsmarked_velfærd
-Siumut,Socialdemokratiet,67,274,250.0,0.9124087591240876,arbejdsmarked_velfærd
-Siumut,Socialistisk Folkeparti,67,135,108.0,0.8,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Venstre,67,32,0.0,0.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Liberal Alliance,67,2,2.0,1.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Radikale Venstre,67,4,4.0,1.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Sambandsflokkurin,67,1,1.0,1.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Socialdemokratiet,67,29,29.0,1.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Socialistisk Folkeparti,67,13,13.0,1.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Venstre,67,31,31.0,1.0,arbejdsmarked_velfærd
+Liberal Alliance,Liberal Alliance,67,966,749.0,0.7753623188405797,arbejdsmarked_velfærd
+Liberal Alliance,Radikale Venstre,67,4167,2847.0,0.6832253419726422,arbejdsmarked_velfærd
+Liberal Alliance,Sambandsflokkurin,67,48,43.0,0.8958333333333334,arbejdsmarked_velfærd
+Liberal Alliance,Siumut,67,31,27.0,0.8709677419354839,arbejdsmarked_velfærd
+Liberal Alliance,Socialdemokratiet,67,28073,18098.0,0.6446763794393189,arbejdsmarked_velfærd
+Liberal Alliance,Socialistisk Folkeparti,67,13565,7944.0,0.5856247696277184,arbejdsmarked_velfærd
+Liberal Alliance,Tjóðveldi,67,4,0.0,0.0,arbejdsmarked_velfærd
+Liberal Alliance,Venstre,67,28151,25000.0,0.8880679194344784,arbejdsmarked_velfærd
+Radikale Venstre,Radikale Venstre,67,3023,2884.0,0.9540191862388356,arbejdsmarked_velfærd
+Radikale Venstre,Sambandsflokkurin,67,59,40.0,0.6779661016949152,arbejdsmarked_velfærd
+Radikale Venstre,Siumut,67,47,38.0,0.8085106382978723,arbejdsmarked_velfærd
+Radikale Venstre,Socialdemokratiet,67,48673,40904.0,0.8403837856717277,arbejdsmarked_velfærd
+Radikale Venstre,Socialistisk Folkeparti,67,23227,18500.0,0.7964868472036853,arbejdsmarked_velfærd
+Radikale Venstre,Tjóðveldi,67,5,0.0,0.0,arbejdsmarked_velfærd
+Radikale Venstre,Venstre,67,49128,30982.0,0.6306383325191337,arbejdsmarked_velfærd
+Sambandsflokkurin,Socialdemokratiet,67,446,384.0,0.8609865470852018,arbejdsmarked_velfærd
+Sambandsflokkurin,Socialistisk Folkeparti,67,208,114.0,0.5480769230769231,arbejdsmarked_velfærd
+Sambandsflokkurin,Venstre,67,423,423.0,1.0,arbejdsmarked_velfærd
+Siumut,Socialdemokratiet,67,332,302.0,0.9096385542168675,arbejdsmarked_velfærd
+Siumut,Socialistisk Folkeparti,67,145,117.0,0.8068965517241379,arbejdsmarked_velfærd
 Siumut,Tjóðveldi,67,1,1.0,1.0,arbejdsmarked_velfærd
-Siumut,Uden for Folketingsgrupperne,67,7,4.0,0.5714285714285714,arbejdsmarked_velfærd
-Siumut,Venstre,67,324,293.0,0.904320987654321,arbejdsmarked_velfærd
-Socialdemokratiet,Socialdemokratiet,67,100207,100159.0,0.9995209915474966,arbejdsmarked_velfærd
-Socialdemokratiet,Socialistisk Folkeparti,67,102123,91103.0,0.8920909099811012,arbejdsmarked_velfærd
-Socialdemokratiet,Tjóðveldi,67,24,0.0,0.0,arbejdsmarked_velfærd
-Socialdemokratiet,Uden for Folketingsgrupperne,67,3263,2232.0,0.6840330983757279,arbejdsmarked_velfærd
-Socialdemokratiet,Venstre,67,235151,145539.0,0.6189172063907872,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Socialistisk Folkeparti,67,23247,23149.0,0.9957844022884673,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Tjóðveldi,67,13,0.0,0.0,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,67,1649,1088.0,0.6597938144329897,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Venstre,67,115268,63371.0,0.5497709685255231,arbejdsmarked_velfærd
-Tjóðveldi,Uden for Folketingsgrupperne,67,1,0.0,0.0,arbejdsmarked_velfærd
-Tjóðveldi,Venstre,67,31,0.0,0.0,arbejdsmarked_velfærd
-Uden for Folketingsgrupperne,Uden for Folketingsgrupperne,67,24,19.0,0.7916666666666666,arbejdsmarked_velfærd
-Uden for Folketingsgrupperne,Venstre,67,3679,2851.0,0.7749388420766513,arbejdsmarked_velfærd
-Venstre,Venstre,67,128607,128478.0,0.9989969441787772,arbejdsmarked_velfærd
-Alternativet,Dansk Folkeparti,68,306,146.0,0.477124183006536,arbejdsmarked_velfærd
-Alternativet,Det Konservative Folkeparti,68,23,8.0,0.34782608695652173,arbejdsmarked_velfærd
-Alternativet,Enhedslisten,68,159,113.0,0.710691823899371,arbejdsmarked_velfærd
-Alternativet,Liberal Alliance,68,123,61.0,0.4959349593495935,arbejdsmarked_velfærd
-Alternativet,Radikale Venstre,68,130,70.0,0.5384615384615384,arbejdsmarked_velfærd
-Alternativet,Socialdemokratiet,68,507,279.0,0.5502958579881657,arbejdsmarked_velfærd
-Alternativet,Socialistisk Folkeparti,68,68,53.0,0.7794117647058824,arbejdsmarked_velfærd
-Alternativet,Venstre,68,442,182.0,0.4117647058823529,arbejdsmarked_velfærd
-Dansk Folkeparti,Dansk Folkeparti,68,24636,24513.0,0.995007306380906,arbejdsmarked_velfærd
-Dansk Folkeparti,Det Konservative Folkeparti,68,19631,14355.0,0.7312414039019918,arbejdsmarked_velfærd
-Dansk Folkeparti,Enhedslisten,68,34645,13638.0,0.39364987732717566,arbejdsmarked_velfærd
-Dansk Folkeparti,Inuit Ataqatigiit,68,11,1.0,0.09090909090909091,arbejdsmarked_velfærd
-Dansk Folkeparti,Liberal Alliance,68,23026,15960.0,0.6931295057760792,arbejdsmarked_velfærd
-Dansk Folkeparti,Radikale Venstre,68,42581,26831.0,0.6301167187243136,arbejdsmarked_velfærd
-Dansk Folkeparti,Sambandsflokkurin,68,70,58.0,0.8285714285714286,arbejdsmarked_velfærd
-Dansk Folkeparti,Siumut,68,22,1.0,0.045454545454545456,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialdemokratiet,68,99025,63491.0,0.641161322898258,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialistisk Folkeparti,68,32851,19864.0,0.6046695686584883,arbejdsmarked_velfærd
-Dansk Folkeparti,Uden for Folketingsgrupperne,68,1082,602.0,0.55637707948244,arbejdsmarked_velfærd
-Dansk Folkeparti,Venstre,68,105320,79418.0,0.7540638055450057,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Det Konservative Folkeparti,68,3138,3134.0,0.9987253027405991,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Enhedslisten,68,13209,4320.0,0.3270497388144447,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Inuit Ataqatigiit,68,5,0.0,0.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Liberal Alliance,68,8526,6856.0,0.8041285479709125,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Radikale Venstre,68,16669,13403.0,0.8040674305597216,arbejdsmarked_velfærd
+Siumut,Venstre,67,330,298.0,0.9030303030303031,arbejdsmarked_velfærd
+Socialdemokratiet,Socialdemokratiet,67,153582,152713.0,0.9943417848445781,arbejdsmarked_velfærd
+Socialdemokratiet,Socialistisk Folkeparti,67,151407,136463.0,0.9012991473313652,arbejdsmarked_velfærd
+Socialdemokratiet,Tjóðveldi,67,29,0.0,0.0,arbejdsmarked_velfærd
+Socialdemokratiet,Venstre,67,319088,195407.0,0.6123921927493357,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Socialistisk Folkeparti,67,33801,33682.0,0.9964793941007662,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Tjóðveldi,67,14,0.0,0.0,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Venstre,67,152216,82570.0,0.5424528301886793,arbejdsmarked_velfærd
+Tjóðveldi,Venstre,67,32,0.0,0.0,arbejdsmarked_velfærd
+Venstre,Venstre,67,155702,155584.0,0.9992421420405647,arbejdsmarked_velfærd
+Danmarksdemokraterne,Danmarksdemokraterne,68,172,132.0,0.7674418604651163,arbejdsmarked_velfærd
+Danmarksdemokraterne,Dansk Folkeparti,68,6707,6202.0,0.924705531534218,arbejdsmarked_velfærd
+Danmarksdemokraterne,Det Konservative Folkeparti,68,2721,2133.0,0.7839029768467475,arbejdsmarked_velfærd
+Danmarksdemokraterne,Enhedslisten,68,4572,1675.0,0.36636045494313213,arbejdsmarked_velfærd
+Danmarksdemokraterne,Inuit Ataqatigiit,68,3,0.0,0.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Javnaðarflokkurin,68,14,4.0,0.2857142857142857,arbejdsmarked_velfærd
+Danmarksdemokraterne,Liberal Alliance,68,2743,1968.0,0.7174626321545753,arbejdsmarked_velfærd
+Danmarksdemokraterne,Radikale Venstre,68,5994,3917.0,0.6534868201534868,arbejdsmarked_velfærd
+Danmarksdemokraterne,Sambandsflokkurin,68,7,7.0,1.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Siumut,68,3,0.0,0.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialdemokratiet,68,15942,10525.0,0.6602057458286288,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialistisk Folkeparti,68,5198,3188.0,0.6133128126202385,arbejdsmarked_velfærd
+Danmarksdemokraterne,Venstre,68,15172,12302.0,0.8108357500659109,arbejdsmarked_velfærd
+Dansk Folkeparti,Dansk Folkeparti,68,27936,27803.0,0.9952391179839634,arbejdsmarked_velfærd
+Dansk Folkeparti,Det Konservative Folkeparti,68,24596,17647.0,0.7174743860790372,arbejdsmarked_velfærd
+Dansk Folkeparti,Enhedslisten,68,41128,16267.0,0.39552129935810154,arbejdsmarked_velfærd
+Dansk Folkeparti,Inuit Ataqatigiit,68,24,1.0,0.041666666666666664,arbejdsmarked_velfærd
+Dansk Folkeparti,Javnaðarflokkurin,68,65,0.0,0.0,arbejdsmarked_velfærd
+Dansk Folkeparti,Liberal Alliance,68,24810,17185.0,0.692664248286981,arbejdsmarked_velfærd
+Dansk Folkeparti,Radikale Venstre,68,53988,34220.0,0.633844558049937,arbejdsmarked_velfærd
+Dansk Folkeparti,Sambandsflokkurin,68,76,63.0,0.8289473684210527,arbejdsmarked_velfærd
+Dansk Folkeparti,Siumut,68,24,1.0,0.041666666666666664,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialdemokratiet,68,143496,91963.0,0.6408750069688354,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialistisk Folkeparti,68,46612,27590.0,0.5919076632626792,arbejdsmarked_velfærd
+Dansk Folkeparti,Venstre,68,136093,101263.0,0.744072068365015,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Det Konservative Folkeparti,68,4036,4026.0,0.9975222993062438,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Enhedslisten,68,16668,5522.0,0.3312934965202784,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Inuit Ataqatigiit,68,10,5.0,0.5,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Javnaðarflokkurin,68,17,17.0,1.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Liberal Alliance,68,10049,8128.0,0.8088367001691711,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Radikale Venstre,68,21863,17327.0,0.7925261857933495,arbejdsmarked_velfærd
 Det Konservative Folkeparti,Sambandsflokkurin,68,30,30.0,1.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Siumut,68,6,1.0,0.16666666666666666,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialdemokratiet,68,36745,29390.0,0.7998367124778881,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialistisk Folkeparti,68,13226,10231.0,0.7735520943595947,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,68,355,245.0,0.6901408450704225,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Venstre,68,40276,38034.0,0.9443340947462509,arbejdsmarked_velfærd
-Enhedslisten,Enhedslisten,68,9977,9977.0,1.0,arbejdsmarked_velfærd
-Enhedslisten,Inuit Ataqatigiit,68,8,8.0,1.0,arbejdsmarked_velfærd
-Enhedslisten,Liberal Alliance,68,14958,4132.0,0.2762401390560235,arbejdsmarked_velfærd
-Enhedslisten,Radikale Venstre,68,28458,14057.0,0.4939560053412046,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Siumut,68,10,5.0,0.5,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialdemokratiet,68,58151,46414.0,0.7981634021770907,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialistisk Folkeparti,68,18852,13906.0,0.7376405686399321,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Venstre,68,55069,52139.0,0.9467940220450707,arbejdsmarked_velfærd
+Enhedslisten,Enhedslisten,68,12300,11897.0,0.9672357723577236,arbejdsmarked_velfærd
+Enhedslisten,Inuit Ataqatigiit,68,16,16.0,1.0,arbejdsmarked_velfærd
+Enhedslisten,Javnaðarflokkurin,68,40,24.0,0.6,arbejdsmarked_velfærd
+Enhedslisten,Liberal Alliance,68,16800,4730.0,0.28154761904761905,arbejdsmarked_velfærd
+Enhedslisten,Radikale Venstre,68,36522,18795.0,0.514621324133399,arbejdsmarked_velfærd
 Enhedslisten,Sambandsflokkurin,68,47,8.0,0.1702127659574468,arbejdsmarked_velfærd
-Enhedslisten,Siumut,68,14,14.0,1.0,arbejdsmarked_velfærd
-Enhedslisten,Socialdemokratiet,68,64244,31568.0,0.49137662661104536,arbejdsmarked_velfærd
-Enhedslisten,Socialistisk Folkeparti,68,22382,11959.0,0.53431328746314,arbejdsmarked_velfærd
-Enhedslisten,Uden for Folketingsgrupperne,68,635,475.0,0.7480314960629921,arbejdsmarked_velfærd
-Enhedslisten,Venstre,68,69541,22388.0,0.3219395752146216,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Liberal Alliance,68,5,0.0,0.0,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Radikale Venstre,68,10,10.0,1.0,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Siumut,68,1,1.0,1.0,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Socialdemokratiet,68,22,22.0,1.0,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Socialistisk Folkeparti,68,8,8.0,1.0,arbejdsmarked_velfærd
-Inuit Ataqatigiit,Venstre,68,24,0.0,0.0,arbejdsmarked_velfærd
-Liberal Alliance,Liberal Alliance,68,3968,3951.0,0.9957157258064516,arbejdsmarked_velfærd
-Liberal Alliance,Radikale Venstre,68,18440,12529.0,0.6794468546637744,arbejdsmarked_velfærd
+Enhedslisten,Siumut,68,16,16.0,1.0,arbejdsmarked_velfærd
+Enhedslisten,Socialdemokratiet,68,97226,48790.0,0.5018205006891161,arbejdsmarked_velfærd
+Enhedslisten,Socialistisk Folkeparti,68,31558,17944.0,0.5686038405475632,arbejdsmarked_velfærd
+Enhedslisten,Venstre,68,92189,30140.0,0.3269370532276085,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Liberal Alliance,68,10,5.0,0.5,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Radikale Venstre,68,21,21.0,1.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Siumut,68,2,2.0,1.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Socialdemokratiet,68,58,58.0,1.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Socialistisk Folkeparti,68,17,17.0,1.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Venstre,68,54,26.0,0.48148148148148145,arbejdsmarked_velfærd
+Javnaðarflokkurin,Liberal Alliance,68,22,0.0,0.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Radikale Venstre,68,55,55.0,1.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Socialdemokratiet,68,138,138.0,1.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Socialistisk Folkeparti,68,44,44.0,1.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Venstre,68,135,135.0,1.0,arbejdsmarked_velfærd
+Liberal Alliance,Liberal Alliance,68,4071,4054.0,0.9958241218373864,arbejdsmarked_velfærd
+Liberal Alliance,Radikale Venstre,68,22045,14836.0,0.6729870718983897,arbejdsmarked_velfærd
 Liberal Alliance,Sambandsflokkurin,68,30,25.0,0.8333333333333334,arbejdsmarked_velfærd
 Liberal Alliance,Siumut,68,10,5.0,0.5,arbejdsmarked_velfærd
-Liberal Alliance,Socialdemokratiet,68,42518,28767.0,0.6765840349969424,arbejdsmarked_velfærd
-Liberal Alliance,Socialistisk Folkeparti,68,14282,9301.0,0.6512393222237782,arbejdsmarked_velfærd
-Liberal Alliance,Uden for Folketingsgrupperne,68,453,242.0,0.5342163355408388,arbejdsmarked_velfærd
-Liberal Alliance,Venstre,68,45448,36553.0,0.8042818165815877,arbejdsmarked_velfærd
-Radikale Venstre,Radikale Venstre,68,16137,16118.0,0.9988225816446675,arbejdsmarked_velfærd
-Radikale Venstre,Sambandsflokkurin,68,64,42.0,0.65625,arbejdsmarked_velfærd
-Radikale Venstre,Siumut,68,14,14.0,1.0,arbejdsmarked_velfærd
-Radikale Venstre,Socialdemokratiet,68,79422,79283.0,0.9982498552038478,arbejdsmarked_velfærd
-Radikale Venstre,Socialistisk Folkeparti,68,28397,28037.0,0.9873226045004754,arbejdsmarked_velfærd
-Radikale Venstre,Uden for Folketingsgrupperne,68,723,653.0,0.9031811894882434,arbejdsmarked_velfærd
-Radikale Venstre,Venstre,68,86346,68319.0,0.7912236814675839,arbejdsmarked_velfærd
-Sambandsflokkurin,Socialdemokratiet,68,130,87.0,0.6692307692307692,arbejdsmarked_velfærd
-Sambandsflokkurin,Socialistisk Folkeparti,68,52,34.0,0.6538461538461539,arbejdsmarked_velfærd
-Sambandsflokkurin,Uden for Folketingsgrupperne,68,1,1.0,1.0,arbejdsmarked_velfærd
-Sambandsflokkurin,Venstre,68,138,138.0,1.0,arbejdsmarked_velfærd
-Siumut,Socialdemokratiet,68,41,41.0,1.0,arbejdsmarked_velfærd
-Siumut,Socialistisk Folkeparti,68,10,10.0,1.0,arbejdsmarked_velfærd
-Siumut,Uden for Folketingsgrupperne,68,1,1.0,1.0,arbejdsmarked_velfærd
-Siumut,Venstre,68,39,15.0,0.38461538461538464,arbejdsmarked_velfærd
-Socialdemokratiet,Socialdemokratiet,68,87923,87687.0,0.9973158331722075,arbejdsmarked_velfærd
-Socialdemokratiet,Socialistisk Folkeparti,68,61563,60216.0,0.9781199746601043,arbejdsmarked_velfærd
-Socialdemokratiet,Uden for Folketingsgrupperne,68,1839,1633.0,0.8879825992387167,arbejdsmarked_velfærd
-Socialdemokratiet,Venstre,68,195671,154216.0,0.7881392745986886,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Socialistisk Folkeparti,68,10265,10226.0,0.9962006819288846,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,68,487,454.0,0.9322381930184805,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Venstre,68,68162,51800.0,0.759954226695226,arbejdsmarked_velfærd
-Uden for Folketingsgrupperne,Venstre,68,1961,1198.0,0.6109127995920449,arbejdsmarked_velfærd
-Venstre,Venstre,68,102355,102308.0,0.9995408138342045,arbejdsmarked_velfærd
-Alternativet,Alternativet,69,6307,6294.0,0.9979387981607738,arbejdsmarked_velfærd
-Alternativet,Dansk Folkeparti,69,52716,22327.0,0.4235336520221565,arbejdsmarked_velfærd
-Alternativet,Det Konservative Folkeparti,69,9723,4240.0,0.43607939936233675,arbejdsmarked_velfærd
-Alternativet,Enhedslisten,69,22594,17591.0,0.7785695317340887,arbejdsmarked_velfærd
-Alternativet,Liberal Alliance,69,17557,7305.0,0.41607336105257164,arbejdsmarked_velfærd
-Alternativet,Radikale Venstre,69,10539,6980.0,0.6623019261789543,arbejdsmarked_velfærd
-Alternativet,Socialdemokratiet,69,53945,31229.0,0.5789044397071091,arbejdsmarked_velfærd
-Alternativet,Socialistisk Folkeparti,69,7835,6046.0,0.771665603063178,arbejdsmarked_velfærd
-Alternativet,Tjóðveldi,69,16,0.0,0.0,arbejdsmarked_velfærd
-Alternativet,Venstre,69,43140,17855.0,0.41388502549837736,arbejdsmarked_velfærd
-Dansk Folkeparti,Dansk Folkeparti,69,89080,89020.0,0.9993264481365065,arbejdsmarked_velfærd
-Dansk Folkeparti,Det Konservative Folkeparti,69,35254,29808.0,0.8455210756226244,arbejdsmarked_velfærd
-Dansk Folkeparti,Enhedslisten,69,81218,26215.0,0.3227732768598094,arbejdsmarked_velfærd
-Dansk Folkeparti,Liberal Alliance,69,61661,51179.0,0.8300060005514021,arbejdsmarked_velfærd
-Dansk Folkeparti,Radikale Venstre,69,38075,22594.0,0.5934077478660539,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialdemokratiet,69,195582,127361.0,0.6511897822908038,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialistisk Folkeparti,69,28413,12695.0,0.44680251997325166,arbejdsmarked_velfærd
-Dansk Folkeparti,Tjóðveldi,69,64,42.0,0.65625,arbejdsmarked_velfærd
-Dansk Folkeparti,Venstre,69,156064,133937.0,0.8582184232109904,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Det Konservative Folkeparti,69,2584,2582.0,0.9992260061919505,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Enhedslisten,69,15703,4326.0,0.2754887601095332,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Liberal Alliance,69,11400,11059.0,0.9700877192982457,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Radikale Venstre,69,7471,5253.0,0.7031187257395262,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialdemokratiet,69,38081,29263.0,0.768440954806859,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialistisk Folkeparti,69,5517,2589.0,0.4692767808591626,arbejdsmarked_velfærd
+Liberal Alliance,Socialdemokratiet,68,58657,39834.0,0.6791005336106517,arbejdsmarked_velfærd
+Liberal Alliance,Socialistisk Folkeparti,68,19041,11833.0,0.6214484533375348,arbejdsmarked_velfærd
+Liberal Alliance,Venstre,68,55609,44831.0,0.8061824524807135,arbejdsmarked_velfærd
+Radikale Venstre,Radikale Venstre,68,21931,21690.0,0.989010989010989,arbejdsmarked_velfærd
+Radikale Venstre,Sambandsflokkurin,68,66,44.0,0.6666666666666666,arbejdsmarked_velfærd
+Radikale Venstre,Siumut,68,21,21.0,1.0,arbejdsmarked_velfærd
+Radikale Venstre,Socialdemokratiet,68,127479,126691.0,0.9938185897285043,arbejdsmarked_velfærd
+Radikale Venstre,Socialistisk Folkeparti,68,41404,39314.0,0.9495217853347503,arbejdsmarked_velfærd
+Radikale Venstre,Venstre,68,120982,95004.0,0.785273842389777,arbejdsmarked_velfærd
+Sambandsflokkurin,Socialdemokratiet,68,175,117.0,0.6685714285714286,arbejdsmarked_velfærd
+Sambandsflokkurin,Socialistisk Folkeparti,68,56,37.0,0.6607142857142857,arbejdsmarked_velfærd
+Sambandsflokkurin,Venstre,68,155,155.0,1.0,arbejdsmarked_velfærd
+Siumut,Socialdemokratiet,68,58,58.0,1.0,arbejdsmarked_velfærd
+Siumut,Socialistisk Folkeparti,68,17,17.0,1.0,arbejdsmarked_velfærd
+Siumut,Venstre,68,54,26.0,0.48148148148148145,arbejdsmarked_velfærd
+Socialdemokratiet,Socialdemokratiet,68,164331,163953.0,0.9976997644996988,arbejdsmarked_velfærd
+Socialdemokratiet,Socialistisk Folkeparti,68,110032,104174.0,0.9467609422713392,arbejdsmarked_velfærd
+Socialdemokratiet,Venstre,68,322008,254519.0,0.790412039452436,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Socialistisk Folkeparti,68,16185,15837.0,0.978498609823911,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Venstre,68,104577,76634.0,0.7327997552042992,arbejdsmarked_velfærd
+Venstre,Venstre,68,147589,147538.0,0.9996544457920306,arbejdsmarked_velfærd
+Alternativet,Alternativet,69,6098,6090.0,0.9986880944571991,arbejdsmarked_velfærd
+Alternativet,Danmarksdemokraterne,69,3694,1684.0,0.4558743909041689,arbejdsmarked_velfærd
+Alternativet,Dansk Folkeparti,69,60121,26421.0,0.4394637481079822,arbejdsmarked_velfærd
+Alternativet,Det Konservative Folkeparti,69,10847,4912.0,0.4528441043606527,arbejdsmarked_velfærd
+Alternativet,Enhedslisten,69,24514,18817.0,0.7676021865056702,arbejdsmarked_velfærd
+Alternativet,Inuit Ataqatigiit,69,81,16.0,0.19753086419753085,arbejdsmarked_velfærd
+Alternativet,Liberal Alliance,69,21930,9614.0,0.43839489284085725,arbejdsmarked_velfærd
+Alternativet,Radikale Venstre,69,13031,8804.0,0.6756196761568567,arbejdsmarked_velfærd
+Alternativet,Socialdemokratiet,69,80260,48060.0,0.5988038873660603,arbejdsmarked_velfærd
+Alternativet,Socialistisk Folkeparti,69,10809,8286.0,0.7665834027199556,arbejdsmarked_velfærd
+Alternativet,Tjóðveldi,69,15,0.0,0.0,arbejdsmarked_velfærd
+Alternativet,Venstre,69,52454,22940.0,0.4373355702139017,arbejdsmarked_velfærd
+Danmarksdemokraterne,Danmarksdemokraterne,69,248,210.0,0.8467741935483871,arbejdsmarked_velfærd
+Danmarksdemokraterne,Dansk Folkeparti,69,15105,13937.0,0.9226746110559417,arbejdsmarked_velfærd
+Danmarksdemokraterne,Det Konservative Folkeparti,69,2736,2521.0,0.9214181286549707,arbejdsmarked_velfærd
+Danmarksdemokraterne,Enhedslisten,69,6195,1871.0,0.3020177562550444,arbejdsmarked_velfærd
+Danmarksdemokraterne,Inuit Ataqatigiit,69,20,11.0,0.55,arbejdsmarked_velfærd
+Danmarksdemokraterne,Liberal Alliance,69,5530,4993.0,0.9028933092224232,arbejdsmarked_velfærd
+Danmarksdemokraterne,Radikale Venstre,69,3269,2097.0,0.6414805750994188,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialdemokratiet,69,20224,14379.0,0.7109869462025317,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialistisk Folkeparti,69,2738,1330.0,0.48575602629656683,arbejdsmarked_velfærd
+Danmarksdemokraterne,Tjóðveldi,69,4,2.0,0.5,arbejdsmarked_velfærd
+Danmarksdemokraterne,Venstre,69,13042,12140.0,0.9308388284005521,arbejdsmarked_velfærd
+Dansk Folkeparti,Dansk Folkeparti,69,117298,117237.0,0.9994799570325155,arbejdsmarked_velfærd
+Dansk Folkeparti,Det Konservative Folkeparti,69,44362,38166.0,0.8603309138451828,arbejdsmarked_velfærd
+Dansk Folkeparti,Enhedslisten,69,100115,32262.0,0.3222494131748489,arbejdsmarked_velfærd
+Dansk Folkeparti,Inuit Ataqatigiit,69,299,130.0,0.43478260869565216,arbejdsmarked_velfærd
+Dansk Folkeparti,Liberal Alliance,69,89562,76411.0,0.8531631718809316,arbejdsmarked_velfærd
+Dansk Folkeparti,Radikale Venstre,69,53287,32666.0,0.6130200611781486,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialdemokratiet,69,327886,218194.0,0.6654568966043076,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialistisk Folkeparti,69,44151,20319.0,0.46021607664605557,arbejdsmarked_velfærd
+Dansk Folkeparti,Tjóðveldi,69,66,44.0,0.6666666666666666,arbejdsmarked_velfærd
+Dansk Folkeparti,Venstre,69,213624,186171.0,0.8714891585215144,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Det Konservative Folkeparti,69,3045,3042.0,0.9990147783251232,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Enhedslisten,69,18100,5012.0,0.27690607734806627,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Inuit Ataqatigiit,69,56,24.0,0.42857142857142855,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Liberal Alliance,69,16182,15729.0,0.9720059325176121,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Radikale Venstre,69,9629,6857.0,0.7121196385917541,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialdemokratiet,69,59202,45110.0,0.7619675010979359,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialistisk Folkeparti,69,7972,3844.0,0.48218765679879577,arbejdsmarked_velfærd
 Det Konservative Folkeparti,Tjóðveldi,69,12,0.0,0.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Venstre,69,30264,30006.0,0.9914750198255353,arbejdsmarked_velfærd
-Enhedslisten,Enhedslisten,69,15946,15933.0,0.9991847485262761,arbejdsmarked_velfærd
-Enhedslisten,Liberal Alliance,69,26322,7286.0,0.27680267456880175,arbejdsmarked_velfærd
-Enhedslisten,Radikale Venstre,69,17127,8830.0,0.5155602265428855,arbejdsmarked_velfærd
-Enhedslisten,Socialdemokratiet,69,87170,39110.0,0.4486635310313181,arbejdsmarked_velfærd
-Enhedslisten,Socialistisk Folkeparti,69,12589,9454.0,0.7509730717292875,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Venstre,69,38476,38103.0,0.9903056450774509,arbejdsmarked_velfærd
+Enhedslisten,Enhedslisten,69,18157,18144.0,0.9992840226909732,arbejdsmarked_velfærd
+Enhedslisten,Inuit Ataqatigiit,69,123,25.0,0.2032520325203252,arbejdsmarked_velfærd
+Enhedslisten,Liberal Alliance,69,36529,10101.0,0.2765200251854691,arbejdsmarked_velfærd
+Enhedslisten,Radikale Venstre,69,21714,11009.0,0.5070000921064751,arbejdsmarked_velfærd
+Enhedslisten,Socialdemokratiet,69,133807,61155.0,0.45703886941639826,arbejdsmarked_velfærd
+Enhedslisten,Socialistisk Folkeparti,69,18006,13331.0,0.7403643230034433,arbejdsmarked_velfærd
 Enhedslisten,Tjóðveldi,69,27,0.0,0.0,arbejdsmarked_velfærd
-Enhedslisten,Venstre,69,69619,18350.0,0.2635774716672173,arbejdsmarked_velfærd
-Liberal Alliance,Liberal Alliance,69,8916,8884.0,0.9964109466128309,arbejdsmarked_velfærd
-Liberal Alliance,Radikale Venstre,69,12120,8149.0,0.6723597359735973,arbejdsmarked_velfærd
-Liberal Alliance,Socialdemokratiet,69,62855,45484.0,0.7236337602418265,arbejdsmarked_velfærd
-Liberal Alliance,Socialistisk Folkeparti,69,9158,3997.0,0.43644900633326056,arbejdsmarked_velfærd
-Liberal Alliance,Tjóðveldi,69,23,0.0,0.0,arbejdsmarked_velfærd
-Liberal Alliance,Venstre,69,50185,48089.0,0.9582345322307463,arbejdsmarked_velfærd
-Radikale Venstre,Radikale Venstre,69,3248,3232.0,0.9950738916256158,arbejdsmarked_velfærd
-Radikale Venstre,Socialdemokratiet,69,41730,35161.0,0.8425832734243949,arbejdsmarked_velfærd
-Radikale Venstre,Socialistisk Folkeparti,69,5940,4038.0,0.6797979797979798,arbejdsmarked_velfærd
-Radikale Venstre,Tjóðveldi,69,13,0.0,0.0,arbejdsmarked_velfærd
-Radikale Venstre,Venstre,69,33450,23486.0,0.7021225710014948,arbejdsmarked_velfærd
-Socialdemokratiet,Socialdemokratiet,69,101384,101361.0,0.9997731397459165,arbejdsmarked_velfærd
-Socialdemokratiet,Socialistisk Folkeparti,69,30489,19568.0,0.6418052412345436,arbejdsmarked_velfærd
-Socialdemokratiet,Tjóðveldi,69,60,0.0,0.0,arbejdsmarked_velfærd
-Socialdemokratiet,Venstre,69,169833,128607.0,0.7572556570277861,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Socialistisk Folkeparti,69,1547,1543.0,0.9974143503555268,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Tjóðveldi,69,11,0.0,0.0,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Venstre,69,24350,11177.0,0.45901437371663245,arbejdsmarked_velfærd
-Tjóðveldi,Venstre,69,56,0.0,0.0,arbejdsmarked_velfærd
-Venstre,Venstre,69,64540,64516.0,0.9996281375890921,arbejdsmarked_velfærd
-Alternativet,Alternativet,70,221,219.0,0.9909502262443439,arbejdsmarked_velfærd
-Alternativet,Danmarksdemokraterne,70,12,12.0,1.0,arbejdsmarked_velfærd
-Alternativet,Dansk Folkeparti,70,3150,1484.0,0.4711111111111111,arbejdsmarked_velfærd
-Alternativet,Det Konservative Folkeparti,70,2348,1105.0,0.47061328790459966,arbejdsmarked_velfærd
-Alternativet,Enhedslisten,70,3043,2682.0,0.8813670719684522,arbejdsmarked_velfærd
-Alternativet,Frie Grønne,70,148,128.0,0.8648648648648649,arbejdsmarked_velfærd
-Alternativet,Kristendemokraterne,70,40,23.0,0.575,arbejdsmarked_velfærd
-Alternativet,Liberal Alliance,70,385,169.0,0.43896103896103894,arbejdsmarked_velfærd
-Alternativet,Nye Borgerlige,70,709,271.0,0.382228490832158,arbejdsmarked_velfærd
-Alternativet,Radikale Venstre,70,3336,2482.0,0.7440047961630696,arbejdsmarked_velfærd
-Alternativet,Sambandsflokkurin,70,8,3.0,0.375,arbejdsmarked_velfærd
-Alternativet,Socialdemokratiet,70,7966,4923.0,0.6180015064022094,arbejdsmarked_velfærd
-Alternativet,Socialistisk Folkeparti,70,3083,2636.0,0.8550113525786571,arbejdsmarked_velfærd
-Alternativet,Uden for Folketingsgrupperne,70,363,237.0,0.6528925619834711,arbejdsmarked_velfærd
-Alternativet,Venstre,70,7967,4032.0,0.5060876113970126,arbejdsmarked_velfærd
-Danmarksdemokraterne,Danmarksdemokraterne,70,38,38.0,1.0,arbejdsmarked_velfærd
-Danmarksdemokraterne,Dansk Folkeparti,70,66,30.0,0.45454545454545453,arbejdsmarked_velfærd
-Danmarksdemokraterne,Det Konservative Folkeparti,70,139,139.0,1.0,arbejdsmarked_velfærd
-Danmarksdemokraterne,Enhedslisten,70,166,166.0,1.0,arbejdsmarked_velfærd
-Danmarksdemokraterne,Frie Grønne,70,17,13.0,0.7647058823529411,arbejdsmarked_velfærd
-Danmarksdemokraterne,Liberal Alliance,70,10,5.0,0.5,arbejdsmarked_velfærd
-Danmarksdemokraterne,Nye Borgerlige,70,32,24.0,0.75,arbejdsmarked_velfærd
-Danmarksdemokraterne,Radikale Venstre,70,144,144.0,1.0,arbejdsmarked_velfærd
-Danmarksdemokraterne,Socialdemokratiet,70,447,447.0,1.0,arbejdsmarked_velfærd
-Danmarksdemokraterne,Socialistisk Folkeparti,70,164,164.0,1.0,arbejdsmarked_velfærd
-Danmarksdemokraterne,Uden for Folketingsgrupperne,70,58,38.0,0.6551724137931034,arbejdsmarked_velfærd
-Danmarksdemokraterne,Venstre,70,379,379.0,1.0,arbejdsmarked_velfærd
-Dansk Folkeparti,Dansk Folkeparti,70,7149,7108.0,0.9942649321583438,arbejdsmarked_velfærd
-Dansk Folkeparti,Det Konservative Folkeparti,70,12550,9390.0,0.748207171314741,arbejdsmarked_velfærd
-Dansk Folkeparti,Enhedslisten,70,16303,7843.0,0.48107710237379625,arbejdsmarked_velfærd
-Dansk Folkeparti,Frie Grønne,70,1031,552.0,0.5354025218234724,arbejdsmarked_velfærd
-Dansk Folkeparti,Kristendemokraterne,70,338,221.0,0.6538461538461539,arbejdsmarked_velfærd
-Dansk Folkeparti,Liberal Alliance,70,2045,1490.0,0.7286063569682152,arbejdsmarked_velfærd
-Dansk Folkeparti,Nye Borgerlige,70,3914,3110.0,0.7945835462442514,arbejdsmarked_velfærd
-Dansk Folkeparti,Radikale Venstre,70,17398,10091.0,0.5800091964593631,arbejdsmarked_velfærd
-Dansk Folkeparti,Sambandsflokkurin,70,48,36.0,0.75,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialdemokratiet,70,43625,28666.0,0.6571002865329513,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialistisk Folkeparti,70,16810,8691.0,0.5170136823319452,arbejdsmarked_velfærd
-Dansk Folkeparti,Uden for Folketingsgrupperne,70,2841,1710.0,0.6019007391763463,arbejdsmarked_velfærd
-Dansk Folkeparti,Venstre,70,43309,33379.0,0.7707174028492922,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Det Konservative Folkeparti,70,4416,4411.0,0.9988677536231884,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Enhedslisten,70,13219,6195.0,0.4686436190332098,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Frie Grønne,70,1036,523.0,0.5048262548262549,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Kristendemokraterne,70,296,168.0,0.5675675675675675,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Liberal Alliance,70,1639,1402.0,0.8553996339231239,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Nye Borgerlige,70,3097,2137.0,0.6900226025185664,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Radikale Venstre,70,14333,9998.0,0.6975511058396707,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Sambandsflokkurin,70,34,34.0,1.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialdemokratiet,70,35702,27183.0,0.7613859167553638,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialistisk Folkeparti,70,13947,8005.0,0.5739585573958558,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,70,3061,1958.0,0.6396602417510617,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Venstre,70,35297,32409.0,0.9181800152987506,arbejdsmarked_velfærd
-Enhedslisten,Enhedslisten,70,7321,7299.0,0.9969949460456222,arbejdsmarked_velfærd
-Enhedslisten,Frie Grønne,70,1260,1103.0,0.8753968253968254,arbejdsmarked_velfærd
-Enhedslisten,Kristendemokraterne,70,344,181.0,0.5261627906976745,arbejdsmarked_velfærd
-Enhedslisten,Liberal Alliance,70,2110,886.0,0.4199052132701422,arbejdsmarked_velfærd
-Enhedslisten,Nye Borgerlige,70,3967,1600.0,0.403327451474666,arbejdsmarked_velfærd
-Enhedslisten,Radikale Venstre,70,18257,13224.0,0.7243249164703949,arbejdsmarked_velfærd
-Enhedslisten,Sambandsflokkurin,70,47,23.0,0.48936170212765956,arbejdsmarked_velfærd
-Enhedslisten,Socialdemokratiet,70,45449,29107.0,0.6404321327201918,arbejdsmarked_velfærd
-Enhedslisten,Socialistisk Folkeparti,70,17703,14672.0,0.8287860814551206,arbejdsmarked_velfærd
-Enhedslisten,Uden for Folketingsgrupperne,70,3575,2314.0,0.6472727272727272,arbejdsmarked_velfærd
-Enhedslisten,Venstre,70,45178,22546.0,0.49904820930541416,arbejdsmarked_velfærd
-Frie Grønne,Frie Grønne,70,68,68.0,1.0,arbejdsmarked_velfærd
-Frie Grønne,Kristendemokraterne,70,18,9.0,0.5,arbejdsmarked_velfærd
-Frie Grønne,Liberal Alliance,70,158,69.0,0.43670886075949367,arbejdsmarked_velfærd
-Frie Grønne,Nye Borgerlige,70,217,99.0,0.45622119815668205,arbejdsmarked_velfærd
-Frie Grønne,Radikale Venstre,70,1471,1005.0,0.6832087015635622,arbejdsmarked_velfærd
-Frie Grønne,Sambandsflokkurin,70,8,6.0,0.75,arbejdsmarked_velfærd
-Frie Grønne,Socialdemokratiet,70,3154,2177.0,0.6902346227013316,arbejdsmarked_velfærd
-Frie Grønne,Socialistisk Folkeparti,70,1399,1061.0,0.7583988563259471,arbejdsmarked_velfærd
-Frie Grønne,Uden for Folketingsgrupperne,70,364,154.0,0.4230769230769231,arbejdsmarked_velfærd
-Frie Grønne,Venstre,70,3305,1738.0,0.5258698940998487,arbejdsmarked_velfærd
-Kristendemokraterne,Liberal Alliance,70,43,25.0,0.5813953488372093,arbejdsmarked_velfærd
-Kristendemokraterne,Nye Borgerlige,70,94,55.0,0.5851063829787234,arbejdsmarked_velfærd
-Kristendemokraterne,Radikale Venstre,70,314,155.0,0.49363057324840764,arbejdsmarked_velfærd
-Kristendemokraterne,Sambandsflokkurin,70,1,0.0,0.0,arbejdsmarked_velfærd
-Kristendemokraterne,Socialdemokratiet,70,987,573.0,0.5805471124620061,arbejdsmarked_velfærd
-Kristendemokraterne,Socialistisk Folkeparti,70,360,148.0,0.4111111111111111,arbejdsmarked_velfærd
-Kristendemokraterne,Uden for Folketingsgrupperne,70,85,44.0,0.5176470588235295,arbejdsmarked_velfærd
-Kristendemokraterne,Venstre,70,935,569.0,0.6085561497326203,arbejdsmarked_velfærd
-Liberal Alliance,Nye Borgerlige,70,485,350.0,0.7216494845360825,arbejdsmarked_velfærd
-Liberal Alliance,Radikale Venstre,70,2289,1437.0,0.6277850589777195,arbejdsmarked_velfærd
-Liberal Alliance,Sambandsflokkurin,70,5,5.0,1.0,arbejdsmarked_velfærd
-Liberal Alliance,Socialdemokratiet,70,5657,3939.0,0.6963054622591479,arbejdsmarked_velfærd
-Liberal Alliance,Socialistisk Folkeparti,70,2222,1159.0,0.5216021602160216,arbejdsmarked_velfærd
-Liberal Alliance,Uden for Folketingsgrupperne,70,447,251.0,0.5615212527964206,arbejdsmarked_velfærd
-Liberal Alliance,Venstre,70,5636,4846.0,0.8598296664300923,arbejdsmarked_velfærd
-Nye Borgerlige,Nye Borgerlige,70,250,250.0,1.0,arbejdsmarked_velfærd
-Nye Borgerlige,Radikale Venstre,70,4233,1938.0,0.4578313253012048,arbejdsmarked_velfærd
-Nye Borgerlige,Sambandsflokkurin,70,10,8.0,0.8,arbejdsmarked_velfærd
-Nye Borgerlige,Socialdemokratiet,70,10804,5823.0,0.5389670492410218,arbejdsmarked_velfærd
-Nye Borgerlige,Socialistisk Folkeparti,70,4134,1574.0,0.3807450411223996,arbejdsmarked_velfærd
-Nye Borgerlige,Uden for Folketingsgrupperne,70,850,438.0,0.5152941176470588,arbejdsmarked_velfærd
-Nye Borgerlige,Venstre,70,10614,7150.0,0.6736385905407952,arbejdsmarked_velfærd
-Radikale Venstre,Radikale Venstre,70,8773,8758.0,0.9982902085945514,arbejdsmarked_velfærd
-Radikale Venstre,Sambandsflokkurin,70,51,34.0,0.6666666666666666,arbejdsmarked_velfærd
-Radikale Venstre,Socialdemokratiet,70,48793,41335.0,0.8471502059721682,arbejdsmarked_velfærd
-Radikale Venstre,Socialistisk Folkeparti,70,19188,16009.0,0.8343235355430477,arbejdsmarked_velfærd
-Radikale Venstre,Uden for Folketingsgrupperne,70,4063,2659.0,0.6544425301501353,arbejdsmarked_velfærd
-Radikale Venstre,Venstre,70,48741,35090.0,0.7199277815391559,arbejdsmarked_velfærd
-Sambandsflokkurin,Socialdemokratiet,70,104,84.0,0.8076923076923077,arbejdsmarked_velfærd
-Sambandsflokkurin,Socialistisk Folkeparti,70,47,23.0,0.48936170212765956,arbejdsmarked_velfærd
-Sambandsflokkurin,Uden for Folketingsgrupperne,70,4,3.0,0.75,arbejdsmarked_velfærd
-Sambandsflokkurin,Venstre,70,110,110.0,1.0,arbejdsmarked_velfærd
-Socialdemokratiet,Socialdemokratiet,70,58513,58448.0,0.9988891357476116,arbejdsmarked_velfærd
-Socialdemokratiet,Socialistisk Folkeparti,70,47527,36879.0,0.7759589286090012,arbejdsmarked_velfærd
-Socialdemokratiet,Uden for Folketingsgrupperne,70,9997,6707.0,0.6709012703811144,arbejdsmarked_velfærd
-Socialdemokratiet,Venstre,70,121603,96120.0,0.790441025303652,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Socialistisk Folkeparti,70,8121,8084.0,0.9954439108484177,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,70,4031,2627.0,0.6516993301910196,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Venstre,70,47280,28372.0,0.6000846023688663,arbejdsmarked_velfærd
-Uden for Folketingsgrupperne,Uden for Folketingsgrupperne,70,545,439.0,0.8055045871559633,arbejdsmarked_velfærd
-Uden for Folketingsgrupperne,Venstre,70,9753,6270.0,0.6428791141187327,arbejdsmarked_velfærd
-Venstre,Venstre,70,57585,57551.0,0.9994095684640097,arbejdsmarked_velfærd
-Alternativet,Alternativet,71,604,604.0,1.0,arbejdsmarked_velfærd
-Alternativet,Borgernes Parti,71,89,44.0,0.4943820224719101,arbejdsmarked_velfærd
-Alternativet,Danmarksdemokraterne,71,3530,2395.0,0.6784702549575071,arbejdsmarked_velfærd
-Alternativet,Dansk Folkeparti,71,1785,1258.0,0.7047619047619048,arbejdsmarked_velfærd
-Alternativet,Det Konservative Folkeparti,71,2312,1376.0,0.5951557093425606,arbejdsmarked_velfærd
-Alternativet,Enhedslisten,71,1400,1038.0,0.7414285714285714,arbejdsmarked_velfærd
-Alternativet,Javnaðarflokkurin,71,2,2.0,1.0,arbejdsmarked_velfærd
-Alternativet,Liberal Alliance,71,5021,3040.0,0.6054570802628958,arbejdsmarked_velfærd
-Alternativet,Moderaterne,71,4949,2884.0,0.5827439886845828,arbejdsmarked_velfærd
-Alternativet,Naleraq,71,2,2.0,1.0,arbejdsmarked_velfærd
-Alternativet,Nye Borgerlige,71,371,242.0,0.6522911051212938,arbejdsmarked_velfærd
-Alternativet,Radikale Venstre,71,1402,975.0,0.6954350927246791,arbejdsmarked_velfærd
-Alternativet,Sambandsflokkurin,71,41,33.0,0.8048780487804879,arbejdsmarked_velfærd
-Alternativet,Socialdemokratiet,71,13029,7756.0,0.5952874357203162,arbejdsmarked_velfærd
-Alternativet,Socialistisk Folkeparti,71,4306,3474.0,0.8067812354853693,arbejdsmarked_velfærd
-Alternativet,Uden for Folketingsgrupperne,71,991,508.0,0.5126135216952573,arbejdsmarked_velfærd
-Alternativet,Venstre,71,4241,2520.0,0.5941994812544211,arbejdsmarked_velfærd
-Borgernes Parti,Danmarksdemokraterne,71,209,144.0,0.6889952153110048,arbejdsmarked_velfærd
-Borgernes Parti,Dansk Folkeparti,71,109,73.0,0.6697247706422018,arbejdsmarked_velfærd
-Borgernes Parti,Det Konservative Folkeparti,71,118,79.0,0.6694915254237288,arbejdsmarked_velfærd
-Borgernes Parti,Enhedslisten,71,62,31.0,0.5,arbejdsmarked_velfærd
-Borgernes Parti,Javnaðarflokkurin,71,1,0.0,0.0,arbejdsmarked_velfærd
-Borgernes Parti,Liberal Alliance,71,298,200.0,0.6711409395973155,arbejdsmarked_velfærd
-Borgernes Parti,Moderaterne,71,228,117.0,0.5131578947368421,arbejdsmarked_velfærd
-Borgernes Parti,Naleraq,71,1,1.0,1.0,arbejdsmarked_velfærd
-Borgernes Parti,Radikale Venstre,71,83,37.0,0.4457831325301205,arbejdsmarked_velfærd
-Borgernes Parti,Socialdemokratiet,71,740,372.0,0.5027027027027027,arbejdsmarked_velfærd
-Borgernes Parti,Socialistisk Folkeparti,71,203,90.0,0.4433497536945813,arbejdsmarked_velfærd
-Borgernes Parti,Uden for Folketingsgrupperne,71,91,54.0,0.5934065934065934,arbejdsmarked_velfærd
-Borgernes Parti,Venstre,71,219,106.0,0.4840182648401826,arbejdsmarked_velfærd
-Danmarksdemokraterne,Danmarksdemokraterne,71,3156,3152.0,0.9987325728770595,arbejdsmarked_velfærd
-Danmarksdemokraterne,Dansk Folkeparti,71,3683,3193.0,0.8669562856367092,arbejdsmarked_velfærd
-Danmarksdemokraterne,Det Konservative Folkeparti,71,4689,4060.0,0.8658562593303476,arbejdsmarked_velfærd
-Danmarksdemokraterne,Enhedslisten,71,2873,1650.0,0.5743125652627915,arbejdsmarked_velfærd
-Danmarksdemokraterne,Javnaðarflokkurin,71,7,0.0,0.0,arbejdsmarked_velfærd
-Danmarksdemokraterne,Liberal Alliance,71,10520,8537.0,0.8115019011406844,arbejdsmarked_velfærd
-Danmarksdemokraterne,Moderaterne,71,10147,7463.0,0.73548832167143,arbejdsmarked_velfærd
-Danmarksdemokraterne,Naleraq,71,7,7.0,1.0,arbejdsmarked_velfærd
-Danmarksdemokraterne,Nye Borgerlige,71,685,568.0,0.8291970802919708,arbejdsmarked_velfærd
-Danmarksdemokraterne,Radikale Venstre,71,2901,2050.0,0.7066528783178214,arbejdsmarked_velfærd
-Danmarksdemokraterne,Sambandsflokkurin,71,76,47.0,0.618421052631579,arbejdsmarked_velfærd
-Danmarksdemokraterne,Socialdemokratiet,71,27077,19844.0,0.7328729179746648,arbejdsmarked_velfærd
-Danmarksdemokraterne,Socialistisk Folkeparti,71,8996,6052.0,0.6727434415295687,arbejdsmarked_velfærd
-Danmarksdemokraterne,Uden for Folketingsgrupperne,71,2381,1629.0,0.6841663166736666,arbejdsmarked_velfærd
-Danmarksdemokraterne,Venstre,71,8947,6570.0,0.7343243545322454,arbejdsmarked_velfærd
-Dansk Folkeparti,Dansk Folkeparti,71,673,671.0,0.9970282317979198,arbejdsmarked_velfærd
-Dansk Folkeparti,Det Konservative Folkeparti,71,2359,1766.0,0.7486222975837219,arbejdsmarked_velfærd
-Dansk Folkeparti,Enhedslisten,71,1452,902.0,0.6212121212121212,arbejdsmarked_velfærd
-Dansk Folkeparti,Javnaðarflokkurin,71,4,0.0,0.0,arbejdsmarked_velfærd
-Dansk Folkeparti,Liberal Alliance,71,5238,3803.0,0.7260404734631539,arbejdsmarked_velfærd
-Dansk Folkeparti,Moderaterne,71,5112,3578.0,0.6999217527386542,arbejdsmarked_velfærd
-Dansk Folkeparti,Naleraq,71,4,4.0,1.0,arbejdsmarked_velfærd
-Dansk Folkeparti,Nye Borgerlige,71,370,325.0,0.8783783783783784,arbejdsmarked_velfærd
-Dansk Folkeparti,Radikale Venstre,71,1447,967.0,0.668279198341396,arbejdsmarked_velfærd
-Dansk Folkeparti,Sambandsflokkurin,71,36,23.0,0.6388888888888888,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialdemokratiet,71,13608,9524.0,0.6998824221046444,arbejdsmarked_velfærd
-Dansk Folkeparti,Socialistisk Folkeparti,71,4455,3222.0,0.7232323232323232,arbejdsmarked_velfærd
-Dansk Folkeparti,Uden for Folketingsgrupperne,71,1102,729.0,0.661524500907441,arbejdsmarked_velfærd
-Dansk Folkeparti,Venstre,71,4413,3118.0,0.7065488329934285,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Det Konservative Folkeparti,71,1266,1266.0,1.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Enhedslisten,71,1859,1087.0,0.584722969338354,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Javnaðarflokkurin,71,4,0.0,0.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Liberal Alliance,71,6731,5926.0,0.8804041004308424,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Moderaterne,71,6622,4720.0,0.7127755964965268,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Naleraq,71,4,4.0,1.0,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Nye Borgerlige,71,452,343.0,0.7588495575221239,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Radikale Venstre,71,1859,1400.0,0.7530930607853685,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Sambandsflokkurin,71,57,33.0,0.5789473684210527,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialdemokratiet,71,17409,12399.0,0.7122178183698087,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Socialistisk Folkeparti,71,5707,3677.0,0.6442964780094621,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Uden for Folketingsgrupperne,71,1354,972.0,0.7178729689807977,arbejdsmarked_velfærd
-Det Konservative Folkeparti,Venstre,71,5603,4022.0,0.7178297340710333,arbejdsmarked_velfærd
-Enhedslisten,Enhedslisten,71,385,380.0,0.987012987012987,arbejdsmarked_velfærd
-Enhedslisten,Javnaðarflokkurin,71,3,3.0,1.0,arbejdsmarked_velfærd
-Enhedslisten,Liberal Alliance,71,4086,2270.0,0.5555555555555556,arbejdsmarked_velfærd
-Enhedslisten,Moderaterne,71,4029,2126.0,0.527674360883594,arbejdsmarked_velfærd
-Enhedslisten,Naleraq,71,2,2.0,1.0,arbejdsmarked_velfærd
-Enhedslisten,Nye Borgerlige,71,320,174.0,0.54375,arbejdsmarked_velfærd
-Enhedslisten,Radikale Venstre,71,1140,710.0,0.6228070175438597,arbejdsmarked_velfærd
-Enhedslisten,Sambandsflokkurin,71,28,21.0,0.75,arbejdsmarked_velfærd
-Enhedslisten,Socialdemokratiet,71,10690,5501.0,0.5145930776426567,arbejdsmarked_velfærd
-Enhedslisten,Socialistisk Folkeparti,71,3560,2805.0,0.7879213483146067,arbejdsmarked_velfærd
-Enhedslisten,Uden for Folketingsgrupperne,71,884,413.0,0.4671945701357466,arbejdsmarked_velfærd
-Enhedslisten,Venstre,71,3530,1790.0,0.5070821529745042,arbejdsmarked_velfærd
-Javnaðarflokkurin,Liberal Alliance,71,9,0.0,0.0,arbejdsmarked_velfærd
-Javnaðarflokkurin,Moderaterne,71,8,8.0,1.0,arbejdsmarked_velfærd
-Javnaðarflokkurin,Radikale Venstre,71,2,2.0,1.0,arbejdsmarked_velfærd
-Javnaðarflokkurin,Socialdemokratiet,71,25,25.0,1.0,arbejdsmarked_velfærd
-Javnaðarflokkurin,Socialistisk Folkeparti,71,6,6.0,1.0,arbejdsmarked_velfærd
-Javnaðarflokkurin,Uden for Folketingsgrupperne,71,3,1.0,0.3333333333333333,arbejdsmarked_velfærd
-Javnaðarflokkurin,Venstre,71,8,8.0,1.0,arbejdsmarked_velfærd
-Liberal Alliance,Liberal Alliance,71,6686,6656.0,0.9955130122644331,arbejdsmarked_velfærd
-Liberal Alliance,Moderaterne,71,14400,9725.0,0.6753472222222222,arbejdsmarked_velfærd
-Liberal Alliance,Naleraq,71,9,9.0,1.0,arbejdsmarked_velfærd
-Liberal Alliance,Nye Borgerlige,71,909,686.0,0.7546754675467546,arbejdsmarked_velfærd
-Liberal Alliance,Radikale Venstre,71,4137,2925.0,0.7070340826686005,arbejdsmarked_velfærd
-Liberal Alliance,Sambandsflokkurin,71,102,50.0,0.49019607843137253,arbejdsmarked_velfærd
-Liberal Alliance,Socialdemokratiet,71,38544,26056.0,0.6760066417600664,arbejdsmarked_velfærd
-Liberal Alliance,Socialistisk Folkeparti,71,12777,7820.0,0.6120372544415748,arbejdsmarked_velfærd
-Liberal Alliance,Uden for Folketingsgrupperne,71,3444,2294.0,0.6660859465737514,arbejdsmarked_velfærd
-Liberal Alliance,Venstre,71,12675,8615.0,0.6796844181459566,arbejdsmarked_velfærd
-Moderaterne,Moderaterne,71,6308,6301.0,0.9988902980342422,arbejdsmarked_velfærd
-Moderaterne,Naleraq,71,7,7.0,1.0,arbejdsmarked_velfærd
-Moderaterne,Nye Borgerlige,71,1067,607.0,0.5688847235238987,arbejdsmarked_velfærd
-Moderaterne,Radikale Venstre,71,3969,3116.0,0.7850844041320232,arbejdsmarked_velfærd
-Moderaterne,Sambandsflokkurin,71,106,106.0,1.0,arbejdsmarked_velfærd
-Moderaterne,Socialdemokratiet,71,37361,37112.0,0.9933352961644496,arbejdsmarked_velfærd
-Moderaterne,Socialistisk Folkeparti,71,12501,8769.0,0.7014638828893689,arbejdsmarked_velfærd
-Moderaterne,Uden for Folketingsgrupperne,71,2959,2110.0,0.7130787428185198,arbejdsmarked_velfærd
-Moderaterne,Venstre,71,12223,12146.0,0.9937004008835801,arbejdsmarked_velfærd
-Naleraq,Radikale Venstre,71,2,2.0,1.0,arbejdsmarked_velfærd
-Naleraq,Socialdemokratiet,71,21,21.0,1.0,arbejdsmarked_velfærd
-Naleraq,Socialistisk Folkeparti,71,6,6.0,1.0,arbejdsmarked_velfærd
-Naleraq,Uden for Folketingsgrupperne,71,3,3.0,1.0,arbejdsmarked_velfærd
-Naleraq,Venstre,71,8,8.0,1.0,arbejdsmarked_velfærd
-Nye Borgerlige,Nye Borgerlige,71,34,34.0,1.0,arbejdsmarked_velfærd
-Nye Borgerlige,Radikale Venstre,71,263,137.0,0.5209125475285171,arbejdsmarked_velfærd
-Nye Borgerlige,Sambandsflokkurin,71,6,5.0,0.8333333333333334,arbejdsmarked_velfærd
-Nye Borgerlige,Socialdemokratiet,71,2565,1475.0,0.5750487329434698,arbejdsmarked_velfærd
-Nye Borgerlige,Socialistisk Folkeparti,71,892,636.0,0.7130044843049327,arbejdsmarked_velfærd
-Nye Borgerlige,Uden for Folketingsgrupperne,71,75,46.0,0.6133333333333333,arbejdsmarked_velfærd
-Nye Borgerlige,Venstre,71,809,484.0,0.5982694684796045,arbejdsmarked_velfærd
-Radikale Venstre,Radikale Venstre,71,357,354.0,0.9915966386554622,arbejdsmarked_velfærd
-Radikale Venstre,Sambandsflokkurin,71,27,19.0,0.7037037037037037,arbejdsmarked_velfærd
-Radikale Venstre,Socialdemokratiet,71,10686,8350.0,0.7813962193524238,arbejdsmarked_velfærd
-Radikale Venstre,Socialistisk Folkeparti,71,3502,2548.0,0.7275842375785265,arbejdsmarked_velfærd
-Radikale Venstre,Uden for Folketingsgrupperne,71,924,574.0,0.6212121212121212,arbejdsmarked_velfærd
-Radikale Venstre,Venstre,71,3487,2713.0,0.7780326928591913,arbejdsmarked_velfærd
-Sambandsflokkurin,Socialdemokratiet,71,261,261.0,1.0,arbejdsmarked_velfærd
-Sambandsflokkurin,Socialistisk Folkeparti,71,84,64.0,0.7619047619047619,arbejdsmarked_velfærd
-Sambandsflokkurin,Uden for Folketingsgrupperne,71,11,5.0,0.45454545454545453,arbejdsmarked_velfærd
-Sambandsflokkurin,Venstre,71,83,83.0,1.0,arbejdsmarked_velfærd
-Socialdemokratiet,Socialdemokratiet,71,47856,47856.0,1.0,arbejdsmarked_velfærd
-Socialdemokratiet,Socialistisk Folkeparti,71,32962,23187.0,0.7034463928159699,arbejdsmarked_velfærd
-Socialdemokratiet,Uden for Folketingsgrupperne,71,8511,6079.0,0.714252144283868,arbejdsmarked_velfærd
-Socialdemokratiet,Venstre,71,32633,32613.0,0.9993871234639782,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Socialistisk Folkeparti,71,4861,4837.0,0.995062744291298,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Uden for Folketingsgrupperne,71,2783,1618.0,0.5813869924541861,arbejdsmarked_velfærd
-Socialistisk Folkeparti,Venstre,71,10880,7637.0,0.7019301470588235,arbejdsmarked_velfærd
-Uden for Folketingsgrupperne,Uden for Folketingsgrupperne,71,375,218.0,0.5813333333333334,arbejdsmarked_velfærd
-Uden for Folketingsgrupperne,Venstre,71,2923,2085.0,0.7133082449538146,arbejdsmarked_velfærd
-Venstre,Venstre,71,4763,4758.0,0.9989502414444678,arbejdsmarked_velfærd
+Enhedslisten,Venstre,69,87132,23475.0,0.2694188128356976,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Liberal Alliance,69,112,48.0,0.42857142857142855,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Radikale Venstre,69,62,25.0,0.4032258064516129,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Socialdemokratiet,69,414,175.0,0.4227053140096618,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Socialistisk Folkeparti,69,53,19.0,0.3584905660377358,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Tjóðveldi,69,1,1.0,1.0,arbejdsmarked_velfærd
+Inuit Ataqatigiit,Venstre,69,285,115.0,0.40350877192982454,arbejdsmarked_velfærd
+Liberal Alliance,Liberal Alliance,69,14337,14294.0,0.9970007672455884,arbejdsmarked_velfærd
+Liberal Alliance,Radikale Venstre,69,19441,13661.0,0.7026901908338048,arbejdsmarked_velfærd
+Liberal Alliance,Socialdemokratiet,69,119728,88512.0,0.7392756915675531,arbejdsmarked_velfærd
+Liberal Alliance,Socialistisk Folkeparti,69,16111,7608.0,0.47222394637204396,arbejdsmarked_velfærd
+Liberal Alliance,Tjóðveldi,69,24,0.0,0.0,arbejdsmarked_velfærd
+Liberal Alliance,Venstre,69,78008,75271.0,0.9649138549892319,arbejdsmarked_velfærd
+Radikale Venstre,Radikale Venstre,69,4628,4606.0,0.9952463267070009,arbejdsmarked_velfærd
+Radikale Venstre,Socialdemokratiet,69,71139,59350.0,0.8342821799575479,arbejdsmarked_velfærd
+Radikale Venstre,Socialistisk Folkeparti,69,9586,6574.0,0.6857917796786981,arbejdsmarked_velfærd
+Radikale Venstre,Tjóðveldi,69,15,0.0,0.0,arbejdsmarked_velfærd
+Radikale Venstre,Venstre,69,46389,32980.0,0.710944404923581,arbejdsmarked_velfærd
+Socialdemokratiet,Socialdemokratiet,69,212124,208285.0,0.9819020950010371,arbejdsmarked_velfærd
+Socialdemokratiet,Socialistisk Folkeparti,69,58978,39146.0,0.6637390213299874,arbejdsmarked_velfærd
+Socialdemokratiet,Tjóðveldi,69,89,0.0,0.0,arbejdsmarked_velfærd
+Socialdemokratiet,Venstre,69,286390,216678.0,0.7565836795977513,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Socialistisk Folkeparti,69,2982,2977.0,0.9983232729711603,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Tjóðveldi,69,12,0.0,0.0,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Venstre,69,38450,18000.0,0.4681404421326398,arbejdsmarked_velfærd
+Tjóðveldi,Venstre,69,59,0.0,0.0,arbejdsmarked_velfærd
+Venstre,Venstre,69,88929,88898.0,0.9996514073024547,arbejdsmarked_velfærd
+Alternativet,Alternativet,70,988,884.0,0.8947368421052632,arbejdsmarked_velfærd
+Alternativet,Danmarksdemokraterne,70,1424,673.0,0.4726123595505618,arbejdsmarked_velfærd
+Alternativet,Dansk Folkeparti,70,7849,3748.0,0.4775130589884062,arbejdsmarked_velfærd
+Alternativet,Det Konservative Folkeparti,70,6398,3237.0,0.5059393560487653,arbejdsmarked_velfærd
+Alternativet,Enhedslisten,70,7226,6278.0,0.8688070855244949,arbejdsmarked_velfærd
+Alternativet,Liberal Alliance,70,1993,925.0,0.4641244355243352,arbejdsmarked_velfærd
+Alternativet,Nye Borgerlige,70,2116,840.0,0.39697542533081287,arbejdsmarked_velfærd
+Alternativet,Radikale Venstre,70,8766,6502.0,0.7417294090805384,arbejdsmarked_velfærd
+Alternativet,Sambandsflokkurin,70,21,13.0,0.6190476190476191,arbejdsmarked_velfærd
+Alternativet,Siumut,70,4,1.0,0.25,arbejdsmarked_velfærd
+Alternativet,Socialdemokratiet,70,27392,18363.0,0.6703782126168224,arbejdsmarked_velfærd
+Alternativet,Socialistisk Folkeparti,70,7892,6609.0,0.837430309173847,arbejdsmarked_velfærd
+Alternativet,Venstre,70,23584,12433.0,0.5271794436906377,arbejdsmarked_velfærd
+Danmarksdemokraterne,Danmarksdemokraterne,70,186,174.0,0.9354838709677419,arbejdsmarked_velfærd
+Danmarksdemokraterne,Dansk Folkeparti,70,3913,3727.0,0.9524661385126502,arbejdsmarked_velfærd
+Danmarksdemokraterne,Det Konservative Folkeparti,70,3303,2570.0,0.7780805328489252,arbejdsmarked_velfærd
+Danmarksdemokraterne,Enhedslisten,70,3673,1707.0,0.46474271712496595,arbejdsmarked_velfærd
+Danmarksdemokraterne,Liberal Alliance,70,1014,753.0,0.742603550295858,arbejdsmarked_velfærd
+Danmarksdemokraterne,Nye Borgerlige,70,1110,820.0,0.7387387387387387,arbejdsmarked_velfærd
+Danmarksdemokraterne,Radikale Venstre,70,4484,2538.0,0.5660124888492417,arbejdsmarked_velfærd
+Danmarksdemokraterne,Sambandsflokkurin,70,9,7.0,0.7777777777777778,arbejdsmarked_velfærd
+Danmarksdemokraterne,Siumut,70,3,0.0,0.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialdemokratiet,70,13914,9373.0,0.6736380623832111,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialistisk Folkeparti,70,4064,2049.0,0.5041830708661418,arbejdsmarked_velfærd
+Danmarksdemokraterne,Venstre,70,11948,9463.0,0.7920154000669568,arbejdsmarked_velfærd
+Dansk Folkeparti,Dansk Folkeparti,70,9870,9655.0,0.9782168186423505,arbejdsmarked_velfærd
+Dansk Folkeparti,Det Konservative Folkeparti,70,18156,13619.0,0.7501101564221194,arbejdsmarked_velfærd
+Dansk Folkeparti,Enhedslisten,70,20391,9665.0,0.4739836202246089,arbejdsmarked_velfærd
+Dansk Folkeparti,Liberal Alliance,70,5686,4147.0,0.7293352092859655,arbejdsmarked_velfærd
+Dansk Folkeparti,Nye Borgerlige,70,5999,4632.0,0.7721286881146858,arbejdsmarked_velfærd
+Dansk Folkeparti,Radikale Venstre,70,24801,14249.0,0.5745332849481876,arbejdsmarked_velfærd
+Dansk Folkeparti,Sambandsflokkurin,70,50,38.0,0.76,arbejdsmarked_velfærd
+Dansk Folkeparti,Siumut,70,8,0.0,0.0,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialdemokratiet,70,77659,51446.0,0.662460242856591,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialistisk Folkeparti,70,22563,11640.0,0.5158888445685414,arbejdsmarked_velfærd
+Dansk Folkeparti,Venstre,70,66700,51236.0,0.7681559220389805,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Det Konservative Folkeparti,70,6495,6450.0,0.9930715935334873,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Enhedslisten,70,16700,7947.0,0.4758682634730539,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Liberal Alliance,70,4665,3994.0,0.8561629153269025,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Nye Borgerlige,70,4901,3408.0,0.6953682921852683,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Radikale Venstre,70,20337,14228.0,0.6996115454590156,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Sambandsflokkurin,70,39,39.0,1.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Siumut,70,7,0.0,0.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialdemokratiet,70,63260,48285.0,0.7632785330382548,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialistisk Folkeparti,70,18514,10683.0,0.577022793561629,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Venstre,70,54110,50211.0,0.9279430789133247,arbejdsmarked_velfærd
+Enhedslisten,Enhedslisten,70,8176,8147.0,0.9964530332681018,arbejdsmarked_velfærd
+Enhedslisten,Liberal Alliance,70,5188,2134.0,0.41133384734001543,arbejdsmarked_velfærd
+Enhedslisten,Nye Borgerlige,70,5517,2196.0,0.39804241435562804,arbejdsmarked_velfærd
+Enhedslisten,Radikale Venstre,70,22889,16523.0,0.7218751365284635,arbejdsmarked_velfærd
+Enhedslisten,Sambandsflokkurin,70,48,24.0,0.5,arbejdsmarked_velfærd
+Enhedslisten,Siumut,70,8,8.0,1.0,arbejdsmarked_velfærd
+Enhedslisten,Socialdemokratiet,70,71628,46316.0,0.646618640755012,arbejdsmarked_velfærd
+Enhedslisten,Socialistisk Folkeparti,70,20806,17237.0,0.8284629433817168,arbejdsmarked_velfærd
+Enhedslisten,Venstre,70,61615,30653.0,0.497492493710947,arbejdsmarked_velfærd
+Liberal Alliance,Liberal Alliance,70,419,411.0,0.9809069212410502,arbejdsmarked_velfærd
+Liberal Alliance,Nye Borgerlige,70,1508,1080.0,0.7161803713527851,arbejdsmarked_velfærd
+Liberal Alliance,Radikale Venstre,70,6350,4063.0,0.6398425196850394,arbejdsmarked_velfærd
+Liberal Alliance,Sambandsflokkurin,70,12,12.0,1.0,arbejdsmarked_velfærd
+Liberal Alliance,Siumut,70,1,0.0,0.0,arbejdsmarked_velfærd
+Liberal Alliance,Socialdemokratiet,70,19837,13978.0,0.7046428391389827,arbejdsmarked_velfærd
+Liberal Alliance,Socialistisk Folkeparti,70,5774,2965.0,0.5135088326983027,arbejdsmarked_velfærd
+Liberal Alliance,Venstre,70,17039,14590.0,0.8562709079171313,arbejdsmarked_velfærd
+Nye Borgerlige,Nye Borgerlige,70,479,478.0,0.9979123173277662,arbejdsmarked_velfærd
+Nye Borgerlige,Radikale Venstre,70,6722,3054.0,0.45432906872954476,arbejdsmarked_velfærd
+Nye Borgerlige,Sambandsflokkurin,70,11,9.0,0.8181818181818182,arbejdsmarked_velfærd
+Nye Borgerlige,Siumut,70,3,0.0,0.0,arbejdsmarked_velfærd
+Nye Borgerlige,Socialdemokratiet,70,21102,11090.0,0.5255426025969102,arbejdsmarked_velfærd
+Nye Borgerlige,Socialistisk Folkeparti,70,6110,2388.0,0.39083469721767594,arbejdsmarked_velfærd
+Nye Borgerlige,Venstre,70,18094,12311.0,0.6803912899303637,arbejdsmarked_velfærd
+Radikale Venstre,Radikale Venstre,70,12464,12089.0,0.9699133504492939,arbejdsmarked_velfærd
+Radikale Venstre,Sambandsflokkurin,70,58,37.0,0.6379310344827587,arbejdsmarked_velfærd
+Radikale Venstre,Siumut,70,11,11.0,1.0,arbejdsmarked_velfærd
+Radikale Venstre,Socialdemokratiet,70,86957,73544.0,0.845751348367584,arbejdsmarked_velfærd
+Radikale Venstre,Socialistisk Folkeparti,70,25333,20924.0,0.8259582362925828,arbejdsmarked_velfærd
+Radikale Venstre,Venstre,70,74848,53654.0,0.7168394613082514,arbejdsmarked_velfærd
+Sambandsflokkurin,Socialdemokratiet,70,162,133.0,0.8209876543209876,arbejdsmarked_velfærd
+Sambandsflokkurin,Socialistisk Folkeparti,70,50,25.0,0.5,arbejdsmarked_velfærd
+Sambandsflokkurin,Venstre,70,137,136.0,0.9927007299270073,arbejdsmarked_velfærd
+Siumut,Socialdemokratiet,70,29,29.0,1.0,arbejdsmarked_velfærd
+Siumut,Socialistisk Folkeparti,70,8,8.0,1.0,arbejdsmarked_velfærd
+Siumut,Venstre,70,27,0.0,0.0,arbejdsmarked_velfærd
+Socialdemokratiet,Socialdemokratiet,70,132401,132262.0,0.9989501589867146,arbejdsmarked_velfærd
+Socialdemokratiet,Socialistisk Folkeparti,70,79112,61355.0,0.7755460612802103,arbejdsmarked_velfærd
+Socialdemokratiet,Venstre,70,235730,185663.0,0.7876087048742205,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Socialistisk Folkeparti,70,10159,10106.0,0.994782951077862,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Venstre,70,68071,40537.0,0.59551056984619,arbejdsmarked_velfærd
+Venstre,Venstre,70,97509,96606.0,0.9907393163707966,arbejdsmarked_velfærd
+Alternativet,Alternativet,71,819,724.0,0.884004884004884,arbejdsmarked_velfærd
+Alternativet,Danmarksdemokraterne,71,5943,3800.0,0.6394077065455157,arbejdsmarked_velfærd
+Alternativet,Dansk Folkeparti,71,1588,1048.0,0.6599496221662469,arbejdsmarked_velfærd
+Alternativet,Det Konservative Folkeparti,71,4007,2358.0,0.5884701771899177,arbejdsmarked_velfærd
+Alternativet,Enhedslisten,71,3389,2457.0,0.7249926231926822,arbejdsmarked_velfærd
+Alternativet,Javnaðarflokkurin,71,4,2.0,0.5,arbejdsmarked_velfærd
+Alternativet,Liberal Alliance,71,5906,3445.0,0.5833051134439553,arbejdsmarked_velfærd
+Alternativet,Moderaterne,71,6590,3635.0,0.5515933232169955,arbejdsmarked_velfærd
+Alternativet,Nye Borgerlige,71,2200,1325.0,0.6022727272727273,arbejdsmarked_velfærd
+Alternativet,Radikale Venstre,71,2837,1864.0,0.6570320761367642,arbejdsmarked_velfærd
+Alternativet,Sambandsflokkurin,71,43,34.0,0.7906976744186046,arbejdsmarked_velfærd
+Alternativet,Siumut,71,2,2.0,1.0,arbejdsmarked_velfærd
+Alternativet,Socialdemokratiet,71,22746,12626.0,0.5550866086344852,arbejdsmarked_velfærd
+Alternativet,Socialistisk Folkeparti,71,6160,4693.0,0.7618506493506494,arbejdsmarked_velfærd
+Alternativet,Venstre,71,10309,5669.0,0.5499078475118828,arbejdsmarked_velfærd
+Danmarksdemokraterne,Danmarksdemokraterne,71,7182,7168.0,0.9980506822612085,arbejdsmarked_velfærd
+Danmarksdemokraterne,Dansk Folkeparti,71,4340,3686.0,0.8493087557603687,arbejdsmarked_velfærd
+Danmarksdemokraterne,Det Konservative Folkeparti,71,10876,9496.0,0.873115115851416,arbejdsmarked_velfærd
+Danmarksdemokraterne,Enhedslisten,71,9179,5355.0,0.5833968841921778,arbejdsmarked_velfærd
+Danmarksdemokraterne,Javnaðarflokkurin,71,19,0.0,0.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Liberal Alliance,71,15940,12973.0,0.8138644918444166,arbejdsmarked_velfærd
+Danmarksdemokraterne,Moderaterne,71,17948,13186.0,0.7346779585469133,arbejdsmarked_velfærd
+Danmarksdemokraterne,Nye Borgerlige,71,6079,5082.0,0.8359927619674289,arbejdsmarked_velfærd
+Danmarksdemokraterne,Radikale Venstre,71,7816,5459.0,0.698439099283521,arbejdsmarked_velfærd
+Danmarksdemokraterne,Sambandsflokkurin,71,104,71.0,0.6826923076923077,arbejdsmarked_velfærd
+Danmarksdemokraterne,Siumut,71,10,10.0,1.0,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialdemokratiet,71,61638,44842.0,0.7275057594341153,arbejdsmarked_velfærd
+Danmarksdemokraterne,Socialistisk Folkeparti,71,16771,11113.0,0.662631924154791,arbejdsmarked_velfærd
+Danmarksdemokraterne,Venstre,71,27947,20393.0,0.7297026514473826,arbejdsmarked_velfærd
+Dansk Folkeparti,Dansk Folkeparti,71,374,370.0,0.9893048128342246,arbejdsmarked_velfærd
+Dansk Folkeparti,Det Konservative Folkeparti,71,2922,2203.0,0.7539356605065024,arbejdsmarked_velfærd
+Dansk Folkeparti,Enhedslisten,71,2482,1597.0,0.6434327155519742,arbejdsmarked_velfærd
+Dansk Folkeparti,Javnaðarflokkurin,71,5,0.0,0.0,arbejdsmarked_velfærd
+Dansk Folkeparti,Liberal Alliance,71,4284,3047.0,0.7112511671335201,arbejdsmarked_velfærd
+Dansk Folkeparti,Moderaterne,71,4844,3271.0,0.6752683732452519,arbejdsmarked_velfærd
+Dansk Folkeparti,Nye Borgerlige,71,1598,1382.0,0.8648310387984981,arbejdsmarked_velfærd
+Dansk Folkeparti,Radikale Venstre,71,2130,1367.0,0.6417840375586854,arbejdsmarked_velfærd
+Dansk Folkeparti,Sambandsflokkurin,71,25,12.0,0.48,arbejdsmarked_velfærd
+Dansk Folkeparti,Siumut,71,2,2.0,1.0,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialdemokratiet,71,16629,11228.0,0.6752059654819893,arbejdsmarked_velfærd
+Dansk Folkeparti,Socialistisk Folkeparti,71,4533,3244.0,0.7156408559452901,arbejdsmarked_velfærd
+Dansk Folkeparti,Venstre,71,7549,5120.0,0.678235527884488,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Det Konservative Folkeparti,71,3077,3072.0,0.9983750406239844,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Enhedslisten,71,6183,3522.0,0.5696263949539059,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Javnaðarflokkurin,71,12,0.0,0.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Liberal Alliance,71,10798,9487.0,0.8785886275236154,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Moderaterne,71,12123,9040.0,0.7456900107234183,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Nye Borgerlige,71,4094,3202.0,0.7821201758671226,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Radikale Venstre,71,5280,3968.0,0.7515151515151515,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Sambandsflokkurin,71,71,41.0,0.5774647887323944,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Siumut,71,6,6.0,1.0,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialdemokratiet,71,41634,30703.0,0.7374501609261661,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Socialistisk Folkeparti,71,11314,7500.0,0.6628955276648401,arbejdsmarked_velfærd
+Det Konservative Folkeparti,Venstre,71,18874,13953.0,0.7392709547525697,arbejdsmarked_velfærd
+Enhedslisten,Enhedslisten,71,2114,2085.0,0.9862819299905392,arbejdsmarked_velfærd
+Enhedslisten,Javnaðarflokkurin,71,11,6.0,0.5454545454545454,arbejdsmarked_velfærd
+Enhedslisten,Liberal Alliance,71,9050,5052.0,0.558232044198895,arbejdsmarked_velfærd
+Enhedslisten,Moderaterne,71,10227,5501.0,0.5378898992862032,arbejdsmarked_velfærd
+Enhedslisten,Nye Borgerlige,71,3484,1965.0,0.5640068886337543,arbejdsmarked_velfærd
+Enhedslisten,Radikale Venstre,71,4458,2794.0,0.62673844773441,arbejdsmarked_velfærd
+Enhedslisten,Sambandsflokkurin,71,58,39.0,0.6724137931034483,arbejdsmarked_velfærd
+Enhedslisten,Siumut,71,5,5.0,1.0,arbejdsmarked_velfærd
+Enhedslisten,Socialdemokratiet,71,35128,18253.0,0.5196139831473469,arbejdsmarked_velfærd
+Enhedslisten,Socialistisk Folkeparti,71,9552,7581.0,0.7936557788944724,arbejdsmarked_velfærd
+Enhedslisten,Venstre,71,15918,8238.0,0.5175273275537128,arbejdsmarked_velfærd
+Javnaðarflokkurin,Liberal Alliance,71,17,0.0,0.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Moderaterne,71,23,19.0,0.8260869565217391,arbejdsmarked_velfærd
+Javnaðarflokkurin,Nye Borgerlige,71,7,0.0,0.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Radikale Venstre,71,9,5.0,0.5555555555555556,arbejdsmarked_velfærd
+Javnaðarflokkurin,Socialdemokratiet,71,71,71.0,1.0,arbejdsmarked_velfærd
+Javnaðarflokkurin,Socialistisk Folkeparti,71,18,9.0,0.5,arbejdsmarked_velfærd
+Javnaðarflokkurin,Venstre,71,29,29.0,1.0,arbejdsmarked_velfærd
+Liberal Alliance,Liberal Alliance,71,7028,6991.0,0.994735344336938,arbejdsmarked_velfærd
+Liberal Alliance,Moderaterne,71,17752,12137.0,0.6836976115367283,arbejdsmarked_velfærd
+Liberal Alliance,Nye Borgerlige,71,5943,4478.0,0.7534915026081104,arbejdsmarked_velfærd
+Liberal Alliance,Radikale Venstre,71,7718,5410.0,0.7009587976159627,arbejdsmarked_velfærd
+Liberal Alliance,Sambandsflokkurin,71,108,54.0,0.5,arbejdsmarked_velfærd
+Liberal Alliance,Siumut,71,9,9.0,1.0,arbejdsmarked_velfærd
+Liberal Alliance,Socialdemokratiet,71,60964,41001.0,0.672544452463749,arbejdsmarked_velfærd
+Liberal Alliance,Socialistisk Folkeparti,71,16568,10213.0,0.6164292612264607,arbejdsmarked_velfærd
+Liberal Alliance,Venstre,71,27599,18586.0,0.6734301967462589,arbejdsmarked_velfærd
+Moderaterne,Moderaterne,71,9033,8597.0,0.9517325362559504,arbejdsmarked_velfærd
+Moderaterne,Nye Borgerlige,71,6774,4363.0,0.6440803070563921,arbejdsmarked_velfærd
+Moderaterne,Radikale Venstre,71,8729,6773.0,0.7759193492954519,arbejdsmarked_velfærd
+Moderaterne,Sambandsflokkurin,71,117,112.0,0.9572649572649573,arbejdsmarked_velfærd
+Moderaterne,Siumut,71,11,11.0,1.0,arbejdsmarked_velfærd
+Moderaterne,Socialdemokratiet,71,68672,66594.0,0.9697402143522833,arbejdsmarked_velfærd
+Moderaterne,Socialistisk Folkeparti,71,18700,13262.0,0.7091978609625669,arbejdsmarked_velfærd
+Moderaterne,Venstre,71,31080,30026.0,0.9660875160875161,arbejdsmarked_velfærd
+Nye Borgerlige,Nye Borgerlige,71,889,722.0,0.81214848143982,arbejdsmarked_velfærd
+Nye Borgerlige,Radikale Venstre,71,2955,1852.0,0.6267343485617597,arbejdsmarked_velfærd
+Nye Borgerlige,Sambandsflokkurin,71,36,18.0,0.5,arbejdsmarked_velfærd
+Nye Borgerlige,Siumut,71,3,3.0,1.0,arbejdsmarked_velfærd
+Nye Borgerlige,Socialdemokratiet,71,23270,14778.0,0.6350666093682853,arbejdsmarked_velfærd
+Nye Borgerlige,Socialistisk Folkeparti,71,6325,3976.0,0.6286166007905138,arbejdsmarked_velfærd
+Nye Borgerlige,Venstre,71,10560,6730.0,0.6373106060606061,arbejdsmarked_velfærd
+Radikale Venstre,Radikale Venstre,71,1484,1416.0,0.954177897574124,arbejdsmarked_velfærd
+Radikale Venstre,Sambandsflokkurin,71,49,38.0,0.7755102040816326,arbejdsmarked_velfærd
+Radikale Venstre,Siumut,71,5,5.0,1.0,arbejdsmarked_velfærd
+Radikale Venstre,Socialdemokratiet,71,29956,23509.0,0.7847843503805582,arbejdsmarked_velfærd
+Radikale Venstre,Socialistisk Folkeparti,71,8150,5905.0,0.7245398773006135,arbejdsmarked_velfærd
+Radikale Venstre,Venstre,71,13575,10590.0,0.7801104972375691,arbejdsmarked_velfærd
+Sambandsflokkurin,Socialdemokratiet,71,400,400.0,1.0,arbejdsmarked_velfærd
+Sambandsflokkurin,Socialistisk Folkeparti,71,108,82.0,0.7592592592592593,arbejdsmarked_velfærd
+Sambandsflokkurin,Venstre,71,168,166.0,0.9880952380952381,arbejdsmarked_velfærd
+Siumut,Socialdemokratiet,71,31,31.0,1.0,arbejdsmarked_velfærd
+Siumut,Socialistisk Folkeparti,71,9,9.0,1.0,arbejdsmarked_velfærd
+Siumut,Venstre,71,14,14.0,1.0,arbejdsmarked_velfærd
+Socialdemokratiet,Socialdemokratiet,71,114599,114566.0,0.9997120393720713,arbejdsmarked_velfærd
+Socialdemokratiet,Socialistisk Folkeparti,71,64152,45473.0,0.7088321486469634,arbejdsmarked_velfærd
+Socialdemokratiet,Venstre,71,106833,106392.0,0.9958720620033136,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Socialistisk Folkeparti,71,7794,7721.0,0.9906338208878624,arbejdsmarked_velfærd
+Socialistisk Folkeparti,Venstre,71,29065,20493.0,0.7050748322724927,arbejdsmarked_velfærd
+Venstre,Venstre,71,22740,22548.0,0.99155672823219,arbejdsmarked_velfærd
