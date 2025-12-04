@@ -215,7 +215,7 @@ aktørid,aktør,Period,party
 185,Nadeem Farooq,65,Radikale Venstre
 184,Lennart Damsbo-Andersen,65,Socialdemokratiet
 183,Bent Bøgsted,65,Dansk Folkeparti
-182,Inger Støjberg,65,Danmarksdemokraterne
+182,Inger Støjberg,65,Venstre
 181,Annette Lind,65,Socialdemokratiet
 180,Peter Juel-Jensen,65,Venstre
 179,Hans Christian Thoning,65,Venstre
@@ -267,7 +267,7 @@ aktørid,aktør,Period,party
 296,Ulla Tørnæs,65,Venstre
 20779,Runa Friis Hansen,65,Enhedslisten
 263,Mette Hjermind Dencker,65,Dansk Folkeparti
-262,Sjúrður Skaale,65,Javnaðarflokkurin
+262,Sjúrður Skaale,65,Tjóðveldi
 261,Esben Lunde Larsen,65,Venstre
 20798,Mads Olsen,65,Socialistisk Folkeparti
 260,Leif Lahn Jensen,65,Socialdemokratiet
@@ -620,7 +620,7 @@ aktørid,aktør,Period,party
 24,Karsten Lauritzen,65,Venstre
 94,Peter Christensen,65,Venstre
 21143,Morten Klessen,65,Socialdemokratiet
-113,Jens Henrik Thulesen Dahl,65,Danmarksdemokraterne
+113,Jens Henrik Thulesen Dahl,65,Dansk Folkeparti
 138,Mette Frederiksen,65,Socialdemokratiet
 93,Louise Elholm,65,Venstre
 33,Holger K. Nielsen,65,Socialistisk Folkeparti
@@ -629,7 +629,7 @@ aktørid,aktør,Period,party
 139,Thomas Danielsen,65,Venstre
 96,Mike Legarth,65,Det Konservative Folkeparti
 73,Merete Riisager,65,Liberal Alliance
-71,Tom Behnke,65,Det Konservative Folkeparti
+71,Tom Behnke,65,Uden for Folketingsgrupperne
 57,Jakob Engel-Schmidt,65,Venstre
 141,Martin Lidegaard,65,Radikale Venstre
 18,Alex Ahrendtsen,65,Dansk Folkeparti
@@ -641,7 +641,7 @@ aktørid,aktør,Period,party
 111,Joachim B. Olsen,65,Liberal Alliance
 21206,Elvira Kûitse,65,Naleraq
 23,Bjarne Corydon,65,Socialdemokratiet
-97,Jesper Petersen,65,Socialdemokratiet
+97,Jesper Petersen,65,Socialistisk Folkeparti
 56,Karin Nødgaard,65,Dansk Folkeparti
 21186,Mads Madsen Henriksen,65,Socialdemokratiet
 21161,Lisa Perkins,65,Liberal Alliance
@@ -679,7 +679,7 @@ aktørid,aktør,Period,party
 20976,Caroline Stage Olsen,65,Moderaterne
 38,Astrid Krag,65,Socialistisk Folkeparti
 117,Simon Emil Ammitzbøll-Bille,65,Radikale Venstre
-48,Peter Skaarup,65,Danmarksdemokraterne
+48,Peter Skaarup,65,Dansk Folkeparti
 80,Torsten Schack Pedersen,65,Venstre
 122,Stine Brix,65,Enhedslisten
 110,Rosa Lund,65,Enhedslisten
@@ -696,7 +696,7 @@ aktørid,aktør,Period,party
 108,Charlotte Dyremose,65,Det Konservative Folkeparti
 129,Bertel Haarder,65,Venstre
 62,Annette Vilhelmsen,65,Socialistisk Folkeparti
-109,Trine Pertou Mach,65,Enhedslisten
+109,Trine Pertou Mach,65,Socialistisk Folkeparti
 69,Pernille Skipper,65,Enhedslisten
 12,Nicolai Wammen,65,Socialdemokratiet
 144,Helle Thorning-Schmidt,65,Socialdemokratiet
@@ -731,7 +731,7 @@ aktørid,aktør,Period,party
 121,Karina Lorentzen Dehnhardt,66,Socialistisk Folkeparti
 351,Sophie Hæstorp Andersen,66,Socialdemokratiet
 78,Marie Krarup,66,Dansk Folkeparti
-262,Sjúrður Skaale,66,Javnaðarflokkurin
+262,Sjúrður Skaale,66,Tjóðveldi
 3993,Grethe H. Nielsen,66,Socialdemokratiet
 15762,Christian Rabjerg Madsen,66,Socialdemokratiet
 3996,Henrik Fruergaard,66,Venstre
@@ -835,7 +835,7 @@ aktørid,aktør,Period,party
 11585,Jens Arne Hedegaard,66,Venstre
 270,Claus Hjort Frederiksen,66,Venstre
 10704,Kasper Krüger,66,Venstre
-71,Tom Behnke,66,Det Konservative Folkeparti
+71,Tom Behnke,66,Uden for Folketingsgrupperne
 276,Pernille Boye Koch,66,Radikale Venstre
 10702,Helle Dam,66,Socialdemokratiet
 10691,Kurt Scheelsbeck,66,Det Konservative Folkeparti
@@ -950,7 +950,7 @@ aktørid,aktør,Period,party
 111,Joachim B. Olsen,66,Liberal Alliance
 725,Preben Rudiengaard,66,Venstre
 1484,Sofia Rossen,66,Inuit Ataqatigiit
-97,Jesper Petersen,66,Socialdemokratiet
+97,Jesper Petersen,66,Socialistisk Folkeparti
 794,Lene Garsdal,66,Socialistisk Folkeparti
 20396,Jens Meilvang,66,Liberal Alliance
 20394,Steffen W. Frølund,66,Liberal Alliance
@@ -995,7 +995,7 @@ aktørid,aktør,Period,party
 1067,Lykke Roed,66,Dansk Folkeparti
 1393,Pernille Blach Hansen,66,Socialdemokratiet
 1392,Pernille Søndergaard,66,Enhedslisten
-109,Trine Pertou Mach,66,Enhedslisten
+109,Trine Pertou Mach,66,Socialistisk Folkeparti
 1085,Majbrit Berlau,66,Enhedslisten
 1385,Pernille Frahm (udpeget af SF),66,Socialistisk Folkeparti
 20399,Louise Brown,66,Liberal Alliance
@@ -1075,7 +1075,7 @@ aktørid,aktør,Period,party
 666,Jørn Pedersen,66,Socialdemokratiet
 1752,Jørn Jespersen,66,Socialistisk Folkeparti
 93,Louise Elholm,66,Venstre
-113,Jens Henrik Thulesen Dahl,66,Danmarksdemokraterne
+113,Jens Henrik Thulesen Dahl,66,Dansk Folkeparti
 667,Søren Egge Rasmussen,66,Enhedslisten
 1751,Inger Bierbaum,66,Socialdemokratiet
 20580,Lean Milo,66,Moderaterne
@@ -1149,7 +1149,7 @@ aktørid,aktør,Period,party
 209,Camilla Hersom,66,Radikale Venstre
 16952,Helle Osther,66,Enhedslisten
 18917,Balder Mørk Andersen,66,Socialistisk Folkeparti
-48,Peter Skaarup,66,Danmarksdemokraterne
+48,Peter Skaarup,66,Dansk Folkeparti
 16757,Danny K. Malkowski,66,Liberal Alliance
 18729,Katrine Robsøe,66,Radikale Venstre
 206,Troels Lund Poulsen,66,Venstre
@@ -1228,7 +1228,7 @@ aktørid,aktør,Period,party
 18698,Marlene Ambo-Rasmussen,66,Venstre
 20359,Sigurd Agersnap,66,Socialistisk Folkeparti
 18714,Kasper Sand Kjær,66,Socialdemokratiet
-182,Inger Støjberg,66,Danmarksdemokraterne
+182,Inger Støjberg,66,Venstre
 191,Zenia Stampe,66,Radikale Venstre
 181,Annette Lind,66,Socialdemokratiet
 18696,Morten Dahlin,66,Venstre
@@ -1508,7 +1508,7 @@ aktørid,aktør,Period,party
 18917,Balder Mørk Andersen,67,Socialistisk Folkeparti
 20354,Theresa Scavenius,67,Alternativet
 1478,Simon Pihl Sørensen,67,Socialdemokratiet
-97,Jesper Petersen,67,Socialdemokratiet
+97,Jesper Petersen,67,Socialistisk Folkeparti
 18882,Tanja Larsson,67,Socialdemokratiet
 1484,Sofia Rossen,67,Inuit Ataqatigiit
 19002,Gitte Willumsen,67,Venstre
@@ -1719,7 +1719,7 @@ aktørid,aktør,Period,party
 10704,Kasper Krüger,67,Venstre
 10702,Helle Dam,67,Socialdemokratiet
 15790,Marcus Knuth,67,Venstre
-71,Tom Behnke,67,Det Konservative Folkeparti
+71,Tom Behnke,67,Uden for Folketingsgrupperne
 10691,Kurt Scheelsbeck,67,Det Konservative Folkeparti
 10705,Bente Kronborg Holst,67,Dansk Folkeparti
 13727,Sarah Nørris,67,Enhedslisten
@@ -1831,7 +1831,7 @@ aktørid,aktør,Period,party
 3083,Charlotte Fischer,67,Radikale Venstre
 3086,Johs. Poulsen,67,Radikale Venstre
 80,Torsten Schack Pedersen,67,Venstre
-48,Peter Skaarup,67,Danmarksdemokraterne
+48,Peter Skaarup,67,Dansk Folkeparti
 3092,Vibeke Grave,67,Socialdemokratiet
 20366,Thomas Skriver Jensen,67,Socialdemokratiet
 3996,Henrik Fruergaard,67,Venstre
@@ -1978,7 +1978,7 @@ aktørid,aktør,Period,party
 201,Thomas Jensen,67,Socialdemokratiet
 126,Kim Andersen (udpeget af V),67,Venstre
 261,Esben Lunde Larsen,67,Venstre
-262,Sjúrður Skaale,67,Javnaðarflokkurin
+262,Sjúrður Skaale,67,Tjóðveldi
 362,Vivi Kier,67,Det Konservative Folkeparti
 651,Jens Christian Lund,67,Socialdemokratiet
 354,Mette Boye,67,Socialistisk Folkeparti
@@ -2035,7 +2035,7 @@ aktørid,aktør,Period,party
 665,Helge Adam Møller,67,Det Konservative Folkeparti
 125,Hans Christian Schmidt,67,Venstre
 266,Rasmus Horn Langhoff,67,Socialdemokratiet
-113,Jens Henrik Thulesen Dahl,67,Danmarksdemokraterne
+113,Jens Henrik Thulesen Dahl,67,Dansk Folkeparti
 666,Jørn Pedersen,67,Socialdemokratiet
 20790,Ken Kristensen,67,Venstre
 265,Eva Kjer Hansen,67,Venstre
@@ -2072,7 +2072,7 @@ aktørid,aktør,Period,party
 118,Trine Bramsen,67,Socialdemokratiet
 138,Mette Frederiksen,67,Socialdemokratiet
 172,Pernille Rosenkrantz-Theil,67,Enhedslisten
-182,Inger Støjberg,67,Danmarksdemokraterne
+182,Inger Støjberg,67,Venstre
 1085,Majbrit Berlau,67,Enhedslisten
 141,Martin Lidegaard,67,Radikale Venstre
 171,Per Clausen,67,Enhedslisten
@@ -2124,7 +2124,7 @@ aktørid,aktør,Period,party
 108,Charlotte Dyremose,67,Det Konservative Folkeparti
 135,Mette Bock,67,Liberal Alliance
 188,Sanne Rubinke,67,Socialistisk Folkeparti
-109,Trine Pertou Mach,67,Enhedslisten
+109,Trine Pertou Mach,67,Socialistisk Folkeparti
 187,Julie Skovsby,67,Socialdemokratiet
 164,Hans Andersen,67,Venstre
 1116,Marianne Saxtoft,67,Radikale Venstre
@@ -2178,7 +2178,7 @@ aktørid,aktør,Period,party
 162,Karina Adsbøl,68,Dansk Folkeparti
 12283,Aksel V. Johannesen,68,Javnaðarflokkurin
 10691,Kurt Scheelsbeck,68,Det Konservative Folkeparti
-71,Tom Behnke,68,Det Konservative Folkeparti
+71,Tom Behnke,68,Uden for Folketingsgrupperne
 276,Pernille Boye Koch,68,Radikale Venstre
 11586,Bilal Inekci,68,Socialistisk Folkeparti
 20355,Kim Edberg Andersen,68,Nye Borgerlige
@@ -2378,9 +2378,9 @@ aktørid,aktør,Period,party
 20841,Lars Arne Christensen,68,Moderaterne
 207,Jakob Ellemann-Jensen,68,Venstre
 17141,Brigitte Klintskov Jerkel,68,Det Konservative Folkeparti
-48,Peter Skaarup,68,Danmarksdemokraterne
+48,Peter Skaarup,68,Dansk Folkeparti
 132,Søren Pind,68,Venstre
-182,Inger Støjberg,68,Danmarksdemokraterne
+182,Inger Støjberg,68,Venstre
 17267,Kristian Hegaard,68,Radikale Venstre
 47,Karen Hækkerup (udpeget af S),68,Socialdemokratiet
 206,Troels Lund Poulsen,68,Venstre
@@ -2538,7 +2538,7 @@ aktørid,aktør,Period,party
 263,Mette Hjermind Dencker,68,Dansk Folkeparti
 14372,Susanne Eilersen (udpeget af DF),68,Dansk Folkeparti
 15757,Aaja Chemnitz,68,Inuit Ataqatigiit
-262,Sjúrður Skaale,68,Javnaðarflokkurin
+262,Sjúrður Skaale,68,Tjóðveldi
 164,Hans Andersen,68,Venstre
 15758,Aleqa Hammond,68,Siumut
 18917,Balder Mørk Andersen,68,Socialistisk Folkeparti
@@ -2649,7 +2649,7 @@ aktørid,aktør,Period,party
 1353,Peder Sass,68,Socialdemokratiet
 1770,Erik Mortensen,68,Socialdemokratiet
 1358,Julie Rademacher,68,Socialdemokratiet
-113,Jens Henrik Thulesen Dahl,68,Danmarksdemokraterne
+113,Jens Henrik Thulesen Dahl,68,Dansk Folkeparti
 1747,Jytte Wittrock,68,Socialdemokratiet
 20399,Louise Brown,68,Liberal Alliance
 93,Louise Elholm,68,Venstre
@@ -2736,7 +2736,7 @@ aktørid,aktør,Period,party
 96,Mike Legarth,68,Det Konservative Folkeparti
 111,Joachim B. Olsen,68,Liberal Alliance
 1039,Lotte Bundsgaard,68,Socialdemokratiet
-97,Jesper Petersen,68,Socialdemokratiet
+97,Jesper Petersen,68,Socialistisk Folkeparti
 794,Lene Garsdal,68,Socialistisk Folkeparti
 1023,Lone Møller (udpeget af S),68,Socialdemokratiet
 920,Lise Hækkerup,68,Socialdemokratiet
@@ -2801,7 +2801,7 @@ aktørid,aktør,Period,party
 1398,Peter Brixtofte,68,Uden for Folketingsgrupperne
 675,Hanne Severinsen,68,Venstre
 1636,Aase D. Madsen (udpeget af DF),68,Dansk Folkeparti
-109,Trine Pertou Mach,68,Enhedslisten
+109,Trine Pertou Mach,68,Socialistisk Folkeparti
 20559,Reza Javid,68,Enhedslisten
 1414,Peter Christian Christensen,68,Socialdemokratiet
 1815,Jette Jespersen,68,Dansk Folkeparti
@@ -2922,7 +2922,7 @@ aktørid,aktør,Period,party
 15783,Josephine Fock,69,Alternativet
 185,Nadeem Farooq,69,Radikale Venstre
 20370,Christina Olumeko,69,Alternativet
-226,Ole Sohn,69,Socialistisk Folkeparti
+226,Ole Sohn,69,Socialdemokratiet
 18703,Alex Vanopslagh,69,Liberal Alliance
 234,Anders Fogh Rasmussen,69,Venstre
 15784,Søren Pape Poulsen,69,Det Konservative Folkeparti
@@ -2986,7 +2986,7 @@ aktørid,aktør,Period,party
 20385,Charlotte Bagge Hansen,69,Moderaterne
 15770,Mattias Tesfaye,69,Socialdemokratiet
 1911,Henning Gjellerod,69,Socialdemokratiet
-182,Inger Støjberg,69,Danmarksdemokraterne
+182,Inger Støjberg,69,Venstre
 249,Kirsten Brosbøl (udpeget af S),69,Socialdemokratiet
 1739,Thor Gunnar Kofoed,69,Venstre
 15771,Morten Løkkegaard,69,Venstre
@@ -3032,7 +3032,7 @@ aktørid,aktør,Period,party
 257,Bjarne Laustsen,69,Socialdemokratiet
 188,Sanne Rubinke,69,Socialistisk Folkeparti
 15793,Mette Abildgaard,69,Det Konservative Folkeparti
-109,Trine Pertou Mach,69,Enhedslisten
+109,Trine Pertou Mach,69,Socialistisk Folkeparti
 1440,Poul Erik Christensen,69,Radikale Venstre
 16757,Danny K. Malkowski,69,Liberal Alliance
 195,Pernille Vigsø Bagge,69,Socialistisk Folkeparti
@@ -3056,7 +3056,7 @@ aktørid,aktør,Period,party
 951,Lissa Mathiasen,69,Socialdemokratiet
 209,Camilla Hersom,69,Radikale Venstre
 18614,Rigmor Dam,69,Javnaðarflokkurin
-48,Peter Skaarup,69,Danmarksdemokraterne
+48,Peter Skaarup,69,Dansk Folkeparti
 20362,Thomas Monberg,69,Socialdemokratiet
 1833,Høgni Hoydal,69,Tjóðveldi
 16503,Anne Paulin,69,Socialdemokratiet
@@ -3495,7 +3495,7 @@ aktørid,aktør,Period,party
 1357,Helge Sander,69,Venstre
 3090,Tina Petersen,69,Dansk Folkeparti
 10706,Jette Plesner Dali,69,Dansk Folkeparti
-71,Tom Behnke,69,Det Konservative Folkeparti
+71,Tom Behnke,69,Uden for Folketingsgrupperne
 18728,Anne Sophie Callesen,69,Radikale Venstre
 276,Pernille Boye Koch,69,Uden for Folketingsgrupperne
 653,Lise von Seelen,69,Socialdemokratiet
@@ -3538,7 +3538,7 @@ aktørid,aktør,Period,party
 1760,Helga Moos,69,Venstre
 3084,Troels Christensen (udpeget af V),69,Venstre
 124,Kim Christiansen,69,Dansk Folkeparti
-113,Jens Henrik Thulesen Dahl,69,Danmarksdemokraterne
+113,Jens Henrik Thulesen Dahl,69,Dansk Folkeparti
 1817,Jens Christian Larsen,69,Venstre
 1162,Meta Fuglsang,69,Socialistisk Folkeparti
 20930,Louise Mehnke,69,Socialdemokratiet
@@ -3628,7 +3628,7 @@ aktørid,aktør,Period,party
 1385,Pernille Frahm (udpeget af SF),70,Socialistisk Folkeparti
 18711,Birgitte Bergman,70,Det Konservative Folkeparti
 171,Per Clausen,70,Enhedslisten
-182,Inger Støjberg,70,Danmarksdemokraterne
+182,Inger Støjberg,70,Venstre
 18726,Stinus Lindgreen,70,Radikale Venstre
 18712,Niels Flemming Hansen,70,Det Konservative Folkeparti
 19928,Kim Aas,70,Socialdemokratiet
@@ -3713,7 +3713,7 @@ aktørid,aktør,Period,party
 20355,Kim Edberg Andersen,70,Nye Borgerlige
 144,Helle Thorning-Schmidt,70,Socialdemokratiet
 18698,Marlene Ambo-Rasmussen,70,Venstre
-109,Trine Pertou Mach,70,Enhedslisten
+109,Trine Pertou Mach,70,Socialistisk Folkeparti
 1116,Marianne Saxtoft,70,Radikale Venstre
 1413,Peter Westermann,70,Socialistisk Folkeparti
 18699,Christoffer Aagaard Melson,70,Venstre
@@ -3885,8 +3885,8 @@ aktørid,aktør,Period,party
 1767,Arne Toft,70,Socialdemokratiet
 277,Johan Lund Olsen,70,Inuit Ataqatigiit
 10107,Bruno Jerup,70,Enhedslisten
-71,Tom Behnke,70,Det Konservative Folkeparti
-113,Jens Henrik Thulesen Dahl,70,Danmarksdemokraterne
+71,Tom Behnke,70,Uden for Folketingsgrupperne
+113,Jens Henrik Thulesen Dahl,70,Dansk Folkeparti
 10690,Steen Konradsen,70,Det Konservative Folkeparti
 276,Pernille Boye Koch,70,Uden for Folketingsgrupperne
 1761,Else Theill Sørensen,70,Det Konservative Folkeparti
@@ -4153,7 +4153,7 @@ aktørid,aktør,Period,party
 210,Birgitte Josefsen,70,Venstre
 110,Rosa Lund,70,Enhedslisten
 16610,Lars Aslan Rasmussen,70,Socialdemokratiet
-48,Peter Skaarup,70,Danmarksdemokraterne
+48,Peter Skaarup,70,Dansk Folkeparti
 16728,Kirsten Normann Andersen,70,Socialistisk Folkeparti
 209,Camilla Hersom,70,Radikale Venstre
 794,Lene Garsdal,70,Socialistisk Folkeparti
@@ -4258,7 +4258,7 @@ aktørid,aktør,Period,party
 1619,Yildiz Akdogan,70,Socialdemokratiet
 1727,Jette Bergenholz Bautrup,70,Socialdemokratiet
 127,Preben Bang Henriksen,70,Venstre
-226,Ole Sohn,70,Socialistisk Folkeparti
+226,Ole Sohn,70,Socialdemokratiet
 20387,Kristian Klarskov,71,Moderaterne
 20352,Helene Brydensholt,71,Alternativet
 21143,Morten Klessen,71,Socialdemokratiet
@@ -4568,7 +4568,7 @@ aktørid,aktør,Period,party
 74,Mette Reissmann,71,Socialdemokratiet
 73,Merete Riisager,71,Liberal Alliance
 72,Karen Ellemann,71,Venstre
-71,Tom Behnke,71,Det Konservative Folkeparti
+71,Tom Behnke,71,Uden for Folketingsgrupperne
 80,Torsten Schack Pedersen,71,Venstre
 70,Martin Henriksen (udpeget af DF),71,Dansk Folkeparti
 68,Nikolaj Villumsen,71,Enhedslisten
@@ -4601,7 +4601,7 @@ aktørid,aktør,Period,party
 206,Troels Lund Poulsen,71,Venstre
 207,Jakob Ellemann-Jensen,71,Venstre
 208,Simon Kollerup,71,Socialdemokratiet
-226,Ole Sohn,71,Socialistisk Folkeparti
+226,Ole Sohn,71,Socialdemokratiet
 225,Uffe Elbæk,71,Alternativet
 224,Flemming Møller Mortensen,71,Socialdemokratiet
 223,Henrik Høegh,71,Venstre
