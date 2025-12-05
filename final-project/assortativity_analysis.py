@@ -42,16 +42,6 @@ def analyze_assortativity(G, period_label):
     print(f"Degree assortativity (unweighted): {degree_assort:.4f}")
     print(f"Degree assortativity (weighted):   {degree_assort_weighted:.4f}")
     print(f"Party assortativity:               {party_assort:.4f}")
-    
-    # Interpretation
-    print(f"\nInterpretation:")
-    if party_assort > 0.3:
-        print(f"  → Strong party cohesion: politicians vote primarily within party lines")
-    elif party_assort > 0.1:
-        print(f"  → Moderate party cohesion: some cross-party voting but parties still distinct")
-    elif party_assort > -0.1:
-        print(f"  → Weak/no party structure: voting patterns largely independent of party")
-    else:
-        print(f"  → Disassortative: politicians actively vote across party lines")
+
     
     return results
