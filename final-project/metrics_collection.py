@@ -10,8 +10,9 @@ import urllib.request
 
 
 # ============================================================================
-# FUNCTIONS COPIED FROM NOTEBOOKS FOR METRICS EXTRACTION
-# ===========================================================================
+# ASSORTATIVITY
+# ============================================================================
+
 def analyze_assortativity(G, period_label):
     """
     Calculate degree and party assortativity for a political network.
@@ -39,7 +40,6 @@ def analyze_assortativity(G, period_label):
     results['degree_assortativity_weighted'] = degree_assort_weighted
     
     # Party assortativity
-    # Check that all nodes have party attribute
     nodes_with_party = [n for n in G.nodes() if G.nodes[n].get('party') is not None]
     if len(nodes_with_party) < len(G.nodes()):
         print(f"Warning: {len(G.nodes()) - len(nodes_with_party)} nodes missing party attribute")
@@ -53,15 +53,24 @@ def analyze_assortativity(G, period_label):
     print(f"Degree assortativity (unweighted): {degree_assort:.4f}")
     print(f"Degree assortativity (weighted):   {degree_assort_weighted:.4f}")
     print(f"Party assortativity:               {party_assort:.4f}")
-
     
     return results
+
+
+# ============================================================================
+# DATA LOADING
+# ============================================================================
 
 def from_github(path):
     base_url = "https://raw.githubusercontent.com/Somon8/social_graphs_25/main/final-project"
     url_to_file = base_url + path
     print(f"Fetching from GitHub: {url_to_file}")
     return urllib.request.urlopen(url_to_file)
+
+
+# ============================================================================
+# HIGH SALIENCE SKELETON / BACKBONE
+# ============================================================================
 
 def high_salience_skeleton(table, undirected=False, return_self_loops=False):
     """
@@ -90,7 +99,7 @@ def high_salience_skeleton(table, undirected=False, return_self_loops=False):
         while len(Q) > 0:
             v = Q[min(Q.keys())].pop(0)
             S.append(v)
-            for _, w, l in G.edges(nbunch=[v,], data=True):
+            for _, w, l in G.edges(nbunch=[v], data=True):
                 new_distance = dist[v] + l['distance']
                 if dist[w] > new_distance:
                     Q[dist[w]].remove(w)
@@ -122,6 +131,7 @@ def high_salience_skeleton(table, undirected=False, return_self_loops=False):
     
     return table[['src', 'trg', 'nij', 'score']]
 
+
 def apply_backboning(df, 
                      source_col='source',
                      target_col='target', 
@@ -131,32 +141,6 @@ def apply_backboning(df,
                      alpha=0.0):
     """
     Apply high_salience_skeleton backboning to political voting network.
-    
-    Parameters:
-    -----------
-    df : pandas.DataFrame
-        Edge list DataFrame (output from filter_and_aggregate)
-    source_col : str
-        Column name for source nodes
-    target_col : str
-        Column name for target nodes
-    weight_col : str
-        Column name for edge weights (agreement rate 0-1)
-    min_votes_threshold : int or None
-        Minimum number of shared votes required to include an edge.
-        Applied BEFORE backboning. If None, no filtering is applied.
-    votes_col : str
-        Column name for total votes count (needed if filtering by min_votes_threshold)
-    alpha : float
-        Significance threshold for backbone extraction. Edges with score > alpha are kept.
-        Default is 0.0 (keep all edges with any salience).
-    
-    Returns:
-    --------
-    tuple : (filtered_df, stats_dict, nx.Graph)
-        - filtered_df: DataFrame with only backbone edges (preserves source_party, target_party)
-        - stats_dict: Dictionary with statistics (nodes, edges before/after, etc.)
-        - graph: NetworkX Graph object with backbone edges
     """
     df = df.copy()
     
@@ -173,7 +157,7 @@ def apply_backboning(df,
         after_filter_edges = original_edges
         after_filter_nodes = original_nodes
     
-    # Prepare edge table for backboning (rename columns to match expected format)
+    # Prepare edge table for backboning
     edge_table = df[[source_col, target_col, weight_col]].copy()
     edge_table.columns = ['src', 'trg', 'nij']
     
@@ -192,11 +176,9 @@ def apply_backboning(df,
     )
     
     # Clean up: keep original columns plus hss_score
-    # Remove duplicate src/trg columns and the nij column from backbone
     cols_to_keep = [source_col, target_col, 'source_party', 'target_party', 
                     votes_col, 'total_votes_agreed', weight_col]
     
-    # Add score as hss_score
     backbone_table['hss_score'] = backbone_table['score']
     cols_to_keep.append('hss_score')
     
@@ -263,6 +245,11 @@ def apply_backboning(df,
     
     return result_df, stats, G
 
+
+# ============================================================================
+# MODULARITY
+# ============================================================================
+
 def calculate_modularity(G, communities, verbose=False):
     L = G.number_of_edges()
     M = 0
@@ -290,27 +277,17 @@ def calculate_modularity(G, communities, verbose=False):
     
     return M
 
-    import pandas as pd
-import networkx as nx
-import numpy as np
 
+# ============================================================================
+# CENTRALITY
+# ============================================================================
 
 def centrality_analysis(G, network_name="Network", print_stats=True):
     """
     Calculate multiple centrality measures for a network.
     
-    Parameters:
-    -----------
-    G : networkx.Graph
-        The network to analyze
-    network_name : str
-        Name for printing (e.g., "Full Network", "Period 66")
-    print_stats : bool
-        Whether to print progress messages
-    
-    Returns:
-    --------
-    pandas.DataFrame : DataFrame with politicians as index and centrality measures as columns
+    Returns a pandas.DataFrame with nodes as index and
+    columns: 'degree', 'betweenness', 'closeness', 'eigenvector'.
     """
     if print_stats:
         print(f"\n{'='*80}")
@@ -321,11 +298,7 @@ def centrality_analysis(G, network_name="Network", print_stats=True):
     centrality_measures = {}
     
     # Check if graph has weights
-    has_weights = False
-    for u, v, d in G.edges(data=True):
-        if 'weight' in d:
-            has_weights = True
-            break
+    has_weights = any('weight' in d for _, _, d in G.edges(data=True))
     
     # Degree Centrality
     if print_stats:
@@ -336,15 +309,12 @@ def centrality_analysis(G, network_name="Network", print_stats=True):
     if print_stats:
         print("  - Computing betweenness centrality...")
     if has_weights:
-        # For betweenness, higher weight = shorter distance, so we invert
-        # Create a copy to avoid modifying original graph
         G_copy = G.copy()
         for u, v, d in G_copy.edges(data=True):
             weight = d.get('weight', 1.0)
-            d['distance'] = 1.0 / (weight + 1e-10)  # Avoid division by zero
+            d['distance'] = 1.0 / (weight + 1e-10)
         centrality_measures['betweenness'] = nx.betweenness_centrality(G_copy, weight='distance')
     else:
-        # Unweighted betweenness
         centrality_measures['betweenness'] = nx.betweenness_centrality(G)
     
     # Closeness Centrality
@@ -375,7 +345,6 @@ def centrality_analysis(G, network_name="Network", print_stats=True):
     if print_stats:
         print(f"✓ Centrality calculations complete for {network_name}\n")
     
-    # Convert to DataFrame with politicians as rows and measures as columns
     df_centrality = pd.DataFrame({
         measure: scores for measure, scores in centrality_measures.items() if scores is not None
     })
@@ -384,7 +353,7 @@ def centrality_analysis(G, network_name="Network", print_stats=True):
 
 
 # ============================================================================
-# WRAPPER FUNCTIONS
+# WRAPPER FUNCTIONS FOR STATS
 # ============================================================================
 
 def summarize_distribution(values, prefix):
@@ -414,36 +383,39 @@ def summarize_distribution(values, prefix):
     return stats
 
 
-def extract_centrality_stats(centrality_dict):
+def extract_centrality_stats(centrality_df):
     """
-    Extract summary statistics from centrality dict returned by 
-    political_centrality_analysis.calculate_centrality_measures().
+    Extract summary statistics from the centrality DataFrame returned by centrality_analysis().
     """
     stats = {}
+    measures = ['degree', 'betweenness', 'closeness', 'eigenvector']
+    suffixes = ['mean', 'median', 'max', 'min', 'std', 'variance', 'skewness', 'kurtosis']
     
-    for measure in ['degree', 'betweenness', 'closeness', 'eigenvector']:
-        if centrality_dict.get(measure) is not None:
-            values = list(centrality_dict[measure].values())
-            measure_stats = summarize_distribution(values, measure)
-            stats.update(measure_stats)
-        else:
-            for suffix in ['mean', 'median', 'max', 'min', 'std', 'variance', 'skewness', 'kurtosis']:
-                stats[f'{measure}_{suffix}'] = np.nan
+    for measure in measures:
+        if measure in centrality_df.columns:
+            values = centrality_df[measure].dropna().values
+            if len(values) > 0:
+                measure_stats = summarize_distribution(values, measure)
+                stats.update(measure_stats)
+                continue
+        
+        # If column missing or empty
+        for s in suffixes:
+            stats[f'{measure}_{s}'] = np.nan
     
     return stats
 
 
 def extract_assortativity_stats(G, period_label=""):
     """
-    Wrapper around assortativity_analysis.analyze_assortativity() 
-    that suppresses printing.
+    Wrapper around analyze_assortativity() that suppresses printing.
     """
     old_stdout = sys.stdout
     sys.stdout = open(os.devnull, 'w')
     
     try:
         results = analyze_assortativity(G, period_label)
-    except Exception as e:
+    except Exception:
         results = {
             'degree_assortativity': np.nan,
             'degree_assortativity_weighted': np.nan,
@@ -458,20 +430,22 @@ def extract_assortativity_stats(G, period_label=""):
 
 def extract_centrality_stats_silent(G, network_name="Network"):
     """
-    Wrapper around political_centrality_analysis.calculate_centrality_measures()
-    that suppresses printing and returns summary stats.
+    Wrapper around centrality_analysis() that suppresses printing and returns summary stats.
     """
     old_stdout = sys.stdout
     sys.stdout = open(os.devnull, 'w')
     
+    measures = ['degree', 'betweenness', 'closeness', 'eigenvector']
+    suffixes = ['mean', 'median', 'max', 'min', 'std', 'variance', 'skewness', 'kurtosis']
+    
     try:
-        centrality_dict = political_centrality_analysis.calculate_centrality_measures(G, network_name)
-        stats = extract_centrality_stats(centrality_dict)
-    except Exception as e:
+        centrality_df = centrality_analysis(G, network_name=network_name, print_stats=False)
+        stats = extract_centrality_stats(centrality_df)
+    except Exception:
         stats = {}
-        for measure in ['degree', 'betweenness', 'closeness', 'eigenvector']:
-            for suffix in ['mean', 'median', 'max', 'min', 'std', 'variance', 'skewness', 'kurtosis']:
-                stats[f'{measure}_{suffix}'] = np.nan
+        for measure in measures:
+            for s in suffixes:
+                stats[f'{measure}_{s}'] = np.nan
     finally:
         sys.stdout.close()
         sys.stdout = old_stdout
@@ -514,11 +488,10 @@ def compute_modularity_metrics(G, calculate_modularity_func):
         stats['louvain_modularity'] = calculate_modularity_func(G, louvain_dict)
         stats['num_louvain_communities'] = len(louvain_communities)
         
-        # Analyze community composition
         community_analysis = analyze_louvain_communities(G, louvain_communities)
         stats.update(community_analysis)
         
-    except:
+    except Exception:
         stats['louvain_modularity'] = np.nan
         stats['num_louvain_communities'] = 0
         stats['louvain_largest_community_size'] = 0
@@ -534,19 +507,12 @@ def compute_modularity_metrics(G, calculate_modularity_func):
 def analyze_louvain_communities(G, louvain_communities):
     """
     Analyze the party composition of Louvain-detected communities.
-    
-    Returns metrics about:
-    - Size of largest community
-    - Party diversity within communities
-    - Whether communities map to traditional blocs
     """
     stats = {}
     total_nodes = G.number_of_nodes()
     
-    # Sort communities by size
     sorted_communities = sorted(louvain_communities, key=len, reverse=True)
     
-    # Analyze each community's party composition
     community_summaries = []
     
     for i, community in enumerate(sorted_communities):
@@ -555,14 +521,11 @@ def analyze_louvain_communities(G, louvain_communities):
             party = G.nodes[node].get('party', 'Unknown')
             party_counts[party] += 1
         
-        # Sort parties by count
         sorted_parties = sorted(party_counts.items(), key=lambda x: x[1], reverse=True)
         
-        # Create summary string: "V:15,S:12,M:8" etc
-        summary = ','.join([f"{p}:{c}" for p, c in sorted_parties[:5]])  # Top 5 parties
+        summary = ','.join([f"{p}:{c}" for p, c in sorted_parties[:5]])
         community_summaries.append(f"C{i}({len(community)}):[{summary}]")
         
-        # Detailed stats for largest community
         if i == 0:
             stats['louvain_largest_community_size'] = len(community)
             stats['louvain_largest_community_pct'] = len(community) / total_nodes * 100
@@ -572,11 +535,7 @@ def analyze_louvain_communities(G, louvain_communities):
             stats['louvain_dominant_party_in_largest'] = dominant_party
             stats['louvain_dominant_party_pct_in_largest'] = dominant_count / len(community) * 100
     
-    # Full composition string (for inspection)
     stats['louvain_community_composition'] = ' | '.join(community_summaries)
-    
-    # Calculate party fragmentation across communities
-    # (do parties stay together or split across communities?)
     stats['louvain_party_fragmentation'] = calculate_party_fragmentation(G, sorted_communities)
     
     return stats
@@ -585,44 +544,31 @@ def analyze_louvain_communities(G, louvain_communities):
 def calculate_party_fragmentation(G, sorted_communities):
     """
     Calculate how fragmented parties are across Louvain communities.
-    
-    Returns a score 0-1 where:
-    - 0 = all members of each party are in the same community (no fragmentation)
-    - 1 = party members are evenly distributed across all communities (max fragmentation)
     """
-    # Get all parties and their members
     party_members = defaultdict(list)
     for node, data in G.nodes(data=True):
         party = data.get('party', 'Unknown')
         party_members[party].append(node)
     
-    # Create node -> community mapping
     node_to_community = {}
     for i, community in enumerate(sorted_communities):
         for node in community:
             node_to_community[node] = i
     
-    # For each party, calculate what fraction of members are in each community
     fragmentation_scores = []
     
     for party, members in party_members.items():
         if len(members) < 2:
             continue
             
-        # Count members per community
         community_counts = defaultdict(int)
         for member in members:
             comm = node_to_community.get(member, -1)
             community_counts[comm] += 1
         
-        # Calculate concentration (1 - Herfindahl index normalized)
-        # If all in one community: HHI = 1, fragmentation = 0
-        # If evenly split: HHI approaches 1/n, fragmentation approaches 1
         total = len(members)
         hhi = sum((count / total) ** 2 for count in community_counts.values())
         
-        # Normalize: fragmentation = 1 - HHI
-        # (ranges from 0 to 1-1/n_communities)
         fragmentation_scores.append(1 - hhi)
     
     if fragmentation_scores:
@@ -675,7 +621,6 @@ def compute_basic_graph_stats(G):
 def build_graph_with_threshold(edgelist, threshold):
     """
     Build graph from edgelist with threshold filtering.
-    Matches the logic in edgelist_and_graph_to_visualization().
     """
     filtered = edgelist[edgelist['weight'] > threshold].copy()
     
@@ -702,8 +647,8 @@ def build_graph_with_threshold(edgelist, threshold):
 # ============================================================================
 
 def collect_period_metrics(df_period, period, topic, 
-                          apply_backboning_func, calculate_modularity_func,
-                          agreement_threshold, min_votes_threshold, backbone_alpha):
+                           apply_backboning_func, calculate_modularity_func,
+                           agreement_threshold, min_votes_threshold, backbone_alpha):
     """
     Collect all metrics for a single period using the provided functions.
     """
@@ -812,7 +757,9 @@ def collect_all_metrics(from_github_func, apply_backboning_func, calculate_modul
         print(f"{'='*60}")
         
         try:
-            df_full = pd.read_csv(from_github_func(f"/edges/politician/Period/politician_edges_{topic}_by_Period.csv"))
+            df_full = pd.read_csv(from_github_func(
+                f"/edges/politician/Period/politician_edges_{topic}_by_Period.csv"
+            ))
             print(f"Loaded {len(df_full)} total edges")
         except Exception as e:
             print(f"ERROR loading {topic}: {e}")
@@ -870,20 +817,28 @@ def print_metrics_summary(metrics_df):
     print("\nKEY METRICS PREVIEW:")
     print(metrics_df[existing_cols].to_string(index=False))
 
-PERIODS = [66, 67, 68, 69, 70, 71]
-TOPICS = ['general', 'klima_miljo', 'immigration']
-AGREEMENT_THRESHOLD = 0.7
-MIN_VOTES_THRESHOLD = 10
-BACKBONE_ALPHA = 0.1
 
-metrics_df = collect_all_metrics(
-    from_github_func=from_github,
-    apply_backboning_func=apply_backboning,
-    calculate_modularity_func=calculate_modularity,
-    periods=PERIODS,
-    topics=TOPICS,
-    agreement_threshold=AGREEMENT_THRESHOLD,
-    min_votes_threshold=MIN_VOTES_THRESHOLD,
-    backbone_alpha=BACKBONE_ALPHA
-)
-metrics_df.to_csv('metrics_p66-71_general_klima_miljo_immigration.csv', index=False)
+# ============================================================================
+# DEFAULT RUN
+# ============================================================================
+
+if __name__ == "__main__":
+    PERIODS = [66, 67, 68, 69, 70, 71]
+    TOPICS = ['general', 'klima_miljo', 'immigration']
+    AGREEMENT_THRESHOLD = 0.7
+    MIN_VOTES_THRESHOLD = 10
+    BACKBONE_ALPHA = 0.1
+
+    metrics_df = collect_all_metrics(
+        from_github_func=from_github,
+        apply_backboning_func=apply_backboning,
+        calculate_modularity_func=calculate_modularity,
+        periods=PERIODS,
+        topics=TOPICS,
+        agreement_threshold=AGREEMENT_THRESHOLD,
+        min_votes_threshold=MIN_VOTES_THRESHOLD,
+        backbone_alpha=BACKBONE_ALPHA
+    )
+
+    metrics_df.to_csv('metrics_p66-71_general_klima_miljo_immigration.csv', index=False)
+    print_metrics_summary(metrics_df)
