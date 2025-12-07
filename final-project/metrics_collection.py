@@ -8,8 +8,6 @@ import sys
 import os
 import urllib.request
 
-# Import your modules
-import political_centrality_analysis
 
 # ============================================================================
 # FUNCTIONS COPIED FROM NOTEBOOKS FOR METRICS EXTRACTION
@@ -291,6 +289,99 @@ def calculate_modularity(G, communities, verbose=False):
         M += Mc
     
     return M
+
+    import pandas as pd
+import networkx as nx
+import numpy as np
+
+
+def centrality_analysis(G, network_name="Network", print_stats=True):
+    """
+    Calculate multiple centrality measures for a network.
+    
+    Parameters:
+    -----------
+    G : networkx.Graph
+        The network to analyze
+    network_name : str
+        Name for printing (e.g., "Full Network", "Period 66")
+    print_stats : bool
+        Whether to print progress messages
+    
+    Returns:
+    --------
+    pandas.DataFrame : DataFrame with politicians as index and centrality measures as columns
+    """
+    if print_stats:
+        print(f"\n{'='*80}")
+        print(f"Calculating centrality measures for {network_name}")
+        print(f"{'='*80}")
+        print(f"Network size: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges")
+    
+    centrality_measures = {}
+    
+    # Check if graph has weights
+    has_weights = False
+    for u, v, d in G.edges(data=True):
+        if 'weight' in d:
+            has_weights = True
+            break
+    
+    # Degree Centrality
+    if print_stats:
+        print("  - Computing degree centrality...")
+    centrality_measures['degree'] = nx.degree_centrality(G)
+    
+    # Betweenness Centrality
+    if print_stats:
+        print("  - Computing betweenness centrality...")
+    if has_weights:
+        # For betweenness, higher weight = shorter distance, so we invert
+        # Create a copy to avoid modifying original graph
+        G_copy = G.copy()
+        for u, v, d in G_copy.edges(data=True):
+            weight = d.get('weight', 1.0)
+            d['distance'] = 1.0 / (weight + 1e-10)  # Avoid division by zero
+        centrality_measures['betweenness'] = nx.betweenness_centrality(G_copy, weight='distance')
+    else:
+        # Unweighted betweenness
+        centrality_measures['betweenness'] = nx.betweenness_centrality(G)
+    
+    # Closeness Centrality
+    if print_stats:
+        print("  - Computing closeness centrality...")
+    if has_weights:
+        centrality_measures['closeness'] = nx.closeness_centrality(G_copy, distance='distance')
+    else:
+        centrality_measures['closeness'] = nx.closeness_centrality(G)
+    
+    # Eigenvector Centrality
+    if print_stats:
+        print("  - Computing eigenvector centrality...")
+    try:
+        if has_weights:
+            centrality_measures['eigenvector'] = nx.eigenvector_centrality(G, weight='weight', max_iter=1000)
+        else:
+            centrality_measures['eigenvector'] = nx.eigenvector_centrality(G, max_iter=1000)
+    except nx.PowerIterationFailedConvergence:
+        if print_stats:
+            print("    WARNING: Eigenvector centrality failed to converge, skipping...")
+        centrality_measures['eigenvector'] = None
+    except Exception as e:
+        if print_stats:
+            print(f"    WARNING: Eigenvector centrality failed ({str(e)}), skipping...")
+        centrality_measures['eigenvector'] = None
+    
+    if print_stats:
+        print(f"✓ Centrality calculations complete for {network_name}\n")
+    
+    # Convert to DataFrame with politicians as rows and measures as columns
+    df_centrality = pd.DataFrame({
+        measure: scores for measure, scores in centrality_measures.items() if scores is not None
+    })
+    
+    return df_centrality
+
 
 # ============================================================================
 # WRAPPER FUNCTIONS
@@ -779,243 +870,6 @@ def print_metrics_summary(metrics_df):
     print("\nKEY METRICS PREVIEW:")
     print(metrics_df[existing_cols].to_string(index=False))
 
-
-# ============================================================================
-# PLOTTING FUNCTIONS
-# ============================================================================
-
-TOPIC_COLORS = {
-    'general': '#666666',
-    'klima_miljo': '#2ca02c',
-    'klima_miljø': '#2ca02c', 
-    'immigration': '#1f77b4'
-}
-
-
-def plot_metric_by_topic(metrics_df, col, title=None, ylabel=None, figsize=(12, 4), show_backbone=True):
-    """
-    One metric, three subplots (one per topic), threshold vs backbone.
-    
-    Parameters:
-    -----------
-    show_backbone : bool
-        If True, show both threshold and backbone. If False, show only threshold.
-    """
-    topics = metrics_df['topic'].unique()
-    fig, axes = plt.subplots(1, len(topics), figsize=figsize)
-    if len(topics) == 1:
-        axes = [axes]
-    
-    # Determine backbone column
-    bb_col = None
-    if show_backbone and col.startswith('thresh_'):
-        bb_col = 'bb_' + col[7:]
-    
-    for ax, topic in zip(axes, topics):
-        data = metrics_df[metrics_df['topic'] == topic].sort_values('period')
-        periods = data['period'].values
-        
-        ax.plot(periods, data[col], 'o-', lw=2, ms=8, color='steelblue', label='Threshold')
-        
-        if bb_col and bb_col in data.columns:
-            ax.plot(periods, data[bb_col], 's--', lw=2, ms=8, color='coral', label='Backbone')
-        
-        ax.set_title(topic, fontweight='bold')
-        ax.set_xlabel('Period')
-        ax.set_xticks(periods)
-        ax.grid(True, alpha=0.3)
-        ax.legend()
-    
-    axes[0].set_ylabel(ylabel or col)
-    fig.suptitle(title or col, fontsize=13, fontweight='bold')
-    plt.tight_layout()
-    return fig, axes
-
-
-def plot_metric_all_topics_overlay(metrics_df, thresh_col, bb_col=None, title=None, ylabel=None, 
-                                    figsize=(10, 6), show_backbone=True):
-    """
-    All topics on same plot. Solid=threshold, dashed=backbone.
-    
-    Parameters:
-    -----------
-    show_backbone : bool
-        If True, show both threshold and backbone. If False, show only threshold.
-    """
-    fig, ax = plt.subplots(figsize=figsize)
-    topics = metrics_df['topic'].unique()
-    periods = sorted(metrics_df['period'].unique())
-    
-    for topic in topics:
-        data = metrics_df[metrics_df['topic'] == topic].sort_values('period')
-        color = TOPIC_COLORS.get(topic, 'black')
-        
-        ax.plot(data['period'], data[thresh_col], 'o-', lw=2, ms=8, 
-                color=color, label=f'{topic} (thresh)')
-        
-        if show_backbone and bb_col and bb_col in data.columns:
-            ax.plot(data['period'], data[bb_col], 's--', lw=2, ms=8,
-                    color=color, alpha=0.6, label=f'{topic} (backbone)')
-    
-    ax.set_xlabel('Period', fontsize=11)
-    ax.set_ylabel(ylabel or thresh_col, fontsize=11)
-    ax.set_title(title or thresh_col, fontsize=13, fontweight='bold')
-    ax.set_xticks(periods)
-    ax.grid(True, alpha=0.3)
-    ax.legend(bbox_to_anchor=(1.02, 1), loc='upper left')
-    plt.tight_layout()
-    return fig, ax
-
-
-def plot_summary_grid(metrics_df, figsize=(16, 12), show_backbone=True):
-    """
-    2x3 grid of key metrics. All topics overlaid, threshold vs backbone.
-    
-    Parameters:
-    -----------
-    show_backbone : bool
-        If True, show both threshold and backbone. If False, show only threshold.
-    """
-    metrics_to_plot = [
-        ('thresh_num_edges', 'bb_backbone_edges', 'Edge Count'),
-        ('thresh_party_modularity', 'bb_party_modularity', 'Party Modularity'),
-        ('thresh_party_assortativity', 'bb_party_assortativity', 'Party Assortativity'),
-        ('thresh_louvain_modularity', 'bb_louvain_modularity', 'Louvain Modularity'),
-        ('thresh_degree_mean', 'bb_degree_mean', 'Mean Degree Centrality'),
-        ('thresh_betweenness_mean', 'bb_betweenness_mean', 'Mean Betweenness Centrality'),
-    ]
-    
-    fig, axes = plt.subplots(2, 3, figsize=figsize)
-    axes = axes.flatten()
-    topics = metrics_df['topic'].unique()
-    periods = sorted(metrics_df['period'].unique())
-    
-    for ax, (thresh_col, bb_col, title) in zip(axes, metrics_to_plot):
-        for topic in topics:
-            data = metrics_df[metrics_df['topic'] == topic].sort_values('period')
-            color = TOPIC_COLORS.get(topic, 'black')
-            
-            if thresh_col in data.columns:
-                ax.plot(data['period'], data[thresh_col], 'o-', lw=2, ms=6,
-                        color=color, label=f'{topic} (thresh)')
-            
-            if show_backbone and bb_col in data.columns:
-                ax.plot(data['period'], data[bb_col], 's--', lw=2, ms=6,
-                        color=color, alpha=0.6, label=f'{topic} (bb)')
-        
-        ax.set_title(title, fontsize=11, fontweight='bold')
-        ax.set_xlabel('Period')
-        ax.set_xticks(periods)
-        ax.grid(True, alpha=0.3)
-    
-    # Single legend
-    handles, labels = axes[0].get_legend_handles_labels()
-    fig.legend(handles, labels, loc='upper center', bbox_to_anchor=(0.5, 1.02),
-               ncol=6, fontsize=9)
-    
-    plt.tight_layout(rect=[0, 0, 1, 0.95])
-    return fig, axes
-
-
-def plot_all_metrics_vertical(metrics_df, figsize=(14, 36), show_backbone=True):
-    """
-    Vertical stack of individual metric plots. Each row is one metric with all topics overlaid.
-    
-    Parameters:
-    -----------
-    show_backbone : bool
-        If True, show both threshold and backbone. If False, show only threshold.
-    """
-    metrics_to_plot = [
-        ('raw_edges', None, 'Raw Edge Count'),
-        ('thresh_num_edges', 'bb_backbone_edges', 'Edge Count (filtered)'),
-        ('thresh_num_nodes', 'bb_backbone_nodes', 'Node Count'),
-        ('thresh_density', 'bb_density', 'Network Density'),
-        ('thresh_avg_clustering', 'bb_avg_clustering', 'Average Clustering'),
-        ('thresh_party_modularity', 'bb_party_modularity', 'Party Modularity'),
-        ('thresh_louvain_modularity', 'bb_louvain_modularity', 'Louvain Modularity'),
-        ('thresh_party_assortativity', 'bb_party_assortativity', 'Party Assortativity'),
-        ('thresh_degree_assortativity', 'bb_degree_assortativity', 'Degree Assortativity'),
-        ('thresh_degree_mean', 'bb_degree_mean', 'Degree Centrality (mean)'),
-        ('thresh_betweenness_mean', 'bb_betweenness_mean', 'Betweenness Centrality (mean)'),
-        ('thresh_closeness_mean', 'bb_closeness_mean', 'Closeness Centrality (mean)'),
-        ('thresh_eigenvector_mean', 'bb_eigenvector_mean', 'Eigenvector Centrality (mean)'),
-    ]
-    
-    n_metrics = len(metrics_to_plot)
-    fig, axes = plt.subplots(n_metrics, 1, figsize=figsize)
-    topics = metrics_df['topic'].unique()
-    periods = sorted(metrics_df['period'].unique())
-    
-    for ax, (thresh_col, bb_col, title) in zip(axes, metrics_to_plot):
-        for topic in topics:
-            data = metrics_df[metrics_df['topic'] == topic].sort_values('period')
-            color = TOPIC_COLORS.get(topic, 'black')
-            
-            if thresh_col in data.columns:
-                ax.plot(data['period'], data[thresh_col], 'o-', lw=2, ms=7,
-                        color=color, label=f'{topic} (thresh)')
-            
-            if show_backbone and bb_col and bb_col in data.columns:
-                ax.plot(data['period'], data[bb_col], 's--', lw=2, ms=7,
-                        color=color, alpha=0.6, label=f'{topic} (bb)')
-        
-        ax.set_ylabel(title, fontsize=10)
-        ax.set_xticks(periods)
-        ax.grid(True, alpha=0.3)
-        ax.legend(loc='upper right', fontsize=8, ncol=3)
-    
-    axes[-1].set_xlabel('Period', fontsize=11)
-    
-    subtitle = '(solid = threshold, dashed = HSS backbone)' if show_backbone else '(threshold only)'
-    fig.suptitle(f'All Metrics Over Parliamentary Periods\n{subtitle}',
-                 fontsize=14, fontweight='bold')
-    plt.tight_layout(rect=[0, 0, 1, 0.98])
-    return fig, axes
-
-
-def plot_single_row(metrics_df, metrics_list, figsize=(16, 4), show_backbone=True):
-    """
-    Single row of subplots, one per metric. All topics overlaid on each.
-    
-    Parameters:
-    -----------
-    metrics_list : list of tuples
-        Each tuple: (thresh_col, bb_col, title)
-    show_backbone : bool
-        If True, show both threshold and backbone. If False, show only threshold.
-    """
-    n = len(metrics_list)
-    fig, axes = plt.subplots(1, n, figsize=figsize)
-    if n == 1:
-        axes = [axes]
-    
-    topics = metrics_df['topic'].unique()
-    periods = sorted(metrics_df['period'].unique())
-    
-    for ax, (thresh_col, bb_col, title) in zip(axes, metrics_list):
-        for topic in topics:
-            data = metrics_df[metrics_df['topic'] == topic].sort_values('period')
-            color = TOPIC_COLORS.get(topic, 'black')
-            
-            if thresh_col in data.columns:
-                ax.plot(data['period'], data[thresh_col], 'o-', lw=2, ms=7,
-                        color=color, label=f'{topic}')
-            
-            if show_backbone and bb_col and bb_col in data.columns:
-                ax.plot(data['period'], data[bb_col], 's--', lw=2, ms=7,
-                        color=color, alpha=0.5)
-        
-        ax.set_title(title, fontsize=11, fontweight='bold')
-        ax.set_xlabel('Period')
-        ax.set_xticks(periods)
-        ax.grid(True, alpha=0.3)
-    
-    axes[0].legend(loc='best', fontsize=9)
-    plt.tight_layout()
-    return fig, axes
-
-    # Configuration
 PERIODS = [66, 67, 68, 69, 70, 71]
 TOPICS = ['general', 'klima_miljo', 'immigration']
 AGREEMENT_THRESHOLD = 0.7
