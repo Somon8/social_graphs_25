@@ -386,6 +386,8 @@ def summarize_distribution(values, prefix):
 def extract_centrality_stats(centrality_df):
     """
     Extract summary statistics from the centrality DataFrame returned by centrality_analysis().
+
+    Expects columns: 'degree', 'betweenness', 'closeness', 'eigenvector'
     """
     stats = {}
     measures = ['degree', 'betweenness', 'closeness', 'eigenvector']
@@ -397,9 +399,9 @@ def extract_centrality_stats(centrality_df):
             if len(values) > 0:
                 measure_stats = summarize_distribution(values, measure)
                 stats.update(measure_stats)
-                continue
+                continue  # go to next measure
         
-        # If column missing or empty
+        # If column missing or empty, fill with NaN
         for s in suffixes:
             stats[f'{measure}_{s}'] = np.nan
     
@@ -430,7 +432,7 @@ def extract_assortativity_stats(G, period_label=""):
 
 def extract_centrality_stats_silent(G, network_name="Network"):
     """
-    Wrapper around centrality_analysis() that suppresses printing and returns summary stats.
+    Run centrality_analysis() without printing and return summary stats.
     """
     old_stdout = sys.stdout
     sys.stdout = open(os.devnull, 'w')
@@ -439,9 +441,11 @@ def extract_centrality_stats_silent(G, network_name="Network"):
     suffixes = ['mean', 'median', 'max', 'min', 'std', 'variance', 'skewness', 'kurtosis']
     
     try:
+        # IMPORTANT: call the local centrality_analysis, not an external module
         centrality_df = centrality_analysis(G, network_name=network_name, print_stats=False)
         stats = extract_centrality_stats(centrality_df)
-    except Exception:
+    except Exception as e:
+        # On failure, fill everything with NaN so the keys still exist
         stats = {}
         for measure in measures:
             for s in suffixes:
@@ -804,14 +808,17 @@ def print_metrics_summary(metrics_df):
     print(f"\nCollected {len(metrics_df)} rows with {len(metrics_df.columns)} columns")
     
     key_cols = [
-        'period', 'topic', 
-        'raw_edges', 'raw_nodes', 
-        'thresh_num_nodes', 'thresh_num_edges',
-        'thresh_party_modularity', 'thresh_louvain_modularity',
-        'thresh_party_assortativity',
-        'bb_backbone_nodes', 'bb_backbone_edges',
-        'bb_party_assortativity'
-    ]
+    'period', 'topic', 
+    'raw_edges', 'raw_nodes', 
+    'thresh_num_nodes', 'thresh_num_edges',
+    'thresh_party_modularity', 'thresh_louvain_modularity',
+    'thresh_party_assortativity',
+    'thresh_degree_mean',
+    'bb_backbone_nodes', 'bb_backbone_edges',
+    'bb_party_assortativity',
+    'bb_degree_mean'
+]
+
     
     existing_cols = [c for c in key_cols if c in metrics_df.columns]
     print("\nKEY METRICS PREVIEW:")
