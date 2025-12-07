@@ -153,30 +153,14 @@ def classify_all_cases(df, text_column, stemmed_keywords, threshold=1):
         })
     
     result_df = pd.DataFrame(results)
-    return pd.concat([df.reset_index(drop=True), result_df], axis=1)
-
-# =============================================================================
-# EXPLORATORY STATISTICS
-# =============================================================================
-
-def compute_coverage_stats(df):
-    """Compute coverage statistics"""
-    total = len(df)
-    classified = (df['primary_topic'].notna()).sum()
-    unclassified = (df['primary_topic'].isna()).sum()
-    multi_topic = (df['topic_count'] > 1).sum()
     
-    stats = {
-        'total_cases': total,
-        'classified': classified,
-        'classified_pct': 100 * classified / total,
-        'unclassified': unclassified,
-        'unclassified_pct': 100 * unclassified / total,
-        'multi_topic': multi_topic,
-        'multi_topic_pct': 100 * multi_topic / total
-    }
+    # Drop any existing classification columns from the original df to avoid duplicates
+    classification_cols = ['primary_topic', 'all_topics', 'topic_count', 'total_matches'] + \
+                          [f'score_{t}' for t in stemmed_keywords.keys()]
+    df_clean = df.drop(columns=[col for col in classification_cols if col in df.columns])
     
-    return stats
+    return pd.concat([df_clean.reset_index(drop=True), result_df], axis=1)
+
 
 def compute_topic_stats(df, topics):
     """Compute per-topic statistics"""
@@ -184,15 +168,18 @@ def compute_topic_stats(df, topics):
     
     for topic in topics:
         # Cases where this is primary topic
-        primary_count = (df['primary_topic'] == topic).sum()
+        primary_count = int((df['primary_topic'] == topic).sum())
         
         # Cases where this topic appears at all
-        any_count = df['all_topics'].apply(lambda x: topic in x if x else False).sum()
+        any_count = int(df['all_topics'].apply(
+            lambda x: topic in x if isinstance(x, list) and len(x) > 0 else False
+        ).sum())
         
         # Average score when topic is present
         score_col = f'score_{topic}'
         if score_col in df.columns:
-            avg_score = df[df[score_col] > 0][score_col].mean()
+            topic_scores = df[score_col]
+            avg_score = topic_scores[topic_scores > 0].mean()
         else:
             avg_score = 0
         
@@ -204,31 +191,6 @@ def compute_topic_stats(df, topics):
         })
     
     return pd.DataFrame(stats).sort_values('primary_count', ascending=False)
-
-def compute_overlap_matrix(df, topics):
-    """Compute topic co-occurrence matrix"""
-    matrix = pd.DataFrame(0, index=topics, columns=topics)
-    
-    for _, row in df.iterrows():
-        if row['all_topics']:
-            for t1 in row['all_topics']:
-                for t2 in row['all_topics']:
-                    if t1 in topics and t2 in topics:
-                        matrix.loc[t1, t2] += 1
-    
-    return matrix
-
-def compute_period_distribution(df, period_column, topics):
-    """Compute topic distribution across periods"""
-    # Cross-tabulation of primary topic by period
-    crosstab = pd.crosstab(df[period_column], df['primary_topic'])
-    
-    # Ensure all topics are present
-    for topic in topics:
-        if topic not in crosstab.columns:
-            crosstab[topic] = 0
-    
-    return crosstab[topics]
 
 # =============================================================================
 # VISUALIZATION FUNCTIONS
@@ -251,37 +213,6 @@ def plot_topic_distribution(topic_stats, figsize=(12, 6)):
     for bar, count in zip(bars, counts):
         ax.text(bar.get_x() + bar.get_width()/2, bar.get_height() + 5, 
                 str(count), ha='center', va='bottom', fontsize=9)
-    
-    plt.tight_layout()
-    return fig
-
-def plot_overlap_heatmap(overlap_matrix, figsize=(10, 8)):
-    """Heatmap of topic co-occurrence"""
-    fig, ax = plt.subplots(figsize=figsize)
-    
-    # Normalize by diagonal (self-co-occurrence = topic count)
-    # This shows proportion of overlap
-    diag = np.diag(overlap_matrix.values)
-    normalized = overlap_matrix.values / diag[:, np.newaxis]
-    normalized = np.nan_to_num(normalized)  # Handle division by zero
-    
-    sns.heatmap(normalized, annot=True, fmt='.2f', cmap='YlOrRd',
-                xticklabels=overlap_matrix.columns,
-                yticklabels=overlap_matrix.index,
-                ax=ax)
-    ax.set_title('Topic Overlap Matrix\n(Row topic → proportion also in column topic)')
-    plt.tight_layout()
-    return fig
-
-def plot_period_distribution(period_dist, figsize=(14, 6)):
-    """Stacked area chart of topics over periods"""
-    fig, ax = plt.subplots(figsize=figsize)
-    
-    period_dist.plot(kind='area', stacked=True, ax=ax, alpha=0.7)
-    ax.set_xlabel('Period')
-    ax.set_ylabel('Number of Cases')
-    ax.set_title('Topic Distribution Across Parliamentary Periods')
-    ax.legend(title='Topic', bbox_to_anchor=(1.05, 1), loc='upper left')
     
     plt.tight_layout()
     return fig

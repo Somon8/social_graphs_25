@@ -140,7 +140,13 @@ def compute_modularity_metrics(G, calculate_modularity_func):
             'party_modularity': np.nan, 
             'louvain_modularity': np.nan, 
             'num_louvain_communities': 0, 
-            'num_parties': 0
+            'num_parties': 0,
+            'louvain_largest_community_size': 0,
+            'louvain_largest_community_pct': np.nan,
+            'louvain_num_parties_in_largest': 0,
+            'louvain_dominant_party_in_largest': '',
+            'louvain_dominant_party_pct_in_largest': np.nan,
+            'louvain_community_composition': '',
         }
     
     stats = {}
@@ -159,11 +165,121 @@ def compute_modularity_metrics(G, calculate_modularity_func):
         louvain_dict = {f'c{i}': list(c) for i, c in enumerate(louvain_communities)}
         stats['louvain_modularity'] = calculate_modularity_func(G, louvain_dict)
         stats['num_louvain_communities'] = len(louvain_communities)
+        
+        # Analyze community composition
+        community_analysis = analyze_louvain_communities(G, louvain_communities)
+        stats.update(community_analysis)
+        
     except:
         stats['louvain_modularity'] = np.nan
         stats['num_louvain_communities'] = 0
+        stats['louvain_largest_community_size'] = 0
+        stats['louvain_largest_community_pct'] = np.nan
+        stats['louvain_num_parties_in_largest'] = 0
+        stats['louvain_dominant_party_in_largest'] = ''
+        stats['louvain_dominant_party_pct_in_largest'] = np.nan
+        stats['louvain_community_composition'] = ''
     
     return stats
+
+
+def analyze_louvain_communities(G, louvain_communities):
+    """
+    Analyze the party composition of Louvain-detected communities.
+    
+    Returns metrics about:
+    - Size of largest community
+    - Party diversity within communities
+    - Whether communities map to traditional blocs
+    """
+    stats = {}
+    total_nodes = G.number_of_nodes()
+    
+    # Sort communities by size
+    sorted_communities = sorted(louvain_communities, key=len, reverse=True)
+    
+    # Analyze each community's party composition
+    community_summaries = []
+    
+    for i, community in enumerate(sorted_communities):
+        party_counts = defaultdict(int)
+        for node in community:
+            party = G.nodes[node].get('party', 'Unknown')
+            party_counts[party] += 1
+        
+        # Sort parties by count
+        sorted_parties = sorted(party_counts.items(), key=lambda x: x[1], reverse=True)
+        
+        # Create summary string: "V:15,S:12,M:8" etc
+        summary = ','.join([f"{p}:{c}" for p, c in sorted_parties[:5]])  # Top 5 parties
+        community_summaries.append(f"C{i}({len(community)}):[{summary}]")
+        
+        # Detailed stats for largest community
+        if i == 0:
+            stats['louvain_largest_community_size'] = len(community)
+            stats['louvain_largest_community_pct'] = len(community) / total_nodes * 100
+            stats['louvain_num_parties_in_largest'] = len(party_counts)
+            
+            dominant_party, dominant_count = sorted_parties[0]
+            stats['louvain_dominant_party_in_largest'] = dominant_party
+            stats['louvain_dominant_party_pct_in_largest'] = dominant_count / len(community) * 100
+    
+    # Full composition string (for inspection)
+    stats['louvain_community_composition'] = ' | '.join(community_summaries)
+    
+    # Calculate party fragmentation across communities
+    # (do parties stay together or split across communities?)
+    stats['louvain_party_fragmentation'] = calculate_party_fragmentation(G, sorted_communities)
+    
+    return stats
+
+
+def calculate_party_fragmentation(G, sorted_communities):
+    """
+    Calculate how fragmented parties are across Louvain communities.
+    
+    Returns a score 0-1 where:
+    - 0 = all members of each party are in the same community (no fragmentation)
+    - 1 = party members are evenly distributed across all communities (max fragmentation)
+    """
+    # Get all parties and their members
+    party_members = defaultdict(list)
+    for node, data in G.nodes(data=True):
+        party = data.get('party', 'Unknown')
+        party_members[party].append(node)
+    
+    # Create node -> community mapping
+    node_to_community = {}
+    for i, community in enumerate(sorted_communities):
+        for node in community:
+            node_to_community[node] = i
+    
+    # For each party, calculate what fraction of members are in each community
+    fragmentation_scores = []
+    
+    for party, members in party_members.items():
+        if len(members) < 2:
+            continue
+            
+        # Count members per community
+        community_counts = defaultdict(int)
+        for member in members:
+            comm = node_to_community.get(member, -1)
+            community_counts[comm] += 1
+        
+        # Calculate concentration (1 - Herfindahl index normalized)
+        # If all in one community: HHI = 1, fragmentation = 0
+        # If evenly split: HHI approaches 1/n, fragmentation approaches 1
+        total = len(members)
+        hhi = sum((count / total) ** 2 for count in community_counts.values())
+        
+        # Normalize: fragmentation = 1 - HHI
+        # (ranges from 0 to 1-1/n_communities)
+        fragmentation_scores.append(1 - hhi)
+    
+    if fragmentation_scores:
+        return np.mean(fragmentation_scores)
+    return 0.0
 
 
 def compute_basic_graph_stats(G):
