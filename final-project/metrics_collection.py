@@ -1,25 +1,296 @@
-"""
-Metrics Collection Across Parliamentary Periods
+import pandas as pd
+import numpy as np
+import networkx as nx
+import matplotlib.pyplot as plt
+from collections import defaultdict
+from tqdm import tqdm
+import sys
+import os
+import urllib.request
 
-This module collects network metrics across all periods for specified topics
-using the existing analysis functions.
+# Import your modules
+import political_centrality_analysis
 
-Usage:
-    from metrics_collection import collect_all_metrics, print_metrics_summary
+# ============================================================================
+# FUNCTIONS COPIED FROM NOTEBOOKS FOR METRICS EXTRACTION
+# ===========================================================================
+def analyze_assortativity(G, period_label):
+    """
+    Calculate degree and party assortativity for a political network.
     
-    metrics_df = collect_all_metrics(
-        from_github_func=from_github,
-        apply_backboning_func=apply_backboning,
-        calculate_modularity_func=calculate_modularity,
-        periods=[66, 67, 68, 69, 70, 71],
-        topics=['klima_miljø', 'immigration'],
-        agreement_threshold=0.7,
-        min_votes_threshold=10,
-        backbone_alpha=0.1
+    Parameters:
+    -----------
+    G : networkx.Graph
+        Graph with 'party' node attribute and 'weight' edge attribute
+    period_label : str
+        Label for printing (e.g., "Period 66")
+    
+    Returns:
+    --------
+    dict with assortativity measures
+    """
+    results = {}
+    
+    # Degree assortativity (unweighted)
+    degree_assort = nx.degree_assortativity_coefficient(G)
+    results['degree_assortativity'] = degree_assort
+    
+    # Degree assortativity (weighted)
+    # This uses strength (sum of edge weights) rather than degree
+    degree_assort_weighted = nx.degree_pearson_correlation_coefficient(G, weight='weight')
+    results['degree_assortativity_weighted'] = degree_assort_weighted
+    
+    # Party assortativity
+    # Check that all nodes have party attribute
+    nodes_with_party = [n for n in G.nodes() if G.nodes[n].get('party') is not None]
+    if len(nodes_with_party) < len(G.nodes()):
+        print(f"Warning: {len(G.nodes()) - len(nodes_with_party)} nodes missing party attribute")
+    
+    party_assort = nx.attribute_assortativity_coefficient(G, 'party')
+    results['party_assortativity'] = party_assort
+    
+    # Print summary
+    print(f"\nASSORTATIVITY ANALYSIS: {period_label}")
+    print(f"{'='*60}")
+    print(f"Degree assortativity (unweighted): {degree_assort:.4f}")
+    print(f"Degree assortativity (weighted):   {degree_assort_weighted:.4f}")
+    print(f"Party assortativity:               {party_assort:.4f}")
+
+    
+    return results
+
+def from_github(path):
+    base_url = "https://raw.githubusercontent.com/Somon8/social_graphs_25/main/final-project"
+    url_to_file = base_url + path
+    print(f"Fetching from GitHub: {url_to_file}")
+    return urllib.request.urlopen(url_to_file)
+
+def high_salience_skeleton(table, undirected=False, return_self_loops=False):
+    """
+    Calculate high salience skeleton backbone (from course materials).
+    
+    This function identifies statistically significant edges based on shortest path
+    calculations through the network.
+    """
+    sys.stderr.write("Calculating HSS score...\n")
+    table = table.copy()
+    table['distance'] = 1.0 / table['nij']
+    nodes = set(table['src']) | set(table['trg'])
+    G = nx.from_pandas_edgelist(table, source='src', target='trg', 
+                                 edge_attr='distance', create_using=nx.DiGraph())
+    cs = defaultdict(float)
+    
+    for s in nodes:
+        pred = defaultdict(list)
+        dist = {t: float('inf') for t in nodes}
+        dist[s] = 0.0
+        Q = defaultdict(list)
+        for w in dist:
+            Q[dist[w]].append(w)
+        S = []
+        
+        while len(Q) > 0:
+            v = Q[min(Q.keys())].pop(0)
+            S.append(v)
+            for _, w, l in G.edges(nbunch=[v,], data=True):
+                new_distance = dist[v] + l['distance']
+                if dist[w] > new_distance:
+                    Q[dist[w]].remove(w)
+                    dist[w] = new_distance
+                    Q[dist[w]].append(w)
+                    pred[w] = []
+                if dist[w] == new_distance:
+                    pred[w].append(v)
+            while len(S) > 0:
+                w = S.pop()
+                for v in pred[w]:
+                    cs[(v, w)] += 1.0
+            Q = defaultdict(list, {k: v for k, v in Q.items() if len(v) > 0})
+    
+    table['score'] = table.apply(lambda x: cs[(x['src'], x['trg'])] / len(nodes), axis=1)
+    
+    if not return_self_loops:
+        table = table[table['src'] != table['trg']]
+    
+    if undirected:
+        table['edge'] = table.apply(lambda x: '%s-%s' % (min(x['src'], x['trg']), 
+                                                          max(x['src'], x['trg'])), axis=1)
+        table_maxscore = table.groupby(by='edge')['score'].sum().reset_index()
+        table = table.merge(table_maxscore, on='edge', suffixes=('_min', ''))
+        table = table.drop_duplicates(subset=['edge'])
+        table = table.drop('edge', axis=1)
+        table = table.drop('score_min', axis=1)
+        table['score'] = table['score'] / 2.0
+    
+    return table[['src', 'trg', 'nij', 'score']]
+
+def apply_backboning(df, 
+                     source_col='source',
+                     target_col='target', 
+                     weight_col='weight',
+                     min_votes_threshold=None,
+                     votes_col='total_votes_shared',
+                     alpha=0.0):
+    """
+    Apply high_salience_skeleton backboning to political voting network.
+    
+    Parameters:
+    -----------
+    df : pandas.DataFrame
+        Edge list DataFrame (output from filter_and_aggregate)
+    source_col : str
+        Column name for source nodes
+    target_col : str
+        Column name for target nodes
+    weight_col : str
+        Column name for edge weights (agreement rate 0-1)
+    min_votes_threshold : int or None
+        Minimum number of shared votes required to include an edge.
+        Applied BEFORE backboning. If None, no filtering is applied.
+    votes_col : str
+        Column name for total votes count (needed if filtering by min_votes_threshold)
+    alpha : float
+        Significance threshold for backbone extraction. Edges with score > alpha are kept.
+        Default is 0.0 (keep all edges with any salience).
+    
+    Returns:
+    --------
+    tuple : (filtered_df, stats_dict, nx.Graph)
+        - filtered_df: DataFrame with only backbone edges (preserves source_party, target_party)
+        - stats_dict: Dictionary with statistics (nodes, edges before/after, etc.)
+        - graph: NetworkX Graph object with backbone edges
+    """
+    df = df.copy()
+    
+    # Store original statistics
+    original_edges = len(df)
+    original_nodes = len(set(df[source_col]) | set(df[target_col]))
+    
+    # Filter by minimum votes threshold BEFORE backboning
+    if min_votes_threshold is not None:
+        df = df[df[votes_col] >= min_votes_threshold]
+        after_filter_edges = len(df)
+        after_filter_nodes = len(set(df[source_col]) | set(df[target_col]))
+    else:
+        after_filter_edges = original_edges
+        after_filter_nodes = original_nodes
+    
+    # Prepare edge table for backboning (rename columns to match expected format)
+    edge_table = df[[source_col, target_col, weight_col]].copy()
+    edge_table.columns = ['src', 'trg', 'nij']
+    
+    # Apply high salience skeleton
+    backbone_table = high_salience_skeleton(edge_table, undirected=True)
+    
+    # Apply alpha threshold
+    backbone_table = backbone_table[backbone_table['score'] > alpha]
+    
+    # Merge back with original data to get ALL original columns
+    backbone_table = backbone_table.merge(
+        df, 
+        left_on=['src', 'trg'], 
+        right_on=[source_col, target_col],
+        how='left'
     )
     
-    print_metrics_summary(metrics_df)
-"""
+    # Clean up: keep original columns plus hss_score
+    # Remove duplicate src/trg columns and the nij column from backbone
+    cols_to_keep = [source_col, target_col, 'source_party', 'target_party', 
+                    votes_col, 'total_votes_agreed', weight_col]
+    
+    # Add score as hss_score
+    backbone_table['hss_score'] = backbone_table['score']
+    cols_to_keep.append('hss_score')
+    
+    result_df = backbone_table[cols_to_keep].copy()
+    
+    # Create NetworkX graph with all attributes
+    G = nx.from_pandas_edgelist(
+        result_df, 
+        source=source_col, 
+        target=target_col,
+        edge_attr=[weight_col, 'hss_score', votes_col, 'total_votes_agreed'],
+        create_using=nx.Graph()
+    )
+    
+    # Add party information as node attributes
+    node_parties = {}
+    for _, row in result_df.iterrows():
+        node_parties[row[source_col]] = row['source_party']
+        node_parties[row[target_col]] = row['target_party']
+    
+    nx.set_node_attributes(G, node_parties, 'party')
+    
+    # Calculate statistics
+    backbone_edges = len(result_df)
+    backbone_nodes = G.number_of_nodes()
+    
+    stats = {
+        'original_nodes': original_nodes,
+        'original_edges': original_edges,
+        'after_min_votes_filter_nodes': after_filter_nodes,
+        'after_min_votes_filter_edges': after_filter_edges,
+        'backbone_nodes': backbone_nodes,
+        'backbone_edges': backbone_edges,
+        'nodes_retained_pct': 100.0 * backbone_nodes / original_nodes,
+        'edges_retained_pct': 100.0 * backbone_edges / original_edges,
+        'min_votes_threshold': min_votes_threshold,
+        'alpha_threshold': alpha,
+        'avg_weight': result_df[weight_col].mean(),
+        'avg_hss_score': result_df['hss_score'].mean(),
+    }
+    
+    # Print summary
+    print("\n" + "="*80)
+    print("BACKBONING SUMMARY")
+    print("="*80)
+    print(f"\nOriginal network:")
+    print(f"  Nodes: {original_nodes}")
+    print(f"  Edges: {original_edges}")
+    
+    if min_votes_threshold is not None:
+        print(f"\nAfter min_votes_threshold={min_votes_threshold}:")
+        print(f"  Nodes: {after_filter_nodes} ({100.0 * after_filter_nodes / original_nodes:.1f}%)")
+        print(f"  Edges: {after_filter_edges} ({100.0 * after_filter_edges / original_edges:.1f}%)")
+    
+    print(f"\nAfter backbone extraction (alpha={alpha}):")
+    print(f"  Nodes: {backbone_nodes} ({stats['nodes_retained_pct']:.1f}%)")
+    print(f"  Edges: {backbone_edges} ({stats['edges_retained_pct']:.1f}%)")
+    print(f"\nBackbone edge statistics:")
+    print(f"  Average weight (agreement rate): {stats['avg_weight']:.3f}")
+    print(f"  Average HSS score: {stats['avg_hss_score']:.4f}")
+    print(f"  Weight range: [{result_df[weight_col].min():.3f}, {result_df[weight_col].max():.3f}]")
+    print(f"  HSS score range: [{result_df['hss_score'].min():.4f}, {result_df['hss_score'].max():.4f}]")
+    print("="*80 + "\n")
+    
+    return result_df, stats, G
+
+def calculate_modularity(G, communities, verbose=False):
+    L = G.number_of_edges()
+    M = 0
+    
+    for community_label, nodes in communities.items():
+        Lc = 0  # Internal edges in community
+        kc = 0  # Sum of degrees in community     
+        for node1 in nodes:
+            if node1 in G:  # Check if node exists in graph
+                kc += G.degree(node1)
+                for node2 in nodes:
+                    if G.has_edge(node1, node2):
+                        Lc += 0.5  # Count each edge once      
+        left = Lc / L
+        right = (kc / (2 * L)) ** 2
+        Mc = left - right
+        
+        if verbose:
+            print(f"Community '{community_label}':")
+            print(f"  Internal edges (Lc): {Lc}")
+            print(f"  Total degree (kc): {kc}")
+            print(f"  Modularity contribution (Mc): {Mc:.4f}")
+        
+        M += Mc
+    
+    return M
 
 # ============================================================================
 # WRAPPER FUNCTIONS
@@ -80,7 +351,7 @@ def extract_assortativity_stats(G, period_label=""):
     sys.stdout = open(os.devnull, 'w')
     
     try:
-        results = assortativity_analysis.analyze_assortativity(G, period_label)
+        results = analyze_assortativity(G, period_label)
     except Exception as e:
         results = {
             'degree_assortativity': np.nan,
@@ -743,3 +1014,22 @@ def plot_single_row(metrics_df, metrics_list, figsize=(16, 4), show_backbone=Tru
     axes[0].legend(loc='best', fontsize=9)
     plt.tight_layout()
     return fig, axes
+
+    # Configuration
+PERIODS = [66, 67, 68, 69, 70, 71]
+TOPICS = ['general', 'klima_miljo', 'immigration']
+AGREEMENT_THRESHOLD = 0.7
+MIN_VOTES_THRESHOLD = 10
+BACKBONE_ALPHA = 0.1
+
+metrics_df = collect_all_metrics(
+    from_github_func=from_github,
+    apply_backboning_func=apply_backboning,
+    calculate_modularity_func=calculate_modularity,
+    periods=PERIODS,
+    topics=TOPICS,
+    agreement_threshold=AGREEMENT_THRESHOLD,
+    min_votes_threshold=MIN_VOTES_THRESHOLD,
+    backbone_alpha=BACKBONE_ALPHA
+)
+metrics_df.to_csv('metrics_p66-71_general_klima_miljo_immigration.csv', index=False)
