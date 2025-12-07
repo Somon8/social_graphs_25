@@ -64,13 +64,13 @@ periods_data = [
     ("62", "12. december 1990 – 21. september 1994", 179, 1379, "N/A", "1930-11-20T00:00:00"),
     ("63", "21. september 1994 – 11. marts 1998", 179, 1267, "N/A", "1930-11-20T00:00:00"),
     ("64", "11. marts 1998 – 20. november 2001", 179, 1350, "N/A", "1930-11-20T00:00:00"),
-    ("65", "20. november 2001 – 8. februar 2005", 179, 1176, "V, K", "2001-11-20T00:00:00"),
-    ("66", "8. februar 2005 – 13. november 2007", 179, 1008, "V, K", "2005-02-08T00:00:00"),
-    ("67", "13. november 2007 – 15. september 2011", 179, 1402, "V, K", "2007-11-13T00:00:00"),
-    ("68", "15. september 2011 – 18. juni 2015", 179, 1372, "S, RV, SF", "2011-09-15T00:00:00"),
-    ("69", "18. juni 2015 – 5. juni 2019", 179, 1448, "V, LA, K", "2015-06-18T00:00:00"),
-    ("70", "5. juni 2019 – 1. november 2022", 179, 1232, "S", "2019-06-05T00:00:00"),
-    ("71", "1. november 2022 – nu", 179, None, "S, V, M", "2022-11-01T00:00:00")
+    ("65", "20. november 2001 – 8. februar 2005", 179, 1176, ["Venstre", "Det Konservative Folkeparti"], "2001-11-20T00:00:00"),
+    ("66", "8. februar 2005 – 13. november 2007", 179, 1008, ["Venstre", "Det Konservative Folkeparti"], "2005-02-08T00:00:00"),
+    ("67", "13. november 2007 – 15. september 2011", 179, 1402, ["Venstre", "Det Konservative Folkeparti"], "2007-11-13T00:00:00"),
+    ("68", "15. september 2011 – 18. juni 2015", 179, 1372, ["Socialdemokratiet","Radikale Venstre", "Socialistisk Folkeparti"], "2011-09-15T00:00:00"),
+    ("69", "18. juni 2015 – 5. juni 2019", 179, 1448, ["Venstre", "Det Konservative Folkeparti", "Liberal Alliance"], "2015-06-18T00:00:00"),
+    ("70", "5. juni 2019 – 1. november 2022", 179, 1232, ["Socialdemokratiet"], "2019-06-05T00:00:00"),
+    ("71", "1. november 2022 – nu", 179, None, ["Socialdemokratiet", "Ventre", "Moderaterne"], "2022-11-01T00:00:00")
 ]
 
 periods_df = pd.DataFrame(
